@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 13 Aug 2025 07:56:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 08:20:48 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=60d74f0a-7372-11f0-8e43-273d2c3ffdd6%26pt=campaign%26pv=4%26spa=1754560849%26t=1754562305%26s=404bb9916df4e1b4e1d46fb0b62a8a9430a192769199eb3ad06fc383b7b1322a/1/0100019884101e0b-3ca70a27-44a3-45ed-8683-786432de818a-000000/Ty9cf43NcATmff6D1etx5CtsZ2ef2ot6tms5PrqDtAY=417</link>
@@ -1680,6 +1680,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=cf269c64-773b-11f0-93a5-ab203556d23a%26pt=campaign%26pv=4%26spa=1754996452%26t=1754997333%26s=d1f9f3aff10cb33506590312cac1e5ed0da093b83248ce1630d9a6d7c8357d72/1/010001989dfe1dce-7ee8cd2e-2c32-4862-b3cd-44cfba3e6049-000000/AtgJoh-SZt4fJ3W9cW3r3pvKNEZr__9AkTqAm2m8yhY=417</link>
       <description>Link found in newsletter: 'GitHub CEO resigns ❎, Claude is a drug 😮‍💨, AI at $100k/year per dev 💵'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=cf269c64-773b-11f0-93a5-ab203556d23a%26pt=campaign%26pv=4%26spa=1754996452%26t=1754997333%26s=d1f9f3aff10cb33506590312cac1e5ed0da093b83248ce1630d9a6d7c8357d72/1/010001989dfe1dce-7ee8cd2e-2c32-4862-b3cd-44cfba3e6049-000000/AtgJoh-SZt4fJ3W9cW3r3pvKNEZr__9AkTqAm2m8yhY=417</guid>
+    </item>
+    <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001989dfe1dce-7ee8cd2e-2c32-4862-b3cd-44cfba3e6049-000000/8D3tpBt5EAZM19tjhJ3PaMOSVbb4iJo-BXKQC5Rb-bA=417</link>
+      <description>Link found in newsletter: 'GitHub CEO resigns ❎, Claude is a drug 😮‍💨, AI at $100k/year per dev 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001989dfe1dce-7ee8cd2e-2c32-4862-b3cd-44cfba3e6049-000000/8D3tpBt5EAZM19tjhJ3PaMOSVbb4iJo-BXKQC5Rb-bA=417</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
