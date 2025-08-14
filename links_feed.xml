@@ -6,289 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 14 Aug 2025 12:28:56 +0000</lastBuildDate>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=2e7995f0-741b-11f0-8ff6-a7bab3347603%26pt=campaign%26pv=4%26spa=1754650846%26t=1754652185%26s=f5ed5323be621f11a3f35802794111ea064e52ac98a49f86b48ee5e05193332a/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/abw3AJtpk-ACSAfIThXbR_GOybLo9jptJHjKuNWRD84=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=2e7995f0-741b-11f0-8ff6-a7bab3347603%26pt=campaign%26pv=4%26spa=1754650846%26t=1754652185%26s=f5ed5323be621f11a3f35802794111ea064e52ac98a49f86b48ee5e05193332a/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/abw3AJtpk-ACSAfIThXbR_GOybLo9jptJHjKuNWRD84=417</guid>
-    </item>
-    <item>
-      <title>Jenny X. - Meta | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/jR7hyJVsxtZMO8B6ZRVyJrIAMwhyYXW46zmniRSjjBw=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/jR7hyJVsxtZMO8B6ZRVyJrIAMwhyYXW46zmniRSjjBw=417</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/yMm5ZBU_1bPyNJ4kJJ076YLnUyBULjpNhDClp-qnhmg=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/yMm5ZBU_1bPyNJ4kJJ076YLnUyBULjpNhDClp-qnhmg=417</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/d8YZGhDW1-UAJ9_mPnY6vArnbRSKohj0crbFB0Ao2y0=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/d8YZGhDW1-UAJ9_mPnY6vArnbRSKohj0crbFB0Ao2y0=417</guid>
-    </item>
-    <item>
-      <title>TLDR Web Dev | Referral Hub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/JiFKbMt8MZLgsR2LR_z9oGU0Op3eb9OQ-hzilqd1Eqs=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/JiFKbMt8MZLgsR2LR_z9oGU0Op3eb9OQ-hzilqd1Eqs=417</guid>
-    </item>
-    <item>
-      <title>GitHub - nottelabs/notte: 🔥 Reliable Browser AI agents (YC S25)</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fnottelabs%2Fnotte%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/YOGXFjl-XowUCfTFlSLWTt_NSS1SE_q3eYFYy5Tggfc=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fnottelabs%2Fnotte%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/YOGXFjl-XowUCfTFlSLWTt_NSS1SE_q3eYFYy5Tggfc=417</guid>
-    </item>
-    <item>
-      <title>GitHub - hmpl-language/hmpl: 🐜 Server-oriented customizable templating for JavaScript. Alternative to HTMX and Alpine.js.</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fhmpl-language%2Fhmpl%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/M5kDPTwtk6BXys3F8X8NSNGoPYb9SJV9mcDdkHCtHME=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fhmpl-language%2Fhmpl%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/M5kDPTwtk6BXys3F8X8NSNGoPYb9SJV9mcDdkHCtHME=417</guid>
-    </item>
-    <item>
-      <title>Github Profile Header Generator</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fleviarista.github.io%2Fgithub-profile-header-generator%2F%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/Y6QWgCn8o3a59j2s91KZlD1wNeFqNDs_osACdFXfS34=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fleviarista.github.io%2Fgithub-profile-header-generator%2F%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/Y6QWgCn8o3a59j2s91KZlD1wNeFqNDs_osACdFXfS34=417</guid>
-    </item>
-    <item>
-      <title>Foundations: Overview</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fai-sdk.dev%2Felements%2Foverview%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/WAn-j24aTauHbUayne7p5h9ZHEWIFt6tF3eSz9ru64Q=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fai-sdk.dev%2Felements%2Foverview%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/WAn-j24aTauHbUayne7p5h9ZHEWIFt6tF3eSz9ru64Q=417</guid>
-    </item>
-    <item>
-      <title>Publishers oppose W3C plan to kill third-party cookies • The Register</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2025%2F07%2F29%2Fmow_w3c_cookie_complaint%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/mFGzvKhZl0fUcSJJ2Suyq7vfEiIIqIUNgJzK5F0KNTU=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2025%2F07%2F29%2Fmow_w3c_cookie_complaint%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/mFGzvKhZl0fUcSJJ2Suyq7vfEiIIqIUNgJzK5F0KNTU=417</guid>
-    </item>
-    <item>
-      <title>Address formats around the world</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fw3c.github.io%2Fi18n-drafts%2Fquestions%2Fqa-address-formats.en.html%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/poIjghol0EohztPcy0XVP2RzVrYIjcYlhy4FIIOLKGU=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fw3c.github.io%2Fi18n-drafts%2Fquestions%2Fqa-address-formats.en.html%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/poIjghol0EohztPcy0XVP2RzVrYIjcYlhy4FIIOLKGU=417</guid>
-    </item>
-    <item>
-      <title>Building Bluesky Comments for My Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnatalie.sh%2Fposts%2Fbluesky-comments%2F%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/DrVyZr4nUdmWM9RY_DLTpkNd3JWhMDW36z8SR3ahI2Y=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnatalie.sh%2Fposts%2Fbluesky-comments%2F%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/DrVyZr4nUdmWM9RY_DLTpkNd3JWhMDW36z8SR3ahI2Y=417</guid>
-    </item>
-    <item>
-      <title>Gemini CLI GitHub Actions: AI coding made for collaboration</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.google%2Ftechnology%2Fdevelopers%2Fintroducing-gemini-cli-github-actions%2F%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/nnLX442r49hVmM5bX2MOm7NNEATpsFww2yiaSx28ZZo=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.google%2Ftechnology%2Fdevelopers%2Fintroducing-gemini-cli-github-actions%2F%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/nnLX442r49hVmM5bX2MOm7NNEATpsFww2yiaSx28ZZo=417</guid>
-    </item>
-    <item>
-      <title>Cursor CLI | Cursor - The AI Code Editor</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcursor.com%2Fen%2Fcli%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/2ttJlzkJQI2uRsqTU7gD-h7DGVbBnhsbe8DSArPNQcA=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcursor.com%2Fen%2Fcli%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/2ttJlzkJQI2uRsqTU7gD-h7DGVbBnhsbe8DSArPNQcA=417</guid>
-    </item>
-    <item>
-      <title>A new worst coder has entered the chat: vibe coding without code knowledge - Stack Overflow</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstackoverflow.blog%2F2025%2F08%2F07%2Fa-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge%2F%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/wnOCaLXwOWaoCv47jqqdvQcLipHbbITNdhfMVNgHbUQ=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstackoverflow.blog%2F2025%2F08%2F07%2Fa-new-worst-coder-has-entered-the-chat-vibe-coding-without-code-knowledge%2F%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/wnOCaLXwOWaoCv47jqqdvQcLipHbbITNdhfMVNgHbUQ=417</guid>
-    </item>
-    <item>
-      <title>We replaced passwords with something worse | Blog - Daniel Huang</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.danielh.cc%2Fblog%2Fpasswords%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/O9XnOOGaayH2tgzmC5mPUsqVtwnn_fA6u1MkYRSum-s=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.danielh.cc%2Fblog%2Fpasswords%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/O9XnOOGaayH2tgzmC5mPUsqVtwnn_fA6u1MkYRSum-s=417</guid>
-    </item>
-    <item>
-      <title>Go's race detector has a mutex blind spot | Double Free Dev</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdoublefree.dev%2Fgo-race-mutex-blindspot%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/R10zQ0TJItyIrHSeUHeAmq1kkRIi0gR5IuCOk3on6x8=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdoublefree.dev%2Fgo-race-mutex-blindspot%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/R10zQ0TJItyIrHSeUHeAmq1kkRIi0gR5IuCOk3on6x8=417</guid>
-    </item>
-    <item>
-      <title>Unlocking Web Workers with React: A Step-by-Step Guide | Rahul's Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.rahuljuliato.com%2Fposts%2Freact-workers%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/_wg48IbgD62xIKr4HzxgH1nAAlfmdyVsTd3ha-XIYp0=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.rahuljuliato.com%2Fposts%2Freact-workers%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/_wg48IbgD62xIKr4HzxgH1nAAlfmdyVsTd3ha-XIYp0=417</guid>
-    </item>
-    <item>
-      <title>FlashList v2: A Ground-Up Rewrite for React Native's New Architecture (2025) - Shopify</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshopify.engineering%2Fflashlist-v2%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/aRl2Dhhq3rzTHEnxaZSwxTnJJIsF78awap5XqeCfMrc=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshopify.engineering%2Fflashlist-v2%3Futm_source=tldrwebdev/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/aRl2Dhhq3rzTHEnxaZSwxTnJJIsF78awap5XqeCfMrc=417</guid>
-    </item>
-    <item>
-      <title>TLDR WebDev</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=2e7995f0-741b-11f0-8ff6-a7bab3347603%26pt=campaign%26t=1754652185%26s=6ca0259f3b23bbfbd42a7ab8a23b18698d7e6b40b53a681f2b21875cae223a53/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/DKi0mcecoCYoqB68851WOOzXEPwRhlJcK4vZTBDXR14=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=2e7995f0-741b-11f0-8ff6-a7bab3347603%26pt=campaign%26t=1754652185%26s=6ca0259f3b23bbfbd42a7ab8a23b18698d7e6b40b53a681f2b21875cae223a53/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/DKi0mcecoCYoqB68851WOOzXEPwRhlJcK4vZTBDXR14=417</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/refmnsSFqgGeKEY_yg23s-KO1T0byY58Tz--vvLpe8s=417</link>
-      <description>Link found in newsletter: 'GPT-5 released 🚀, Cursor CLI ⚡️, Gemini CLI GitHub Actions 🔧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/01000198896b932f-6b8f2a07-d975-45cc-aba4-6e211698a916-000000/refmnsSFqgGeKEY_yg23s-KO1T0byY58Tz--vvLpe8s=417</guid>
-    </item>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=b9a568be-7445-11f0-8122-b3108b1fa5dd%26pt=campaign%26pv=4%26spa=1754658085%26t=1754660458%26s=33b0d2348ea9be94723275ec1e3bd7c2dd700a9b54faed873f1ba5f17fe2c8fe/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/PkfoRt2DyrK0s6cS_ImN1iA0sVo5p1IZEzPVYr-zIcc=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=b9a568be-7445-11f0-8122-b3108b1fa5dd%26pt=campaign%26pv=4%26spa=1754658085%26t=1754660458%26s=33b0d2348ea9be94723275ec1e3bd7c2dd700a9b54faed873f1ba5f17fe2c8fe/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/PkfoRt2DyrK0s6cS_ImN1iA0sVo5p1IZEzPVYr-zIcc=417</guid>
-    </item>
-    <item>
-      <title>sahil khoja - Google | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsahilkhoja%2F/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/YKKZBQRQFGhllMxV86IxC7qs5tvVe8TRJ--FJFtCGRo=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsahilkhoja%2F/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/YKKZBQRQFGhllMxV86IxC7qs5tvVe8TRJ--FJFtCGRo=417</guid>
-    </item>
-    <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/nIb_cwHNwCwrYelYREMIZA0zir2wHXkCZCM1GBuCsfQ=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/nIb_cwHNwCwrYelYREMIZA0zir2wHXkCZCM1GBuCsfQ=417</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/OwOjBgMG8D6r7cJ_rWy8rFXeSsUyanaSykVjVpg-ALI=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/OwOjBgMG8D6r7cJ_rWy8rFXeSsUyanaSykVjVpg-ALI=417</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/DAJcCFO_ewTWKWgfzDlEgqn8SAEdAryVx_hqm6gCqUU=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/DAJcCFO_ewTWKWgfzDlEgqn8SAEdAryVx_hqm6gCqUU=417</guid>
-    </item>
-    <item>
-      <title>TLDR AI | Referral Hub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/qavZYZqAD2p08biHeCZg6ZUISa6sSrD0KOszBLM1lIc=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/qavZYZqAD2p08biHeCZg6ZUISa6sSrD0KOszBLM1lIc=417</guid>
-    </item>
-    <item>
-      <title>Anthropic appoints Hidetoshi Tojo as Head of Japan and announces hiring plans  \ Anthropic</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fhead-of-japan-hiring-plans%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/2lg68e8wtAaRJxyiCPLW1ci_A2E9SsaTbbhYPguUBW8=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fhead-of-japan-hiring-plans%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/2lg68e8wtAaRJxyiCPLW1ci_A2E9SsaTbbhYPguUBW8=417</guid>
-    </item>
-    <item>
-      <title>Why Your AI Never Works on the First Try</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffluxus.io%2Farticle%2Fwhy-your-ai-never-works-on-the-first-try%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/grrJ08DHh5bJ-wAqPMQINeeJ19CvjM_aQ24n7I23uq0=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffluxus.io%2Farticle%2Fwhy-your-ai-never-works-on-the-first-try%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/grrJ08DHh5bJ-wAqPMQINeeJ19CvjM_aQ24n7I23uq0=417</guid>
-    </item>
-    <item>
-      <title>Introducing Stability AI Solutions: Generative AI Solutions to Accelerate Enterprise Creative Production — Stability AI</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstability.ai%2Fnews%2Fintroducing-stability-ai-solutions%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/haZfysboRef-fTOV3f2j8tVZN5OCaPZJ9NHhIdjCSuY=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstability.ai%2Fnews%2Fintroducing-stability-ai-solutions%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/haZfysboRef-fTOV3f2j8tVZN5OCaPZJ9NHhIdjCSuY=417</guid>
-    </item>
-    <item>
-      <title>OpenAI's o3 Crushes Grok 4 In Final, Wins Kaggle's AI Chess Exhibition Tournament - Chess.com</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.chess.com%2Fnews%2Fview%2Fkaggle-game-arena-chess-2025-day-3%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/cfSaUl_WcICbSvQb9m2QAsENStGnKSZ58I0SV4COgO0=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.chess.com%2Fnews%2Fview%2Fkaggle-game-arena-chess-2025-day-3%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/cfSaUl_WcICbSvQb9m2QAsENStGnKSZ58I0SV4COgO0=417</guid>
-    </item>
-    <item>
-      <title>Achieving 10,000x training data reduction with high-fidelity labels</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fresearch.google%2Fblog%2Fachieving-10000x-training-data-reduction-with-high-fidelity-labels%2F%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/iJHNQmF2qq0l5P8fGOlnrlij5OTTCs4xKDFIDptAV8A=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fresearch.google%2Fblog%2Fachieving-10000x-training-data-reduction-with-high-fidelity-labels%2F%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/iJHNQmF2qq0l5P8fGOlnrlij5OTTCs4xKDFIDptAV8A=417</guid>
-    </item>
-    <item>
-      <title>GitHub - synthetic-lab/octofriend: An open-source coding helper. Very friendly!</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fsynthetic-lab%2Foctofriend%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/MQ4wvJNinuZHNhf8ZX5LdO5K3tLGYi-mYD5QkK_2gmo=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fsynthetic-lab%2Foctofriend%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/MQ4wvJNinuZHNhf8ZX5LdO5K3tLGYi-mYD5QkK_2gmo=417</guid>
-    </item>
-    <item>
-      <title>GitHub - nottelabs/notte: 🔥 Reliable Browser AI agents (YC S25)</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fnottelabs%2Fnotte%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/MbiNf1nJlkYfz9hk47Wt9OvEW55R9aN-oYfwNkZ6l_Q=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fnottelabs%2Fnotte%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/MbiNf1nJlkYfz9hk47Wt9OvEW55R9aN-oYfwNkZ6l_Q=417</guid>
-    </item>
-    <item>
-      <title>AI Testing Tool | Automated AI Testing - Momentic</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.momentic.ai%2Ftldr/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/7o_hYeHaaT2WqH_4YKTX1QLNzKtQlVKVuGhgf5HQ2zk=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.momentic.ai%2Ftldr/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/7o_hYeHaaT2WqH_4YKTX1QLNzKtQlVKVuGhgf5HQ2zk=417</guid>
-    </item>
-    <item>
-      <title>AI Testing Tool | Automated AI Testing - Momentic</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.momentic.ai%2Ftldr%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/ojfO5UKIDT8jHkaRzDp3sUw6D17oJbnqY1DYrjvXHR0=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.momentic.ai%2Ftldr%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/ojfO5UKIDT8jHkaRzDp3sUw6D17oJbnqY1DYrjvXHR0=417</guid>
-    </item>
-    <item>
-      <title>METR's Evaluation of GPT-5 — LessWrong</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.lesswrong.com%2Fposts%2FSuvWoLaGiNjPDcA7d%2Fmetr-s-evaluation-of-gpt-5%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/fIKN2qZV9J64Q-qeikTVwJB11txXApG2pZg8vfYZxqI=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.lesswrong.com%2Fposts%2FSuvWoLaGiNjPDcA7d%2Fmetr-s-evaluation-of-gpt-5%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/fIKN2qZV9J64Q-qeikTVwJB11txXApG2pZg8vfYZxqI=417</guid>
-    </item>
-    <item>
-      <title>GPT-5 Hands-On: Welcome to the Stone Age</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.latent.space%2Fp%2Fgpt-5-review%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/5X7XBNUNyxJXyaeMUinQSH-GoWjQ0uskJcMK9Hyuj5c=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.latent.space%2Fp%2Fgpt-5-review%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/5X7XBNUNyxJXyaeMUinQSH-GoWjQ0uskJcMK9Hyuj5c=417</guid>
-    </item>
-    <item>
-      <title>GPT-5</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fevery.to%2Fvibe-check%2Fgpt-5%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/sOnx-zSjizMisD_4kpqyZGQQFEnHgPx7DBYe_dL8fWg=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fevery.to%2Fvibe-check%2Fgpt-5%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/sOnx-zSjizMisD_4kpqyZGQQFEnHgPx7DBYe_dL8fWg=417</guid>
-    </item>
-    <item>
-      <title>Elon Musk says X plans to introduce ads in Grok's responses | TechCrunch</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F08%2F07%2Felon-musk-says-x-plans-to-introduce-ads-in-groks-responses%2F%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/RGx3ZDy6tisaDskZXPdkwWPAUpGuKEi-LIDsR0KBHVM=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F08%2F07%2Felon-musk-says-x-plans-to-introduce-ads-in-groks-responses%2F%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/RGx3ZDy6tisaDskZXPdkwWPAUpGuKEi-LIDsR0KBHVM=417</guid>
-    </item>
-    <item>
-      <title>Thread by @cursor_ai on Thread Reader App – Thread Reader App</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F1953559384531050724.html%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/jBtWuHRqjHHvrsCK2qeZ84oeSnXsRW8IgNyKftO4cmw=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F1953559384531050724.html%3Futm_source=tldrai/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/jBtWuHRqjHHvrsCK2qeZ84oeSnXsRW8IgNyKftO4cmw=417</guid>
-    </item>
-    <item>
-      <title>Product Demo: Automating Compliance for SOC 2, ISO 27001, HIPAA, and More</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.vanta.com%2Fwebinars%2Fproduct-demo-automating-compliance-for-soc-2-iso-27001-hipaa-and-more-aug-20%3Futm_campaign=live-demo%26utm_source=tldr%26utm_medium=newsletter/4/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/ZeTu3IWQObvPHAr3N2ns_Fs46VJeCv5UmCAK97yxajI=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.vanta.com%2Fwebinars%2Fproduct-demo-automating-compliance-for-soc-2-iso-27001-hipaa-and-more-aug-20%3Futm_campaign=live-demo%26utm_source=tldr%26utm_medium=newsletter/4/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/ZeTu3IWQObvPHAr3N2ns_Fs46VJeCv5UmCAK97yxajI=417</guid>
-    </item>
-    <item>
-      <title>Product Demo: Automating Compliance for SOC 2, ISO 27001, HIPAA, and More</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.vanta.com%2Fwebinars%2Fproduct-demo-automating-compliance-for-soc-2-iso-27001-hipaa-and-more-aug-20%3Futm_campaign=live-demo%26utm_source=tldr%26utm_medium=newsletter/3/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/7HworPb3TALUj89VvBnxzKr63OcKzfylmtIDa5aT_uM=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.vanta.com%2Fwebinars%2Fproduct-demo-automating-compliance-for-soc-2-iso-27001-hipaa-and-more-aug-20%3Futm_campaign=live-demo%26utm_source=tldr%26utm_medium=newsletter/3/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/7HworPb3TALUj89VvBnxzKr63OcKzfylmtIDa5aT_uM=417</guid>
-    </item>
-    <item>
-      <title>Product Demo: Automating Compliance for SOC 2, ISO 27001, HIPAA, and More</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.vanta.com%2Fwebinars%2Fproduct-demo-automating-compliance-for-soc-2-iso-27001-hipaa-and-more-aug-20%3Futm_campaign=live-demo%26utm_source=tldr%26utm_medium=newsletter/2/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/40rzjesrScU_zHYRFJG1S_sZYjzyL7uQPKUF0k8uviI=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.vanta.com%2Fwebinars%2Fproduct-demo-automating-compliance-for-soc-2-iso-27001-hipaa-and-more-aug-20%3Futm_campaign=live-demo%26utm_source=tldr%26utm_medium=newsletter/2/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/40rzjesrScU_zHYRFJG1S_sZYjzyL7uQPKUF0k8uviI=417</guid>
-    </item>
-    <item>
-      <title>Product Demo: Automating Compliance for SOC 2, ISO 27001, HIPAA, and More</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.vanta.com%2Fwebinars%2Fproduct-demo-automating-compliance-for-soc-2-iso-27001-hipaa-and-more-aug-20%3Futm_campaign=live-demo%26utm_source=tldr%26utm_medium=newsletter/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/PxmvzIbE4og23-vjKoTSzHeGtXf_PU022rr3CF0BC20=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.vanta.com%2Fwebinars%2Fproduct-demo-automating-compliance-for-soc-2-iso-27001-hipaa-and-more-aug-20%3Futm_campaign=live-demo%26utm_source=tldr%26utm_medium=newsletter/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/PxmvzIbE4og23-vjKoTSzHeGtXf_PU022rr3CF0BC20=417</guid>
-    </item>
-    <item>
-      <title>TLDR AI</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=b9a568be-7445-11f0-8122-b3108b1fa5dd%26pt=campaign%26t=1754660458%26s=4c50f5e0dca19eb650090fdd4fc0d43884fc2dc622de5340ae22003155a35447/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/f6Ofd4-DT7zG6sQrCqVEtPBQX1dX8HtQOTBpWpeyQ4k=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=b9a568be-7445-11f0-8122-b3108b1fa5dd%26pt=campaign%26t=1754660458%26s=4c50f5e0dca19eb650090fdd4fc0d43884fc2dc622de5340ae22003155a35447/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/f6Ofd4-DT7zG6sQrCqVEtPBQX1dX8HtQOTBpWpeyQ4k=417</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/vqOx2sgbP6XsKR5bbAgiz8SRSdMMGdmxFn0OiXPNJRg=417</link>
-      <description>Link found in newsletter: 'OpenAI GPT-5 5️⃣, Cursor CLI 💻, Grok ads 📰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019889e9d105-7a3a3adf-73d8-4de3-9204-2314532ad8d1-000000/vqOx2sgbP6XsKR5bbAgiz8SRSdMMGdmxFn0OiXPNJRg=417</guid>
-    </item>
+    <lastBuildDate>Thu, 14 Aug 2025 18:20:23 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=49d172fc-7685-11f0-9288-afd07c8a0780%26pt=campaign%26pv=4%26spa=1754906451%26t=1754907752%26s=d52f22982adc6089498dbb80f529a8c4b5925da01e538222a11761d57ef051bf/1/0100019898a739c4-64c94099-0aac-4dfe-b197-7822e32a0d0c-000000/hiESlLpy0xcKKRS_3kBxFBJQGs9WDMp5pFfo-Ac5WJs=417</link>
@@ -1785,7 +1503,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F1955741698690322585.html%3Futm_source=tldrnewsletter/1/01000198a81ccccf-57bfe09e-0671-44c7-a02e-f938375714c0-000000/6cUlVhBNtoMJAcq-BhUT2yL6BzN93uGeWspLobc5lSo=418</guid>
     </item>
     <item>
-      <title>Snooping On Slow Builds (Using Syscalls) ・ Daniel Hooper</title>
+      <title>I Made A Realtime C/C++ Build Visualizer ・ Daniel Hooper</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanielchasehooper.com%2Fposts%2Fsyscall-build-snooping%2F%3Futm_source=tldrnewsletter/1/01000198a81ccccf-57bfe09e-0671-44c7-a02e-f938375714c0-000000/P0Mq4W7_o_RA0hP1h-gNtezcIUQg1Kv2Q8xOxakm48E=418</link>
       <description>Link found in newsletter: 'Apple robots 🤖, DeepSeek R2 🧠, uv's package registry 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanielchasehooper.com%2Fposts%2Fsyscall-build-snooping%2F%3Futm_source=tldrnewsletter/1/01000198a81ccccf-57bfe09e-0671-44c7-a02e-f938375714c0-000000/P0Mq4W7_o_RA0hP1h-gNtezcIUQg1Kv2Q8xOxakm48E=418</guid>
@@ -1897,12 +1615,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/01000198a81ccccf-57bfe09e-0671-44c7-a02e-f938375714c0-000000/20fU-kYc2xCBDEODCLtBqasDUPPmmBg5v_ykETBAIZE=418</link>
       <description>Link found in newsletter: 'Apple robots 🤖, DeepSeek R2 🧠, uv's package registry 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/01000198a81ccccf-57bfe09e-0671-44c7-a02e-f938375714c0-000000/20fU-kYc2xCBDEODCLtBqasDUPPmmBg5v_ykETBAIZE=418</guid>
-    </item>
-    <item>
-      <title>borgrodrick · Kill the Newsletter!</title>
-      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
-      <description>Link found in newsletter: 'Smart YouTube previews 🎥, types of AI bot traffic 🤖, Claude Code anywhere 🌐'</description>
-      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
     </item>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
@@ -2047,6 +1759,306 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/01000198a84b8594-3a2b882d-7e14-4e2b-868c-64dfacf6304f-000000/NREo8itFI2bH2QXdXkvqOxGscH10jka--gzcfgDJ73E=418</link>
       <description>Link found in newsletter: 'Smart YouTube previews 🎥, types of AI bot traffic 🤖, Claude Code anywhere 🌐'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/01000198a84b8594-3a2b882d-7e14-4e2b-868c-64dfacf6304f-000000/NREo8itFI2bH2QXdXkvqOxGscH10jka--gzcfgDJ73E=418</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=c7199028-78f1-11f0-806c-ad438213e8f1%26pt=campaign%26pv=4%26spa=1755176496%26t=1755176876%26s=1d68bd1df261e5c5aa807ce2166c3923cea5315a112bfbd2d414c45640421ef5/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/ES0bBP8-3kP4a3ofc8H47CyqN2Y7qg5-7w4An43C7lo=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=c7199028-78f1-11f0-806c-ad438213e8f1%26pt=campaign%26pv=4%26spa=1755176496%26t=1755176876%26s=1d68bd1df261e5c5aa807ce2166c3923cea5315a112bfbd2d414c45640421ef5/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/ES0bBP8-3kP4a3ofc8H47CyqN2Y7qg5-7w4An43C7lo=418</guid>
+    </item>
+    <item>
+      <title>Gabriel Sundaram - attain | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/JjZSEdt_KG9JuJAa1R4qZFukXrsoUb32Q2zGNbwNQTg=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/JjZSEdt_KG9JuJAa1R4qZFukXrsoUb32Q2zGNbwNQTg=418</guid>
+    </item>
+    <item>
+      <title>Matt Cheung - Ceviche AI | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/Dj2glVgmJ5lsQIYyUUwWpiyL8JrLq5mY7_MddIkNSJI=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/Dj2glVgmJ5lsQIYyUUwWpiyL8JrLq5mY7_MddIkNSJI=418</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/y7gNp4aNPMTUMgTN73a25JoDVbwdVr2dk33BGHNgpak=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/y7gNp4aNPMTUMgTN73a25JoDVbwdVr2dk33BGHNgpak=418</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/YHT0zvdhMoX-sQBCMCzrTZPjC7pYgLlOZmw5u0pG09w=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/YHT0zvdhMoX-sQBCMCzrTZPjC7pYgLlOZmw5u0pG09w=418</guid>
+    </item>
+    <item>
+      <title>Stripe businesses can now accept Pix in Brazil</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46431%2Fstripe-businesses-can-now-accept-pix-in-brazil%3Futm_source=tldrfintech/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/t6J-t0VbhCE8Z-k9Jq0lwQZWYHM5xW3Jtis2WPuj4IU=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46431%2Fstripe-businesses-can-now-accept-pix-in-brazil%3Futm_source=tldrfintech/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/t6J-t0VbhCE8Z-k9Jq0lwQZWYHM5xW3Jtis2WPuj4IU=418</guid>
+    </item>
+    <item>
+      <title>Visa joins $4.9 million round in stablecoin-compliant payment platform HoneyCoin</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46436%2Fvisa-joins-49-million-round-in-stablecoin-compliant-payment-platform-honeycoin%3Futm_source=tldrfintech/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/cB1wpCIE6NSZ4rqcyncV3TT6BkFMNtOkaiLstOhW05g=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46436%2Fvisa-joins-49-million-round-in-stablecoin-compliant-payment-platform-honeycoin%3Futm_source=tldrfintech/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/cB1wpCIE6NSZ4rqcyncV3TT6BkFMNtOkaiLstOhW05g=418</guid>
+    </item>
+    <item>
+      <title>Deep Dive: What Shopify’s AI Storefront Updates Mean for Commerce and Payments: By Sam Boboev</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fblogposting%2F29083%2Fdeep-dive-what-shopifys-ai-storefront-updates-mean-for-commerce-and-payments%3Futm_source=tldrfintech/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/BFARYmFtX3DYls8zOeJAwF3m8EKXeiXoT5sP4J5Fbno=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fblogposting%2F29083%2Fdeep-dive-what-shopifys-ai-storefront-updates-mean-for-commerce-and-payments%3Futm_source=tldrfintech/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/BFARYmFtX3DYls8zOeJAwF3m8EKXeiXoT5sP4J5Fbno=418</guid>
+    </item>
+    <item>
+      <title>Shift4 helps crypto fans blast off | Payments Dive</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Fshift4-cryptocurrency-stablecoins-space-travel-blue-origin%2F757374%2F%3Futm_source=tldrfintech/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/Qe37vtHsqB68yfVX_2duoYNuZm2ULfPLGQUP2b4HYXA=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Fshift4-cryptocurrency-stablecoins-space-travel-blue-origin%2F757374%2F%3Futm_source=tldrfintech/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/Qe37vtHsqB68yfVX_2duoYNuZm2ULfPLGQUP2b4HYXA=418</guid>
+    </item>
+    <item>
+      <title>AI takes on bill payments | Payments Dive</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Fpaymentus-earnings-ai-bill-payments%2F757299%2F%3Futm_source=tldrfintech/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/D1mjpxbb4b1YrHbDx-Z2z4koOpqf2VItc_VygGimgaA=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Fpaymentus-earnings-ai-bill-payments%2F757299%2F%3Futm_source=tldrfintech/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/D1mjpxbb4b1YrHbDx-Z2z4koOpqf2VItc_VygGimgaA=418</guid>
+    </item>
+    <item>
+      <title>Transforming workforce management with AI | TeamOhana blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.teamohana.com%2Fblog%2Fai-workforce-management%3Futm_source=tldr%26utm_medium=ad%26utm_campaign=august%2B2025%2Btldr%2Bfintech%2Bplacement%2Bone%26utm_id=tldr%2Bfintech%2Bplacement%26utm_term=ai%2Bworkforce%2Bmanagement%26utm_content=blog/2/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/pCJbY11qbOEJz6OF6Rs3YOnu3fhgO8Xp4BPp-VOs-H8=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.teamohana.com%2Fblog%2Fai-workforce-management%3Futm_source=tldr%26utm_medium=ad%26utm_campaign=august%2B2025%2Btldr%2Bfintech%2Bplacement%2Bone%26utm_id=tldr%2Bfintech%2Bplacement%26utm_term=ai%2Bworkforce%2Bmanagement%26utm_content=blog/2/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/pCJbY11qbOEJz6OF6Rs3YOnu3fhgO8Xp4BPp-VOs-H8=418</guid>
+    </item>
+    <item>
+      <title>Workforce Planning Software | TeamOhana</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.teamohana.com%2Fworkforce-planning-platform%3Futm_source=tldr%26utm_medium=ad%26utm_campaign=august%2B2025%2Btldr%2Bfintech%2Bplacement%2Bone%26utm_id=tldr%2Bfintech%2Bplacement%26utm_term=workforce%2Bplanning%2Bplatform%26utm_content=demo%2Brequest/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/TTs7-HRO_iI2dbvrsfT41aOYkktBGzQ2AI-2cnOMlJc=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.teamohana.com%2Fworkforce-planning-platform%3Futm_source=tldr%26utm_medium=ad%26utm_campaign=august%2B2025%2Btldr%2Bfintech%2Bplacement%2Bone%26utm_id=tldr%2Bfintech%2Bplacement%26utm_term=workforce%2Bplanning%2Bplatform%26utm_content=demo%2Brequest/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/TTs7-HRO_iI2dbvrsfT41aOYkktBGzQ2AI-2cnOMlJc=418</guid>
+    </item>
+    <item>
+      <title>Transforming workforce management with AI | TeamOhana blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.teamohana.com%2Fblog%2Fai-workforce-management%3Futm_source=tldr%26utm_medium=ad%26utm_campaign=august%2B2025%2Btldr%2Bfintech%2Bplacement%2Bone%26utm_id=tldr%2Bfintech%2Bplacement%26utm_term=ai%2Bworkforce%2Bmanagement%26utm_content=blog/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/0VTzkSDK8VlDz5838BwZ-T6YmA-YQkXGjIeeR5Clrl8=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.teamohana.com%2Fblog%2Fai-workforce-management%3Futm_source=tldr%26utm_medium=ad%26utm_campaign=august%2B2025%2Btldr%2Bfintech%2Bplacement%2Bone%26utm_id=tldr%2Bfintech%2Bplacement%26utm_term=ai%2Bworkforce%2Bmanagement%26utm_content=blog/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/0VTzkSDK8VlDz5838BwZ-T6YmA-YQkXGjIeeR5Clrl8=418</guid>
+    </item>
+    <item>
+      <title>Pay by Bank Double Whammy | Noyes Payments Blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.starpointllp.com%2F%3Fp=7157%26utm_source=tldrfintech/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/4ooDzQiKA0MyekYr4ama365UBbSDN3pQEcjbSqxHtnw=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.starpointllp.com%2F%3Fp=7157%26utm_source=tldrfintech/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/4ooDzQiKA0MyekYr4ama365UBbSDN3pQEcjbSqxHtnw=418</guid>
+    </item>
+    <item>
+      <title>Stripe Appoints Matt Huang as CEO of Blockchain Project Tempo to Drive Crypto Infrastructure</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ainvest.com%2Fnews%2Fstripe-appoints-matt-huang-ceo-blockchain-project-tempo-drive-crypto-infrastructure-2508%2F%3Futm_source=tldrfintech/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/SNHze4SfTId07WHV9VE5NljcTn7N_9uXOi92rxLlmYI=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ainvest.com%2Fnews%2Fstripe-appoints-matt-huang-ceo-blockchain-project-tempo-drive-crypto-infrastructure-2508%2F%3Futm_source=tldrfintech/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/SNHze4SfTId07WHV9VE5NljcTn7N_9uXOi92rxLlmYI=418</guid>
+    </item>
+    <item>
+      <title>State of Financial Automation Report</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bill.com%2Flp%2Fstate-of-financial-automation-report%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ongo2024-co-dc-up-5225-report-state-of-financial-automation/3/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/_MRLGSNvL8Sy9uaBkXjqQ0Dph4j7a9WjsO3uxdgc92Q=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bill.com%2Flp%2Fstate-of-financial-automation-report%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ongo2024-co-dc-up-5225-report-state-of-financial-automation/3/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/_MRLGSNvL8Sy9uaBkXjqQ0Dph4j7a9WjsO3uxdgc92Q=418</guid>
+    </item>
+    <item>
+      <title>State of Financial Automation Report</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bill.com%2Flp%2Fstate-of-financial-automation-report%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ongo2024-co-dc-up-5225-report-state-of-financial-automation/2/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/k_scwhx9lEMTrkuMMPHlUxOMeofQL7cb_rmR15s5-AA=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bill.com%2Flp%2Fstate-of-financial-automation-report%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ongo2024-co-dc-up-5225-report-state-of-financial-automation/2/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/k_scwhx9lEMTrkuMMPHlUxOMeofQL7cb_rmR15s5-AA=418</guid>
+    </item>
+    <item>
+      <title>State of Financial Automation Report</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bill.com%2Flp%2Fstate-of-financial-automation-report%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ongo2024-co-dc-up-5225-report-state-of-financial-automation/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/u3Ysd23Vine6rXBNGziMWaui1Gqz_h7XNjzBXqlm28g=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bill.com%2Flp%2Fstate-of-financial-automation-report%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ongo2024-co-dc-up-5225-report-state-of-financial-automation/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/u3Ysd23Vine6rXBNGziMWaui1Gqz_h7XNjzBXqlm28g=418</guid>
+    </item>
+    <item>
+      <title>TLDR Fintech</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=c7199028-78f1-11f0-806c-ad438213e8f1%26pt=campaign%26t=1755176876%26s=53317b1845b044070bb6b954e777485d165807897c8a4640d270242615f602da/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/LmH9d0fTScjKHs-qCaGg7-6gHW-bkdbmHWbVYbVjRgg=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=c7199028-78f1-11f0-806c-ad438213e8f1%26pt=campaign%26t=1755176876%26s=53317b1845b044070bb6b954e777485d165807897c8a4640d270242615f602da/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/LmH9d0fTScjKHs-qCaGg7-6gHW-bkdbmHWbVYbVjRgg=418</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/IXPi4oo4HiLFLROWKL3rsDdnRnRhnC6bbgIbsvyHxBk=418</link>
+      <description>Link found in newsletter: 'Western Union acquires Intermex 🤝, Shift4 Powers Crypto on Blue Origin 💲, Brazilian Stripe businesses can accept Pix 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/01000198a8b1bb30-ac00b9e6-9ea0-4a50-8529-d280634eb4c9-000000/IXPi4oo4HiLFLROWKL3rsDdnRnRhnC6bbgIbsvyHxBk=418</guid>
+    </item>
+    <item>
+      <title>borgrodrick · Kill the Newsletter!</title>
+      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=3f8adf1c-78f7-11f0-be7f-f5b884b5c7ae%26pt=campaign%26pv=4%26spa=1755176458%26t=1755179480%26s=2c875ffdf4b8f605c45d396c843d15cf8496da2304537228ab9ee637684db922/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/vqyo5Ya3HFyXv2iUOTMd4gk3mc6Uem5IvTTeFL3bUH8=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=3f8adf1c-78f7-11f0-be7f-f5b884b5c7ae%26pt=campaign%26pv=4%26spa=1755176458%26t=1755179480%26s=2c875ffdf4b8f605c45d396c843d15cf8496da2304537228ab9ee637684db922/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/vqyo5Ya3HFyXv2iUOTMd4gk3mc6Uem5IvTTeFL3bUH8=418</guid>
+    </item>
+    <item>
+      <title>sahil khoja - Google | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsahilkhoja%2F/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/aP9tUxHqx6iHdLNjRMJp7yWcMk3Jt-o5pwsuEaUCFn8=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsahilkhoja%2F/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/aP9tUxHqx6iHdLNjRMJp7yWcMk3Jt-o5pwsuEaUCFn8=418</guid>
+    </item>
+    <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/jaQwyCLgqkIwFNWBgBHGTTdozpTkAf271TaZwUimgv0=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/jaQwyCLgqkIwFNWBgBHGTTdozpTkAf271TaZwUimgv0=418</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/OVWHSdck6SBzzuYQgXcQVUvEVyiTsqzdA8I6cdHq7Bw=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/OVWHSdck6SBzzuYQgXcQVUvEVyiTsqzdA8I6cdHq7Bw=418</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/MAOhJDhmNPx3hVhZrdd4Ui2emtdi3GgwAB9rPpwT6JE=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/MAOhJDhmNPx3hVhZrdd4Ui2emtdi3GgwAB9rPpwT6JE=418</guid>
+    </item>
+    <item>
+      <title>TLDR AI | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/hp1Z_CzU8YAuyNlI9T_aBcuOZa4A0mZq80UArVWn-cU=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/hp1Z_CzU8YAuyNlI9T_aBcuOZa4A0mZq80UArVWn-cU=418</guid>
+    </item>
+    <item>
+      <title>Who makes money from open-source AI models? - by Darko</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.kilocode.ai%2Fp%2Fwho-monetizes-open-source-ai-models%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/ZjhuCFN5jeR8WCMQo9yNLeEG7Wt4SPeV6w0pRSdPKmg=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.kilocode.ai%2Fp%2Fwho-monetizes-open-source-ai-models%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/ZjhuCFN5jeR8WCMQo9yNLeEG7Wt4SPeV6w0pRSdPKmg=418</guid>
+    </item>
+    <item>
+      <title>Anthropic nabs Humanloop team as competition for enterprise AI talent heats up | TechCrunch</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F08%2F13%2Fanthropic-nabs-humanloop-team-as-competition-for-enterprise-ai-talent-heats-up%2F%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/Zcol1teb8kHyy0zKQY65sK1w1xj_803BcrSZ3Ly0SOI=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F08%2F13%2Fanthropic-nabs-humanloop-team-as-competition-for-enterprise-ai-talent-heats-up%2F%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/Zcol1teb8kHyy0zKQY65sK1w1xj_803BcrSZ3Ly0SOI=418</guid>
+    </item>
+    <item>
+      <title>ChatGPT's new subscription costs less than $5, but it's not for everyone</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fartificial-intelligence%2Fchatgpts-new-subscription-costs-less-than-5-but-its-not-for-everyone%2F%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/u8Th7mW3Oa2IzW9EiiPRirkWdDdE1p5VE9fd7GtXkAo=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fartificial-intelligence%2Fchatgpts-new-subscription-costs-less-than-5-but-its-not-for-everyone%2F%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/u8Th7mW3Oa2IzW9EiiPRirkWdDdE1p5VE9fd7GtXkAo=418</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=quicklinks08142025/2/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/mFdYLavO5_tgEnOtg1M_879frNdnPOK9WJC95Z578SI=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=quicklinks08142025/2/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/mFdYLavO5_tgEnOtg1M_879frNdnPOK9WJC95Z578SI=418</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=quicklinks08142025/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/lWQJf52BqGX4qkMx7QFHLuiGS0qKbEYV3QVROaDPMGw=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=quicklinks08142025/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/lWQJf52BqGX4qkMx7QFHLuiGS0qKbEYV3QVROaDPMGw=418</guid>
+    </item>
+    <item>
+      <title>Google develops Magic View for NotebookLM to visualize data</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fgoogle-develops-magic-view-for-notebooklm-as-possible-new-way-to-visualize-notebook-data%2F%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/UgPEITvK25PhLIebjXo6IFddpwFGeQdnNSf8fU7-QaE=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fgoogle-develops-magic-view-for-notebooklm-as-possible-new-way-to-visualize-notebook-data%2F%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/UgPEITvK25PhLIebjXo6IFddpwFGeQdnNSf8fU7-QaE=418</guid>
+    </item>
+    <item>
+      <title>Eleven Music is Here | ElevenLabs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felevenlabs.io%2Fblog%2Feleven-music-is-here%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/lHPcd7_OgsFJVXhMGnC_6gN1juajIiHXHSyEAxl0Z3g=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felevenlabs.io%2Fblog%2Feleven-music-is-here%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/lHPcd7_OgsFJVXhMGnC_6gN1juajIiHXHSyEAxl0Z3g=418</guid>
+    </item>
+    <item>
+      <title>GitHub - voideditor/void</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fvoideditor%2Fvoid%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/X3LAQJKczYocb2MF48Q5OCylNNo9381IsSfnGfuYn-4=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fvoideditor%2Fvoid%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/X3LAQJKczYocb2MF48Q5OCylNNo9381IsSfnGfuYn-4=418</guid>
+    </item>
+    <item>
+      <title>iMessage MCP: Give Your LLM Access to Your Messages | Wyatt Johnson</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwyattjoh.ca%2Fblog%2Fimessage-mcp%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/AV2VGBNG31qdYHw-ExurX-fy0lTDHvGf4XHO4TKgw48=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwyattjoh.ca%2Fblog%2Fimessage-mcp%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/AV2VGBNG31qdYHw-ExurX-fy0lTDHvGf4XHO4TKgw48=418</guid>
+    </item>
+    <item>
+      <title>Thread by @testingcatalog on Thread Reader App – Thread Reader App</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F1955347054143664466.html%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/flmU8nZRNzOBtitv-n1gq1eGqq2hNcU9NshEGDwNmoE=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F1955347054143664466.html%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/flmU8nZRNzOBtitv-n1gq1eGqq2hNcU9NshEGDwNmoE=418</guid>
+    </item>
+    <item>
+      <title>AI products for growing applications.</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Finworld.ai%2Fruntime%3Fref=tldr/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/2bmJbLDa60ciHdbgrfEZEzcyhDzX4lkSs1-FcV3nfzg=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Finworld.ai%2Fruntime%3Fref=tldr/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/2bmJbLDa60ciHdbgrfEZEzcyhDzX4lkSs1-FcV3nfzg=418</guid>
+    </item>
+    <item>
+      <title>AI products for growing applications.</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Finworld.ai%2Fruntime%3Fref=tldr%26utm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/RPYYBQKu1DCZqFVjMi5acSxX0m1B_6ThdIlesUvpslU=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Finworld.ai%2Fruntime%3Fref=tldr%26utm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/RPYYBQKu1DCZqFVjMi5acSxX0m1B_6ThdIlesUvpslU=418</guid>
+    </item>
+    <item>
+      <title>gpt-oss-120B (high): API Provider Performance Benchmarking &amp; Price Analysis | Artificial Analysis</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fartificialanalysis.ai%2Fmodels%2Fgpt-oss-120b%2Fproviders%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/6OjmjgAmSMnHa4SeGTbUhgnepQseIXezDbRw7ceXt3c=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fartificialanalysis.ai%2Fmodels%2Fgpt-oss-120b%2Fproviders%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/6OjmjgAmSMnHa4SeGTbUhgnepQseIXezDbRw7ceXt3c=418</guid>
+    </item>
+    <item>
+      <title>AI traffic is up 527%. SEO is being rewritten.</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsearchengineland.com%2Fai-traffic-up-seo-rewritten-459954%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/IoD_qHCXr43WDnf2PAwsfCVTX15Z2g412yp9i0YHOfE=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsearchengineland.com%2Fai-traffic-up-seo-rewritten-459954%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/IoD_qHCXr43WDnf2PAwsfCVTX15Z2g412yp9i0YHOfE=418</guid>
+    </item>
+    <item>
+      <title>Co-founder of Elon Musk's xAI departs the company | TechCrunch</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F08%2F13%2Fco-founder-of-elon-musks-xai-departs-the-company%2F%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/K1hJv-_PIA3Atu8BTypr0uHpe3yOmnetzkO-xBNsFIM=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F08%2F13%2Fco-founder-of-elon-musks-xai-departs-the-company%2F%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/K1hJv-_PIA3Atu8BTypr0uHpe3yOmnetzkO-xBNsFIM=418</guid>
+    </item>
+    <item>
+      <title>Google’s Gemini AI will get more personalized by remembering details automatically | The Verge</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2Fnews%2F758624%2Fgoogle-gemini-ai-automatic-memory-privacy-update%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/wDg7IZo3wm034aEAockzG0EUzj0Pg4SHGRZ7Ki3Skb0=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2Fnews%2F758624%2Fgoogle-gemini-ai-automatic-memory-privacy-update%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/wDg7IZo3wm034aEAockzG0EUzj0Pg4SHGRZ7Ki3Skb0=418</guid>
+    </item>
+    <item>
+      <title>Mimecast TTP Web Portal</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Feur03.safelinks.protection.outlook.com%2F%3Furl=https%253A%252F%252Furl.uk.m.mimecastprotect.com%252Fs%252FsKoUCQnr6FXD5lXcxfjsG9SSj%26data=05%257C02%257Cjasmine.hwang%2540cognitomedia.com%257C119623aee2214633e3e808ddd6868db8%257C5501ec4e2fe648858a45ad4e79ee3259%257C0%257C0%257C638902595573446504%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C0%257C%257C%257C%26sdata=5PcDHtGYLtUEECSj0tmXdqlmHcVSRJPc6gPyMLowe9c%253D%26reserved=0/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/7hRANRHvlq9srU_K77io0Yw8c4P0-Bg8srREJNUqguI=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Feur03.safelinks.protection.outlook.com%2F%3Furl=https%253A%252F%252Furl.uk.m.mimecastprotect.com%252Fs%252FsKoUCQnr6FXD5lXcxfjsG9SSj%26data=05%257C02%257Cjasmine.hwang%2540cognitomedia.com%257C119623aee2214633e3e808ddd6868db8%257C5501ec4e2fe648858a45ad4e79ee3259%257C0%257C0%257C638902595573446504%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C0%257C%257C%257C%26sdata=5PcDHtGYLtUEECSj0tmXdqlmHcVSRJPc6gPyMLowe9c%253D%26reserved=0/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/7hRANRHvlq9srU_K77io0Yw8c4P0-Bg8srREJNUqguI=418</guid>
+    </item>
+    <item>
+      <title>Mimecast TTP Web Portal</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Feur03.safelinks.protection.outlook.com%2F%3Furl=https%253A%252F%252Furl.uk.m.mimecastprotect.com%252Fs%252FsKoUCQnr6FXD5lXcxfjsG9SSj%26data=05%257C02%257Cjasmine.hwang%2540cognitomedia.com%257C119623aee2214633e3e808ddd6868db8%257C5501ec4e2fe648858a45ad4e79ee3259%257C0%257C0%257C638902595573426272%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C0%257C%257C%257C%26sdata=BhWahM2zXVRHxJlpAYfARWCUMxmrVv%252BQX0VBbzfd5c4%253D%26reserved=0/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/WICnYj-UVYoCEPse43WfjhiiiQc_J3iQUh_kS3HZqN8=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Feur03.safelinks.protection.outlook.com%2F%3Furl=https%253A%252F%252Furl.uk.m.mimecastprotect.com%252Fs%252FsKoUCQnr6FXD5lXcxfjsG9SSj%26data=05%257C02%257Cjasmine.hwang%2540cognitomedia.com%257C119623aee2214633e3e808ddd6868db8%257C5501ec4e2fe648858a45ad4e79ee3259%257C0%257C0%257C638902595573426272%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C0%257C%257C%257C%26sdata=BhWahM2zXVRHxJlpAYfARWCUMxmrVv%252BQX0VBbzfd5c4%253D%26reserved=0/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/WICnYj-UVYoCEPse43WfjhiiiQc_J3iQUh_kS3HZqN8=418</guid>
+    </item>
+    <item>
+      <title>Mimecast TTP Web Portal</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Feur03.safelinks.protection.outlook.com%2F%3Furl=https%253A%252F%252Furl.uk.m.mimecastprotect.com%252Fs%252FsKoUCQnr6FXD5lXcxfjsG9SSj%26data=05%257C02%257Cjasmine.hwang%2540cognitomedia.com%257C119623aee2214633e3e808ddd6868db8%257C5501ec4e2fe648858a45ad4e79ee3259%257C0%257C0%257C638902595573409335%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C0%257C%257C%257C%26sdata=%252FPHdY2MyWbODoy7t1Q4LGkZTPEhKcVpH6Yau%252B8ZJXHU%253D%26reserved=0/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/gjoxHADgScSD3EqqERELnpk1ye80tyg7DQNds5o8Xw8=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Feur03.safelinks.protection.outlook.com%2F%3Furl=https%253A%252F%252Furl.uk.m.mimecastprotect.com%252Fs%252FsKoUCQnr6FXD5lXcxfjsG9SSj%26data=05%257C02%257Cjasmine.hwang%2540cognitomedia.com%257C119623aee2214633e3e808ddd6868db8%257C5501ec4e2fe648858a45ad4e79ee3259%257C0%257C0%257C638902595573409335%257CUnknown%257CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%253D%253D%257C0%257C%257C%257C%26sdata=%252FPHdY2MyWbODoy7t1Q4LGkZTPEhKcVpH6Yau%252B8ZJXHU%253D%26reserved=0/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/gjoxHADgScSD3EqqERELnpk1ye80tyg7DQNds5o8Xw8=418</guid>
+    </item>
+    <item>
+      <title>Blackbox reverse engineering: Can AI help rebuild an application without accessing its code? | Thoughtworks</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.thoughtworks.com%2Finsights%2Fblog%2Fgenerative-ai%2Fblackbox-reverse-engineering-ai-rebuild-application-without-accessing-code%3Futm_medium=newsletter%26utm_source=tldr-ai%26utm_campaign=20250814/2/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/Fst5C2NI4sV3T3Xlo637z561QIqJ5bMjwdxbXpBG1-E=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.thoughtworks.com%2Finsights%2Fblog%2Fgenerative-ai%2Fblackbox-reverse-engineering-ai-rebuild-application-without-accessing-code%3Futm_medium=newsletter%26utm_source=tldr-ai%26utm_campaign=20250814/2/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/Fst5C2NI4sV3T3Xlo637z561QIqJ5bMjwdxbXpBG1-E=418</guid>
+    </item>
+    <item>
+      <title>Blackbox reverse engineering: Can AI help rebuild an application without accessing its code? | Thoughtworks</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.thoughtworks.com%2Finsights%2Fblog%2Fgenerative-ai%2Fblackbox-reverse-engineering-ai-rebuild-application-without-accessing-code%3Futm_medium=newsletter%26utm_source=tldr-ai%26utm_campaign=20250814/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/iaaN2PEhFhe3EJEvX-rXS07wemdLuttBG7y_YzLQmFw=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.thoughtworks.com%2Finsights%2Fblog%2Fgenerative-ai%2Fblackbox-reverse-engineering-ai-rebuild-application-without-accessing-code%3Futm_medium=newsletter%26utm_source=tldr-ai%26utm_campaign=20250814/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/iaaN2PEhFhe3EJEvX-rXS07wemdLuttBG7y_YzLQmFw=418</guid>
+    </item>
+    <item>
+      <title>TLDR AI</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=3f8adf1c-78f7-11f0-be7f-f5b884b5c7ae%26pt=campaign%26t=1755179480%26s=71dac8c7a5812e70f8fb569648f55ec12831d52ea356c67d058f18af4ef00c9a/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/j3mLViT9wDGOJv7-fG0YjXQ9Sh4F_BrGr-91damo2Rs=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=3f8adf1c-78f7-11f0-be7f-f5b884b5c7ae%26pt=campaign%26t=1755179480%26s=71dac8c7a5812e70f8fb569648f55ec12831d52ea356c67d058f18af4ef00c9a/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/j3mLViT9wDGOJv7-fG0YjXQ9Sh4F_BrGr-91damo2Rs=418</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/2kh_jjt5hqppA_eQgTGgNsvDKrWrt0-BrvSQS3Kzx2k=418</link>
+      <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/2kh_jjt5hqppA_eQgTGgNsvDKrWrt0-BrvSQS3Kzx2k=418</guid>
     </item>
   </channel>
 </rss>
