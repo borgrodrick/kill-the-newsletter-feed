@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 16 Aug 2025 01:04:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 06:18:49 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=d112e01e-76a0-11f0-b3fa-75ce727bfc9c%26pt=campaign%26pv=4%26spa=1754917314%26t=1754920023%26s=b74c1416ce64eb0ec33018c96855c8983bbf69f3dd8c9a67734c97705124914f/1/01000198996276e4-8aa07c06-b6dc-46dd-b1da-d7b1dae02c94-000000/3ZjOqe_sF5vI8eB7zBF3ewDbMxsY4C33AU9uKd-cFmA=417</link>
@@ -734,7 +734,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Frbac%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q32025/3/01000198a2f680f7-b3ed8d0f-47aa-4e73-8430-5412d1e8a1ae-000000/g8BVCEsN6QtPKbSlqefeVs1lO_swRBDjSkMRGRhonnk=418</guid>
     </item>
     <item>
-      <title>WorkOS Docs</title>
+      <title>Role-Based Access Control (RBAC) – RBAC – WorkOS Docs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Fdocs%2Frbac%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q32025/1/01000198a2f680f7-b3ed8d0f-47aa-4e73-8430-5412d1e8a1ae-000000/1tfDnBH3yXeOLgPf1VN2fMjEwlPU1H9EjggeY1cE1tg=418</link>
       <description>Link found in newsletter: 'Perplexity's $34B Chrome bid ✉️, Altman backs Neuralink rival 💰, AGI disenchantment 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Fdocs%2Frbac%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q32025/1/01000198a2f680f7-b3ed8d0f-47aa-4e73-8430-5412d1e8a1ae-000000/1tfDnBH3yXeOLgPf1VN2fMjEwlPU1H9EjggeY1cE1tg=418</guid>
@@ -1131,19 +1131,19 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanielchasehooper.com%2Fposts%2Fsyscall-build-snooping%2F%3Futm_source=tldrnewsletter/1/01000198a81ccccf-57bfe09e-0671-44c7-a02e-f938375714c0-000000/P0Mq4W7_o_RA0hP1h-gNtezcIUQg1Kv2Q8xOxakm48E=418</guid>
     </item>
     <item>
-      <title>Head of Talent Acquisition @ TLDR</title>
+      <title>Head of Talent @ TLDR</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Ff7591baa-97b8-4bdf-9948-5473684e34c5%3Futm_source=tldr/3/01000198a81ccccf-57bfe09e-0671-44c7-a02e-f938375714c0-000000/1ZQmW4oe6Hn6g06QsK6MLfC3QNi8BJxFp1lkrBfvSfw=418</link>
       <description>Link found in newsletter: 'Apple robots 🤖, DeepSeek R2 🧠, uv's package registry 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Ff7591baa-97b8-4bdf-9948-5473684e34c5%3Futm_source=tldr/3/01000198a81ccccf-57bfe09e-0671-44c7-a02e-f938375714c0-000000/1ZQmW4oe6Hn6g06QsK6MLfC3QNi8BJxFp1lkrBfvSfw=418</guid>
     </item>
     <item>
-      <title>Head of Talent Acquisition @ TLDR</title>
+      <title>Head of Talent @ TLDR</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Ff7591baa-97b8-4bdf-9948-5473684e34c5%3Futm_source=tldr/2/01000198a81ccccf-57bfe09e-0671-44c7-a02e-f938375714c0-000000/ybzySl72lqTxTZuLySQCRWJruG-0Apc4R9e_Y5vAhOI=418</link>
       <description>Link found in newsletter: 'Apple robots 🤖, DeepSeek R2 🧠, uv's package registry 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Ff7591baa-97b8-4bdf-9948-5473684e34c5%3Futm_source=tldr/2/01000198a81ccccf-57bfe09e-0671-44c7-a02e-f938375714c0-000000/ybzySl72lqTxTZuLySQCRWJruG-0Apc4R9e_Y5vAhOI=418</guid>
     </item>
     <item>
-      <title>Head of Talent Acquisition @ TLDR</title>
+      <title>Head of Talent @ TLDR</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Ff7591baa-97b8-4bdf-9948-5473684e34c5%3Futm_source=tldr/1/01000198a81ccccf-57bfe09e-0671-44c7-a02e-f938375714c0-000000/hCnSIOBy7kjNRxVYeTMzkLWiEO9C_W2fp31gEYxzvcg=418</link>
       <description>Link found in newsletter: 'Apple robots 🤖, DeepSeek R2 🧠, uv's package registry 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Ff7591baa-97b8-4bdf-9948-5473684e34c5%3Futm_source=tldr/1/01000198a81ccccf-57bfe09e-0671-44c7-a02e-f938375714c0-000000/hCnSIOBy7kjNRxVYeTMzkLWiEO9C_W2fp31gEYxzvcg=418</guid>
@@ -1587,7 +1587,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fvoideditor%2Fvoid%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/X3LAQJKczYocb2MF48Q5OCylNNo9381IsSfnGfuYn-4=418</guid>
     </item>
     <item>
-      <title>iMessage MCP: Give Your LLM Access to Your Messages | Wyatt Johnson</title>
+      <title>iMessage MCP | Wyatt Johnson</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwyattjoh.ca%2Fblog%2Fimessage-mcp%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/AV2VGBNG31qdYHw-ExurX-fy0lTDHvGf4XHO4TKgw48=418</link>
       <description>Link found in newsletter: 'xAI co-founder leaves 👋, Gemini memory 🧠, Gemini Deep Research API 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwyattjoh.ca%2Fblog%2Fimessage-mcp%3Futm_source=tldrai/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/AV2VGBNG31qdYHw-ExurX-fy0lTDHvGf4XHO4TKgw48=418</guid>
@@ -1743,19 +1743,19 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbit.ly%2FA1-tldr%3Futm_source=tldrnewsletter/1/01000198ad42e06a-dbeae82a-eded-461d-a279-efeb93fc9e9b-000000/5EQ3zoJxqKmaacxt2nrfCV8VzpFi8gY6GaNLItx6dso=418</guid>
     </item>
     <item>
-      <title>Head of Talent Acquisition @ TLDR</title>
+      <title>Head of Talent @ TLDR</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Ff7591baa-97b8-4bdf-9948-5473684e34c5%3Futm_source=tldr/3/01000198ad42e06a-dbeae82a-eded-461d-a279-efeb93fc9e9b-000000/xKIgp7WGhIcMfWrTARH_jx6LEUpzOJFXw61b69FPENM=418</link>
       <description>Link found in newsletter: 'GPT-5 adoption 📈, Apple hardware leaks 📱, crazy AI startup hours ⌛'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Ff7591baa-97b8-4bdf-9948-5473684e34c5%3Futm_source=tldr/3/01000198ad42e06a-dbeae82a-eded-461d-a279-efeb93fc9e9b-000000/xKIgp7WGhIcMfWrTARH_jx6LEUpzOJFXw61b69FPENM=418</guid>
     </item>
     <item>
-      <title>Head of Talent Acquisition @ TLDR</title>
+      <title>Head of Talent @ TLDR</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Ff7591baa-97b8-4bdf-9948-5473684e34c5%3Futm_source=tldr/2/01000198ad42e06a-dbeae82a-eded-461d-a279-efeb93fc9e9b-000000/F2prLc81BI82Q-yaFIsU-onlghjeFk1UWcEx_6WbLCw=418</link>
       <description>Link found in newsletter: 'GPT-5 adoption 📈, Apple hardware leaks 📱, crazy AI startup hours ⌛'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Ff7591baa-97b8-4bdf-9948-5473684e34c5%3Futm_source=tldr/2/01000198ad42e06a-dbeae82a-eded-461d-a279-efeb93fc9e9b-000000/F2prLc81BI82Q-yaFIsU-onlghjeFk1UWcEx_6WbLCw=418</guid>
     </item>
     <item>
-      <title>Head of Talent Acquisition @ TLDR</title>
+      <title>Head of Talent @ TLDR</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Ff7591baa-97b8-4bdf-9948-5473684e34c5%3Futm_source=tldr/1/01000198ad42e06a-dbeae82a-eded-461d-a279-efeb93fc9e9b-000000/Qpb5kf3jwfVkUJ_7p-CNXFQNMltTNgnVnHqMndOxQnc=418</link>
       <description>Link found in newsletter: 'GPT-5 adoption 📈, Apple hardware leaks 📱, crazy AI startup hours ⌛'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Ff7591baa-97b8-4bdf-9948-5473684e34c5%3Futm_source=tldr/1/01000198ad42e06a-dbeae82a-eded-461d-a279-efeb93fc9e9b-000000/Qpb5kf3jwfVkUJ_7p-CNXFQNMltTNgnVnHqMndOxQnc=418</guid>
