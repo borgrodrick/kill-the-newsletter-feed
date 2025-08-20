@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Aug 2025 01:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Aug 2025 06:20:41 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=bb6da982-78db-11f0-828d-d950fcd0cb9e%26pt=campaign%26pv=4%26spa=1755165662%26t=1755167116%26s=950335dd6cb44c1f33897c70f0c4131a47e6604ef00da40b02916a81c2948243/1/01000198a81ccccf-57bfe09e-0671-44c7-a02e-f938375714c0-000000/9YX187Pf6gCim48anMjw-1KmdoHxj1Nmj1xmy9EpEtM=418</link>
@@ -1753,6 +1753,12 @@ marginalia.nu</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F08%2F16%2Fhow-epics-82-year-old-ceo-judy-faulkner-built-her-software-factory.html%3Futm_source=tldrnewsletter/1/01000198c1dc7902-cd6875c7-5b6f-4f0c-8621-785fe32f7e66-000000/djX8rKJkwkhe3Ybh7fmws4Dwx3n0b2O-qArcgjmXhCU=418</link>
       <description>Link found in newsletter: 'Tesla Model YL 🚗, Counter-Strike's origin story 🎮, ClickHouse full-text search 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F08%2F16%2Fhow-epics-82-year-old-ceo-judy-faulkner-built-her-software-factory.html%3Futm_source=tldrnewsletter/1/01000198c1dc7902-cd6875c7-5b6f-4f0c-8621-785fe32f7e66-000000/djX8rKJkwkhe3Ybh7fmws4Dwx3n0b2O-qArcgjmXhCU=418</guid>
+    </item>
+    <item>
+      <title>Apple preps native Claude integration on Xcode - 9to5Mac</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2025%2F08%2F18%2Fapple-preps-native-claude-integration-on-xcode%2F%3Futm_source=tldrnewsletter/1/01000198c1dc7902-cd6875c7-5b6f-4f0c-8621-785fe32f7e66-000000/IW78j76IjMklxktLL4RAWgsKqoY6g3FnXJLosDCsVdM=418</link>
+      <description>Link found in newsletter: 'Tesla Model YL 🚗, Counter-Strike's origin story 🎮, ClickHouse full-text search 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2025%2F08%2F18%2Fapple-preps-native-claude-integration-on-xcode%2F%3Futm_source=tldrnewsletter/1/01000198c1dc7902-cd6875c7-5b6f-4f0c-8621-785fe32f7e66-000000/IW78j76IjMklxktLL4RAWgsKqoY6g3FnXJLosDCsVdM=418</guid>
     </item>
     <item>
       <title>Just people in a room - BonnyCode</title>
