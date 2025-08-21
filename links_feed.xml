@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 20 Aug 2025 18:19:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 01:01:39 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=3f8adf1c-78f7-11f0-be7f-f5b884b5c7ae%26pt=campaign%26pv=4%26spa=1755176458%26t=1755179480%26s=2c875ffdf4b8f605c45d396c843d15cf8496da2304537228ab9ee637684db922/1/01000198a8d973f5-1b77e9da-84b2-4ebf-9326-fde3def91be8-000000/vqyo5Ya3HFyXv2iUOTMd4gk3mc6Uem5IvTTeFL3bUH8=418</link>
@@ -1867,12 +1867,6 @@ marginalia.nu</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F08%2F18%2Fgoogle-kairos-nuclear-smr-tennessee-valley-authority-tva-data-center-ai.html%3Futm_source=tldrnewsletter/1/01000198c702a7cc-bba24d22-f267-4713-95e6-91e43d050227-000000/T0bMFm97qYdy5rUOQEKggmMUpTogw8Yfnf8hDiF-uG8=419</link>
       <description>Link found in newsletter: 'Meta's AI reorg 💼, AirPod live translation 🎧, GenAI failures 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F08%2F18%2Fgoogle-kairos-nuclear-smr-tennessee-valley-authority-tva-data-center-ai.html%3Futm_source=tldrnewsletter/1/01000198c702a7cc-bba24d22-f267-4713-95e6-91e43d050227-000000/T0bMFm97qYdy5rUOQEKggmMUpTogw8Yfnf8hDiF-uG8=419</guid>
-    </item>
-    <item>
-      <title>AirPods Pro 2 seem set for another surprise upgrade at iPhone 17 event - 9to5Mac</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2025%2F08%2F19%2Fairpods-pro-2-seem-set-for-another-surprise-upgrade-at-iphone-17-event%2F%3Futm_source=tldrnewsletter/1/01000198c702a7cc-bba24d22-f267-4713-95e6-91e43d050227-000000/iGwIdHCchxjm-UD5eCZRNXb8WmvdbUTNJgvmHajoPCo=419</link>
-      <description>Link found in newsletter: 'Meta's AI reorg 💼, AirPod live translation 🎧, GenAI failures 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2025%2F08%2F19%2Fairpods-pro-2-seem-set-for-another-surprise-upgrade-at-iphone-17-event%2F%3Futm_source=tldrnewsletter/1/01000198c702a7cc-bba24d22-f267-4713-95e6-91e43d050227-000000/iGwIdHCchxjm-UD5eCZRNXb8WmvdbUTNJgvmHajoPCo=419</guid>
     </item>
     <item>
       <title>Redis Released</title>
