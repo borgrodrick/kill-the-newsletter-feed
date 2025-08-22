@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Aug 2025 01:02:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Aug 2025 06:20:22 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=84e7d38a-7c08-11f0-963b-dbe1d6cbe331%26pt=campaign%26pv=4%26spa=1755511252%26t=1755512572%26s=f12bddca6501781fba91ba8c91658a21ca5b875421abd8e45935f07a38aa30c0/1/01000198bcb40b6b-f585e732-caf3-4dbe-bfc4-1db483d49873-000000/6bPc7DhlfsDmVsaOSmZukBIKrYYSRnrMoGqkfRab9PQ=418</link>
@@ -705,12 +705,6 @@ marginalia.nu</title>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F08%2F18%2Fiphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event%2F%3Futm_source=tldrnewsletter/1/01000198c1dc7902-cd6875c7-5b6f-4f0c-8621-785fe32f7e66-000000/SCXbErodiy6qGc5cTGqrEefv3GmpQxg_XhD-CFVTzas=418</guid>
     </item>
     <item>
-      <title>Tesla officially launches Model YL with 6 seats, starting at ~$47,000 | Electrek</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2025%2F08%2F18%2Ftesla-launches-model-yl-6-seats-starting-47000%2F%3Futm_source=tldrnewsletter/1/01000198c1dc7902-cd6875c7-5b6f-4f0c-8621-785fe32f7e66-000000/j6ToxApB-eDOZT86OxL80cS4OC1S7arua3fG0PaMWdM=418</link>
-      <description>Link found in newsletter: 'Tesla Model YL 🚗, Counter-Strike's origin story 🎮, ClickHouse full-text search 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2025%2F08%2F18%2Ftesla-launches-model-yl-6-seats-starting-47000%2F%3Futm_source=tldrnewsletter/1/01000198c1dc7902-cd6875c7-5b6f-4f0c-8621-785fe32f7e66-000000/j6ToxApB-eDOZT86OxL80cS4OC1S7arua3fG0PaMWdM=418</guid>
-    </item>
-    <item>
       <title>Humans + Agentic AI: The Future of Enterprise Automation is Collaborative</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Forkes.io%2Fwebinars%2Fhumans-agentic-ai-the-future-of-enterprise-automation-is-collaborative%3Futm_campaign=TLDR-flagship-August%26utm_source=Newsletter%26utm_medium=referral/5/01000198c1dc7902-cd6875c7-5b6f-4f0c-8621-785fe32f7e66-000000/3eZ7bJZ-FxQYGcGiC0h3O8NVAD6chYuWmAVOu93cEmI=418</link>
       <description>Link found in newsletter: 'Tesla Model YL 🚗, Counter-Strike's origin story 🎮, ClickHouse full-text search 👨‍💻'</description>
@@ -1225,6 +1219,12 @@ marginalia.nu</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F08%2F18%2Fgoogle-kairos-nuclear-smr-tennessee-valley-authority-tva-data-center-ai.html%3Futm_source=tldrnewsletter/1/01000198c702a7cc-bba24d22-f267-4713-95e6-91e43d050227-000000/T0bMFm97qYdy5rUOQEKggmMUpTogw8Yfnf8hDiF-uG8=419</link>
       <description>Link found in newsletter: 'Meta's AI reorg 💼, AirPod live translation 🎧, GenAI failures 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F08%2F18%2Fgoogle-kairos-nuclear-smr-tennessee-valley-authority-tva-data-center-ai.html%3Futm_source=tldrnewsletter/1/01000198c702a7cc-bba24d22-f267-4713-95e6-91e43d050227-000000/T0bMFm97qYdy5rUOQEKggmMUpTogw8Yfnf8hDiF-uG8=419</guid>
+    </item>
+    <item>
+      <title>AirPods Pro 2 seem set for another surprise upgrade at iPhone 17 event - 9to5Mac</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2025%2F08%2F19%2Fairpods-pro-2-seem-set-for-another-surprise-upgrade-at-iphone-17-event%2F%3Futm_source=tldrnewsletter/1/01000198c702a7cc-bba24d22-f267-4713-95e6-91e43d050227-000000/iGwIdHCchxjm-UD5eCZRNXb8WmvdbUTNJgvmHajoPCo=419</link>
+      <description>Link found in newsletter: 'Meta's AI reorg 💼, AirPod live translation 🎧, GenAI failures 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2025%2F08%2F19%2Fairpods-pro-2-seem-set-for-another-surprise-upgrade-at-iphone-17-event%2F%3Futm_source=tldrnewsletter/1/01000198c702a7cc-bba24d22-f267-4713-95e6-91e43d050227-000000/iGwIdHCchxjm-UD5eCZRNXb8WmvdbUTNJgvmHajoPCo=419</guid>
     </item>
     <item>
       <title>Redis Released</title>
@@ -1934,6 +1934,12 @@ marginalia.nu</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthefinanser.com%2F2025%2F08%2Fshould-banks-be-telcos-and-vice-versa%3Futm_source=tldrfintech/1/01000198ccc888e8-96ead7ee-96f2-4427-94dc-18286cd46279-000000/t4e5n3iHx7ypdGBpUIQ6GDH2IdJixJP82JW1iW4qtDU=419</link>
       <description>Link found in newsletter: 'Gemini files for IPO 🚀, Klarna phasing out Jira and Confluence 💻, Payoneer + Stripe cross-border checkouts🌏'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthefinanser.com%2F2025%2F08%2Fshould-banks-be-telcos-and-vice-versa%3Futm_source=tldrfintech/1/01000198ccc888e8-96ead7ee-96f2-4427-94dc-18286cd46279-000000/t4e5n3iHx7ypdGBpUIQ6GDH2IdJixJP82JW1iW4qtDU=419</guid>
+    </item>
+    <item>
+      <title>Wall Street Lunch: SPAC-King Returns With New Blank-Check Deal | Seeking Alpha</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNvehmn/1/01000198ccc888e8-96ead7ee-96f2-4427-94dc-18286cd46279-000000/Cv9PxSaKyf6FjnEKYwBxy723NOvRQdLocGDERoCaPkI=419</link>
+      <description>Link found in newsletter: 'Gemini files for IPO 🚀, Klarna phasing out Jira and Confluence 💻, Payoneer + Stripe cross-border checkouts🌏'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNvehmn/1/01000198ccc888e8-96ead7ee-96f2-4427-94dc-18286cd46279-000000/Cv9PxSaKyf6FjnEKYwBxy723NOvRQdLocGDERoCaPkI=419</guid>
     </item>
     <item>
       <title>gift cards Archives | PYMNTS.com</title>
