@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 22 Aug 2025 18:18:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Aug 2025 01:00:21 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=b37b7214-7c22-11f0-9717-6dca3f12ed1d%26pt=campaign%26pv=4%26spa=1755522083%26t=1755523372%26s=b22e9b6f06c96538d9be1f4b463f3b205dc92a4c5ee625327b31961cf3c162b4/1/01000198bd58d6a0-e8a3ecac-0971-49f2-88d3-092e37012744-000000/S4BEsCG2ck6r45AsCt1-Dn94-1DmOAM2t8AcV2ZvTJA=418</link>
@@ -612,6 +612,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.omerba.dev%2Fblog%2Fgpt-5-evtx-zig-parser%3Futm_source=tldrai/1/01000198c27e15fc-82ed42da-f9f0-4fd9-9bbf-5e49d1a5277c-000000/qIh0JaUYAykJlRKGcDJ4nndArmH5ufu4IvFF9MVKgdo=418</link>
       <description>Link found in newsletter: 'ChatGPT Go 💬, Nvidia black market 💻, how Googlers use AI 🧑‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.omerba.dev%2Fblog%2Fgpt-5-evtx-zig-parser%3Futm_source=tldrai/1/01000198c27e15fc-82ed42da-f9f0-4fd9-9bbf-5e49d1a5277c-000000/qIh0JaUYAykJlRKGcDJ4nndArmH5ufu4IvFF9MVKgdo=418</guid>
+    </item>
+    <item>
+      <title>Bring AI to your formulas with the COPILOT function in Excel</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcommunity.microsoft.com%2Fblog%2Fmicrosoft365insiderblog%2Fbring-ai-to-your-formulas-with-the-copilot-function-in-excel%2F4443487%3Futm_source=tldrai/1/01000198c27e15fc-82ed42da-f9f0-4fd9-9bbf-5e49d1a5277c-000000/TV5cTvavGSmm6YnUJm07jvjVyTIgnRMf1NerD90KBXQ=418</link>
+      <description>Link found in newsletter: 'ChatGPT Go 💬, Nvidia black market 💻, how Googlers use AI 🧑‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcommunity.microsoft.com%2Fblog%2Fmicrosoft365insiderblog%2Fbring-ai-to-your-formulas-with-the-copilot-function-in-excel%2F4443487%3Futm_source=tldrai/1/01000198c27e15fc-82ed42da-f9f0-4fd9-9bbf-5e49d1a5277c-000000/TV5cTvavGSmm6YnUJm07jvjVyTIgnRMf1NerD90KBXQ=418</guid>
     </item>
     <item>
       <title>Grammarly says its AI agent can predict an A paper | The Verge</title>
@@ -1791,7 +1797,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F08%2F21%2Felon-musk-asked-meta-ceo-mark-zuckerberg-to-join-xai-bid-to-buy-openai.html%3Futm_source=tldrnewsletter/1/01000198d14f7e32-735676d3-9f15-4234-b2f5-a2f4d3590cfd-000000/RqiDojyhal5GPbA-LYYp5B4vbVCMPE5LG_ecEvqeWYg=419</guid>
     </item>
     <item>
-      <title>Loading... - Helmut Januschka</title>
+      <title>Dynamic Chrome Themes: Building DHH's Vision for Omarchy - Helmut Januschka</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.januschka.com%2Fchromium-omarchy.html%3Futm_source=tldrnewsletter/1/01000198d14f7e32-735676d3-9f15-4234-b2f5-a2f4d3590cfd-000000/gDrSzL3MVcQ1ydYEVbD5mHlhNnjs_odJRxkz_L_oNKo=419</link>
       <description>Link found in newsletter: 'Google Pixel ambitions 📱, Oracle's megadeals 💰, building better agents 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.januschka.com%2Fchromium-omarchy.html%3Futm_source=tldrnewsletter/1/01000198d14f7e32-735676d3-9f15-4234-b2f5-a2f4d3590cfd-000000/gDrSzL3MVcQ1ydYEVbD5mHlhNnjs_odJRxkz_L_oNKo=419</guid>
