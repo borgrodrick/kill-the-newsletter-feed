@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 25 Aug 2025 18:19:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 01:03:26 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=aa1a4956-7d9f-11f0-a182-f70d4b096c94%26pt=campaign%26pv=4%26spa=1755684053%26t=1755685496%26s=460fb05d9bc04c93c8b81701dc4c5638f33597401c793ca59486622f65e53408/1/01000198c702a7cc-bba24d22-f267-4713-95e6-91e43d050227-000000/Z7RJ9vi-U8g6lGOCJT2y60MjZ7sA25azKiYZsnjM7PU=419</link>
@@ -674,7 +674,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fagents.md%2F%3Futm_source=tldrwebdev/1/01000198cc571e5d-843e1ef0-d398-41df-9f8e-b2d19f0faaa7-000000/vzI8qKnuAVk9nmp_qvH2mbgfKS1MLcqwBdsoB5aDRJE=419</guid>
     </item>
     <item>
-      <title>GitHub - getAsterisk/claudia: A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.</title>
+      <title>GitHub - getAsterisk/gooey: A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FgetAsterisk%2Fclaudia%3Futm_source=tldrwebdev/1/01000198cc571e5d-843e1ef0-d398-41df-9f8e-b2d19f0faaa7-000000/fBDKCiL4vYiQPofLR1vZPe9LXyFXlNYhnCaXnZ2ihdM=419</link>
       <description>Link found in newsletter: 'Bluesky’s AT Protocol 🐦, Claude Code on desktop 🎛, AWS in 2025 🌱'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FgetAsterisk%2Fclaudia%3Futm_source=tldrwebdev/1/01000198cc571e5d-843e1ef0-d398-41df-9f8e-b2d19f0faaa7-000000/fBDKCiL4vYiQPofLR1vZPe9LXyFXlNYhnCaXnZ2ihdM=419</guid>
@@ -811,12 +811,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthefinanser.com%2F2025%2F08%2Fshould-banks-be-telcos-and-vice-versa%3Futm_source=tldrfintech/1/01000198ccc888e8-96ead7ee-96f2-4427-94dc-18286cd46279-000000/t4e5n3iHx7ypdGBpUIQ6GDH2IdJixJP82JW1iW4qtDU=419</link>
       <description>Link found in newsletter: 'Gemini files for IPO 🚀, Klarna phasing out Jira and Confluence 💻, Payoneer + Stripe cross-border checkouts🌏'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthefinanser.com%2F2025%2F08%2Fshould-banks-be-telcos-and-vice-versa%3Futm_source=tldrfintech/1/01000198ccc888e8-96ead7ee-96f2-4427-94dc-18286cd46279-000000/t4e5n3iHx7ypdGBpUIQ6GDH2IdJixJP82JW1iW4qtDU=419</guid>
-    </item>
-    <item>
-      <title>Wall Street Lunch: SPAC-King Returns With New Blank-Check Deal | Seeking Alpha</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNvehmn/1/01000198ccc888e8-96ead7ee-96f2-4427-94dc-18286cd46279-000000/Cv9PxSaKyf6FjnEKYwBxy723NOvRQdLocGDERoCaPkI=419</link>
-      <description>Link found in newsletter: 'Gemini files for IPO 🚀, Klarna phasing out Jira and Confluence 💻, Payoneer + Stripe cross-border checkouts🌏'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNvehmn/1/01000198ccc888e8-96ead7ee-96f2-4427-94dc-18286cd46279-000000/Cv9PxSaKyf6FjnEKYwBxy723NOvRQdLocGDERoCaPkI=419</guid>
     </item>
     <item>
       <title>gift cards Archives | PYMNTS.com</title>
@@ -1171,12 +1165,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FtR4TsP/1/01000198d14f7e32-735676d3-9f15-4234-b2f5-a2f4d3590cfd-000000/ebIt-GuTxrzzNsSUTFJ7DkM_dtDAGmve5zMORXVCA5M=419</link>
       <description>Link found in newsletter: 'Google Pixel ambitions 📱, Oracle's megadeals 💰, building better agents 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FtR4TsP/1/01000198d14f7e32-735676d3-9f15-4234-b2f5-a2f4d3590cfd-000000/ebIt-GuTxrzzNsSUTFJ7DkM_dtDAGmve5zMORXVCA5M=419</guid>
-    </item>
-    <item>
-      <title>Oracle Cloud Powers OpenAI, Nvidia, and Larry Ellison’s Riches - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FqPUr7L/1/01000198d14f7e32-735676d3-9f15-4234-b2f5-a2f4d3590cfd-000000/DctMM6i5mBdNIXi_vJlQUsb6o75fH_FiOdw_uJaBLL4=419</link>
-      <description>Link found in newsletter: 'Google Pixel ambitions 📱, Oracle's megadeals 💰, building better agents 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FqPUr7L/1/01000198d14f7e32-735676d3-9f15-4234-b2f5-a2f4d3590cfd-000000/DctMM6i5mBdNIXi_vJlQUsb6o75fH_FiOdw_uJaBLL4=419</guid>
     </item>
     <item>
       <title>Google Pixel 10, Future of Pixel, Google Glasses Interview With Rick Osterloh - Bloomberg</title>
