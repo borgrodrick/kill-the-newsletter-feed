@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Aug 2025 01:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Aug 2025 06:20:40 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=aa1a4956-7d9f-11f0-a182-f70d4b096c94%26pt=campaign%26pv=4%26spa=1755684053%26t=1755685496%26s=460fb05d9bc04c93c8b81701dc4c5638f33597401c793ca59486622f65e53408/1/01000198c702a7cc-bba24d22-f267-4713-95e6-91e43d050227-000000/Z7RJ9vi-U8g6lGOCJT2y60MjZ7sA25azKiYZsnjM7PU=419</link>
@@ -1165,6 +1165,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FtR4TsP/1/01000198d14f7e32-735676d3-9f15-4234-b2f5-a2f4d3590cfd-000000/ebIt-GuTxrzzNsSUTFJ7DkM_dtDAGmve5zMORXVCA5M=419</link>
       <description>Link found in newsletter: 'Google Pixel ambitions 📱, Oracle's megadeals 💰, building better agents 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FtR4TsP/1/01000198d14f7e32-735676d3-9f15-4234-b2f5-a2f4d3590cfd-000000/ebIt-GuTxrzzNsSUTFJ7DkM_dtDAGmve5zMORXVCA5M=419</guid>
+    </item>
+    <item>
+      <title>Oracle Cloud Powers OpenAI, Nvidia, and Larry Ellison’s Riches - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FqPUr7L/1/01000198d14f7e32-735676d3-9f15-4234-b2f5-a2f4d3590cfd-000000/DctMM6i5mBdNIXi_vJlQUsb6o75fH_FiOdw_uJaBLL4=419</link>
+      <description>Link found in newsletter: 'Google Pixel ambitions 📱, Oracle's megadeals 💰, building better agents 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FqPUr7L/1/01000198d14f7e32-735676d3-9f15-4234-b2f5-a2f4d3590cfd-000000/DctMM6i5mBdNIXi_vJlQUsb6o75fH_FiOdw_uJaBLL4=419</guid>
     </item>
     <item>
       <title>Google Pixel 10, Future of Pixel, Google Glasses Interview With Rick Osterloh - Bloomberg</title>
