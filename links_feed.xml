@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 26 Aug 2025 18:18:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Aug 2025 01:01:27 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=a66bb116-7e5b-11f0-a2e0-2fcafffbb8cc%26pt=campaign%26pv=4%26spa=1755770459%26t=1755771898%26s=aaa6de5a8544e26dc1306e8a190da92d208c34eb7cb12c15173c0e55130100a9/1/01000198cc290b9a-9aecb2ca-8157-4a40-9e8f-ecf599f9f3a0-000000/svTlF8l65ZcnQRBngQQ-50r37J8Zq7sFNBsrCzmX6Ns=419</link>
@@ -627,12 +627,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/01000198d14f7e32-735676d3-9f15-4234-b2f5-a2f4d3590cfd-000000/M_fmqPKoYvBdG_3mib7vzMCGchRxm1iALukD8MbTHds=419</guid>
     </item>
     <item>
-      <title>WhatsApp is working on a voicemail-like feature - 9to5Mac</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2025%2F08%2F21%2Fwhatsapp-is-working-on-a-voicemail-like-feature%2F%3Futm_source=tldrnewsletter/1/01000198d14f7e32-735676d3-9f15-4234-b2f5-a2f4d3590cfd-000000/b96rq2GsmZxA-XiuRECubvCqJU8LlYwdOF0s0hg4tfg=419</link>
-      <description>Link found in newsletter: 'Google Pixel ambitions 📱, Oracle's megadeals 💰, building better agents 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2025%2F08%2F21%2Fwhatsapp-is-working-on-a-voicemail-like-feature%2F%3Futm_source=tldrnewsletter/1/01000198d14f7e32-735676d3-9f15-4234-b2f5-a2f4d3590cfd-000000/b96rq2GsmZxA-XiuRECubvCqJU8LlYwdOF0s0hg4tfg=419</guid>
-    </item>
-    <item>
       <title>how to stop feeling lost in tech: the wafflehouse method</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.yacinemahdid.com%2Fp%2Fhow-to-stop-feeling-lost-in-tech%3Futm_source=tldrnewsletter/1/01000198d14f7e32-735676d3-9f15-4234-b2f5-a2f4d3590cfd-000000/13ABTselFfTbKbJiK37wWqIqQHnSXy1vFLYtfwgq_DM=419</link>
       <description>Link found in newsletter: 'Google Pixel ambitions 📱, Oracle's megadeals 💰, building better agents 👨‍💻'</description>
@@ -949,6 +943,18 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fnotebooklm-to-pull-sources-from-web-and-google-drive-via-deep-research%2F%3Futm_source=tldrai/1/01000198d1efea21-d0cb2c1a-bc1c-4606-95ff-c3557926e4d9-000000/JAdZLrisZ8L70qMW5vEFbdyVxGXt2ttfOcp2pOYnRKc=419</link>
       <description>Link found in newsletter: 'Google AI Mode agent 🔍, OpenAI Connectors API 👨‍💻, Anthropic seeks $10B 💰'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fnotebooklm-to-pull-sources-from-web-and-google-drive-via-deep-research%2F%3Futm_source=tldrai/1/01000198d1efea21-d0cb2c1a-bc1c-4606-95ff-c3557926e4d9-000000/JAdZLrisZ8L70qMW5vEFbdyVxGXt2ttfOcp2pOYnRKc=419</guid>
+    </item>
+    <item>
+      <title>Oxford Languages Whitepaper | The Strategic Value of Lexical Data in AI Development -</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flanguages.oup.com%2Fthe-strategic-value-of-lexical-data-in-ai-development%2F%3Futm_source=tldr%2Bai%26utm_medium=newsletter%26utm_id=whitepaper%2B01%2B22082025/2/01000198d1efea21-d0cb2c1a-bc1c-4606-95ff-c3557926e4d9-000000/J6-HZphmM93AzGU5uSc2E_f4ohPPIDcJEBPwSx6ho08=419</link>
+      <description>Link found in newsletter: 'Google AI Mode agent 🔍, OpenAI Connectors API 👨‍💻, Anthropic seeks $10B 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flanguages.oup.com%2Fthe-strategic-value-of-lexical-data-in-ai-development%2F%3Futm_source=tldr%2Bai%26utm_medium=newsletter%26utm_id=whitepaper%2B01%2B22082025/2/01000198d1efea21-d0cb2c1a-bc1c-4606-95ff-c3557926e4d9-000000/J6-HZphmM93AzGU5uSc2E_f4ohPPIDcJEBPwSx6ho08=419</guid>
+    </item>
+    <item>
+      <title>Oxford Languages Whitepaper | The Strategic Value of Lexical Data in AI Development -</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flanguages.oup.com%2Fthe-strategic-value-of-lexical-data-in-ai-development%2F%3Futm_source=tldr%2Bai%26utm_medium=newsletter%26utm_id=whitepaper%2B01%2B22082025/1/01000198d1efea21-d0cb2c1a-bc1c-4606-95ff-c3557926e4d9-000000/P0Z9nE523FY17BPZKgkFRwpKBv_DPX4QB7-OzNa3rEE=419</link>
+      <description>Link found in newsletter: 'Google AI Mode agent 🔍, OpenAI Connectors API 👨‍💻, Anthropic seeks $10B 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flanguages.oup.com%2Fthe-strategic-value-of-lexical-data-in-ai-development%2F%3Futm_source=tldr%2Bai%26utm_medium=newsletter%26utm_id=whitepaper%2B01%2B22082025/1/01000198d1efea21-d0cb2c1a-bc1c-4606-95ff-c3557926e4d9-000000/P0Z9nE523FY17BPZKgkFRwpKBv_DPX4QB7-OzNa3rEE=419</guid>
     </item>
     <item>
       <title>Amazon is betting on agents to win the AI race | The Verge</title>
