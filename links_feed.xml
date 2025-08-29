@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 28 Aug 2025 18:18:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 01:00:53 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=df203952-818d-11f0-b920-1d50653202ac%26pt=campaign%26pv=4%26spa=1756116061%26t=1756117513%26s=4723c39e8a07e4fddc47bb0976961a45f2a09b577c4fc66b9e266664b94b6dca/1/01000198e0c2b544-6a7b0562-db2e-4688-88ba-da318131dd19-000000/vwfeAUypZJzbfHRhjxf7Y_5Uc78esIxyLq_u9wsxiF8=419</link>
@@ -686,7 +686,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsteipete.me%2Fposts%2F2025%2Foptimal-ai-development-workflow%3Futm_source=tldrnewsletter/1/01000198e5e9641d-4c86ce5d-eba8-4b20-98b0-7b037e6cdde8-000000/eN2UghLeKW3rtz91q5AUgDwjDjggAJN0TGtLaMv4-2w=419</guid>
     </item>
     <item>
-      <title>MCPs are just other people's prompts and other people's APIs | Daniel Miessler</title>
+      <title>MCPs Are Just Other People's Prompts Pointing to Other People's Code | Daniel Miessler</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanielmiessler.com%2Fblog%2Fmcps-are-just-other-peoples-prompts-and-apis%3Futm_source=tldrnewsletter/1/01000198e5e9641d-4c86ce5d-eba8-4b20-98b0-7b037e6cdde8-000000/Wf2BBHm7R8_Qn9OYNs4iZ7YIv_r-9CNsB1kUDt_wZqc=419</link>
       <description>Link found in newsletter: 'Nvidia's robot brain 🤖, Google fights sideloading 📱, against prediction markets 📈'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanielmiessler.com%2Fblog%2Fmcps-are-just-other-peoples-prompts-and-apis%3Futm_source=tldrnewsletter/1/01000198e5e9641d-4c86ce5d-eba8-4b20-98b0-7b037e6cdde8-000000/Wf2BBHm7R8_Qn9OYNs4iZ7YIv_r-9CNsB1kUDt_wZqc=419</guid>
@@ -1830,12 +1830,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbun.com%2Fblog%2Fhow-we-made-postMessage-string-500x-faster%3Futm_source=tldrwebdev/1/01000198f06b6038-279c8ffb-6b68-4a88-84cd-dff0d8afc936-000000/utYgvGWECwHLQRpw7glPkdZfAVWmXuhgF5Owp0w7sE8=420</guid>
     </item>
     <item>
-      <title>How Your Program Actually Runs: From C to CPU. | by Tarun Chandragiri | Aug, 2025 | Level Up Coding</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flevelup.gitconnected.com%2Fhow-your-program-actually-runs-from-c-to-cpu-86e7d7ba299a%3Futm_source=tldrwebdev/1/01000198f06b6038-279c8ffb-6b68-4a88-84cd-dff0d8afc936-000000/B9lmbD1rFoGppjJ0HHNRMh4u9TeXKZgkAQNXyDlNPmA=420</link>
-      <description>Link found in newsletter: 'Build your CLI Coding Agent 🤖, 500x faster postMessage 💨, Common TL failure modes ⛓️‍💥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flevelup.gitconnected.com%2Fhow-your-program-actually-runs-from-c-to-cpu-86e7d7ba299a%3Futm_source=tldrwebdev/1/01000198f06b6038-279c8ffb-6b68-4a88-84cd-dff0d8afc936-000000/B9lmbD1rFoGppjJ0HHNRMh4u9TeXKZgkAQNXyDlNPmA=420</guid>
-    </item>
-    <item>
       <title>Piloting Claude for Chrome \ Anthropic</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fclaude-for-chrome%3Futm_source=tldrwebdev/1/01000198f06b6038-279c8ffb-6b68-4a88-84cd-dff0d8afc936-000000/-STqJaoMMjKp7GK6ClcbmLkf1_CwxCHG79fB4USjiFQ=420</link>
       <description>Link found in newsletter: 'Build your CLI Coding Agent 🤖, 500x faster postMessage 💨, Common TL failure modes ⛓️‍💥'</description>
@@ -2149,7 +2143,7 @@
 
 * A new extension for Cursor, VSCode, Windsurf, and the like
 * A much improved Codex CLI running in your local environment
-* Ability to manage… | Kevin Weil | 22 comments</title>
+* Ability to manage… | Kevin Weil | 23 comments</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fposts%2Fkevinweil_we-launched-a-host-of-great-features-in-activity-7366620300613984256-Ebtq%3Futm_source=tldrai/1/01000198f0d90428-37eb5b6d-2060-4cc7-8fe5-354be09f2cac-000000/-TrYhUQvZ9THA9xFL3jzqVOIycnmXYtTitLn6sImWTE=420</link>
       <description>Link found in newsletter: 'GPT-5 Codex 💻, Nvidia record sales 📈, a16z’s top AI apps 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fposts%2Fkevinweil_we-launched-a-host-of-great-features-in-activity-7366620300613984256-Ebtq%3Futm_source=tldrai/1/01000198f0d90428-37eb5b6d-2060-4cc7-8fe5-354be09f2cac-000000/-TrYhUQvZ9THA9xFL3jzqVOIycnmXYtTitLn6sImWTE=420</guid>
