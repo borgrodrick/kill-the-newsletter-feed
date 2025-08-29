@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 29 Aug 2025 01:00:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Aug 2025 06:19:44 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=df203952-818d-11f0-b920-1d50653202ac%26pt=campaign%26pv=4%26spa=1756116061%26t=1756117513%26s=4723c39e8a07e4fddc47bb0976961a45f2a09b577c4fc66b9e266664b94b6dca/1/01000198e0c2b544-6a7b0562-db2e-4688-88ba-da318131dd19-000000/vwfeAUypZJzbfHRhjxf7Y_5Uc78esIxyLq_u9wsxiF8=419</link>
@@ -698,7 +698,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Freducibleerrors.com%2Fprediction-markets%2F%3Futm_source=tldrnewsletter/1/01000198e5e9641d-4c86ce5d-eba8-4b20-98b0-7b037e6cdde8-000000/0Wo16rpLlMrC4LZhrs-BwUaRgCpTQCowbL0ECWRJYys=419</guid>
     </item>
     <item>
-      <title>GitHub - ENDESGA/PEP: Prediction-Encoded Pixels - a tiny yet powerful pixel art compression method</title>
+      <title>GitHub - ENDESGA/PEP: Prediction-Encoded Pixels - a tiny yet powerful single-header pixel art compression method that focuses on size</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FENDESGA%2FPEP%3Futm_source=tldrnewsletter/1/01000198e5e9641d-4c86ce5d-eba8-4b20-98b0-7b037e6cdde8-000000/42iojtLifaH7nN9_04W-R53leRBTwiZFgXS1b5Zjryo=419</link>
       <description>Link found in newsletter: 'Nvidia's robot brain 🤖, Google fights sideloading 📱, against prediction markets 📈'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FENDESGA%2FPEP%3Futm_source=tldrnewsletter/1/01000198e5e9641d-4c86ce5d-eba8-4b20-98b0-7b037e6cdde8-000000/42iojtLifaH7nN9_04W-R53leRBTwiZFgXS1b5Zjryo=419</guid>
@@ -1828,6 +1828,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbun.com%2Fblog%2Fhow-we-made-postMessage-string-500x-faster%3Futm_source=tldrwebdev/1/01000198f06b6038-279c8ffb-6b68-4a88-84cd-dff0d8afc936-000000/utYgvGWECwHLQRpw7glPkdZfAVWmXuhgF5Owp0w7sE8=420</link>
       <description>Link found in newsletter: 'Build your CLI Coding Agent 🤖, 500x faster postMessage 💨, Common TL failure modes ⛓️‍💥'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbun.com%2Fblog%2Fhow-we-made-postMessage-string-500x-faster%3Futm_source=tldrwebdev/1/01000198f06b6038-279c8ffb-6b68-4a88-84cd-dff0d8afc936-000000/utYgvGWECwHLQRpw7glPkdZfAVWmXuhgF5Owp0w7sE8=420</guid>
+    </item>
+    <item>
+      <title>How Your Program Actually Runs: From C to CPU. | by Tarun Chandragiri | Aug, 2025 | Level Up Coding</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flevelup.gitconnected.com%2Fhow-your-program-actually-runs-from-c-to-cpu-86e7d7ba299a%3Futm_source=tldrwebdev/1/01000198f06b6038-279c8ffb-6b68-4a88-84cd-dff0d8afc936-000000/B9lmbD1rFoGppjJ0HHNRMh4u9TeXKZgkAQNXyDlNPmA=420</link>
+      <description>Link found in newsletter: 'Build your CLI Coding Agent 🤖, 500x faster postMessage 💨, Common TL failure modes ⛓️‍💥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flevelup.gitconnected.com%2Fhow-your-program-actually-runs-from-c-to-cpu-86e7d7ba299a%3Futm_source=tldrwebdev/1/01000198f06b6038-279c8ffb-6b68-4a88-84cd-dff0d8afc936-000000/B9lmbD1rFoGppjJ0HHNRMh4u9TeXKZgkAQNXyDlNPmA=420</guid>
     </item>
     <item>
       <title>Piloting Claude for Chrome \ Anthropic</title>
