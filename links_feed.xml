@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Aug 2025 06:17:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 12:23:09 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=c7941e0e-81a4-11f0-9bf4-1d50653202ac%26pt=campaign%26pv=4%26spa=1756126900%26t=1756128181%26s=a2d352d28778739f387ad1654d55721c30fb1593fb016abbdc03e55fbf821f2e/1/01000198e1657e86-227f2a02-06cc-4235-8fb0-dec9ae079ee3-000000/rTIOqPBQNfKGlklVPYYniwr22Foa5rTV3zNd_GoF6Lo=419</link>
@@ -2107,6 +2107,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.oneusefulthing.org%2Fp%2Fmass-intelligence%3Futm_source=tldrai/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/rW_Hya1TfgZyorelrPOqaeqvM2ObdS8NKt05WNBiT3w=420</link>
       <description>Link found in newsletter: 'Grok Code Fast 1 💻, Microsoft’s first in-house model 🤖, Llama-4.5 rumors 🦙'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.oneusefulthing.org%2Fp%2Fmass-intelligence%3Futm_source=tldrai/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/rW_Hya1TfgZyorelrPOqaeqvM2ObdS8NKt05WNBiT3w=420</guid>
+    </item>
+    <item>
+      <title>Meta pushes to release new Llama model before 2026: report (META:NASDAQ) | Seeking Alpha</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FrtdPHh/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/t_tNsBAwwpYnfU2xY6zFxMieK1S79gb1pAjBJ3CiEww=420</link>
+      <description>Link found in newsletter: 'Grok Code Fast 1 💻, Microsoft’s first in-house model 🤖, Llama-4.5 rumors 🦙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FrtdPHh/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/t_tNsBAwwpYnfU2xY6zFxMieK1S79gb1pAjBJ3CiEww=420</guid>
     </item>
     <item>
       <title>Two in-house models in support of our mission   | Microsoft AI</title>
