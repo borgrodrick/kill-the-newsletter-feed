@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 31 Aug 2025 01:05:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Aug 2025 06:17:43 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=c7941e0e-81a4-11f0-9bf4-1d50653202ac%26pt=campaign%26pv=4%26spa=1756126900%26t=1756128181%26s=a2d352d28778739f387ad1654d55721c30fb1593fb016abbdc03e55fbf821f2e/1/01000198e1657e86-227f2a02-06cc-4235-8fb0-dec9ae079ee3-000000/rTIOqPBQNfKGlklVPYYniwr22Foa5rTV3zNd_GoF6Lo=419</link>
@@ -926,6 +926,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnewsletter.systemdesign.one%2Fp%2Fhow-to-do-code-review%3Futm_source=tldrwebdev/1/01000198eb454268-2d01bdd2-3bb5-4d1a-82ca-1eb27f12ad57-000000/x-vsoxbsqb44m2kkAaPuyQqvEhSonLC-jKPSIfpfz6k=420</guid>
     </item>
     <item>
+      <title>Best Practices for Building Agentic AI Systems: What Actually Works in Production - UserJot</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fuserjot.com%2Fblog%2Fbest-practices-building-agentic-ai-systems.html%3Futm_source=tldrwebdev/1/01000198eb454268-2d01bdd2-3bb5-4d1a-82ca-1eb27f12ad57-000000/bCJCs4Od3dPrifUaSyvQN-52IPS-adxRV6HrsvWF-q0=420</link>
+      <description>Link found in newsletter: 'Agentic System Best Practices 🤖, Fixing a 10 year old mistake 🔧, Scaling Code Reviews 📝'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fuserjot.com%2Fblog%2Fbest-practices-building-agentic-ai-systems.html%3Futm_source=tldrwebdev/1/01000198eb454268-2d01bdd2-3bb5-4d1a-82ca-1eb27f12ad57-000000/bCJCs4Od3dPrifUaSyvQN-52IPS-adxRV6HrsvWF-q0=420</guid>
+    </item>
+    <item>
       <title>FlashList v2: A Ground-Up Rewrite for React Native's New Architecture (2025) - Shopify</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshopify.engineering%2Fflashlist-v2%3Futm_source=tldrwebdev/1/01000198eb454268-2d01bdd2-3bb5-4d1a-82ca-1eb27f12ad57-000000/7I4gKRAuBbizSfD6gOJNva0Q5RUGZOKrpwJg-K64230=420</link>
       <description>Link found in newsletter: 'Agentic System Best Practices 🤖, Fixing a 10 year old mistake 🔧, Scaling Code Reviews 📝'</description>
@@ -1378,6 +1384,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbun.com%2Fblog%2Fhow-we-made-postMessage-string-500x-faster%3Futm_source=tldrwebdev/1/01000198f06b6038-279c8ffb-6b68-4a88-84cd-dff0d8afc936-000000/utYgvGWECwHLQRpw7glPkdZfAVWmXuhgF5Owp0w7sE8=420</link>
       <description>Link found in newsletter: 'Build your CLI Coding Agent 🤖, 500x faster postMessage 💨, Common TL failure modes ⛓️‍💥'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbun.com%2Fblog%2Fhow-we-made-postMessage-string-500x-faster%3Futm_source=tldrwebdev/1/01000198f06b6038-279c8ffb-6b68-4a88-84cd-dff0d8afc936-000000/utYgvGWECwHLQRpw7glPkdZfAVWmXuhgF5Owp0w7sE8=420</guid>
+    </item>
+    <item>
+      <title>How Your Program Actually Runs: From C to CPU. | by Tarun Chandragiri | Aug, 2025 | Level Up Coding</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flevelup.gitconnected.com%2Fhow-your-program-actually-runs-from-c-to-cpu-86e7d7ba299a%3Futm_source=tldrwebdev/1/01000198f06b6038-279c8ffb-6b68-4a88-84cd-dff0d8afc936-000000/B9lmbD1rFoGppjJ0HHNRMh4u9TeXKZgkAQNXyDlNPmA=420</link>
+      <description>Link found in newsletter: 'Build your CLI Coding Agent 🤖, 500x faster postMessage 💨, Common TL failure modes ⛓️‍💥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flevelup.gitconnected.com%2Fhow-your-program-actually-runs-from-c-to-cpu-86e7d7ba299a%3Futm_source=tldrwebdev/1/01000198f06b6038-279c8ffb-6b68-4a88-84cd-dff0d8afc936-000000/B9lmbD1rFoGppjJ0HHNRMh4u9TeXKZgkAQNXyDlNPmA=420</guid>
     </item>
     <item>
       <title>Piloting Claude for Chrome \ Anthropic</title>
