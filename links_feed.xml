@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Sep 2025 00:58:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 06:18:50 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=25cbd040-83e7-11f0-ba06-675ca0d59d1e%26pt=campaign%26pv=4%26spa=1756375246%26t=1756376708%26s=0ab38f86f3211b941edd0ef2cfa2740d43bc39d48c01019ba5cc7f4033e44f1f/1/01000198f035b70c-21309f31-5b2b-45f1-a388-fa4e3411a90b-000000/zY2FWHfjqF6XJs36DdwrsjUuL85v831znckw5MBKu-0=420</link>
@@ -182,6 +182,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=97fc3eec-83e8-11f0-addf-d73906ebed00%26pt=campaign%26pv=4%26spa=1756378852%26t=1756380225%26s=5e3b6f615945ff43aafe01ab6b3e380459fc27663ac488237950bf77d99851b4/1/01000198f06b6038-279c8ffb-6b68-4a88-84cd-dff0d8afc936-000000/zNpw77B8-cc7dWSQI-SMQf_9M3BzwN1pKIfM_2qqQ-E=420</guid>
     </item>
     <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/01000198f06b6038-279c8ffb-6b68-4a88-84cd-dff0d8afc936-000000/zQ7N3UJHmxZwQPCLo2Ymn3_OJ-9mJJXz8JIss9wh90c=420</link>
+      <description>Link found in newsletter: 'Build your CLI Coding Agent 🤖, 500x faster postMessage 💨, Common TL failure modes ⛓️‍💥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/01000198f06b6038-279c8ffb-6b68-4a88-84cd-dff0d8afc936-000000/zQ7N3UJHmxZwQPCLo2Ymn3_OJ-9mJJXz8JIss9wh90c=420</guid>
+    </item>
+    <item>
       <title>TLDR Jobs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000198f06b6038-279c8ffb-6b68-4a88-84cd-dff0d8afc936-000000/d-KZ5VUn7kMhwaLTbPK_brEDqwnfrWKLu4a0AMQulLQ=420</link>
       <description>Link found in newsletter: 'Build your CLI Coding Agent 🤖, 500x faster postMessage 💨, Common TL failure modes ⛓️‍💥'</description>
@@ -296,6 +302,18 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=470ef130-83f9-11f0-8944-2d24c457bae2%26pt=campaign%26pv=4%26spa=1756386053%26t=1756386403%26s=a0be66551a1347184c97ac27d199596259c53e8964e7874d812d35e2616576df/1/01000198f0c9a61e-f170e29d-dc04-452a-8f21-7fb526eb4c4a-000000/lfKc1Ss7DOFUZBjQp6HWTBXrDp_amlry0eN1wI4ZMnA=420</guid>
     </item>
     <item>
+      <title>Gabriel Sundaram - attain | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/01000198f0c9a61e-f170e29d-dc04-452a-8f21-7fb526eb4c4a-000000/eBA_AeCCO3Y5Xx9jZXgys9wKdBxoxf5fyPY-pbPVImM=420</link>
+      <description>Link found in newsletter: 'Klarna's US IPO plans 🚀, Visa closes US open-banking unit 🏦, Zip targets Nasdaq 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/01000198f0c9a61e-f170e29d-dc04-452a-8f21-7fb526eb4c4a-000000/eBA_AeCCO3Y5Xx9jZXgys9wKdBxoxf5fyPY-pbPVImM=420</guid>
+    </item>
+    <item>
+      <title>Matt Cheung - Ceviche AI | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/01000198f0c9a61e-f170e29d-dc04-452a-8f21-7fb526eb4c4a-000000/rO5ys98QkvwCAyKoV0ITeVZi719K6lOBxkIOGdF8TTo=420</link>
+      <description>Link found in newsletter: 'Klarna's US IPO plans 🚀, Visa closes US open-banking unit 🏦, Zip targets Nasdaq 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/01000198f0c9a61e-f170e29d-dc04-452a-8f21-7fb526eb4c4a-000000/rO5ys98QkvwCAyKoV0ITeVZi719K6lOBxkIOGdF8TTo=420</guid>
+    </item>
+    <item>
       <title>TLDR Jobs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000198f0c9a61e-f170e29d-dc04-452a-8f21-7fb526eb4c4a-000000/n7mTvsTgwTwWwyZCK9W9FbLVJGrGjCv0oY6tuNkC2Tg=420</link>
       <description>Link found in newsletter: 'Klarna's US IPO plans 🚀, Visa closes US open-banking unit 🏦, Zip targets Nasdaq 📈'</description>
@@ -384,6 +402,18 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=063d85e2-83f7-11f0-8726-2d24c457bae2%26pt=campaign%26pv=4%26spa=1756386063%26t=1756387410%26s=e7a88c9d48fc830f129f5b525e264fb047d3aadeedcb5e1b12fa60a599c1e3d3/1/01000198f0d90428-37eb5b6d-2060-4cc7-8fe5-354be09f2cac-000000/1x1LJTWFXuPKIA1VhX3_PvRf1Ql0TZq0qfz8Le6iVVw=420</link>
       <description>Link found in newsletter: 'GPT-5 Codex 💻, Nvidia record sales 📈, a16z’s top AI apps 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=063d85e2-83f7-11f0-8726-2d24c457bae2%26pt=campaign%26pv=4%26spa=1756386063%26t=1756387410%26s=e7a88c9d48fc830f129f5b525e264fb047d3aadeedcb5e1b12fa60a599c1e3d3/1/01000198f0d90428-37eb5b6d-2060-4cc7-8fe5-354be09f2cac-000000/1x1LJTWFXuPKIA1VhX3_PvRf1Ql0TZq0qfz8Le6iVVw=420</guid>
+    </item>
+    <item>
+      <title>sahil khoja - Google | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsahilkhoja%2F/1/01000198f0d90428-37eb5b6d-2060-4cc7-8fe5-354be09f2cac-000000/5NiAI-7Bc1xL6lgTOUQT48ah3-7quEfK1VYTQNZ0vZo=420</link>
+      <description>Link found in newsletter: 'GPT-5 Codex 💻, Nvidia record sales 📈, a16z’s top AI apps 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsahilkhoja%2F/1/01000198f0d90428-37eb5b6d-2060-4cc7-8fe5-354be09f2cac-000000/5NiAI-7Bc1xL6lgTOUQT48ah3-7quEfK1VYTQNZ0vZo=420</guid>
+    </item>
+    <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000198f0d90428-37eb5b6d-2060-4cc7-8fe5-354be09f2cac-000000/PhRRXF68m0_kdakBX5PEAn2PsNoqXDew-xMdIRFdEzc=420</link>
+      <description>Link found in newsletter: 'GPT-5 Codex 💻, Nvidia record sales 📈, a16z’s top AI apps 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000198f0d90428-37eb5b6d-2060-4cc7-8fe5-354be09f2cac-000000/PhRRXF68m0_kdakBX5PEAn2PsNoqXDew-xMdIRFdEzc=420</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
@@ -689,6 +719,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=5442ff08-84bd-11f0-9d77-590dc827b243%26pt=campaign%26pv=4%26spa=1756465244%26t=1756466352%26s=6ae50fce81f667c7799439851a8af11bd1ab7b34ba5d052ad69a1fb0f8c95269/1/01000198f58d9355-06abad3a-7b4d-4772-9458-d2a85da12b09-000000/qn4Xvj-BRId8eZkKB-adKpKR7fL4aq5eRd92Qzp73Fo=420</guid>
     </item>
     <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/01000198f58d9355-06abad3a-7b4d-4772-9458-d2a85da12b09-000000/7H-tlH42Z1FvMw0B7Oq4fntVWyYDSee1SUyRmbkhqrI=420</link>
+      <description>Link found in newsletter: 'Built-in AI Web APIs 🧑‍💻, Font handling best practices 📚, AI Reduced New Grad Jobs ⬇️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/01000198f58d9355-06abad3a-7b4d-4772-9458-d2a85da12b09-000000/7H-tlH42Z1FvMw0B7Oq4fntVWyYDSee1SUyRmbkhqrI=420</guid>
+    </item>
+    <item>
       <title>TLDR Jobs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000198f58d9355-06abad3a-7b4d-4772-9458-d2a85da12b09-000000/E4ncMRP4nagC6-ti6BOAWypmpzbbqD1JOz3Xde5IG1s=420</link>
       <description>Link found in newsletter: 'Built-in AI Web APIs 🧑‍💻, Font handling best practices 📚, AI Reduced New Grad Jobs ⬇️'</description>
@@ -795,6 +831,18 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=c680b166-84c5-11f0-8fd2-0d235acabf7c%26pt=campaign%26pv=4%26spa=1756472494%26t=1756473608%26s=3e7e35f149911c16982b3a3dc966b10bfbdc521fb0ea331f2c7a8d44b01668ed/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/X7zW219IoU5PRZ7lwQpXjkL4YYXtMXPhBBHpZsC2Wvc=420</link>
       <description>Link found in newsletter: 'Grok Code Fast 1 💻, Microsoft’s first in-house model 🤖, Llama-4.5 rumors 🦙'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=c680b166-84c5-11f0-8fd2-0d235acabf7c%26pt=campaign%26pv=4%26spa=1756472494%26t=1756473608%26s=3e7e35f149911c16982b3a3dc966b10bfbdc521fb0ea331f2c7a8d44b01668ed/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/X7zW219IoU5PRZ7lwQpXjkL4YYXtMXPhBBHpZsC2Wvc=420</guid>
+    </item>
+    <item>
+      <title>sahil khoja - Google | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsahilkhoja%2F/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/h5-Hz1Flf_IiiXnmK1IGx2yPaIUWArjL4zVqkxu2M_k=420</link>
+      <description>Link found in newsletter: 'Grok Code Fast 1 💻, Microsoft’s first in-house model 🤖, Llama-4.5 rumors 🦙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsahilkhoja%2F/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/h5-Hz1Flf_IiiXnmK1IGx2yPaIUWArjL4zVqkxu2M_k=420</guid>
+    </item>
+    <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/CFyC9dIX5KQGzQ7DhfMaXjtu_wtmr5kZdrWhiCMki3c=420</link>
+      <description>Link found in newsletter: 'Grok Code Fast 1 💻, Microsoft’s first in-house model 🤖, Llama-4.5 rumors 🦙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/CFyC9dIX5KQGzQ7DhfMaXjtu_wtmr5kZdrWhiCMki3c=420</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
@@ -1085,6 +1133,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=c83cee48-871d-11f0-ad93-f1b0e750f838%26pt=campaign%26pv=4%26spa=1756724458%26t=1756725602%26s=96e65b0f8bedb98558d8f14d1a91954de747a1f089d1aff78b53571983071c42/1/01000199050168b1-2d739a9d-34f8-4cd2-b88f-db45a4e23d67-000000/jtYILChSbHaykmXfh4ck9ZRbOsQ5II-BU1BH0mxSd6k=420</guid>
     </item>
     <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/01000199050168b1-2d739a9d-34f8-4cd2-b88f-db45a4e23d67-000000/JPASPvI0qh1Kxl_myXReEabVBnMfkSriwcMiq_DH4-U=420</link>
+      <description>Link found in newsletter: 'Delete tests 🚮, manage cognitive load 🧠, Android sideloading debates 📱'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/01000199050168b1-2d739a9d-34f8-4cd2-b88f-db45a4e23d67-000000/JPASPvI0qh1Kxl_myXReEabVBnMfkSriwcMiq_DH4-U=420</guid>
+    </item>
+    <item>
       <title>TLDR Jobs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000199050168b1-2d739a9d-34f8-4cd2-b88f-db45a4e23d67-000000/5lq64yY_547-FNN85XtDrBlce11Sqr-CVelXYEwf17I=420</link>
       <description>Link found in newsletter: 'Delete tests 🚮, manage cognitive load 🧠, Android sideloading debates 📱'</description>
@@ -1191,6 +1245,18 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=c7ba96fe-86e7-11f0-b3da-d53929292583%26pt=campaign%26pv=4%26spa=1756731690%26t=1756732102%26s=65d12605653ee9c2837adb6da9c7bf791a1386d0148f8de4690b5f381638b774/1/0100019905649743-a5468b7c-052d-42dc-bf19-1e69a8441175-000000/YGHua7DZAvU6R-iz_L_6D22713CAPpfkzpz3l2IWtpQ=420</link>
       <description>Link found in newsletter: 'Revolut US Bank Acquisition 🏦, Affirm’s Q4 Results 📈, Money Launderers Move $312B ☹️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=c7ba96fe-86e7-11f0-b3da-d53929292583%26pt=campaign%26pv=4%26spa=1756731690%26t=1756732102%26s=65d12605653ee9c2837adb6da9c7bf791a1386d0148f8de4690b5f381638b774/1/0100019905649743-a5468b7c-052d-42dc-bf19-1e69a8441175-000000/YGHua7DZAvU6R-iz_L_6D22713CAPpfkzpz3l2IWtpQ=420</guid>
+    </item>
+    <item>
+      <title>Gabriel Sundaram - attain | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019905649743-a5468b7c-052d-42dc-bf19-1e69a8441175-000000/y5Jz5edJy-5VrXaJ7qw51PrUAy58UDRuyBwrzDXJZtw=420</link>
+      <description>Link found in newsletter: 'Revolut US Bank Acquisition 🏦, Affirm’s Q4 Results 📈, Money Launderers Move $312B ☹️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019905649743-a5468b7c-052d-42dc-bf19-1e69a8441175-000000/y5Jz5edJy-5VrXaJ7qw51PrUAy58UDRuyBwrzDXJZtw=420</guid>
+    </item>
+    <item>
+      <title>Matt Cheung - Ceviche AI | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019905649743-a5468b7c-052d-42dc-bf19-1e69a8441175-000000/km_pGcQuLL7kCnqGq7kYu2rT42ZaSN_S7ys_grBuO10=420</link>
+      <description>Link found in newsletter: 'Revolut US Bank Acquisition 🏦, Affirm’s Q4 Results 📈, Money Launderers Move $312B ☹️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019905649743-a5468b7c-052d-42dc-bf19-1e69a8441175-000000/km_pGcQuLL7kCnqGq7kYu2rT42ZaSN_S7ys_grBuO10=420</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
