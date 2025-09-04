@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Sep 2025 00:58:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 06:19:09 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=063d85e2-83f7-11f0-8726-2d24c457bae2%26pt=campaign%26pv=4%26spa=1756386063%26t=1756387410%26s=e7a88c9d48fc830f129f5b525e264fb047d3aadeedcb5e1b12fa60a599c1e3d3/1/01000198f0d90428-37eb5b6d-2060-4cc7-8fe5-354be09f2cac-000000/1x1LJTWFXuPKIA1VhX3_PvRf1Ql0TZq0qfz8Le6iVVw=420</link>
@@ -455,6 +455,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/CFyC9dIX5KQGzQ7DhfMaXjtu_wtmr5kZdrWhiCMki3c=420</guid>
     </item>
     <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/dL_Y5O7BbVKhCNekK4-7_892KLZGAQSVSwPIzAvm6_U=420</link>
+      <description>Link found in newsletter: 'Grok Code Fast 1 💻, Microsoft’s first in-house model 🤖, Llama-4.5 rumors 🦙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/dL_Y5O7BbVKhCNekK4-7_892KLZGAQSVSwPIzAvm6_U=420</guid>
+    </item>
+    <item>
       <title>TLDR | Sponsorship Opportunities</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/xVarBVvIZJicIVf-NOLi-EwgFX79Ibau0d6N4xFk9Q0=420</link>
       <description>Link found in newsletter: 'Grok Code Fast 1 💻, Microsoft’s first in-house model 🤖, Llama-4.5 rumors 🦙'</description>
@@ -537,12 +543,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.oneusefulthing.org%2Fp%2Fmass-intelligence%3Futm_source=tldrai/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/rW_Hya1TfgZyorelrPOqaeqvM2ObdS8NKt05WNBiT3w=420</link>
       <description>Link found in newsletter: 'Grok Code Fast 1 💻, Microsoft’s first in-house model 🤖, Llama-4.5 rumors 🦙'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.oneusefulthing.org%2Fp%2Fmass-intelligence%3Futm_source=tldrai/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/rW_Hya1TfgZyorelrPOqaeqvM2ObdS8NKt05WNBiT3w=420</guid>
-    </item>
-    <item>
-      <title>Meta pushes to release new Llama model before 2026: report (META:NASDAQ) | Seeking Alpha</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FrtdPHh/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/t_tNsBAwwpYnfU2xY6zFxMieK1S79gb1pAjBJ3CiEww=420</link>
-      <description>Link found in newsletter: 'Grok Code Fast 1 💻, Microsoft’s first in-house model 🤖, Llama-4.5 rumors 🦙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FrtdPHh/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/t_tNsBAwwpYnfU2xY6zFxMieK1S79gb1pAjBJ3CiEww=420</guid>
     </item>
     <item>
       <title>Two in-house models in support of our mission   | Microsoft AI</title>
@@ -917,12 +917,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fprovoke.fm%2Fthe-rise-of-digital-banking-and-fintechs-branch-tomorrow%2F%3Futm_source=tldrfintech/1/0100019905649743-a5468b7c-052d-42dc-bf19-1e69a8441175-000000/4bK9DWyzvvJ4meSDjqm_RwGTfSnmTSI9EtXDSSbYBc0=420</guid>
     </item>
     <item>
-      <title>Building Financial Resiliency - Fintech Takes</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffintechtakes.com%2Farticles%2F2025-08-28%2Fbuilding-financial-resiliency%2F%3Futm_source=tldrfintech/1/0100019905649743-a5468b7c-052d-42dc-bf19-1e69a8441175-000000/fhxRR08ywApnJDYqpJMvRFVIi6_Jbmm8_ZQxY5DqiLM=420</link>
-      <description>Link found in newsletter: 'Revolut US Bank Acquisition 🏦, Affirm’s Q4 Results 📈, Money Launderers Move $312B ☹️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffintechtakes.com%2Farticles%2F2025-08-28%2Fbuilding-financial-resiliency%2F%3Futm_source=tldrfintech/1/0100019905649743-a5468b7c-052d-42dc-bf19-1e69a8441175-000000/fhxRR08ywApnJDYqpJMvRFVIi6_Jbmm8_ZQxY5DqiLM=420</guid>
-    </item>
-    <item>
       <title>Affirm stock rises 10% as CEO Levchin notes consumer strength</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F08%2F29%2Faffirm-stock-earnings.html%3Futm_source=tldrfintech/1/0100019905649743-a5468b7c-052d-42dc-bf19-1e69a8441175-000000/qaRYqut0g4Pcbm5C2LsrWy0RM2KznWF3AK2hpja2KHo=420</link>
       <description>Link found in newsletter: 'Revolut US Bank Acquisition 🏦, Affirm’s Q4 Results 📈, Money Launderers Move $312B ☹️'</description>
@@ -1205,12 +1199,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019909f5cc42-6cc3ee73-e8d0-432a-be6f-0739ebbc5780-000000/V6pYXfLanSFORh52dWAkXWx1XQtM0bogaZvCtu_Sj84=420</guid>
     </item>
     <item>
-      <title>Blocky Planet — Making Minecraft Spherical</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bowerbyte.com%2Fposts%2Fblocky-planet%2F%3Futm_source=tldrnewsletter/1/0100019909f5cc42-6cc3ee73-e8d0-432a-be6f-0739ebbc5780-000000/-N04oc4ZR0vs_ygRasBwK9Ou7YlNOdkYkJGcB7T0VkM=420</link>
-      <description>Link found in newsletter: 'Samsung AI glasses 👓, trillion dollar biotechs 🧬, building AI data analyst 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bowerbyte.com%2Fposts%2Fblocky-planet%2F%3Futm_source=tldrnewsletter/1/0100019909f5cc42-6cc3ee73-e8d0-432a-be6f-0739ebbc5780-000000/-N04oc4ZR0vs_ygRasBwK9Ou7YlNOdkYkJGcB7T0VkM=420</guid>
-    </item>
-    <item>
       <title>How big are our embeddings now and why? | ★❤✰ Vicki Boykis ★❤✰</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fvickiboykis.com%2F2025%2F09%2F01%2Fhow-big-are-our-embeddings-now-and-why%2F%3Futm_source=tldrnewsletter/1/0100019909f5cc42-6cc3ee73-e8d0-432a-be6f-0739ebbc5780-000000/pPnVFhzUn-P3oaYWg42vDnCnA7sn3pFvri_UN7xaQNQ=420</link>
       <description>Link found in newsletter: 'Samsung AI glasses 👓, trillion dollar biotechs 🧬, building AI data analyst 👨‍💻'</description>
@@ -1451,12 +1439,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjordaneldredge.com%2Fnotes%2Freact-rebasing%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/pjt0LadVLjtAZs_o8oDV3gvOFPoM9-fLeQMEIFEyR48=420</guid>
     </item>
     <item>
-      <title>Blocky Planet — Making Minecraft Spherical</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bowerbyte.com%2Fposts%2Fblocky-planet%2F%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/0B5s67NbSBvnxo84xMwALGRaSfGfnGxCKEffksMe0PY=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bowerbyte.com%2Fposts%2Fblocky-planet%2F%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/0B5s67NbSBvnxo84xMwALGRaSfGfnGxCKEffksMe0PY=420</guid>
-    </item>
-    <item>
       <title>AEO in action: Webflow’s approach to AI search | Webflow Webinars</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwebflow.com%2Fresources%2Fwebinars%2Faeo-maturity-model-in-action%3Futm_source=tldr%26utm_medium=sponsored-content%26utm_campaign=fy26-aeo-in-action-webinar%26utm_content=on-demand-webinar/5/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/OzEabd3hSQCwwem_py4YEnn5eW_aRVxLR0gODW72D_Q=420</link>
       <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
@@ -1623,6 +1605,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.aleksagordic.com%2Fblog%2Fvllm%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/_1Gz04qxwX_rqlfj8uoN5-av_y_Ie1pPFScYTXRYWrs=421</link>
       <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.aleksagordic.com%2Fblog%2Fvllm%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/_1Gz04qxwX_rqlfj8uoN5-av_y_Ie1pPFScYTXRYWrs=421</guid>
+    </item>
+    <item>
+      <title>OpenAI Plans to Build Data Center in India in Major Stargate Expansion in Asia - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2025-09-01%2Fopenai-plans-india-data-center-in-major-stargate-expansion%3FaccessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1Njc5NDE5NiwiZXhwIjoxNzU3Mzk4OTk2LCJhcnRpY2xlSWQiOiJUMVZPSzBHT1lNVTYwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.eU5ItHNSImZQS2iCwOcLjANI6M1taJfXhM-jXI5DgVY%26utm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/DoxOS6Xgnl1cnHcsG5t90tZQAY5hhc8xEv8R_dbbHrw=421</link>
+      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2025-09-01%2Fopenai-plans-india-data-center-in-major-stargate-expansion%3FaccessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1Njc5NDE5NiwiZXhwIjoxNzU3Mzk4OTk2LCJhcnRpY2xlSWQiOiJUMVZPSzBHT1lNVTYwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.eU5ItHNSImZQS2iCwOcLjANI6M1taJfXhM-jXI5DgVY%26utm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/DoxOS6Xgnl1cnHcsG5t90tZQAY5hhc8xEv8R_dbbHrw=421</guid>
     </item>
     <item>
       <title>TLDR AI</title>
@@ -1889,7 +1877,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.otherbranch.com%2Fshared%2Fblog%2Fno-you-dont-want-to-hire-the-best-engineers%3Futm_source=tldrwebdev/1/010001990f4cf10a-ae3042b0-86ee-46f2-b212-887571ebe903-000000/L7G7wafObaSMy4xqPFfISK2OYRPWnKFumSm5B_e2EKg=421</guid>
     </item>
     <item>
-      <title>Sanity</title>
+      <title>First attempt will be 95% garbage: A staff engineer's 6-week journey with Claude Code | Sanity</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sanity.io%2Fblog%2Ffirst-attempt-will-be-95-garbage%3Futm_source=tldrwebdev/1/010001990f4cf10a-ae3042b0-86ee-46f2-b212-887571ebe903-000000/mqFyGc6a8hQyHoTB4O-Cr-sWwsTK-LgqVKDFhRvw9-A=421</link>
       <description>Link found in newsletter: 'Chrome court decision 🏛, don’t hire the best devs 🙅, Amazon’s AI talent dilemma 🤔'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sanity.io%2Fblog%2Ffirst-attempt-will-be-95-garbage%3Futm_source=tldrwebdev/1/010001990f4cf10a-ae3042b0-86ee-46f2-b212-887571ebe903-000000/mqFyGc6a8hQyHoTB4O-Cr-sWwsTK-LgqVKDFhRvw9-A=421</guid>
