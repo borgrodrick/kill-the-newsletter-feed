@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Sep 2025 18:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Sep 2025 00:58:11 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=063d85e2-83f7-11f0-8726-2d24c457bae2%26pt=campaign%26pv=4%26spa=1756386063%26t=1756387410%26s=e7a88c9d48fc830f129f5b525e264fb047d3aadeedcb5e1b12fa60a599c1e3d3/1/01000198f0d90428-37eb5b6d-2060-4cc7-8fe5-354be09f2cac-000000/1x1LJTWFXuPKIA1VhX3_PvRf1Ql0TZq0qfz8Le6iVVw=420</link>
@@ -455,12 +455,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/CFyC9dIX5KQGzQ7DhfMaXjtu_wtmr5kZdrWhiCMki3c=420</guid>
     </item>
     <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/dL_Y5O7BbVKhCNekK4-7_892KLZGAQSVSwPIzAvm6_U=420</link>
-      <description>Link found in newsletter: 'Grok Code Fast 1 💻, Microsoft’s first in-house model 🤖, Llama-4.5 rumors 🦙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/dL_Y5O7BbVKhCNekK4-7_892KLZGAQSVSwPIzAvm6_U=420</guid>
-    </item>
-    <item>
       <title>TLDR | Sponsorship Opportunities</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/xVarBVvIZJicIVf-NOLi-EwgFX79Ibau0d6N4xFk9Q0=420</link>
       <description>Link found in newsletter: 'Grok Code Fast 1 💻, Microsoft’s first in-house model 🤖, Llama-4.5 rumors 🦙'</description>
@@ -543,6 +537,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.oneusefulthing.org%2Fp%2Fmass-intelligence%3Futm_source=tldrai/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/rW_Hya1TfgZyorelrPOqaeqvM2ObdS8NKt05WNBiT3w=420</link>
       <description>Link found in newsletter: 'Grok Code Fast 1 💻, Microsoft’s first in-house model 🤖, Llama-4.5 rumors 🦙'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.oneusefulthing.org%2Fp%2Fmass-intelligence%3Futm_source=tldrai/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/rW_Hya1TfgZyorelrPOqaeqvM2ObdS8NKt05WNBiT3w=420</guid>
+    </item>
+    <item>
+      <title>Meta pushes to release new Llama model before 2026: report (META:NASDAQ) | Seeking Alpha</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FrtdPHh/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/t_tNsBAwwpYnfU2xY6zFxMieK1S79gb1pAjBJ3CiEww=420</link>
+      <description>Link found in newsletter: 'Grok Code Fast 1 💻, Microsoft’s first in-house model 🤖, Llama-4.5 rumors 🦙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FrtdPHh/1/01000198f5fc4ad3-274b348c-967b-4322-ba9f-5317ab273e1c-000000/t_tNsBAwwpYnfU2xY6zFxMieK1S79gb1pAjBJ3CiEww=420</guid>
     </item>
     <item>
       <title>Two in-house models in support of our mission   | Microsoft AI</title>
@@ -785,12 +785,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.sigplan.org%2F2025%2F08%2F29%2Fai-models-need-a-virtual-machine%2F%3Futm_source=tldrwebdev/1/01000199050168b1-2d739a9d-34f8-4cd2-b88f-db45a4e23d67-000000/SnWUuuzBRSn-uqH2jXmN0DBz9yIRNBAoSQB1bqjxIBw=420</guid>
     </item>
     <item>
-      <title>Nibble Stew: We need to seriously think about what to do with C++ modules</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnibblestew.blogspot.com%2F2025%2F08%2Fwe-need-to-seriously-think-about-what.html%3Futm_source=tldrwebdev/1/01000199050168b1-2d739a9d-34f8-4cd2-b88f-db45a4e23d67-000000/9Q_lGyWkCsJoed3_YVYvPxWM73ThcNMBqBje9EsbOvU=420</link>
-      <description>Link found in newsletter: 'Delete tests 🚮, manage cognitive load 🧠, Android sideloading debates 📱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnibblestew.blogspot.com%2F2025%2F08%2Fwe-need-to-seriously-think-about-what.html%3Futm_source=tldrwebdev/1/01000199050168b1-2d739a9d-34f8-4cd2-b88f-db45a4e23d67-000000/9Q_lGyWkCsJoed3_YVYvPxWM73ThcNMBqBje9EsbOvU=420</guid>
-    </item>
-    <item>
       <title>What Every Argument About Sideloading Gets Wrong</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhugotunius.se%2F2025%2F08%2F31%2Fwhat-every-argument-about-sideloading-gets-wrong.html%3Futm_source=tldrwebdev/1/01000199050168b1-2d739a9d-34f8-4cd2-b88f-db45a4e23d67-000000/kZsTWMMoLPIxU6vMv0bbkOOgcB4xQghzDj53l-5f-Cw=420</link>
       <description>Link found in newsletter: 'Delete tests 🚮, manage cognitive load 🧠, Android sideloading debates 📱'</description>
@@ -909,6 +903,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.foxbusiness.com%2Ftechnology%2Fai-credit-disputing-tool-launches-consumers-nationwide-correct-credit-report-errors%3Futm_source=tldrfintech/1/0100019905649743-a5468b7c-052d-42dc-bf19-1e69a8441175-000000/qXdLksElYFgcYEN5YUUjHrkixx9h6gi6px3_Jk_I3cE=420</link>
       <description>Link found in newsletter: 'Revolut US Bank Acquisition 🏦, Affirm’s Q4 Results 📈, Money Launderers Move $312B ☹️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.foxbusiness.com%2Ftechnology%2Fai-credit-disputing-tool-launches-consumers-nationwide-correct-credit-report-errors%3Futm_source=tldrfintech/1/0100019905649743-a5468b7c-052d-42dc-bf19-1e69a8441175-000000/qXdLksElYFgcYEN5YUUjHrkixx9h6gi6px3_Jk_I3cE=420</guid>
+    </item>
+    <item>
+      <title>Workday teams with Zuora on billing precision</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffintech.global%2F2025%2F08%2F29%2Fworkday-teams-with-zuora-on-billing-precision%2F%3Futm_source=tldrfintech/1/0100019905649743-a5468b7c-052d-42dc-bf19-1e69a8441175-000000/5tgPME_CPCNedA5I1Vlh-KGbc-OSCNzPS6k1hNvvNeg=420</link>
+      <description>Link found in newsletter: 'Revolut US Bank Acquisition 🏦, Affirm’s Q4 Results 📈, Money Launderers Move $312B ☹️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffintech.global%2F2025%2F08%2F29%2Fworkday-teams-with-zuora-on-billing-precision%2F%3Futm_source=tldrfintech/1/0100019905649743-a5468b7c-052d-42dc-bf19-1e69a8441175-000000/5tgPME_CPCNedA5I1Vlh-KGbc-OSCNzPS6k1hNvvNeg=420</guid>
     </item>
     <item>
       <title>The Rise of Digital Banking and Fintechs: Branch Tomorrow - Provoke.fm Media</title>
@@ -1397,6 +1397,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fvercel.com%2Fblog%2Fa-proposal-for-inline-llm-instructions-in-html%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/5xxx9_pYnjXUExxFjlC1N69iwQTNtZxt6G4nPVF0Ylw=420</guid>
     </item>
     <item>
+      <title>Anthropic education report: How educators use Claude \ Anthropic</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fanthropic-education-report-how-educators-use-claude%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/tnnFIDoO9eQ_j5JbzGfZhO62JkOlnIRtIDXqJ1JuZsw=420</link>
+      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fanthropic-education-report-how-educators-use-claude%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/tnnFIDoO9eQ_j5JbzGfZhO62JkOlnIRtIDXqJ1JuZsw=420</guid>
+    </item>
+    <item>
       <title>Core KPI Metrics of LLM Performance and How to Track Them | Product Blog • Sentry</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.sentry.io%2Fcore-kpis-llm-performance-how-to-track-metrics%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/Bv2gp8m4JGwiHZUexF1cl4L-6FfPTeEGwaWMuRcVovs=420</link>
       <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
@@ -1617,12 +1623,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.aleksagordic.com%2Fblog%2Fvllm%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/_1Gz04qxwX_rqlfj8uoN5-av_y_Ie1pPFScYTXRYWrs=421</link>
       <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.aleksagordic.com%2Fblog%2Fvllm%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/_1Gz04qxwX_rqlfj8uoN5-av_y_Ie1pPFScYTXRYWrs=421</guid>
-    </item>
-    <item>
-      <title>OpenAI Plans to Build Data Center in India in Major Stargate Expansion in Asia - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2025-09-01%2Fopenai-plans-india-data-center-in-major-stargate-expansion%3FaccessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1Njc5NDE5NiwiZXhwIjoxNzU3Mzk4OTk2LCJhcnRpY2xlSWQiOiJUMVZPSzBHT1lNVTYwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.eU5ItHNSImZQS2iCwOcLjANI6M1taJfXhM-jXI5DgVY%26utm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/DoxOS6Xgnl1cnHcsG5t90tZQAY5hhc8xEv8R_dbbHrw=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2025-09-01%2Fopenai-plans-india-data-center-in-major-stargate-expansion%3FaccessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1Njc5NDE5NiwiZXhwIjoxNzU3Mzk4OTk2LCJhcnRpY2xlSWQiOiJUMVZPSzBHT1lNVTYwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.eU5ItHNSImZQS2iCwOcLjANI6M1taJfXhM-jXI5DgVY%26utm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/DoxOS6Xgnl1cnHcsG5t90tZQAY5hhc8xEv8R_dbbHrw=421</guid>
     </item>
     <item>
       <title>TLDR AI</title>
@@ -1889,7 +1889,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.otherbranch.com%2Fshared%2Fblog%2Fno-you-dont-want-to-hire-the-best-engineers%3Futm_source=tldrwebdev/1/010001990f4cf10a-ae3042b0-86ee-46f2-b212-887571ebe903-000000/L7G7wafObaSMy4xqPFfISK2OYRPWnKFumSm5B_e2EKg=421</guid>
     </item>
     <item>
-      <title>First attempt will be 95% garbage: A staff engineer's 6-week journey with Claude Code | Sanity</title>
+      <title>Sanity</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sanity.io%2Fblog%2Ffirst-attempt-will-be-95-garbage%3Futm_source=tldrwebdev/1/010001990f4cf10a-ae3042b0-86ee-46f2-b212-887571ebe903-000000/mqFyGc6a8hQyHoTB4O-Cr-sWwsTK-LgqVKDFhRvw9-A=421</link>
       <description>Link found in newsletter: 'Chrome court decision 🏛, don’t hire the best devs 🙅, Amazon’s AI talent dilemma 🤔'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sanity.io%2Fblog%2Ffirst-attempt-will-be-95-garbage%3Futm_source=tldrwebdev/1/010001990f4cf10a-ae3042b0-86ee-46f2-b212-887571ebe903-000000/mqFyGc6a8hQyHoTB4O-Cr-sWwsTK-LgqVKDFhRvw9-A=421</guid>
