@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Sep 2025 18:18:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 00:59:31 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=30110568-870f-11f0-a20a-b73fd6ae4cf4%26pt=campaign%26pv=4%26spa=1756720855%26t=1756722053%26s=af28516d871cb0e2e71bd4bae11a6b0d25fbb8c5d666c1e8c76c6753476626e8/1/0100019904cb40ed-004c81a7-c929-4b29-972c-20814dc139ad-000000/ll9ja09ELuNhaDiFH_OoFW4H6EXwAvqvjRs-tZrOWSo=420</link>
@@ -1322,7 +1322,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.otherbranch.com%2Fshared%2Fblog%2Fno-you-dont-want-to-hire-the-best-engineers%3Futm_source=tldrwebdev/1/010001990f4cf10a-ae3042b0-86ee-46f2-b212-887571ebe903-000000/L7G7wafObaSMy4xqPFfISK2OYRPWnKFumSm5B_e2EKg=421</guid>
     </item>
     <item>
-      <title>Sanity</title>
+      <title>First attempt will be 95% garbage: A staff engineer's 6-week journey with Claude Code | Sanity</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sanity.io%2Fblog%2Ffirst-attempt-will-be-95-garbage%3Futm_source=tldrwebdev/1/010001990f4cf10a-ae3042b0-86ee-46f2-b212-887571ebe903-000000/mqFyGc6a8hQyHoTB4O-Cr-sWwsTK-LgqVKDFhRvw9-A=421</link>
       <description>Link found in newsletter: 'Chrome court decision 🏛, don’t hire the best devs 🙅, Amazon’s AI talent dilemma 🤔'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sanity.io%2Fblog%2Ffirst-attempt-will-be-95-garbage%3Futm_source=tldrwebdev/1/010001990f4cf10a-ae3042b0-86ee-46f2-b212-887571ebe903-000000/mqFyGc6a8hQyHoTB4O-Cr-sWwsTK-LgqVKDFhRvw9-A=421</guid>
