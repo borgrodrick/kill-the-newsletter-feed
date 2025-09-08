@@ -6,301 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 08 Sep 2025 12:27:57 +0000</lastBuildDate>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=bd74f46e-87be-11f0-b8f9-91abb2f95327%26pt=campaign%26pv=4%26spa=1756810853%26t=1756811881%26s=241060ee0e7bd941dcb619d5dd2d065982907c1885ac723e565690c48c6b604a/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/TqCuDh4AP47ro4KoHl3y4kluvUkuBDtorcydw2u68s8=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=bd74f46e-87be-11f0-b8f9-91abb2f95327%26pt=campaign%26pv=4%26spa=1756810853%26t=1756811881%26s=241060ee0e7bd941dcb619d5dd2d065982907c1885ac723e565690c48c6b604a/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/TqCuDh4AP47ro4KoHl3y4kluvUkuBDtorcydw2u68s8=420</guid>
-    </item>
-    <item>
-      <title>Jenny X. - Meta | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/sXpldeUfiQ42627Ulpl3SQTCU8_QfGYI0xBX2ClvRzU=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/sXpldeUfiQ42627Ulpl3SQTCU8_QfGYI0xBX2ClvRzU=420</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/kplpqVqWcc-ZuiWpdRYmUhqz2fCbxtYwLTJyHwhtTp4=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/kplpqVqWcc-ZuiWpdRYmUhqz2fCbxtYwLTJyHwhtTp4=420</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/GpSZo7y0uqdzT9vHMokveG2eJjaz915GczoX2u_m8wM=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/GpSZo7y0uqdzT9vHMokveG2eJjaz915GczoX2u_m8wM=420</guid>
-    </item>
-    <item>
-      <title>TLDR Web Dev | Referral Hub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/ll4x0e7B2xzqyaOD8E5nCR1LD96tyCt0iCcKKBFsAZU=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/ll4x0e7B2xzqyaOD8E5nCR1LD96tyCt0iCcKKBFsAZU=420</guid>
-    </item>
-    <item>
-      <title>Beware clever devs, says Laravel inventor Taylor Otwell • The Register</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2025%2F09%2F01%2Flaravel_inventor_clever_devs%2F%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/y2ZxEJLdFhU7hm_z7cGogV--4nBp8CBcileaoISz1ZE=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2025%2F09%2F01%2Flaravel_inventor_clever_devs%2F%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/y2ZxEJLdFhU7hm_z7cGogV--4nBp8CBcileaoISz1ZE=420</guid>
-    </item>
-    <item>
-      <title>The Complete Guide to Self-Hosting Next.js at Scale — @dlhck</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdlhck.com%2Fthoughts%2Fthe-complete-guide-to-self-hosting-nextjs-at-scale%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/JA8w6pP-gNONVBjsC_7X_0GSKuRj_MMHdmsFduRyQYg=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdlhck.com%2Fthoughts%2Fthe-complete-guide-to-self-hosting-nextjs-at-scale%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/JA8w6pP-gNONVBjsC_7X_0GSKuRj_MMHdmsFduRyQYg=420</guid>
-    </item>
-    <item>
-      <title>@bennjordan.bsky.social on Bluesky</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbsky.app%2Fprofile%2Fbennjordan.bsky.social%2Fpost%2F3lxojrbessk2z%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/mLO5aGjjTNzTs2PUZc-24sf4yyE9_9IIioonOdII1as=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbsky.app%2Fprofile%2Fbennjordan.bsky.social%2Fpost%2F3lxojrbessk2z%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/mLO5aGjjTNzTs2PUZc-24sf4yyE9_9IIioonOdII1as=420</guid>
-    </item>
-    <item>
-      <title>A proposal for inline LLM instructions in HTML based on llms.txt - Vercel</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fvercel.com%2Fblog%2Fa-proposal-for-inline-llm-instructions-in-html%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/5xxx9_pYnjXUExxFjlC1N69iwQTNtZxt6G4nPVF0Ylw=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fvercel.com%2Fblog%2Fa-proposal-for-inline-llm-instructions-in-html%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/5xxx9_pYnjXUExxFjlC1N69iwQTNtZxt6G4nPVF0Ylw=420</guid>
-    </item>
-    <item>
-      <title>Anthropic education report: How educators use Claude \ Anthropic</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fanthropic-education-report-how-educators-use-claude%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/tnnFIDoO9eQ_j5JbzGfZhO62JkOlnIRtIDXqJ1JuZsw=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fanthropic-education-report-how-educators-use-claude%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/tnnFIDoO9eQ_j5JbzGfZhO62JkOlnIRtIDXqJ1JuZsw=420</guid>
-    </item>
-    <item>
-      <title>Core KPI Metrics of LLM Performance and How to Track Them | Product Blog • Sentry</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.sentry.io%2Fcore-kpis-llm-performance-how-to-track-metrics%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/Bv2gp8m4JGwiHZUexF1cl4L-6FfPTeEGwaWMuRcVovs=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.sentry.io%2Fcore-kpis-llm-performance-how-to-track-metrics%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/Bv2gp8m4JGwiHZUexF1cl4L-6FfPTeEGwaWMuRcVovs=420</guid>
-    </item>
-    <item>
-      <title>Container-aware GOMAXPROCS - The Go Programming Language</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.dev%2Fblog%2Fcontainer-aware-gomaxprocs%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/XZDlQ__W9ECkKbFhzvRlRoC2P1Q3zDo_Am0MCL17O3I=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.dev%2Fblog%2Fcontainer-aware-gomaxprocs%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/XZDlQ__W9ECkKbFhzvRlRoC2P1Q3zDo_Am0MCL17O3I=420</guid>
-    </item>
-    <item>
-      <title>GitHub - csswizardry/Obs.js: Context-aware web performance for everyone</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fcsswizardry%2FObs.js%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/VFHhtHmGcumgKl7K-HgzA8WlXU_6JwX5Qbpr_KAKoAE=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fcsswizardry%2FObs.js%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/VFHhtHmGcumgKl7K-HgzA8WlXU_6JwX5Qbpr_KAKoAE=420</guid>
-    </item>
-    <item>
-      <title>GitHub - trueadm/ripple: the elegant TypeScript UI framework</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Ftrueadm%2Fripple%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/pIDvwxyPklWWBc_dAZMI7bVzWRrfcckUzP85TfbdzMI=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Ftrueadm%2Fripple%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/pIDvwxyPklWWBc_dAZMI7bVzWRrfcckUzP85TfbdzMI=420</guid>
-    </item>
-    <item>
-      <title>Lessons on building an AI data analyst - Pedro Nascimento</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.pedronasc.com%2Farticles%2Flessons-building-ai-data-analyst%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/AaxO_PYK1VWyIuzMWcoHXffHHtiU71urZE57tYGgtnU=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.pedronasc.com%2Farticles%2Flessons-building-ai-data-analyst%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/AaxO_PYK1VWyIuzMWcoHXffHHtiU71urZE57tYGgtnU=420</guid>
-    </item>
-    <item>
-      <title>Thoughts on (Amazonian) Leadership</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.daemonology.net%2Fblog%2F2025-09-01-Thoughts-on-Amazonian-Leadership.html%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/jZCshlnTmrPJ3xWdt_EmYcWREiM-Iv2-VCFPoYYAh-8=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.daemonology.net%2Fblog%2F2025-09-01-Thoughts-on-Amazonian-Leadership.html%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/jZCshlnTmrPJ3xWdt_EmYcWREiM-Iv2-VCFPoYYAh-8=420</guid>
-    </item>
-    <item>
-      <title>Cognition | Don’t Build Multi-Agents</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcognition.ai%2Fblog%2Fdont-build-multi-agents%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/6Txw47fqXZtQgAfCeNaC9pVRVxUeo9hoXkksJsFwVSM=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcognition.ai%2Fblog%2Fdont-build-multi-agents%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/6Txw47fqXZtQgAfCeNaC9pVRVxUeo9hoXkksJsFwVSM=420</guid>
-    </item>
-    <item>
-      <title>Search</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjordaneldredge.com%2Fnotes%2Freact-rebasing%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/pjt0LadVLjtAZs_o8oDV3gvOFPoM9-fLeQMEIFEyR48=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjordaneldredge.com%2Fnotes%2Freact-rebasing%3Futm_source=tldrwebdev/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/pjt0LadVLjtAZs_o8oDV3gvOFPoM9-fLeQMEIFEyR48=420</guid>
-    </item>
-    <item>
-      <title>AEO in action: Webflow’s approach to AI search | Webflow Webinars</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwebflow.com%2Fresources%2Fwebinars%2Faeo-maturity-model-in-action%3Futm_source=tldr%26utm_medium=sponsored-content%26utm_campaign=fy26-aeo-in-action-webinar%26utm_content=on-demand-webinar/5/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/OzEabd3hSQCwwem_py4YEnn5eW_aRVxLR0gODW72D_Q=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwebflow.com%2Fresources%2Fwebinars%2Faeo-maturity-model-in-action%3Futm_source=tldr%26utm_medium=sponsored-content%26utm_campaign=fy26-aeo-in-action-webinar%26utm_content=on-demand-webinar/5/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/OzEabd3hSQCwwem_py4YEnn5eW_aRVxLR0gODW72D_Q=420</guid>
-    </item>
-    <item>
-      <title>AEO in action: Webflow’s approach to AI search | Webflow Webinars</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwebflow.com%2Fresources%2Fwebinars%2Faeo-maturity-model-in-action%3Futm_source=tldr%26utm_medium=sponsored-content%26utm_campaign=fy26-aeo-in-action-webinar%26utm_content=on-demand-webinar/4/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/HgWWJo7cV3dnphh25kb8i2ufpWDSPNYcEa-14iXbgv4=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwebflow.com%2Fresources%2Fwebinars%2Faeo-maturity-model-in-action%3Futm_source=tldr%26utm_medium=sponsored-content%26utm_campaign=fy26-aeo-in-action-webinar%26utm_content=on-demand-webinar/4/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/HgWWJo7cV3dnphh25kb8i2ufpWDSPNYcEa-14iXbgv4=420</guid>
-    </item>
-    <item>
-      <title>AEO in action: Webflow’s approach to AI search | Webflow Webinars</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwebflow.com%2Fresources%2Fwebinars%2Faeo-maturity-model-in-action%3Futm_source=tldr%26utm_medium=sponsored-content%26utm_campaign=fy26-aeo-in-action-webinar%26utm_content=on-demand-webinar/3/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/6YZeE5cfYjtw8Q9bvETyDk7TWcMlMWKT1KGhqlokiok=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwebflow.com%2Fresources%2Fwebinars%2Faeo-maturity-model-in-action%3Futm_source=tldr%26utm_medium=sponsored-content%26utm_campaign=fy26-aeo-in-action-webinar%26utm_content=on-demand-webinar/3/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/6YZeE5cfYjtw8Q9bvETyDk7TWcMlMWKT1KGhqlokiok=420</guid>
-    </item>
-    <item>
-      <title>AEO in action: Webflow’s approach to AI search | Webflow Webinars</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwebflow.com%2Fresources%2Fwebinars%2Faeo-maturity-model-in-action%3Futm_source=tldr%26utm_medium=sponsored-content%26utm_campaign=fy26-aeo-in-action-webinar%26utm_content=on-demand-webinar/2/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/A14-S66gQ3rQ41O-Sm-vQ08jvb-eLqM1izimosS3klY=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwebflow.com%2Fresources%2Fwebinars%2Faeo-maturity-model-in-action%3Futm_source=tldr%26utm_medium=sponsored-content%26utm_campaign=fy26-aeo-in-action-webinar%26utm_content=on-demand-webinar/2/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/A14-S66gQ3rQ41O-Sm-vQ08jvb-eLqM1izimosS3klY=420</guid>
-    </item>
-    <item>
-      <title>AEO in action: Webflow’s approach to AI search | Webflow Webinars</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwebflow.com%2Fresources%2Fwebinars%2Faeo-maturity-model-in-action%3Futm_source=tldr%26utm_medium=sponsored-content%26utm_campaign=fy26-aeo-in-action-webinar%26utm_content=on-demand-webinar/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/OCcYOVwx5pN_Z6JGRx1YoacOj6v4jdRFWqrlvMJIZmw=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwebflow.com%2Fresources%2Fwebinars%2Faeo-maturity-model-in-action%3Futm_source=tldr%26utm_medium=sponsored-content%26utm_campaign=fy26-aeo-in-action-webinar%26utm_content=on-demand-webinar/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/OCcYOVwx5pN_Z6JGRx1YoacOj6v4jdRFWqrlvMJIZmw=420</guid>
-    </item>
-    <item>
-      <title>TLDR WebDev</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=bd74f46e-87be-11f0-b8f9-91abb2f95327%26pt=campaign%26t=1756811881%26s=145db6b70bcb5045343a489e4bc134b55378dbe959afac23c86ccb1ede313049/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/JjFTvJLkicPd6FZ8Sz8ckoEx1kYzyZ2J741DcNMG0GI=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=bd74f46e-87be-11f0-b8f9-91abb2f95327%26pt=campaign%26t=1756811881%26s=145db6b70bcb5045343a489e4bc134b55378dbe959afac23c86ccb1ede313049/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/JjFTvJLkicPd6FZ8Sz8ckoEx1kYzyZ2J741DcNMG0GI=420</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/jbePuV0HB0LZaGL-CkOZ7kW9LV8C8ls3nDgOsuOMKTs=420</link>
-      <description>Link found in newsletter: 'Making Minecraft spherical 🎮, useTransition in React ⏳️, don’t build multi-agents 👎'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001990a25ecef-80efacf1-815e-4b96-a6a6-dafee7836c85-000000/jbePuV0HB0LZaGL-CkOZ7kW9LV8C8ls3nDgOsuOMKTs=420</guid>
-    </item>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=6d5fe0be-87dd-11f0-b5bd-a7fdd4eaaa36%26pt=campaign%26pv=4%26spa=1756818081%26t=1756819253%26s=034e1581d08d59afe994f032f5afa1218d1e5c831716c40a168add86ecd25075/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/cU6M3mIkWkDfbVOfPUHF0y30ygWIVRxKrULTxuIyjmA=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=6d5fe0be-87dd-11f0-b5bd-a7fdd4eaaa36%26pt=campaign%26pv=4%26spa=1756818081%26t=1756819253%26s=034e1581d08d59afe994f032f5afa1218d1e5c831716c40a168add86ecd25075/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/cU6M3mIkWkDfbVOfPUHF0y30ygWIVRxKrULTxuIyjmA=421</guid>
-    </item>
-    <item>
-      <title>sahil khoja - Google | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsahilkhoja%2F/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/qBdHAJsV_lRTFQ1hmG4hJtmlwuZoQBVaKO2VyDH-YxI=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsahilkhoja%2F/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/qBdHAJsV_lRTFQ1hmG4hJtmlwuZoQBVaKO2VyDH-YxI=421</guid>
-    </item>
-    <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/whT_p6g8RGWgTCuSySP63cjZWAA-IxEAxDFSFlftOOo=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/whT_p6g8RGWgTCuSySP63cjZWAA-IxEAxDFSFlftOOo=421</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/zvagt8yYSoolljCadkGx6BWaTi73kbFBaRkgEV1O8F8=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/zvagt8yYSoolljCadkGx6BWaTi73kbFBaRkgEV1O8F8=421</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/KiulJ3HCma-hCUFlgssDB7a4Qbt3HKSqSd4Gqv5HVVg=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/KiulJ3HCma-hCUFlgssDB7a4Qbt3HKSqSd4Gqv5HVVg=421</guid>
-    </item>
-    <item>
-      <title>TLDR AI | Referral Hub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/psrmhZfejqB18xrD7EUF90SrJGX-Y5JmbehndjfL4AA=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/psrmhZfejqB18xrD7EUF90SrJGX-Y5JmbehndjfL4AA=421</guid>
-    </item>
-    <item>
-      <title>The Barbell of Software Value | Mehmet</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmehmetmhy.com%2Fposts%2Fbarbell_theory%2F%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/W4ggvfGIlGWxKXau4h8uRiRFVWZsdt6GOTz5u_BqJPg=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmehmetmhy.com%2Fposts%2Fbarbell_theory%2F%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/W4ggvfGIlGWxKXau4h8uRiRFVWZsdt6GOTz5u_BqJPg=421</guid>
-    </item>
-    <item>
-      <title>Anthropic will start training its AI models on chat transcripts | The Verge</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2Fanthropic%2F767507%2Fanthropic-user-data-consumers-ai-models-training-privacy%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/BHtfWkzyg_lf3p2wlTX_eUQH3xMdhuVnYWVVl3XSb8M=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2Fanthropic%2F767507%2Fanthropic-user-data-consumers-ai-models-training-privacy%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/BHtfWkzyg_lf3p2wlTX_eUQH3xMdhuVnYWVVl3XSb8M=421</guid>
-    </item>
-    <item>
-      <title>Why Runway is eyeing the robotics industry for future revenue growth | TechCrunch</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F09%2F01%2Fwhy-runway-is-eyeing-the-robotics-industry-for-future-revenue-growth%2F%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/3x5fR-jrhHuEQxnGpJ7XSpuGvMrcGDeo9KdcIkkXJEQ=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F09%2F01%2Fwhy-runway-is-eyeing-the-robotics-industry-for-future-revenue-growth%2F%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/3x5fR-jrhHuEQxnGpJ7XSpuGvMrcGDeo9KdcIkkXJEQ=421</guid>
-    </item>
-    <item>
-      <title>Google tests new Audio Overview voices for NotebookLM</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fgoogle-tests-new-notebooklm-voices-and-audio-formats-brief-critique-debate%2F%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/Fkl4s31ra-P_i5ZCpPslhGCARElZcn3TGYflqSpEdlo=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fgoogle-tests-new-notebooklm-voices-and-audio-formats-brief-critique-debate%2F%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/Fkl4s31ra-P_i5ZCpPslhGCARElZcn3TGYflqSpEdlo=421</guid>
-    </item>
-    <item>
-      <title>Building Trust in the AI Age: A Guide to Consent, Privacy, and First-Party Data Excellence eBook | Resources | OneTrust</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.onetrust.com%2Fresources%2Ftldr-csyn%2Fbuilding-trust-in-the-ai-age-a-guide-to-consent-privacy-and-first-party-data-excellence-ebook%2F%3Futm_medium=newsletter%26utm_source=tldr-ai%26utm_campaign=20250902/2/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/Y7XdMe2QbHWuBpVCNpVAuwl91B5mj3dECjX80gGsZWU=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.onetrust.com%2Fresources%2Ftldr-csyn%2Fbuilding-trust-in-the-ai-age-a-guide-to-consent-privacy-and-first-party-data-excellence-ebook%2F%3Futm_medium=newsletter%26utm_source=tldr-ai%26utm_campaign=20250902/2/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/Y7XdMe2QbHWuBpVCNpVAuwl91B5mj3dECjX80gGsZWU=421</guid>
-    </item>
-    <item>
-      <title>Building Trust in the AI Age: A Guide to Consent, Privacy, and First-Party Data Excellence eBook | Resources | OneTrust</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.onetrust.com%2Fresources%2Ftldr-csyn%2Fbuilding-trust-in-the-ai-age-a-guide-to-consent-privacy-and-first-party-data-excellence-ebook%2F%3Futm_medium=newsletter%26utm_source=tldr-ai%26utm_campaign=20250902/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/0LfEOfI8HVzSd2dkOU34OV55wlVwV2AjNA3WNn0NsCo=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.onetrust.com%2Fresources%2Ftldr-csyn%2Fbuilding-trust-in-the-ai-age-a-guide-to-consent-privacy-and-first-party-data-excellence-ebook%2F%3Futm_medium=newsletter%26utm_source=tldr-ai%26utm_campaign=20250902/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/0LfEOfI8HVzSd2dkOU34OV55wlVwV2AjNA3WNn0NsCo=421</guid>
-    </item>
-    <item>
-      <title>Anguilla: The Caribbean island making millions from the AI boom - BBC News</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bbc.com%2Fnews%2Farticles%2Fcn5xdp427veo.amp%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/Qy-EjfVH5t0a_rnIyZx4M5zyKf5XyseEnjVH87GKpZE=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bbc.com%2Fnews%2Farticles%2Fcn5xdp427veo.amp%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/Qy-EjfVH5t0a_rnIyZx4M5zyKf5XyseEnjVH87GKpZE=421</guid>
-    </item>
-    <item>
-      <title>compiling dinner · GitHub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgist.github.com%2Fbreadchris%2F5877d1ab8381526bb81b551ffd5d1768%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/STZDxq8_b2BlRZFiKVBtSVVZfNsDpJsh3GyAjI1Xwu8=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgist.github.com%2Fbreadchris%2F5877d1ab8381526bb81b551ffd5d1768%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/STZDxq8_b2BlRZFiKVBtSVVZfNsDpJsh3GyAjI1Xwu8=421</guid>
-    </item>
-    <item>
-      <title>GitHub - yannqi/R-4B: The official repository of "R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs via Bi-Mode Integration"</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fyannqi%2FR-4B%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/4MaAEf06ogP5p83NLsi4uKtY6iOAJ9wWj8OP9BckQaM=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fyannqi%2FR-4B%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/4MaAEf06ogP5p83NLsi4uKtY6iOAJ9wWj8OP9BckQaM=421</guid>
-    </item>
-    <item>
-      <title>[Guide] AI-Powered Process Orchestration &amp; Automation | Camunda</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fpage.camunda.com%2Fwp-ai-powered-process-orchestration-guide%3Futm_medium=paid_leadgen%26utm_source=tldr%26utm_campaign=Guide.UltimateGuideToAIPoweredProcessOrchestration.25Q2.EN%26utm_content=aug_ai_newsletter_2/3/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/HdtBVFJuEhNHLE8gImz3pUpD7t4643_4U4y9AzbmW78=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fpage.camunda.com%2Fwp-ai-powered-process-orchestration-guide%3Futm_medium=paid_leadgen%26utm_source=tldr%26utm_campaign=Guide.UltimateGuideToAIPoweredProcessOrchestration.25Q2.EN%26utm_content=aug_ai_newsletter_2/3/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/HdtBVFJuEhNHLE8gImz3pUpD7t4643_4U4y9AzbmW78=421</guid>
-    </item>
-    <item>
-      <title>[Guide] AI-Powered Process Orchestration &amp; Automation | Camunda</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fpage.camunda.com%2Fwp-ai-powered-process-orchestration-guide%3Futm_medium=paid_leadgen%26utm_source=tldr%26utm_campaign=Guide.UltimateGuideToAIPoweredProcessOrchestration.25Q2.EN%26utm_content=aug_ai_newsletter_2/2/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/0zh5dznf-6ANYCgqY9D3w3S6gRfryE1kpuQo3RfeSA0=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fpage.camunda.com%2Fwp-ai-powered-process-orchestration-guide%3Futm_medium=paid_leadgen%26utm_source=tldr%26utm_campaign=Guide.UltimateGuideToAIPoweredProcessOrchestration.25Q2.EN%26utm_content=aug_ai_newsletter_2/2/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/0zh5dznf-6ANYCgqY9D3w3S6gRfryE1kpuQo3RfeSA0=421</guid>
-    </item>
-    <item>
-      <title>[Guide] AI-Powered Process Orchestration &amp; Automation | Camunda</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fpage.camunda.com%2Fwp-ai-powered-process-orchestration-guide%3Futm_medium=paid_leadgen%26utm_source=tldr%26utm_campaign=Guide.UltimateGuideToAIPoweredProcessOrchestration.25Q2.EN%26utm_content=aug_ai_newsletter_2/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/LxEuyTKToKDSsFp94dkXxoTgbUh5ok2tocV_zkyWQbA=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fpage.camunda.com%2Fwp-ai-powered-process-orchestration-guide%3Futm_medium=paid_leadgen%26utm_source=tldr%26utm_campaign=Guide.UltimateGuideToAIPoweredProcessOrchestration.25Q2.EN%26utm_content=aug_ai_newsletter_2/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/LxEuyTKToKDSsFp94dkXxoTgbUh5ok2tocV_zkyWQbA=421</guid>
-    </item>
-    <item>
-      <title>The Second-Order Effects of AI | Tomasz Tunguz</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftomtunguz.com%2Fmdb-earnings-2025-08-27%2F%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/7M1hnppt72qUj4t1sQMkG9Bo1olaXdPfm3wTf0D4BM8=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftomtunguz.com%2Fmdb-earnings-2025-08-27%2F%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/7M1hnppt72qUj4t1sQMkG9Bo1olaXdPfm3wTf0D4BM8=421</guid>
-    </item>
-    <item>
-      <title>AI and jobs, again - by Noah Smith - Noahpinion</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.noahpinion.blog%2Fp%2Fai-and-jobs-again%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/VC8aZnCC-gJoEkr7SC14ee4MSL0vpdTznkdGQG5d07Q=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.noahpinion.blog%2Fp%2Fai-and-jobs-again%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/VC8aZnCC-gJoEkr7SC14ee4MSL0vpdTznkdGQG5d07Q=421</guid>
-    </item>
-    <item>
-      <title>Inside vLLM: Anatomy of a High-Throughput LLM Inference System - Aleksa Gordić</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.aleksagordic.com%2Fblog%2Fvllm%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/_1Gz04qxwX_rqlfj8uoN5-av_y_Ie1pPFScYTXRYWrs=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.aleksagordic.com%2Fblog%2Fvllm%3Futm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/_1Gz04qxwX_rqlfj8uoN5-av_y_Ie1pPFScYTXRYWrs=421</guid>
-    </item>
-    <item>
-      <title>OpenAI Plans to Build Data Center in India in Major Stargate Expansion in Asia - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2025-09-01%2Fopenai-plans-india-data-center-in-major-stargate-expansion%3FaccessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1Njc5NDE5NiwiZXhwIjoxNzU3Mzk4OTk2LCJhcnRpY2xlSWQiOiJUMVZPSzBHT1lNVTYwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.eU5ItHNSImZQS2iCwOcLjANI6M1taJfXhM-jXI5DgVY%26utm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/DoxOS6Xgnl1cnHcsG5t90tZQAY5hhc8xEv8R_dbbHrw=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2025-09-01%2Fopenai-plans-india-data-center-in-major-stargate-expansion%3FaccessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1Njc5NDE5NiwiZXhwIjoxNzU3Mzk4OTk2LCJhcnRpY2xlSWQiOiJUMVZPSzBHT1lNVTYwMCIsImJjb25uZWN0SWQiOiI2NTc1NjkyN0UwMkM0N0MwQkQ0MDNEQTJGMEUyNzIyMyJ9.eU5ItHNSImZQS2iCwOcLjANI6M1taJfXhM-jXI5DgVY%26utm_source=tldrai/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/DoxOS6Xgnl1cnHcsG5t90tZQAY5hhc8xEv8R_dbbHrw=421</guid>
-    </item>
-    <item>
-      <title>TLDR AI</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=6d5fe0be-87dd-11f0-b5bd-a7fdd4eaaa36%26pt=campaign%26t=1756819253%26s=eb13c2e7a1b203273624664193af8c5633621033cd38678b3eca56906f4d5562/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/CvkfluUxjYbbfmTGWhEBudH-fp3qLnPlVEixD4QoTQw=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=6d5fe0be-87dd-11f0-b5bd-a7fdd4eaaa36%26pt=campaign%26t=1756819253%26s=eb13c2e7a1b203273624664193af8c5633621033cd38678b3eca56906f4d5562/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/CvkfluUxjYbbfmTGWhEBudH-fp3qLnPlVEixD4QoTQw=421</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/F3GFAV_cIJ22KPdvQN6NVPWZi2XL2jDBBBwkSwd42eI=421</link>
-      <description>Link found in newsletter: 'Alibaba’s new chip 💾, Meta discusses external models 🌐, OpenAI India expansion 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001990a9667c0-818c96b6-0c4a-4bcd-82bc-8c41d25728f5-000000/F3GFAV_cIJ22KPdvQN6NVPWZi2XL2jDBBBwkSwd42eI=421</guid>
-    </item>
+    <lastBuildDate>Mon, 08 Sep 2025 18:19:15 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=96cd73da-8896-11f0-a36a-7544a5a1abca%26pt=campaign%26pv=4%26spa=1756893659%26t=1756895093%26s=8c49e3d6f1a254e15b512aa09493622d0773814efc25121bec5e033f7e8e896e/1/010001990f1ba175-f82b6d40-ab45-4b2c-b5c6-9a9328a397f8-000000/oTOIF2Nrsn2g562tgH4bIEayUl6dt1ZUeqoNztnAViU=421</link>
@@ -554,7 +260,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.otherbranch.com%2Fshared%2Fblog%2Fno-you-dont-want-to-hire-the-best-engineers%3Futm_source=tldrwebdev/1/010001990f4cf10a-ae3042b0-86ee-46f2-b212-887571ebe903-000000/L7G7wafObaSMy4xqPFfISK2OYRPWnKFumSm5B_e2EKg=421</guid>
     </item>
     <item>
-      <title>First attempt will be 95% garbage: A staff engineer's 6-week journey with Claude Code | Sanity</title>
+      <title>Sanity</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sanity.io%2Fblog%2Ffirst-attempt-will-be-95-garbage%3Futm_source=tldrwebdev/1/010001990f4cf10a-ae3042b0-86ee-46f2-b212-887571ebe903-000000/mqFyGc6a8hQyHoTB4O-Cr-sWwsTK-LgqVKDFhRvw9-A=421</link>
       <description>Link found in newsletter: 'Chrome court decision 🏛, don’t hire the best devs 🙅, Amazon’s AI talent dilemma 🤔'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sanity.io%2Fblog%2Ffirst-attempt-will-be-95-garbage%3Futm_source=tldrwebdev/1/010001990f4cf10a-ae3042b0-86ee-46f2-b212-887571ebe903-000000/mqFyGc6a8hQyHoTB4O-Cr-sWwsTK-LgqVKDFhRvw9-A=421</guid>
@@ -632,7 +338,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsahilkhoja%2F/1/010001990fbbcca8-0730a908-651c-445a-8546-742d5e6f71b5-000000/0RjbpuGI3S2JYwEJDTGCQo6KT-MWniQloXMCOM1L_eU=421</guid>
     </item>
     <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <title>LinkedIn Login, Sign in | LinkedIn</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/010001990fbbcca8-0730a908-651c-445a-8546-742d5e6f71b5-000000/OPfisEPj1BLfzjUovb8SylYtkblQ27dQ1Kopzj3LFro=421</link>
       <description>Link found in newsletter: 'OpenAI acquires Statsig 🤝, Anthropic raises $13B 💰, Mistral Memory 🧠'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/010001990fbbcca8-0730a908-651c-445a-8546-742d5e6f71b5-000000/OPfisEPj1BLfzjUovb8SylYtkblQ27dQ1Kopzj3LFro=421</guid>
@@ -1934,7 +1640,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.teslarati.com%2Felon-musk-neuralink-restore-partial-vision-blind-next-year%2F%3Futm_source=tldrnewsletter/1/0100019928dbdcad-e7ef04c3-a731-4f4e-b9af-b64a7507c222-000000/0tDyYTVScsPdFneo5dqY4ryn5T8sVTPuhEzuAnlHJkg=421</guid>
     </item>
     <item>
-      <title>Hope for diabetes: CRISPR-edited cells pump out insulin in a person – and evade immune detection</title>
+      <title>Hope for diabetes: CRISPR-edited cells pump out insulin in a person — and evade immune detection</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.nature.com%2Farticles%2Fd41586-025-02802-5%3Futm_source=x%26utm_medium=social%26utm_campaign=nature%26linkId=16629254/1/0100019928dbdcad-e7ef04c3-a731-4f4e-b9af-b64a7507c222-000000/7200HGyuSagvsWoQQgtl-Er7qSrRNIziFEoyCn0cdUk=421</link>
       <description>Link found in newsletter: 'Elon's $1T comp 💰, OpenAI's AI movie 🎥, building with Nano Banana 🍌'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.nature.com%2Farticles%2Fd41586-025-02802-5%3Futm_source=x%26utm_medium=social%26utm_campaign=nature%26linkId=16629254/1/0100019928dbdcad-e7ef04c3-a731-4f4e-b9af-b64a7507c222-000000/7200HGyuSagvsWoQQgtl-Er7qSrRNIziFEoyCn0cdUk=421</guid>
@@ -1992,12 +1698,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019928dbdcad-e7ef04c3-a731-4f4e-b9af-b64a7507c222-000000/Z_OkalzU_FMDvaRM8xG_PyZfIMss1toLGgASkxLTMN8=421</link>
       <description>Link found in newsletter: 'Elon's $1T comp 💰, OpenAI's AI movie 🎥, building with Nano Banana 🍌'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019928dbdcad-e7ef04c3-a731-4f4e-b9af-b64a7507c222-000000/Z_OkalzU_FMDvaRM8xG_PyZfIMss1toLGgASkxLTMN8=421</guid>
-    </item>
-    <item>
-      <title>borgrodrick · Kill the Newsletter!</title>
-      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
-      <description>Link found in newsletter: 'Being good isn’t enough 🤔, serverless horrors 💀, understand video game blurs 🎮'</description>
-      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
     </item>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
@@ -2130,6 +1830,282 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/01000199291927a7-f0ffca66-aa0a-4b3e-9ca9-4f0a90af09da-000000/pNZRFp8Y6V3r7fAF3hdqZFInz8IOle5GqKe0o3JvP14=421</link>
       <description>Link found in newsletter: 'Being good isn’t enough 🤔, serverless horrors 💀, understand video game blurs 🎮'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/01000199291927a7-f0ffca66-aa0a-4b3e-9ca9-4f0a90af09da-000000/pNZRFp8Y6V3r7fAF3hdqZFInz8IOle5GqKe0o3JvP14=421</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=a4829bec-8c6d-11f0-b72a-8b0c9512ff1c%26pt=campaign%26pv=4%26spa=1757336530%26t=1757336900%26s=abe1d988231796e217194e0015ba3620e0b876608e6c74083880c4a724ef10bd/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/PI_KtmuVqOqfN6Jc2-3mld--RnkiBE6Jo_G0r1DIMlU=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=a4829bec-8c6d-11f0-b72a-8b0c9512ff1c%26pt=campaign%26pv=4%26spa=1757336530%26t=1757336900%26s=abe1d988231796e217194e0015ba3620e0b876608e6c74083880c4a724ef10bd/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/PI_KtmuVqOqfN6Jc2-3mld--RnkiBE6Jo_G0r1DIMlU=421</guid>
+    </item>
+    <item>
+      <title>Gabriel Sundaram - attain | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/_4OvuQd1KP04ByjJIV_8aeyJCKMJ4_N_qzNQz0IWkgM=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/_4OvuQd1KP04ByjJIV_8aeyJCKMJ4_N_qzNQz0IWkgM=421</guid>
+    </item>
+    <item>
+      <title>Matt Cheung - Ceviche AI | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/oKSFfuh8g7cLdYww-7rWxnpdc49N7LQuAwKj2rSDoTE=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/oKSFfuh8g7cLdYww-7rWxnpdc49N7LQuAwKj2rSDoTE=421</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/i2j1sBcuc4dNvlIfn5P6MhVPlQBxvhmfUvt7w6yPDsk=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/i2j1sBcuc4dNvlIfn5P6MhVPlQBxvhmfUvt7w6yPDsk=421</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/GbwEkPNEFWFE6LovRDqtf312EjgDCoDmTbuLHVz9N8o=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/GbwEkPNEFWFE6LovRDqtf312EjgDCoDmTbuLHVz9N8o=421</guid>
+    </item>
+    <item>
+      <title>PayPal picks Nova Credit to power US cash flow underwriting</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F106939%2Fpaypal-picks-nova-credit-to-power-us-cash-flow-underwriting%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/0LNtQ8G4Z8IyKxPI3wivOVOFYMpNqdPSviY_rTH6msg=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F106939%2Fpaypal-picks-nova-credit-to-power-us-cash-flow-underwriting%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/0LNtQ8G4Z8IyKxPI3wivOVOFYMpNqdPSviY_rTH6msg=421</guid>
+    </item>
+    <item>
+      <title>The Student Debt Tsunami: Systemic Risks and the Rise of Fintech Solutions</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ainvest.com%2Fnews%2Fstudent-debt-tsunami-systemic-risks-rise-fintech-solutions-2509%2F%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/bF34T7v8ljSx0Xde8gmnqzvpQyGLIkBaE_w4iBvQuto=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ainvest.com%2Fnews%2Fstudent-debt-tsunami-systemic-risks-rise-fintech-solutions-2509%2F%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/bF34T7v8ljSx0Xde8gmnqzvpQyGLIkBaE_w4iBvQuto=421</guid>
+    </item>
+    <item>
+      <title>Figure Tech Targets $4.3B Valuation in September IPO, Fueling Crypto’s Public Frenzy</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffinance.yahoo.com%2Fnews%2Ffigure-tech-targets-4-3b-183346699.html%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/00XPqkH5BiKcHUojBZsUNdAlGE_ZbEwOd4XU_tnNmeY=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffinance.yahoo.com%2Fnews%2Ffigure-tech-targets-4-3b-183346699.html%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/00XPqkH5BiKcHUojBZsUNdAlGE_ZbEwOd4XU_tnNmeY=421</guid>
+    </item>
+    <item>
+      <title>JPMorgan to Launch German Consumer Bank Next Year in Growth Push - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2025-09-04%2Fjpmorgan-to-launch-german-consumer-bank-next-year-in-growth-push%3FaccessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1NzI4ODQ5NSwiZXhwIjoxNzU3ODkzMjk1LCJhcnRpY2xlSWQiOiJUMjFXMlpHT1QwSk8wMCIsImJjb25uZWN0SWQiOiIwNUI0Mjc3OTAxODA0QzRGODZFN0I0QUVGNkVCN0M4RiJ9.HAoMsToGQ_2_A7NddfBTi3ksalspY1ZbwnlHc5wvCq0%26utm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/Vq6IKPvNgTWritMg5ZbDHRBTmyQsBESyovYdjdzBJIA=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2025-09-04%2Fjpmorgan-to-launch-german-consumer-bank-next-year-in-growth-push%3FaccessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1NzI4ODQ5NSwiZXhwIjoxNzU3ODkzMjk1LCJhcnRpY2xlSWQiOiJUMjFXMlpHT1QwSk8wMCIsImJjb25uZWN0SWQiOiIwNUI0Mjc3OTAxODA0QzRGODZFN0I0QUVGNkVCN0M4RiJ9.HAoMsToGQ_2_A7NddfBTi3ksalspY1ZbwnlHc5wvCq0%26utm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/Vq6IKPvNgTWritMg5ZbDHRBTmyQsBESyovYdjdzBJIA=421</guid>
+    </item>
+    <item>
+      <title>Fiserv buys CardFree for hospitality expansion | Payments Dive</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Ffiserv-buys-cardfree-for-hospitality-expansion%2F759392%2F%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/3cLL_pDPPGPYoDAnOVeExVqX-bn4odKnCU5uQdT3XH8=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Ffiserv-buys-cardfree-for-hospitality-expansion%2F759392%2F%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/3cLL_pDPPGPYoDAnOVeExVqX-bn4odKnCU5uQdT3XH8=421</guid>
+    </item>
+    <item>
+      <title>Tempo: The Blockchain Designed for Payments - Paradigm</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paradigm.xyz%2F2025%2F09%2Ftempo-payments-first-blockchain%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/Iy7sHW5yZBCUNKUlgHM9FSOEQ8AOXUyFz7hU06LydXE=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paradigm.xyz%2F2025%2F09%2Ftempo-payments-first-blockchain%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/Iy7sHW5yZBCUNKUlgHM9FSOEQ8AOXUyFz7hU06LydXE=421</guid>
+    </item>
+    <item>
+      <title>Revolut and Monzo go head-to-head with interest bearing savings accounts for kids</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46509%2Frevolut-and-monzo-go-head-to-head-with-interest-bearing-savings-accounts-for-kids%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/B5JXy8a9wtNvMMXOL06z0krhI63mF0hI8u1YlzKKvs8=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46509%2Frevolut-and-monzo-go-head-to-head-with-interest-bearing-savings-accounts-for-kids%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/B5JXy8a9wtNvMMXOL06z0krhI63mF0hI8u1YlzKKvs8=421</guid>
+    </item>
+    <item>
+      <title>Klarna is finally going public</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.popularfintech.com%2Fp%2Fklarna-is-finally-going-public%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/l0hQ8MUUBgToHg7aEQlrPXKEO3_xCnrAy9FA5_mRqWA=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.popularfintech.com%2Fp%2Fklarna-is-finally-going-public%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/l0hQ8MUUBgToHg7aEQlrPXKEO3_xCnrAy9FA5_mRqWA=421</guid>
+    </item>
+    <item>
+      <title>Fintech fixes AI's Unit Economics Problem</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.fintechbrainfood.com%2Fp%2Ffintech-fixes-ai%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/4ZMRvptkl3Dql2zEF4k5JPbgGfcY1YIvtftzPcx4vXQ=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.fintechbrainfood.com%2Fp%2Ffintech-fixes-ai%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/4ZMRvptkl3Dql2zEF4k5JPbgGfcY1YIvtftzPcx4vXQ=421</guid>
+    </item>
+    <item>
+      <title>Stripe Among First Fintechs to File Opposition to JPMorgan Fees - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2025-09-02%2Fstripe-among-first-fintechs-to-file-opposition-to-jpmorgan-fees%3Futm_source=chatgpt.com/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/4bIohmdFcKA_bRZR2ad8rwX_ZBGFu2-yAakWnEOUOM4=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2025-09-02%2Fstripe-among-first-fintechs-to-file-opposition-to-jpmorgan-fees%3Futm_source=chatgpt.com/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/4bIohmdFcKA_bRZR2ad8rwX_ZBGFu2-yAakWnEOUOM4=421</guid>
+    </item>
+    <item>
+      <title>TransUnion data breach hits 4.4 million consumers</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46510%2Ftransunion-data-breach-hits-44-million-consumers%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/njyhVU8NcnvbVn79r8huj7zqFwYfIaQx49Z2DzEMPV4=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46510%2Ftransunion-data-breach-hits-44-million-consumers%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/njyhVU8NcnvbVn79r8huj7zqFwYfIaQx49Z2DzEMPV4=421</guid>
+    </item>
+    <item>
+      <title>Robinhood, AppLovin, and Emcor pop on announcement of addition to S&amp;P 500 - Sherwood News</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsherwood.news%2Fmarkets%2Frobinhood-applovin-emcor-added-to-s-and-p-500%2F%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/y_9rtYisgU1fUUv24Fsx6LGK2Q-nyWyQeUBwEyu4B_4=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsherwood.news%2Fmarkets%2Frobinhood-applovin-emcor-added-to-s-and-p-500%2F%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/y_9rtYisgU1fUUv24Fsx6LGK2Q-nyWyQeUBwEyu4B_4=421</guid>
+    </item>
+    <item>
+      <title>Exclusive: Fintech startup Ramp hits $1 billion in annualized revenue after notching $22.5 billion valuation</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffinance.yahoo.com%2Fnews%2Fexclusive-fintech-startup-ramp-hits-091401367.html%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/R4lBIPaAcVX6DvOy6Q3f5h4FFd6WHzxNdnAfF0k60lE=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffinance.yahoo.com%2Fnews%2Fexclusive-fintech-startup-ramp-hits-091401367.html%3Futm_source=tldrfintech/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/R4lBIPaAcVX6DvOy6Q3f5h4FFd6WHzxNdnAfF0k60lE=421</guid>
+    </item>
+    <item>
+      <title>TLDR Fintech</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=a4829bec-8c6d-11f0-b72a-8b0c9512ff1c%26pt=campaign%26t=1757336900%26s=93594994e66c73c479cc8c20919b2752bcfa09069a0d63e978b93ac57eb5595d/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/P-6YVhc1GOUGYCs43DIOg5Ox7QFufBNliSFwhNbHf0g=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=a4829bec-8c6d-11f0-b72a-8b0c9512ff1c%26pt=campaign%26t=1757336900%26s=93594994e66c73c479cc8c20919b2752bcfa09069a0d63e978b93ac57eb5595d/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/P-6YVhc1GOUGYCs43DIOg5Ox7QFufBNliSFwhNbHf0g=421</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/QNYC9lMSqeTZVMIlS8mVJkDQHnKnJw-8OYgOtf7DWu8=421</link>
+      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/QNYC9lMSqeTZVMIlS8mVJkDQHnKnJw-8OYgOtf7DWu8=421</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=8d96fd0c-8cad-11f0-b880-67ed721abc8e%26pt=campaign%26pv=4%26spa=1757336507%26t=1757337799%26s=614ea146660372070ce0c0a7263985559033d3b5205f9ef40f3b15d78c84decf/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/wMDf9k2FeXt5pzmoVdxU_wxn0kPBwowFU7-dygPUHMU=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=8d96fd0c-8cad-11f0-b880-67ed721abc8e%26pt=campaign%26pv=4%26spa=1757336507%26t=1757337799%26s=614ea146660372070ce0c0a7263985559033d3b5205f9ef40f3b15d78c84decf/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/wMDf9k2FeXt5pzmoVdxU_wxn0kPBwowFU7-dygPUHMU=421</guid>
+    </item>
+    <item>
+      <title>sahil khoja - Google | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsahilkhoja%2F/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/Lvlz674MudH6oBB9dAMftyzcTr5Aue2Hn3A73xzAd10=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsahilkhoja%2F/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/Lvlz674MudH6oBB9dAMftyzcTr5Aue2Hn3A73xzAd10=421</guid>
+    </item>
+    <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/-lcTBsrirjrHSQ2_7lLeQbsUCdmN04FRuy8VLb_XszM=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/-lcTBsrirjrHSQ2_7lLeQbsUCdmN04FRuy8VLb_XszM=421</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/aBDFL6mpE64YH-Cxn6o8n6-rI_A7J7CD1WpQf9AqyzI=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/aBDFL6mpE64YH-Cxn6o8n6-rI_A7J7CD1WpQf9AqyzI=421</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/cpJAJNhRV__9nNmTxF2IzhtpuitE_IRJmfxkq0_0i84=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/cpJAJNhRV__9nNmTxF2IzhtpuitE_IRJmfxkq0_0i84=421</guid>
+    </item>
+    <item>
+      <title>TLDR AI | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/pYOmpYCzLgcM1NenFTuOdRGotNYQgKtx-twOrh8LKqU=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/pYOmpYCzLgcM1NenFTuOdRGotNYQgKtx-twOrh8LKqU=421</guid>
+    </item>
+    <item>
+      <title>moonshotai/Kimi-K2-Instruct-0905 · Hugging Face</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhuggingface.co%2Fmoonshotai%2FKimi-K2-Instruct-0905%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/KnLH3furuxip_RIRjX1IKiBY3SrJw1-NWzyUN12xxH8=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhuggingface.co%2Fmoonshotai%2FKimi-K2-Instruct-0905%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/KnLH3furuxip_RIRjX1IKiBY3SrJw1-NWzyUN12xxH8=421</guid>
+    </item>
+    <item>
+      <title>Medicare Will Start Using AI to Help Make Coverage Decisions Next Year - Newsweek</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.newsweek.com%2Fmedicare-will-start-using-ai-help-make-coverage-decisions-next-year-2111093%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/N1L_X3NLk7Dj83TuWHljY0HIiJn_xnM7DS0EijjP4Uw=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.newsweek.com%2Fmedicare-will-start-using-ai-help-make-coverage-decisions-next-year-2111093%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/N1L_X3NLk7Dj83TuWHljY0HIiJn_xnM7DS0EijjP4Uw=421</guid>
+    </item>
+    <item>
+      <title>Anthropic's leading researchers acted as moderate accelerationists — LessWrong</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.lesswrong.com%2Fposts%2FPBd7xPAh22y66rbme%2Fanthropic-s-leading-researchers-acted-as-moderate%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/mt6iDECOw3QpC6jobsOidPuvHST28LX5SUmywZ1fka0=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.lesswrong.com%2Fposts%2FPBd7xPAh22y66rbme%2Fanthropic-s-leading-researchers-acted-as-moderate%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/mt6iDECOw3QpC6jobsOidPuvHST28LX5SUmywZ1fka0=421</guid>
+    </item>
+    <item>
+      <title>GPT-5 Thinking in ChatGPT (aka Research Goblin) is shockingly good at search</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsimonwillison.net%2F2025%2FSep%2F6%2Fresearch-goblin%2F%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/HkFvhCKzfIxI0Zq5moze9djzDusfjL20T0fToLbxwvE=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsimonwillison.net%2F2025%2FSep%2F6%2Fresearch-goblin%2F%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/HkFvhCKzfIxI0Zq5moze9djzDusfjL20T0fToLbxwvE=421</guid>
+    </item>
+    <item>
+      <title>OpenAI reorganizes research team behind ChatGPT's personality | TechCrunch</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F09%2F05%2Fopenai-reorganizes-research-team-behind-chatgpts-personality%2F%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/O5hashSLQEly_dwzflHK1hpW31_6_FwXbFqz0tStIX0=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F09%2F05%2Fopenai-reorganizes-research-team-behind-chatgpts-personality%2F%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/O5hashSLQEly_dwzflHK1hpW31_6_FwXbFqz0tStIX0=421</guid>
+    </item>
+    <item>
+      <title>Product leadership in an AI-accelerated world</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fevents%2Fwebinars%2Fproduct-leadership-ai-accelerated-world%2F%3Futm_campaign=emea-26q3-uki-wb-hi-c3_o2-pl_in_ai_world_webinar%26utm_source=tldr%26utm_medium=newsletter%26utm_content=%2520newsletter%26src=-tldr_glb/2/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/Vlb6BlQ-8MkeMyJybjekw-4yGDb8a2WSrrwt2xL1Glk=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fevents%2Fwebinars%2Fproduct-leadership-ai-accelerated-world%2F%3Futm_campaign=emea-26q3-uki-wb-hi-c3_o2-pl_in_ai_world_webinar%26utm_source=tldr%26utm_medium=newsletter%26utm_content=%2520newsletter%26src=-tldr_glb/2/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/Vlb6BlQ-8MkeMyJybjekw-4yGDb8a2WSrrwt2xL1Glk=421</guid>
+    </item>
+    <item>
+      <title>Product leadership in an AI-accelerated world</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fevents%2Fwebinars%2Fproduct-leadership-ai-accelerated-world%2F%3Futm_campaign=emea-26q3-uki-wb-hi-c3_o2-pl_in_ai_world_webinar%26utm_source=tldr%26utm_medium=newsletter%26utm_content=%2520newsletter%26src=-tldr_glb/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/Zn5R-1cY_qLZvok_uqoHugYW6dtTvIXykdEQ2G2Xa6I=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fevents%2Fwebinars%2Fproduct-leadership-ai-accelerated-world%2F%3Futm_campaign=emea-26q3-uki-wb-hi-c3_o2-pl_in_ai_world_webinar%26utm_source=tldr%26utm_medium=newsletter%26utm_content=%2520newsletter%26src=-tldr_glb/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/Zn5R-1cY_qLZvok_uqoHugYW6dtTvIXykdEQ2G2Xa6I=421</guid>
+    </item>
+    <item>
+      <title>The Agentic Systems Series - The Agentic Systems Series</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgerred.github.io%2Fbuilding-an-agentic-system%2Findex.html%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/PUZB3aEI_z8rEvFbItCKxp_12B9lFgDcJbCB5C4FgjY=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgerred.github.io%2Fbuilding-an-agentic-system%2Findex.html%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/PUZB3aEI_z8rEvFbItCKxp_12B9lFgDcJbCB5C4FgjY=421</guid>
+    </item>
+    <item>
+      <title>The Race to Build a Distributed GPU Runtime  | Voltron Data</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fvoltrondata.com%2Fblog%2Fthe-race-to-build-a-distributed-gpu-runtime%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/kUReN03V80X_5O8afUAmjruuEdvHkEcsGOj8WBOhZik=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fvoltrondata.com%2Fblog%2Fthe-race-to-build-a-distributed-gpu-runtime%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/kUReN03V80X_5O8afUAmjruuEdvHkEcsGOj8WBOhZik=421</guid>
+    </item>
+    <item>
+      <title>Building a Future-ready AI Governance Program: Best Practices, Proven Frameworks, and expert insights for operationalizing responsible AI eBook | Resources | OneTrust</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.onetrust.com%2Fresources%2Ftldr-csyn%2Fbuilding-a-future-ready-ai-governance-program-best-practices-proven-frameworks-and-expert-insights-for-operationalizing-responsible-ai-ebook%2F/2/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/MO87bX51TQO0d3W9aiya0DYHwjphX-9UdflTXPLG5B4=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.onetrust.com%2Fresources%2Ftldr-csyn%2Fbuilding-a-future-ready-ai-governance-program-best-practices-proven-frameworks-and-expert-insights-for-operationalizing-responsible-ai-ebook%2F/2/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/MO87bX51TQO0d3W9aiya0DYHwjphX-9UdflTXPLG5B4=421</guid>
+    </item>
+    <item>
+      <title>Building a Future-ready AI Governance Program: Best Practices, Proven Frameworks, and expert insights for operationalizing responsible AI eBook | Resources | OneTrust</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.onetrust.com%2Fresources%2Ftldr-csyn%2Fbuilding-a-future-ready-ai-governance-program-best-practices-proven-frameworks-and-expert-insights-for-operationalizing-responsible-ai-ebook%2F/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/QtueZoqaDTW0KGX9zfvRySooYH52EooVqAaVCLsRCFQ=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.onetrust.com%2Fresources%2Ftldr-csyn%2Fbuilding-a-future-ready-ai-governance-program-best-practices-proven-frameworks-and-expert-insights-for-operationalizing-responsible-ai-ebook%2F/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/QtueZoqaDTW0KGX9zfvRySooYH52EooVqAaVCLsRCFQ=421</guid>
+    </item>
+    <item>
+      <title>Building a Future-ready AI Governance Program: Best Practices, Proven Frameworks, and expert insights for operationalizing responsible AI eBook | Resources | OneTrust</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.onetrust.com%2Fresources%2Ftldr-csyn%2Fbuilding-a-future-ready-ai-governance-program-best-practices-proven-frameworks-and-expert-insights-for-operationalizing-responsible-ai-ebook%2F%3Futm_medium=newsletter%26utm_source=tldr-ai%26utm_campaign=20250908/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/h8l_wGgZboUEqcZEbSiBej9_ugoQm5pvj_BX62enBHU=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.onetrust.com%2Fresources%2Ftldr-csyn%2Fbuilding-a-future-ready-ai-governance-program-best-practices-proven-frameworks-and-expert-insights-for-operationalizing-responsible-ai-ebook%2F%3Futm_medium=newsletter%26utm_source=tldr-ai%26utm_campaign=20250908/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/h8l_wGgZboUEqcZEbSiBej9_ugoQm5pvj_BX62enBHU=421</guid>
+    </item>
+    <item>
+      <title>Don’t Build An AI Safety Movement - by Anton Leicht</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwriting.antonleicht.me%2Fp%2Fdont-build-an-ai-safety-movement%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/q_NJaS4a2hmhJVdhWGsEOOfdAME0a6HwaBXtRzIG3Z8=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwriting.antonleicht.me%2Fp%2Fdont-build-an-ai-safety-movement%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/q_NJaS4a2hmhJVdhWGsEOOfdAME0a6HwaBXtRzIG3Z8=421</guid>
+    </item>
+    <item>
+      <title>MSN</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.msn.com%2Fen-ae%2Fnews%2Fother%2Fopenai-expects-business-to-burn-115-billion-through-2029%2Far-AA1M0lw8%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/KOf8LQcdmWiJCzn-hkg2thIBUvUr_fq-RJ09TJM9btY=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.msn.com%2Fen-ae%2Fnews%2Fother%2Fopenai-expects-business-to-burn-115-billion-through-2029%2Far-AA1M0lw8%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/KOf8LQcdmWiJCzn-hkg2thIBUvUr_fq-RJ09TJM9btY=421</guid>
+    </item>
+    <item>
+      <title>GitHub Universe 2025</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithubuniverse.com%2F%3Futm_source=TLDR%26utm_medium=Newsletter%26utm_campaign=09_08/4/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/o6Pa-8qZ_9XEBoOVEVNkcDLjTDQ3sT0dEPotULpy3fg=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithubuniverse.com%2F%3Futm_source=TLDR%26utm_medium=Newsletter%26utm_campaign=09_08/4/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/o6Pa-8qZ_9XEBoOVEVNkcDLjTDQ3sT0dEPotULpy3fg=421</guid>
+    </item>
+    <item>
+      <title>GitHub Universe 2025</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithubuniverse.com%2F%3Futm_source=TLDR%26utm_medium=Newsletter%26utm_campaign=09_08/3/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/Tkyi0p32ShJYO9cohah4dNhoJbl5gsyaZb6nScxmu3Q=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithubuniverse.com%2F%3Futm_source=TLDR%26utm_medium=Newsletter%26utm_campaign=09_08/3/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/Tkyi0p32ShJYO9cohah4dNhoJbl5gsyaZb6nScxmu3Q=421</guid>
+    </item>
+    <item>
+      <title>GitHub Universe 2025</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithubuniverse.com%2F%3Futm_source=TLDR%26utm_medium=Newsletter%26utm_campaign=09_08/2/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/45a9Ff3qS7_L6JquNvvhuaN6Tlqno0IjV9QZac1N68k=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithubuniverse.com%2F%3Futm_source=TLDR%26utm_medium=Newsletter%26utm_campaign=09_08/2/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/45a9Ff3qS7_L6JquNvvhuaN6Tlqno0IjV9QZac1N68k=421</guid>
+    </item>
+    <item>
+      <title>GitHub Universe 2025</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithubuniverse.com%2F%3Futm_source=TLDR%26utm_medium=Newsletter%26utm_campaign=09_08/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/f8ClyGNLJ7RpelIVVTkKCF7OW22DOGmqUMYq8gsmTo0=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithubuniverse.com%2F%3Futm_source=TLDR%26utm_medium=Newsletter%26utm_campaign=09_08/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/f8ClyGNLJ7RpelIVVTkKCF7OW22DOGmqUMYq8gsmTo0=421</guid>
+    </item>
+    <item>
+      <title>TLDR AI</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=8d96fd0c-8cad-11f0-b880-67ed721abc8e%26pt=campaign%26t=1757337799%26s=b6bb5e4a9b1d1d6792d068bde6e338c96c0c0a1f19fcc3c93aaf223dbcad735d/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/0xr02OQSe5bA_bzCvwLUIOw9YVwB26049CV-Rz5pUV4=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=8d96fd0c-8cad-11f0-b880-67ed721abc8e%26pt=campaign%26t=1757337799%26s=b6bb5e4a9b1d1d6792d068bde6e338c96c0c0a1f19fcc3c93aaf223dbcad735d/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/0xr02OQSe5bA_bzCvwLUIOw9YVwB26049CV-Rz5pUV4=421</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/WReGWlf7lNOavkMM8Clsdkg1EtlEixGO6DBbii7lzDE=421</link>
+      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/WReGWlf7lNOavkMM8Clsdkg1EtlEixGO6DBbii7lzDE=421</guid>
     </item>
   </channel>
 </rss>
