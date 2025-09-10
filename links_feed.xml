@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Sep 2025 18:16:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Sep 2025 00:59:11 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=3d1ee50a-8966-11f0-a453-d902ad4a76ca%26pt=campaign%26pv=4%26spa=1756980048%26t=1756981494%26s=32eb2d2c9297e687d0b92036f0dcd58cede30683c83bf8cc9eea227d4e044514/1/0100019914420476-2d358874-8388-4500-9d95-d63ecdd9986d-000000/HYn-he1nQ50CKClgN_SgwkYLn4w-u08Fr9HV3v2OxCo=421</link>
@@ -686,7 +686,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Finterestingengineering.com%2Fhealth%2Fneuralink-expands-brain-implant-surgeries-canada%3Futm_source=tldrnewsletter/1/010001991968f6b6-86d4e332-1d10-4269-8147-9b2c7d376b0d-000000/GUgo6eup6UpdKxbLgI_QvpnSehMs51AiwA7UobhpguM=421</guid>
     </item>
     <item>
-      <title>iPhone 17, the 'thinnest iPhone ever,' and everything else we're expecting out of Apple's hardware event | TechCrunch</title>
+      <title>iPhone 17, iPhone Air, AirPods Pro 3, and everything else announced at Apple's hardware event | TechCrunch</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F09%2F04%2Fiphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event%2F%3Futm_source=tldrnewsletter/1/010001991968f6b6-86d4e332-1d10-4269-8147-9b2c7d376b0d-000000/oZvZW6O-hmCM-CwhqD5UPVLeMnWRNONPx4THYL9kdLA=421</link>
       <description>Link found in newsletter: 'OpenAI's LinkedIn rival 💼, Stripe launches blockchain 🪙, PMs on AI agents 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F09%2F04%2Fiphone-17-the-thinnest-iphone-ever-and-everything-else-were-expecting-out-of-apples-hardware-event%2F%3Futm_source=tldrnewsletter/1/010001991968f6b6-86d4e332-1d10-4269-8147-9b2c7d376b0d-000000/oZvZW6O-hmCM-CwhqD5UPVLeMnWRNONPx4THYL9kdLA=421</guid>
@@ -2028,6 +2028,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fanthropic-is-endorsing-sb-53%3Futm_source=tldrai/1/010001992ea23c32-9740b395-a1ac-4c82-a13d-4eb1e43591d3-000000/sfXDwjaIEx0jyN5cJ8WCF7BH0JYtbUW1qkjiV0fFnWg=421</link>
       <description>Link found in newsletter: 'OpenAI discusses leaving SF 🌉, Databricks hits $100B 💰, Veo 3 upgrades 🎥'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fanthropic-is-endorsing-sb-53%3Futm_source=tldrai/1/010001992ea23c32-9740b395-a1ac-4c82-a13d-4eb1e43591d3-000000/sfXDwjaIEx0jyN5cJ8WCF7BH0JYtbUW1qkjiV0fFnWg=421</guid>
+    </item>
+    <item>
+      <title>Judge skewers $1.5B Anthropic settlement with authors in pirated books case over AI training | AP News</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FOtfCPF/1/010001992ea23c32-9740b395-a1ac-4c82-a13d-4eb1e43591d3-000000/sQQHbcsLPntdwJQdvl-GUdHASqIbqlMHRFTQSJVQVlk=421</link>
+      <description>Link found in newsletter: 'OpenAI discusses leaving SF 🌉, Databricks hits $100B 💰, Veo 3 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FOtfCPF/1/010001992ea23c32-9740b395-a1ac-4c82-a13d-4eb1e43591d3-000000/sQQHbcsLPntdwJQdvl-GUdHASqIbqlMHRFTQSJVQVlk=421</guid>
     </item>
     <item>
       <title>Don't Build an RL Environment Startup</title>
