@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 12 Sep 2025 00:57:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Sep 2025 06:19:13 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=7e9bc804-8c90-11f0-a505-f7fc195374ed%26pt=campaign%26pv=4%26spa=1757325673%26t=1757327121%26s=e8cadf0d44646d475ade0273a8ae42e22de3846007756b47388036a7a0d7a4b7/1/0100019928dbdcad-e7ef04c3-a731-4f4e-b9af-b64a7507c222-000000/9pDKd2Y4ZzSu1G68vFgR50u8RvvWqZeO28AamzOYbJo=421</link>
@@ -330,12 +330,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=a4829bec-8c6d-11f0-b72a-8b0c9512ff1c%26pt=campaign%26pv=4%26spa=1757336530%26t=1757336900%26s=abe1d988231796e217194e0015ba3620e0b876608e6c74083880c4a724ef10bd/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/PI_KtmuVqOqfN6Jc2-3mld--RnkiBE6Jo_G0r1DIMlU=421</link>
       <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=a4829bec-8c6d-11f0-b72a-8b0c9512ff1c%26pt=campaign%26pv=4%26spa=1757336530%26t=1757336900%26s=abe1d988231796e217194e0015ba3620e0b876608e6c74083880c4a724ef10bd/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/PI_KtmuVqOqfN6Jc2-3mld--RnkiBE6Jo_G0r1DIMlU=421</guid>
-    </item>
-    <item>
-      <title>Gabriel Sundaram - attain | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/_4OvuQd1KP04ByjJIV_8aeyJCKMJ4_N_qzNQz0IWkgM=421</link>
-      <description>Link found in newsletter: 'Ramp $1bn revenue 💸, S&amp;P 500 newcomers 📈, Stripe’s Tempo 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019929711279-3af884f3-f620-4b11-a3f0-f281ca0590ed-000000/_4OvuQd1KP04ByjJIV_8aeyJCKMJ4_N_qzNQz0IWkgM=421</guid>
     </item>
     <item>
       <title>Matt Cheung - Ceviche AI | LinkedIn</title>
@@ -758,6 +752,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=406a1ad0-8d5e-11f0-b7e8-2d3c4295cc2a%26pt=campaign%26pv=4%26spa=1757415654%26t=1757416545%26s=13191e4b69a54ce5b486447a0d2936448521885808f5f4f44691d22914e4bab4/1/010001992e305c92-f51c6ac3-3a02-4b2b-add9-9f1dfb08fb3f-000000/n_YGTV8yl4VwIcdrSfEVQev3tIFwKTavYC59NwKK3oc=421</guid>
     </item>
     <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001992e305c92-f51c6ac3-3a02-4b2b-add9-9f1dfb08fb3f-000000/cW3Tnx6io3nhMVcLKQDgNmyxbAK32fB-WxixqAuinYA=421</link>
+      <description>Link found in newsletter: 'Reading code is hard 👀, fixing a 15-year eng problem 🛠, how to prevent bugs 🧹'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001992e305c92-f51c6ac3-3a02-4b2b-add9-9f1dfb08fb3f-000000/cW3Tnx6io3nhMVcLKQDgNmyxbAK32fB-WxixqAuinYA=421</guid>
+    </item>
+    <item>
       <title>TLDR Jobs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001992e305c92-f51c6ac3-3a02-4b2b-add9-9f1dfb08fb3f-000000/ucUvqdNUgYgJ-ypH6OIRwGF75KUxuHQNst2igv0WMzQ=421</link>
       <description>Link found in newsletter: 'Reading code is hard 👀, fixing a 15-year eng problem 🛠, how to prevent bugs 🧹'</description>
@@ -924,12 +924,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsahilkhoja%2F/1/010001992ea23c32-9740b395-a1ac-4c82-a13d-4eb1e43591d3-000000/_WzlkB358UPi0cRKXHdA80mKd4ZUoS9qUteqG_QIDVY=421</link>
       <description>Link found in newsletter: 'OpenAI discusses leaving SF 🌉, Databricks hits $100B 💰, Veo 3 upgrades 🎥'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsahilkhoja%2F/1/010001992ea23c32-9740b395-a1ac-4c82-a13d-4eb1e43591d3-000000/_WzlkB358UPi0cRKXHdA80mKd4ZUoS9qUteqG_QIDVY=421</guid>
-    </item>
-    <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/010001992ea23c32-9740b395-a1ac-4c82-a13d-4eb1e43591d3-000000/GOuJpqv7DME9hnVCZmmOzT6C9WSouDlV5qNbyKbavDw=421</link>
-      <description>Link found in newsletter: 'OpenAI discusses leaving SF 🌉, Databricks hits $100B 💰, Veo 3 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/010001992ea23c32-9740b395-a1ac-4c82-a13d-4eb1e43591d3-000000/GOuJpqv7DME9hnVCZmmOzT6C9WSouDlV5qNbyKbavDw=421</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
@@ -1673,12 +1667,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250910-None_Experiment-FALSE%26utm_term=headline-CutYourQACyclesDownToMinutesWithQAWolf%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownToMinutesWithQAWolf_None_None_None_Newsletter-SecondaryPlacement_20250910_v1/1/01000199384e73ab-675af09c-c244-4452-b066-6c3d405ecac6-000000/Sa0ZCHB76gWmKqm_4YPo5IQWH5AxEmxinOahtGIJos8=422</guid>
     </item>
     <item>
-      <title>Construction Robot Printing Floor Plan: The Future of Building Design - Utube Publisher</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.utubepublisher.in%2F2025%2F09%2Fconstruction-robot-printing-floor-plan.html%3Futm_source=tldrnewsletter/1/01000199384e73ab-675af09c-c244-4452-b066-6c3d405ecac6-000000/yKFnfpcMJPGQnhawHUCHHTkkm5mqKgKAbwyKad2tPN0=422</link>
-      <description>Link found in newsletter: 'OpenAI's $300B deal 💰, Starlink mobile carrier 🛰️, custom sort algos 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.utubepublisher.in%2F2025%2F09%2Fconstruction-robot-printing-floor-plan.html%3Futm_source=tldrnewsletter/1/01000199384e73ab-675af09c-c244-4452-b066-6c3d405ecac6-000000/yKFnfpcMJPGQnhawHUCHHTkkm5mqKgKAbwyKad2tPN0=422</guid>
-    </item>
-    <item>
       <title>Musk Says SpaceX to Fly Bigger, Fully Reusable Starship in 2026 - Bloomberg</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2025-09-10%2Fmusk-says-spacex-to-fly-bigger-fully-reusable-starship-in-2026%3FaccessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1NzU2NjcwNCwiZXhwIjoxNzU4MTcxNTA0LCJhcnRpY2xlSWQiOiJUMkRMTVBHUFdDTFkwMCIsImJjb25uZWN0SWQiOiJFQTExNDNDNTM4NEE0RUY5QTg5RjJEN0IxMTg2MzcwOSJ9.pTCNyACNSfNbKqknVmsOs06ZO3EHZTSo8kRD54PNpcc%26utm_source=tldrnewsletter/1/01000199384e73ab-675af09c-c244-4452-b066-6c3d405ecac6-000000/E4tKKNSXviTKz0ECHDGmxv81DgLIliTBCJrEQMS60I8=422</link>
       <description>Link found in newsletter: 'OpenAI's $300B deal 💰, Starlink mobile carrier 🛰️, custom sort algos 👨‍💻'</description>
@@ -1737,12 +1725,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=30a1330a-8ee8-11f0-a3b2-25f760c2824f%26pt=campaign%26pv=4%26spa=1757588440%26t=1757589328%26s=3531808806734cf57cb8fa3db866b7a6ddb32c205555951f3ea0d9addd40d32b/1/01000199387cd0ea-a40ab0cd-9f54-44aa-bde6-2da65e65422b-000000/u_fY4cHTrCCbl7FwNY5jfSeCfQahLFsY9oaIeHOEAiw=422</link>
       <description>Link found in newsletter: 'Shopify’s big React Native migration 📱, Tanstack DB guide 🎓, Solid.js vs React 🥊'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=30a1330a-8ee8-11f0-a3b2-25f760c2824f%26pt=campaign%26pv=4%26spa=1757588440%26t=1757589328%26s=3531808806734cf57cb8fa3db866b7a6ddb32c205555951f3ea0d9addd40d32b/1/01000199387cd0ea-a40ab0cd-9f54-44aa-bde6-2da65e65422b-000000/u_fY4cHTrCCbl7FwNY5jfSeCfQahLFsY9oaIeHOEAiw=422</guid>
-    </item>
-    <item>
-      <title>Jenny X. - Meta | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/01000199387cd0ea-a40ab0cd-9f54-44aa-bde6-2da65e65422b-000000/2lz3YmRtZMkIn7GOiI2AnlBGvoHsSyJUCPCCzlzZIr4=422</link>
-      <description>Link found in newsletter: 'Shopify’s big React Native migration 📱, Tanstack DB guide 🎓, Solid.js vs React 🥊'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/01000199387cd0ea-a40ab0cd-9f54-44aa-bde6-2da65e65422b-000000/2lz3YmRtZMkIn7GOiI2AnlBGvoHsSyJUCPCCzlzZIr4=422</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
@@ -2033,6 +2015,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=37103864-8efa-11f0-8457-1d9047e65e77%26pt=campaign%26pv=4%26spa=1757595658%26t=1757597027%26s=3cbeb846342442d7f5a33c80495a66797e962f1d953b648e293c611b3951952e/1/0100019938f24cf4-21f73eda-eb3a-4139-b82d-186a2c4505d9-000000/-oLeiPcsV_Ifhg8rRop69pyVkMMlR520JVuvIFQ9UlY=422</link>
       <description>Link found in newsletter: 'OpenAI $300B compute deal 💻, ChatGPT developer mode 🤖, ByteDance image model 🖼️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=37103864-8efa-11f0-8457-1d9047e65e77%26pt=campaign%26pv=4%26spa=1757595658%26t=1757597027%26s=3cbeb846342442d7f5a33c80495a66797e962f1d953b648e293c611b3951952e/1/0100019938f24cf4-21f73eda-eb3a-4139-b82d-186a2c4505d9-000000/-oLeiPcsV_Ifhg8rRop69pyVkMMlR520JVuvIFQ9UlY=422</guid>
+    </item>
+    <item>
+      <title>sahil khoja - Google | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsahilkhoja%2F/1/0100019938f24cf4-21f73eda-eb3a-4139-b82d-186a2c4505d9-000000/j_huf2o0PqUSIL-VVPQPfs3Wb0nHjNKfwGyhGcfZ7yo=422</link>
+      <description>Link found in newsletter: 'OpenAI $300B compute deal 💻, ChatGPT developer mode 🤖, ByteDance image model 🖼️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsahilkhoja%2F/1/0100019938f24cf4-21f73eda-eb3a-4139-b82d-186a2c4505d9-000000/j_huf2o0PqUSIL-VVPQPfs3Wb0nHjNKfwGyhGcfZ7yo=422</guid>
     </item>
     <item>
       <title>Ali Aminian - Adobe | LinkedIn</title>
