@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Sep 2025 01:03:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Sep 2025 06:17:13 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=8d96fd0c-8cad-11f0-b880-67ed721abc8e%26pt=campaign%26pv=4%26spa=1757336507%26t=1757337799%26s=614ea146660372070ce0c0a7263985559033d3b5205f9ef40f3b15d78c84decf/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/wMDf9k2FeXt5pzmoVdxU_wxn0kPBwowFU7-dygPUHMU=421</link>
@@ -90,12 +90,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgerred.github.io%2Fbuilding-an-agentic-system%2Findex.html%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/PUZB3aEI_z8rEvFbItCKxp_12B9lFgDcJbCB5C4FgjY=421</link>
       <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgerred.github.io%2Fbuilding-an-agentic-system%2Findex.html%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/PUZB3aEI_z8rEvFbItCKxp_12B9lFgDcJbCB5C4FgjY=421</guid>
-    </item>
-    <item>
-      <title>The Race to Build a Distributed GPU Runtime  | Voltron Data</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fvoltrondata.com%2Fblog%2Fthe-race-to-build-a-distributed-gpu-runtime%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/kUReN03V80X_5O8afUAmjruuEdvHkEcsGOj8WBOhZik=421</link>
-      <description>Link found in newsletter: 'Anthropic pays $1.5B fine 💰, Qwen3-Max-Preview 3️⃣, Why models hallucinate 💭'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fvoltrondata.com%2Fblog%2Fthe-race-to-build-a-distributed-gpu-runtime%3Futm_source=tldrai/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/kUReN03V80X_5O8afUAmjruuEdvHkEcsGOj8WBOhZik=421</guid>
     </item>
     <item>
       <title>Building a Future-ready AI Governance Program: Best Practices, Proven Frameworks, and expert insights for operationalizing responsible AI eBook | Resources | OneTrust</title>
@@ -677,12 +671,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019933283b1f-2b57ea7f-fd3e-4576-915c-f3e24b63f9b8-000000/NZ-bG93ICF6NYgimrNM3AKSJObqYpUYKasQWLqq7YN4=422</guid>
     </item>
     <item>
-      <title>Tesla unveils Megablock and Megapack 3: more power and energy deployed faster | Electrek</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2025%2F09%2F08%2Ftesla-unveils-megablock-megapack-3%2F%3Futm_source=tldrnewsletter/1/0100019933283b1f-2b57ea7f-fd3e-4576-915c-f3e24b63f9b8-000000/Twym4SjyrNFKFMw7aRxFPzRvLnj6kJvO8koiNfDB1c8=422</link>
-      <description>Link found in newsletter: 'iPhone 17 📱, Microsoft return to office 🏢, UUIDv7 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2025%2F09%2F08%2Ftesla-unveils-megablock-megapack-3%2F%3Futm_source=tldrnewsletter/1/0100019933283b1f-2b57ea7f-fd3e-4576-915c-f3e24b63f9b8-000000/Twym4SjyrNFKFMw7aRxFPzRvLnj6kJvO8koiNfDB1c8=422</guid>
-    </item>
-    <item>
       <title>Memes, Media &amp; The Mind: Why You Want What You Want | Confused Thoughts</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fparzival.bearblog.dev%2Fmemes-media-the-mind-why-you-want-what-you-want%2F%3Futm_source=tldrnewsletter/1/0100019933283b1f-2b57ea7f-fd3e-4576-915c-f3e24b63f9b8-000000/XoIN0IafSlah9mFY44D8eKyBcPo1qKuPMB5R1ZJz0dw=422</link>
       <description>Link found in newsletter: 'iPhone 17 📱, Microsoft return to office 🏢, UUIDv7 👨‍💻'</description>
@@ -1245,12 +1233,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250910-None_Experiment-FALSE%26utm_term=headline-CutYourQACyclesDownToMinutesWithQAWolf%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownToMinutesWithQAWolf_None_None_None_Newsletter-SecondaryPlacement_20250910_v1/1/01000199384e73ab-675af09c-c244-4452-b066-6c3d405ecac6-000000/Sa0ZCHB76gWmKqm_4YPo5IQWH5AxEmxinOahtGIJos8=422</link>
       <description>Link found in newsletter: 'OpenAI's $300B deal 💰, Starlink mobile carrier 🛰️, custom sort algos 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250910-None_Experiment-FALSE%26utm_term=headline-CutYourQACyclesDownToMinutesWithQAWolf%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownToMinutesWithQAWolf_None_None_None_Newsletter-SecondaryPlacement_20250910_v1/1/01000199384e73ab-675af09c-c244-4452-b066-6c3d405ecac6-000000/Sa0ZCHB76gWmKqm_4YPo5IQWH5AxEmxinOahtGIJos8=422</guid>
-    </item>
-    <item>
-      <title>Construction Robot Printing Floor Plan: The Future of Building Design - Utube Publisher</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.utubepublisher.in%2F2025%2F09%2Fconstruction-robot-printing-floor-plan.html%3Futm_source=tldrnewsletter/1/01000199384e73ab-675af09c-c244-4452-b066-6c3d405ecac6-000000/yKFnfpcMJPGQnhawHUCHHTkkm5mqKgKAbwyKad2tPN0=422</link>
-      <description>Link found in newsletter: 'OpenAI's $300B deal 💰, Starlink mobile carrier 🛰️, custom sort algos 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.utubepublisher.in%2F2025%2F09%2Fconstruction-robot-printing-floor-plan.html%3Futm_source=tldrnewsletter/1/01000199384e73ab-675af09c-c244-4452-b066-6c3d405ecac6-000000/yKFnfpcMJPGQnhawHUCHHTkkm5mqKgKAbwyKad2tPN0=422</guid>
     </item>
     <item>
       <title>Musk Says SpaceX to Fly Bigger, Fully Reusable Starship in 2026 - Bloomberg</title>
