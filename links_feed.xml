@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Sep 2025 01:03:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 06:21:13 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=8d96fd0c-8cad-11f0-b880-67ed721abc8e%26pt=campaign%26pv=4%26spa=1757336507%26t=1757337799%26s=614ea146660372070ce0c0a7263985559033d3b5205f9ef40f3b15d78c84decf/1/01000199297ecdcc-25c70df9-19aa-427a-8dd4-a357e71b6638-000000/wMDf9k2FeXt5pzmoVdxU_wxn0kPBwowFU7-dygPUHMU=421</link>
@@ -1041,6 +1041,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tanayj.com%2Fp%2Fthe-gross-margin-debate-in-ai%3Futm_source=tldrai/1/0100019933c7e7cb-d422f928-2534-4c81-9ddb-fbf45623b56e-000000/MAteJhbHmdkDrWeuKKPP5ifvOABNip3pkFNIzGdPTH4=422</link>
       <description>Link found in newsletter: 'Claude docs 📃, Microsoft &amp; Anthropic 🤝, MCP Registry 🌐'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tanayj.com%2Fp%2Fthe-gross-margin-debate-in-ai%3Futm_source=tldrai/1/0100019933c7e7cb-d422f928-2534-4c81-9ddb-fbf45623b56e-000000/MAteJhbHmdkDrWeuKKPP5ifvOABNip3pkFNIzGdPTH4=422</guid>
+    </item>
+    <item>
+      <title>Gemini rolls out ‘Tools’ homepage redesign on the web</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5google.com%2F2025%2F09%2F09%2Fgemini-app-homepage-web-tools-redesign%2F%3Futm_source=tldrai/1/0100019933c7e7cb-d422f928-2534-4c81-9ddb-fbf45623b56e-000000/FasR0SyOmdkOLf0H7KoKNvv6E31E2BTZyYm54bZyOww=422</link>
+      <description>Link found in newsletter: 'Claude docs 📃, Microsoft &amp; Anthropic 🤝, MCP Registry 🌐'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5google.com%2F2025%2F09%2F09%2Fgemini-app-homepage-web-tools-redesign%2F%3Futm_source=tldrai/1/0100019933c7e7cb-d422f928-2534-4c81-9ddb-fbf45623b56e-000000/FasR0SyOmdkOLf0H7KoKNvv6E31E2BTZyYm54bZyOww=422</guid>
     </item>
     <item>
       <title>Introducing the MCP Registry | mcp blog</title>
