@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 19 Sep 2025 01:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Sep 2025 06:19:52 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=4a6029dc-9216-11f0-ad93-c7992951a9f6%26pt=campaign%26pv=4%26spa=1757930447%26t=1757931889%26s=76828ae99576fe2ebec8d206310e2ba062e0d80f62b1f2a7f0df87fbe7ca9236/1/010001994ce7e489-4b1f5e2b-ada5-4d6a-8638-98c7edfd6aee-000000/HFYTh8Faac4m9B6c02aO9oi7NMbCbkcYVbt5XjK38ow=422</link>
@@ -1967,7 +1967,7 @@ mtlynch.io</title>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.pawelpokrywka.com%2Fp%2Fgoogle-prefetching-methods-performance-study%3Futm_source=tldrwebdev/1/010001995c9028f7-1d091340-f1ec-4d96-8a1e-6d72d749117c-000000/QHMufd6S-xjMKU08recTYXE8A5sJr2PDdm7KaGbM5gc=423</guid>
     </item>
     <item>
-      <title>Sanity</title>
+      <title>styled-components maintenance mode: A 40% faster fork | Sanity</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sanity.io%2Fblog%2Fcut-styled-components-into-pieces-this-is-our-last-resort%3Futm_source=tldrwebdev/1/010001995c9028f7-1d091340-f1ec-4d96-8a1e-6d72d749117c-000000/kkG8z1GKRO9pviBVfdzudhzEbfZ_ySR7LF_c3oneN0A=423</link>
       <description>Link found in newsletter: 'Anthropic postmortem 🧠, UUIDv47 🔑, boring is good 📊'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sanity.io%2Fblog%2Fcut-styled-components-into-pieces-this-is-our-last-resort%3Futm_source=tldrwebdev/1/010001995c9028f7-1d091340-f1ec-4d96-8a1e-6d72d749117c-000000/kkG8z1GKRO9pviBVfdzudhzEbfZ_ySR7LF_c3oneN0A=423</guid>
@@ -2139,6 +2139,12 @@ mtlynch.io</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001995cfa2ef4-0c9a56d7-0bf5-4020-b9e4-317d8186404f-000000/UjBMTUuRGK_yFXYogtxo-NQoq65aWQyiSkfl_dwHBiM=423</link>
       <description>Link found in newsletter: 'Robinhood's startups fund 💰, Affirm + Apple Pay 🏬, big year for fintech IPOs 📈'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001995cfa2ef4-0c9a56d7-0bf5-4020-b9e4-317d8186404f-000000/UjBMTUuRGK_yFXYogtxo-NQoq65aWQyiSkfl_dwHBiM=423</guid>
+    </item>
+    <item>
+      <title>borgrodrick · Kill the Newsletter!</title>
+      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
+      <description>Link found in newsletter: 'Gemini/GPT-5 ICPC gold 🏆, China bans Nvidia 🇨🇳, rewrite your prompts 📝'</description>
+      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
     </item>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
