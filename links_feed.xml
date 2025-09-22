@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Sep 2025 18:16:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Sep 2025 01:04:36 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=3ce17f4e-9226-11f0-beb2-2dc5e863a6eb%26pt=campaign%26pv=4%26spa=1757941255%26t=1757944089%26s=7d1dba2d1ec28ea72a5da05d56b4bee56c4d9766c2465111a324cca83bb6b38e/1/010001994da20a8f-02462665-ced9-424e-a7fd-96250dce109d-000000/jhK0UkYOahsu5cPTKuohlN3qXHzc9k7jnFzB-q0bNhs=422</link>
@@ -668,7 +668,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdecrypt.co%2F338672%2Fharvard-ai-tool-treatments-parkinsons-alzheimers%3Futm_source=tldrai/1/0100019952aef980-0b6e4842-c180-4497-a0dc-b8344b1d50a3-000000/ij07B0jGRA_dzfB2R18KmKTZTh1d7X3P78T7sdrnRvE=423</guid>
     </item>
     <item>
-      <title>How to Train an LLM-RecSys Hybrid for Steerable Recs with Semantic IDs</title>
+      <title>Training an LLM-RecSys Hybrid for Steerable Recs with Semantic IDs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Feugeneyan.com%2Fwriting%2Fsemantic-ids%2F%3Futm_source=tldrai/1/0100019952aef980-0b6e4842-c180-4497-a0dc-b8344b1d50a3-000000/MT8RnUwf-JkL3AeX9L9NCQRttlre_dE0X_ZpEnw4Mmo=423</link>
       <description>Link found in newsletter: 'GPT-5 Codex 💻, OpenAI MSFT revshare 🤝, Reve launch 🚀'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Feugeneyan.com%2Fwriting%2Fsemantic-ids%2F%3Futm_source=tldrai/1/0100019952aef980-0b6e4842-c180-4497-a0dc-b8344b1d50a3-000000/MT8RnUwf-JkL3AeX9L9NCQRttlre_dE0X_ZpEnw4Mmo=423</guid>
@@ -2000,6 +2000,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=63e81a4a-9536-11f0-afce-bfefaa7de609%26pt=campaign%26pv=4%26spa=1758279644%26t=1758281052%26s=641f7b5a50cbde410df94f26c15be6e0fbab265601b758c29a53909afa00ef55/1/0100019961b7afdd-c1841d68-098d-4b50-9061-75d0b241f827-000000/TjspdIxh6NgxIZnUYpoujcQ0i8vCU-4Bz2MkhLc48Tg=423</link>
       <description>Link found in newsletter: 'Make Claude Code domain-specific 🛠, package.json optimization ⚙️, fetch streams 🌊'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=63e81a4a-9536-11f0-afce-bfefaa7de609%26pt=campaign%26pv=4%26spa=1758279644%26t=1758281052%26s=641f7b5a50cbde410df94f26c15be6e0fbab265601b758c29a53909afa00ef55/1/0100019961b7afdd-c1841d68-098d-4b50-9061-75d0b241f827-000000/TjspdIxh6NgxIZnUYpoujcQ0i8vCU-4Bz2MkhLc48Tg=423</guid>
+    </item>
+    <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019961b7afdd-c1841d68-098d-4b50-9061-75d0b241f827-000000/hNNQwvqUUiz5J5Gycy5wQHb3T66p8sATcY5TwHRQr4o=423</link>
+      <description>Link found in newsletter: 'Make Claude Code domain-specific 🛠, package.json optimization ⚙️, fetch streams 🌊'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019961b7afdd-c1841d68-098d-4b50-9061-75d0b241f827-000000/hNNQwvqUUiz5J5Gycy5wQHb3T66p8sATcY5TwHRQr4o=423</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
