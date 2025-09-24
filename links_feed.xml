@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 24 Sep 2025 00:59:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 06:20:12 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=a3dd5320-9470-11f0-9cdc-11629f1ba762%26pt=campaign%26pv=4%26spa=1758189751%26t=1758191136%26s=2bb78ceb2b52ed80b755615360bf034e24d3a9f62ecd83052595f39099d5400c/1/010001995c5baf88-6584bf6a-cc55-4a4a-897f-23ac16e7932e-000000/l-i0jtSMOgbFXSXtOZOR1kfdXyI5KOeLML0tK0wS06k=423</link>
@@ -1514,12 +1514,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fmim5cp/1/01000199718a3dc7-e3b20edc-041f-4959-974b-636f51d9869b-000000/eiDfKk0RYxJAfBtP9iHbcY6rOzJOi2mm2oMuNZTxS7g=423</link>
       <description>Link found in newsletter: 'SoftBank Vision Fund cuts 20% staff 😧, Rising stablecoin competition 🪙, Google’s AP2 explained 💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fmim5cp/1/01000199718a3dc7-e3b20edc-041f-4959-974b-636f51d9869b-000000/eiDfKk0RYxJAfBtP9iHbcY6rOzJOi2mm2oMuNZTxS7g=423</guid>
-    </item>
-    <item>
-      <title>FinTech platform Extend raises $20m in fresh funding</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fy1wutg/1/01000199718a3dc7-e3b20edc-041f-4959-974b-636f51d9869b-000000/zKHmvK17b-KH0IltnysoNHdEjwY-8No1FH_-zVE3p6E=423</link>
-      <description>Link found in newsletter: 'SoftBank Vision Fund cuts 20% staff 😧, Rising stablecoin competition 🪙, Google’s AP2 explained 💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fy1wutg/1/01000199718a3dc7-e3b20edc-041f-4959-974b-636f51d9869b-000000/zKHmvK17b-KH0IltnysoNHdEjwY-8No1FH_-zVE3p6E=423</guid>
     </item>
     <item>
       <title>Plaid to pay for JPMorgan data | Payments Dive</title>
