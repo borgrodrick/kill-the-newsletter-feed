@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Sep 2025 18:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 00:59:40 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=a3dd5320-9470-11f0-9cdc-11629f1ba762%26pt=campaign%26pv=4%26spa=1758189751%26t=1758191136%26s=2bb78ceb2b52ed80b755615360bf034e24d3a9f62ecd83052595f39099d5400c/1/010001995c5baf88-6584bf6a-cc55-4a4a-897f-23ac16e7932e-000000/l-i0jtSMOgbFXSXtOZOR1kfdXyI5KOeLML0tK0wS06k=423</link>
@@ -316,7 +316,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.pawelpokrywka.com%2Fp%2Fgoogle-prefetching-methods-performance-study%3Futm_source=tldrwebdev/1/010001995c9028f7-1d091340-f1ec-4d96-8a1e-6d72d749117c-000000/QHMufd6S-xjMKU08recTYXE8A5sJr2PDdm7KaGbM5gc=423</guid>
     </item>
     <item>
-      <title>Sanity</title>
+      <title>styled-components maintenance mode: A 40% faster fork | Sanity</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sanity.io%2Fblog%2Fcut-styled-components-into-pieces-this-is-our-last-resort%3Futm_source=tldrwebdev/1/010001995c9028f7-1d091340-f1ec-4d96-8a1e-6d72d749117c-000000/kkG8z1GKRO9pviBVfdzudhzEbfZ_ySR7LF_c3oneN0A=423</link>
       <description>Link found in newsletter: 'Anthropic postmortem 🧠, UUIDv47 🔑, boring is good 📊'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sanity.io%2Fblog%2Fcut-styled-components-into-pieces-this-is-our-last-resort%3Futm_source=tldrwebdev/1/010001995c9028f7-1d091340-f1ec-4d96-8a1e-6d72d749117c-000000/kkG8z1GKRO9pviBVfdzudhzEbfZ_ySR7LF_c3oneN0A=423</guid>
@@ -1324,6 +1324,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdonado.co%2Fen%2Farticles%2F2025-09-16-vibe-coding-cleanup-as-a-service%2F%3Futm_source=tldrwebdev/1/0100019971319809-623dff17-3b82-4e9d-8077-07c5b7f823ab-000000/VjzRV-jLRDbTJ_8GZI8yB6HWhsKVwC4goiZ5LbDWIKg=423</guid>
     </item>
     <item>
+      <title>State in the url in React (the right way) | by Emmanuel Meric de Bellefon | Sep, 2025 | Medium</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmedium.com%2F@meric.emmanuel%2Fstate-in-the-url-in-react-the-right-way-3b031a3b183a%3Futm_source=tldrwebdev/1/0100019971319809-623dff17-3b82-4e9d-8077-07c5b7f823ab-000000/lKGgukes3NHG_2Oz1efVfroyeds3FxsX_caar9mUUic=423</link>
+      <description>Link found in newsletter: 'Less is safer 🔐, rules for good UI 🎨, designing NotebookLM 🎧'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmedium.com%2F@meric.emmanuel%2Fstate-in-the-url-in-react-the-right-way-3b031a3b183a%3Futm_source=tldrwebdev/1/0100019971319809-623dff17-3b82-4e9d-8077-07c5b7f823ab-000000/lKGgukes3NHG_2Oz1efVfroyeds3FxsX_caar9mUUic=423</guid>
+    </item>
+    <item>
       <title>Jason Spielman • Designing NotebookLM</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjasonspielman.com%2Fnotebooklm%3Futm_source=tldrwebdev/1/0100019971319809-623dff17-3b82-4e9d-8077-07c5b7f823ab-000000/8ppvX5OuYaSS-7BnLFCg9cNT9flSSbT0Ne2-xOX6RBc=423</link>
       <description>Link found in newsletter: 'Less is safer 🔐, rules for good UI 🎨, designing NotebookLM 🎧'</description>
@@ -1508,6 +1514,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fmim5cp/1/01000199718a3dc7-e3b20edc-041f-4959-974b-636f51d9869b-000000/eiDfKk0RYxJAfBtP9iHbcY6rOzJOi2mm2oMuNZTxS7g=423</link>
       <description>Link found in newsletter: 'SoftBank Vision Fund cuts 20% staff 😧, Rising stablecoin competition 🪙, Google’s AP2 explained 💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fmim5cp/1/01000199718a3dc7-e3b20edc-041f-4959-974b-636f51d9869b-000000/eiDfKk0RYxJAfBtP9iHbcY6rOzJOi2mm2oMuNZTxS7g=423</guid>
+    </item>
+    <item>
+      <title>FinTech platform Extend raises $20m in fresh funding</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fy1wutg/1/01000199718a3dc7-e3b20edc-041f-4959-974b-636f51d9869b-000000/zKHmvK17b-KH0IltnysoNHdEjwY-8No1FH_-zVE3p6E=423</link>
+      <description>Link found in newsletter: 'SoftBank Vision Fund cuts 20% staff 😧, Rising stablecoin competition 🪙, Google’s AP2 explained 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fy1wutg/1/01000199718a3dc7-e3b20edc-041f-4959-974b-636f51d9869b-000000/zKHmvK17b-KH0IltnysoNHdEjwY-8No1FH_-zVE3p6E=423</guid>
     </item>
     <item>
       <title>Plaid to pay for JPMorgan data | Payments Dive</title>
