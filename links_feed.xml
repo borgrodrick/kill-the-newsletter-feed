@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 26 Sep 2025 00:59:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 06:19:31 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=ebeefde8-978c-11f0-9512-977d92f12949%26pt=campaign%26pv=4%26spa=1758535281%26t=1758536737%26s=b0c547adc9162dcd838255c4d9055c7d6554cb04553dcda7bd05a9a87dd760b1/1/0100019970f52200-9faa868d-1655-4858-be7a-644d6cf69681-000000/eObOlmGUOaxa9JrlHWHHG6TX5nYCPT34bsnRLLLhZGI=423</link>
@@ -222,12 +222,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdonado.co%2Fen%2Farticles%2F2025-09-16-vibe-coding-cleanup-as-a-service%2F%3Futm_source=tldrwebdev/1/0100019971319809-623dff17-3b82-4e9d-8077-07c5b7f823ab-000000/VjzRV-jLRDbTJ_8GZI8yB6HWhsKVwC4goiZ5LbDWIKg=423</link>
       <description>Link found in newsletter: 'Less is safer 🔐, rules for good UI 🎨, designing NotebookLM 🎧'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdonado.co%2Fen%2Farticles%2F2025-09-16-vibe-coding-cleanup-as-a-service%2F%3Futm_source=tldrwebdev/1/0100019971319809-623dff17-3b82-4e9d-8077-07c5b7f823ab-000000/VjzRV-jLRDbTJ_8GZI8yB6HWhsKVwC4goiZ5LbDWIKg=423</guid>
-    </item>
-    <item>
-      <title>State in the url in React (the right way) | by Emmanuel Meric de Bellefon | Sep, 2025 | Medium</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmedium.com%2F@meric.emmanuel%2Fstate-in-the-url-in-react-the-right-way-3b031a3b183a%3Futm_source=tldrwebdev/1/0100019971319809-623dff17-3b82-4e9d-8077-07c5b7f823ab-000000/lKGgukes3NHG_2Oz1efVfroyeds3FxsX_caar9mUUic=423</link>
-      <description>Link found in newsletter: 'Less is safer 🔐, rules for good UI 🎨, designing NotebookLM 🎧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmedium.com%2F@meric.emmanuel%2Fstate-in-the-url-in-react-the-right-way-3b031a3b183a%3Futm_source=tldrwebdev/1/0100019971319809-623dff17-3b82-4e9d-8077-07c5b7f823ab-000000/lKGgukes3NHG_2Oz1efVfroyeds3FxsX_caar9mUUic=423</guid>
     </item>
     <item>
       <title>Jason Spielman • Designing NotebookLM</title>
@@ -510,6 +504,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=5be916be-97a7-11f0-9a60-c7566661c0fa%26pt=campaign%26pv=4%26spa=1758546080%26t=1758547491%26s=c759b8c9cc058a52bdd1cb0d906f7b172c8e583bc36edf6079785a00ccc0f908/1/0100019971993c23-f2964349-8417-4bd1-855f-e1e6e713d83c-000000/Imucg2NThX3yS5peevKdW-yxzM7J53mm9gBBIGbOZBc=423</link>
       <description>Link found in newsletter: 'Grok 4 Fast 4️⃣, xAI reportedly raising $10B 💰, Meta Connect 2025 👓'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=5be916be-97a7-11f0-9a60-c7566661c0fa%26pt=campaign%26pv=4%26spa=1758546080%26t=1758547491%26s=c759b8c9cc058a52bdd1cb0d906f7b172c8e583bc36edf6079785a00ccc0f908/1/0100019971993c23-f2964349-8417-4bd1-855f-e1e6e713d83c-000000/Imucg2NThX3yS5peevKdW-yxzM7J53mm9gBBIGbOZBc=423</guid>
+    </item>
+    <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019971993c23-f2964349-8417-4bd1-855f-e1e6e713d83c-000000/Heo8UkmevgVZx5FRo1spsA57kqRpGJ2zGtlHppfHtwE=423</link>
+      <description>Link found in newsletter: 'Grok 4 Fast 4️⃣, xAI reportedly raising $10B 💰, Meta Connect 2025 👓'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019971993c23-f2964349-8417-4bd1-855f-e1e6e713d83c-000000/Heo8UkmevgVZx5FRo1spsA57kqRpGJ2zGtlHppfHtwE=423</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
@@ -954,12 +954,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=108b0a62-986d-11f0-97a2-61a8b8b1a938%26pt=campaign%26pv=4%26spa=1758632468%26t=1758634912%26s=561101b67bc09adf722a8670a2901a5bb0f40abe16723873c97b15da0bd8cba2/1/0100019976cf2984-f7af2df7-c66a-4acd-ac3d-0af93d8db5d5-000000/fmftMw5UZSumud7LgTKrQK91evbTWuiuSDZBYjj6pmg=424</link>
       <description>Link found in newsletter: 'Nvidia + OpenAI $100B deal 🤝, Oracle’s co-CEOs 💼, OpenAI hardware 👓'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=108b0a62-986d-11f0-97a2-61a8b8b1a938%26pt=campaign%26pv=4%26spa=1758632468%26t=1758634912%26s=561101b67bc09adf722a8670a2901a5bb0f40abe16723873c97b15da0bd8cba2/1/0100019976cf2984-f7af2df7-c66a-4acd-ac3d-0af93d8db5d5-000000/fmftMw5UZSumud7LgTKrQK91evbTWuiuSDZBYjj6pmg=424</guid>
-    </item>
-    <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019976cf2984-f7af2df7-c66a-4acd-ac3d-0af93d8db5d5-000000/SdvH0GEqpwGd0KeOolnAx8KG6RD0cx0mho3SKM-c-_E=424</link>
-      <description>Link found in newsletter: 'Nvidia + OpenAI $100B deal 🤝, Oracle’s co-CEOs 💼, OpenAI hardware 👓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019976cf2984-f7af2df7-c66a-4acd-ac3d-0af93d8db5d5-000000/SdvH0GEqpwGd0KeOolnAx8KG6RD0cx0mho3SKM-c-_E=424</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
@@ -1436,12 +1430,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=04a589d2-9937-11f0-9ffb-310c1305c150%26pt=campaign%26pv=4%26spa=1758718858%26t=1758720109%26s=54ab9fd306aa52d10aaa04d120e48461e03992aebd3fb8bead6297b7892de831/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/t4GluxZtLeeFm-gNqlarMwVm4TTTuSol6wJ1k0GO-bg=424</guid>
     </item>
     <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/eLH-zK6s0WgKR7IfItCur2BSznvIYR6PFFG58vKQc5c=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/eLH-zK6s0WgKR7IfItCur2BSznvIYR6PFFG58vKQc5c=424</guid>
-    </item>
-    <item>
       <title>TLDR Jobs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/pl07VsAoDuaB6KFu9ietcN7P5Yt8bwJR455netiJ5AA=424</link>
       <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
@@ -1524,12 +1512,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FLMds6C/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/X2j4mbbgHEMjGF5Qz9kbGlLoNybIWiwflk9PEaUfKJ8=424</link>
       <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FLMds6C/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/X2j4mbbgHEMjGF5Qz9kbGlLoNybIWiwflk9PEaUfKJ8=424</guid>
-    </item>
-    <item>
-      <title>Apple working on MCP support on Mac, iPhone, and iPad - 9to5Mac</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FJ095fp/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/kuWWIYtb_H0E9YXMotbLojewVP2IdzYcOCEyCo5z1UM=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FJ095fp/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/kuWWIYtb_H0E9YXMotbLojewVP2IdzYcOCEyCo5z1UM=424</guid>
     </item>
     <item>
       <title>Javelin: Breaking down silos in identity fraud whitepaper | Plaid</title>
@@ -1880,12 +1862,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.val.town%2Fvtlsp%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/mlF_c8UQXGpaeGTuCaL59PfArlrWu3FXaDNtDVkaXJg=424</guid>
     </item>
     <item>
-      <title>We Thought React Native Was the Answer — Until Our App Hit 190% CPU | by Matt Sellars | Motion Engineering Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F6ke9VB/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/hoTO5eIFk650yFFfJwODeZBsehW0fGaXHKHLmlwOkIE=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F6ke9VB/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/hoTO5eIFk650yFFfJwODeZBsehW0fGaXHKHLmlwOkIE=424</guid>
-    </item>
-    <item>
       <title>How Claude Code is built - by Gergely Orosz</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnewsletter.pragmaticengineer.com%2Fp%2Fhow-claude-code-is-built%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/iICTfzvMNmHAS3Kzigkul-dRCkZMBzUQ4LqIAPV3kvw=424</link>
       <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
@@ -2016,6 +1992,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/rTfPPLgTOTNpn3TWA_tnXwAzhQ4Bpq5r-KQy-yKjLHE=424</link>
       <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/rTfPPLgTOTNpn3TWA_tnXwAzhQ4Bpq5r-KQy-yKjLHE=424</guid>
+    </item>
+    <item>
+      <title>borgrodrick · Kill the Newsletter!</title>
+      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
+      <description>Link found in newsletter: 'ChatGPT Alpha Models 🤖, Meta’s Code World 💻, Cross-Agent Privilege Escalation 👨‍💻'</description>
+      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
     </item>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
