@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 27 Sep 2025 00:57:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 06:16:26 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=5be916be-97a7-11f0-9a60-c7566661c0fa%26pt=campaign%26pv=4%26spa=1758546080%26t=1758547491%26s=c759b8c9cc058a52bdd1cb0d906f7b172c8e583bc36edf6079785a00ccc0f908/1/0100019971993c23-f2964349-8417-4bd1-855f-e1e6e713d83c-000000/Imucg2NThX3yS5peevKdW-yxzM7J53mm9gBBIGbOZBc=423</link>
@@ -462,12 +462,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=108b0a62-986d-11f0-97a2-61a8b8b1a938%26pt=campaign%26pv=4%26spa=1758632468%26t=1758634912%26s=561101b67bc09adf722a8670a2901a5bb0f40abe16723873c97b15da0bd8cba2/1/0100019976cf2984-f7af2df7-c66a-4acd-ac3d-0af93d8db5d5-000000/fmftMw5UZSumud7LgTKrQK91evbTWuiuSDZBYjj6pmg=424</link>
       <description>Link found in newsletter: 'Nvidia + OpenAI $100B deal 🤝, Oracle’s co-CEOs 💼, OpenAI hardware 👓'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=108b0a62-986d-11f0-97a2-61a8b8b1a938%26pt=campaign%26pv=4%26spa=1758632468%26t=1758634912%26s=561101b67bc09adf722a8670a2901a5bb0f40abe16723873c97b15da0bd8cba2/1/0100019976cf2984-f7af2df7-c66a-4acd-ac3d-0af93d8db5d5-000000/fmftMw5UZSumud7LgTKrQK91evbTWuiuSDZBYjj6pmg=424</guid>
-    </item>
-    <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019976cf2984-f7af2df7-c66a-4acd-ac3d-0af93d8db5d5-000000/SdvH0GEqpwGd0KeOolnAx8KG6RD0cx0mho3SKM-c-_E=424</link>
-      <description>Link found in newsletter: 'Nvidia + OpenAI $100B deal 🤝, Oracle’s co-CEOs 💼, OpenAI hardware 👓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019976cf2984-f7af2df7-c66a-4acd-ac3d-0af93d8db5d5-000000/SdvH0GEqpwGd0KeOolnAx8KG6RD0cx0mho3SKM-c-_E=424</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
@@ -1418,6 +1412,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/hrIWzo58JTlQMmDOyHvrnxu-EUQLmlESo-fXyW-B2KY=424</guid>
     </item>
     <item>
+      <title>Matt Cheung - Ceviche AI | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/ZnhyjqnkO43wGq8bR9v7AAO9W9N9eudeqffM6NuhEgg=424</link>
+      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/ZnhyjqnkO43wGq8bR9v7AAO9W9N9eudeqffM6NuhEgg=424</guid>
+    </item>
+    <item>
       <title>TLDR Jobs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/Po46O4uy8l8ovG4sUtmHWB3EP0ZaMZkZthCru3ZMFNI=424</link>
       <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
@@ -2089,12 +2089,6 @@ Generation with World Models | Research - AI at Meta</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=51fd9506-9ac9-11f0-bce5-79603be2f2ad%26pt=campaign%26pv=4%26spa=1758891685%26t=1758894107%26s=e334f8e6ef5fcdedad463ea58919903a1927b7cae1f3f2645286d6e11cc5ed3e/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/CS_WQ08ylU0DsPaDYWSstsjBjgFjHLNMLRqybkIQ6z8=424</link>
       <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=51fd9506-9ac9-11f0-bce5-79603be2f2ad%26pt=campaign%26pv=4%26spa=1758891685%26t=1758894107%26s=e334f8e6ef5fcdedad463ea58919903a1927b7cae1f3f2645286d6e11cc5ed3e/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/CS_WQ08ylU0DsPaDYWSstsjBjgFjHLNMLRqybkIQ6z8=424</guid>
-    </item>
-    <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/KJnw_2hqmF0eGRxVvpASbQG_vQZfrIO4CKu7xGixACw=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/KJnw_2hqmF0eGRxVvpASbQG_vQZfrIO4CKu7xGixACw=424</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
