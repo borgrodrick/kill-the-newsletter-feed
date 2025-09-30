@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 29 Sep 2025 18:19:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Sep 2025 01:00:26 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=1ee4a5f4-98ff-11f0-a5b0-dbca188214a6%26pt=campaign%26pv=4%26spa=1758711635%26t=1758712715%26s=04d944876b11eb53654f1714114ec44331e62ddbbb68952b1fc2963c102a6c54/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/XuZcaTZb8TnGmvlN_LJMqyV7FCc5rOAeAuBZc0EfB_c=424</link>
@@ -348,6 +348,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmathstodon.xyz%2F@tao%2F115259943398316677%3Futm_source=tldrnewsletter/1/010001998068506e-20e6933e-9506-4e1c-8ea1-e252dbd0f1f8-000000/biI-7Jk7HkCn05KdvemqldIhBykRjd5FtgOo7qZLH4U=424</link>
       <description>Link found in newsletter: 'TikTok deal done 📱, Android PC 💻, you're not late 👋'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmathstodon.xyz%2F@tao%2F115259943398316677%3Futm_source=tldrnewsletter/1/010001998068506e-20e6933e-9506-4e1c-8ea1-e252dbd0f1f8-000000/biI-7Jk7HkCn05KdvemqldIhBykRjd5FtgOo7qZLH4U=424</guid>
+    </item>
+    <item>
+      <title>The Technium: You Are Not Late</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fkk.org%2Fthetechnium%2Fyou-are-not-late%2F%3Futm_source=tldrnewsletter/1/010001998068506e-20e6933e-9506-4e1c-8ea1-e252dbd0f1f8-000000/NRhNAXVELojdxk5rXV_x-z85WqQXJ3QbP9sgbESt-7Y=424</link>
+      <description>Link found in newsletter: 'TikTok deal done 📱, Android PC 💻, you're not late 👋'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fkk.org%2Fthetechnium%2Fyou-are-not-late%2F%3Futm_source=tldrnewsletter/1/010001998068506e-20e6933e-9506-4e1c-8ea1-e252dbd0f1f8-000000/NRhNAXVELojdxk5rXV_x-z85WqQXJ3QbP9sgbESt-7Y=424</guid>
     </item>
     <item>
       <title>How AWS S3 serves 1 petabyte per second on top of slow HDDs</title>
@@ -692,6 +698,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Ffis-acquires-fintech-amount-banking-payments-deal%2F761005%2F%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/4sxGp6q3an37fdEMJt10MLCJYp6kz-Y1oSNbVz-uLNo=424</guid>
     </item>
     <item>
+      <title>AppZen secures $180m to scale autonomous finance AI</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffintech.global%2F2025%2F09%2F22%2Fappzen-secures-180m-to-scale-autonomous-finance-ai%2F%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/4kSlTXZoDQ2X475ZlUzaau69DTJWYCEcqCuwGIr0YoI=424</link>
+      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffintech.global%2F2025%2F09%2F22%2Fappzen-secures-180m-to-scale-autonomous-finance-ai%2F%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/4kSlTXZoDQ2X475ZlUzaau69DTJWYCEcqCuwGIr0YoI=424</guid>
+    </item>
+    <item>
       <title>Stripe Valuation Reaches Record $106 Billion</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.pymnts.com%2Fnews%2Ffintech-investments%2F2025%2Fstripe-valuation-reaches-record-106-billion%2F%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/nW_Mijdr-NCg4EVr7u0k1K8x1bNPHXH7dEwj1_UihNs=424</link>
       <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
@@ -714,12 +726,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=bd205daa-99fc-11f0-bd06-bdc0fa3e444a%26pt=campaign%26pv=4%26spa=1758805311%26t=1758806710%26s=61981bcecf5433d68c920b0870d6e4b292558de2f6ff8769f18d8c017352b64f/1/01000199810c98a4-d2ad1c88-4491-416a-bbc7-607ad89baa88-000000/A-OPKvFk7s7IFTR-1QuE-hwzS0OWoJBqX5vysao-vEw=424</link>
       <description>Link found in newsletter: 'ChatGPT Alpha Models 🤖, Meta’s Code World 💻, Cross-Agent Privilege Escalation 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=bd205daa-99fc-11f0-bd06-bdc0fa3e444a%26pt=campaign%26pv=4%26spa=1758805311%26t=1758806710%26s=61981bcecf5433d68c920b0870d6e4b292558de2f6ff8769f18d8c017352b64f/1/01000199810c98a4-d2ad1c88-4491-416a-bbc7-607ad89baa88-000000/A-OPKvFk7s7IFTR-1QuE-hwzS0OWoJBqX5vysao-vEw=424</guid>
-    </item>
-    <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000199810c98a4-d2ad1c88-4491-416a-bbc7-607ad89baa88-000000/lynVOl0uTdVnW0nnY_pk6lBbSNtpzsZHlFf3_-pdlz4=424</link>
-      <description>Link found in newsletter: 'ChatGPT Alpha Models 🤖, Meta’s Code World 💻, Cross-Agent Privilege Escalation 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000199810c98a4-d2ad1c88-4491-416a-bbc7-607ad89baa88-000000/lynVOl0uTdVnW0nnY_pk6lBbSNtpzsZHlFf3_-pdlz4=424</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
@@ -1126,12 +1132,6 @@ Generation with World Models | Research - AI at Meta</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstevedylandev.bearblog.dev%2Fresurrect-the-old-web%2F%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/Sb7MjDjUAKkiz0NMMrOdvY2p0L2a_c9oAqeinNHJUuI=424</link>
       <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstevedylandev.bearblog.dev%2Fresurrect-the-old-web%2F%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/Sb7MjDjUAKkiz0NMMrOdvY2p0L2a_c9oAqeinNHJUuI=424</guid>
-    </item>
-    <item>
-      <title>Immutable Infrastructure DevOps: Why You Should Replace, Not Patch | by Lukas Niessen | Sep, 2025 | Medium</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FfQuMgP/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/YPDAWDyIDZwyHLEhTrLN3dv5rQpnLXthzBvkzN3Al2c=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FfQuMgP/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/YPDAWDyIDZwyHLEhTrLN3dv5rQpnLXthzBvkzN3Al2c=424</guid>
     </item>
     <item>
       <title>Continuing to bring you our latest models, with an improved Gemini 2.5 Flash and Flash-Lite release
