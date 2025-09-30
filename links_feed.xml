@@ -6,277 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Sep 2025 06:20:35 +0000</lastBuildDate>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=1ee4a5f4-98ff-11f0-a5b0-dbca188214a6%26pt=campaign%26pv=4%26spa=1758711635%26t=1758712715%26s=04d944876b11eb53654f1714114ec44331e62ddbbb68952b1fc2963c102a6c54/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/XuZcaTZb8TnGmvlN_LJMqyV7FCc5rOAeAuBZc0EfB_c=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=1ee4a5f4-98ff-11f0-a5b0-dbca188214a6%26pt=campaign%26pv=4%26spa=1758711635%26t=1758712715%26s=04d944876b11eb53654f1714114ec44331e62ddbbb68952b1fc2963c102a6c54/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/XuZcaTZb8TnGmvlN_LJMqyV7FCc5rOAeAuBZc0EfB_c=424</guid>
-    </item>
-    <item>
-      <title>Jenny X. - Meta | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/GVbC6eRPnkbzQf0OG7ucvWXl45toWAgf9Q3rc1m0D5A=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/GVbC6eRPnkbzQf0OG7ucvWXl45toWAgf9Q3rc1m0D5A=424</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/edyhgffGhIpV0P7iy-N4q63hGu3XKymDqu-MpUCSiNA=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/edyhgffGhIpV0P7iy-N4q63hGu3XKymDqu-MpUCSiNA=424</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/heqBdWQKRyYrscE4RGyATigAn7OFSOaMh5Advc9eGDo=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/heqBdWQKRyYrscE4RGyATigAn7OFSOaMh5Advc9eGDo=424</guid>
-    </item>
-    <item>
-      <title>TLDR Web Dev | Referral Hub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/5kDQYRZnFjHwgdDK2F0JasdB4TBCw-4lAB2P18OSQ6E=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/5kDQYRZnFjHwgdDK2F0JasdB4TBCw-4lAB2P18OSQ6E=424</guid>
-    </item>
-    <item>
-      <title>Redux in 2025: A reliable choice for complex React projects</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstefvanwijchen.com%2Freact-and-redux-in-2025%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/1X4r--Jkbur4aygzM-vzJbPvarOIR1TihOkTIH3Fw1o=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstefvanwijchen.com%2Freact-and-redux-in-2025%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/1X4r--Jkbur4aygzM-vzJbPvarOIR1TihOkTIH3Fw1o=424</guid>
-    </item>
-    <item>
-      <title>The Risks of NPM - Jim Nielsen’s Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.jim-nielsen.com%2F2025%2Fnpm-risks%2F%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/hEE7YOzIIFd7Lexz9kuf3zk8w7rsb16m1dYaMSpJLYo=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.jim-nielsen.com%2F2025%2Fnpm-risks%2F%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/hEE7YOzIIFd7Lexz9kuf3zk8w7rsb16m1dYaMSpJLYo=424</guid>
-    </item>
-    <item>
-      <title>How Google’s dev tools manager makes AI coding work | TechCrunch</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F09%2F23%2Fhow-googles-dev-tools-manager-makes-ai-coding-work%2F%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/6W46ag9GxM7noWM_c8ZFIjZnl0W_hqIv3oITYTg53ZQ=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F09%2F23%2Fhow-googles-dev-tools-manager-makes-ai-coding-work%2F%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/6W46ag9GxM7noWM_c8ZFIjZnl0W_hqIv3oITYTg53ZQ=424</guid>
-    </item>
-    <item>
-      <title>Targetting specific characters with CSS rules – Terence Eden’s Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshkspr.mobi%2Fblog%2F2025%2F09%2Ftargetting-specific-characters-with-css-rules%2F%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/qu0YKsMZ2sC3LzpkhYzuAIHvyVxy_pp5CcRk-rmls5c=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshkspr.mobi%2Fblog%2F2025%2F09%2Ftargetting-specific-characters-with-css-rules%2F%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/qu0YKsMZ2sC3LzpkhYzuAIHvyVxy_pp5CcRk-rmls5c=424</guid>
-    </item>
-    <item>
-      <title>Context Engineering for AI Agents: Lessons from Building Manus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmanus.im%2Fblog%2FContext-Engineering-for-AI-Agents-Lessons-from-Building-Manus%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/stbK749lUQdQjpqrde_6fzUrwRjZ-TIa6H99R8p8SLQ=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmanus.im%2Fblog%2FContext-Engineering-for-AI-Agents-Lessons-from-Building-Manus%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/stbK749lUQdQjpqrde_6fzUrwRjZ-TIa6H99R8p8SLQ=424</guid>
-    </item>
-    <item>
-      <title>Postgres’ Original Project Goals: The Creators... | Crunchy Data Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.crunchydata.com%2Fblog%2Fthe-postgres-project-original-goals-and-how-the-creators-totally-nailed-it%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/Ja2F9kgAMEjFBGVJXdLwn1ORLik1w1lijb8MsDw3aKM=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.crunchydata.com%2Fblog%2Fthe-postgres-project-original-goals-and-how-the-creators-totally-nailed-it%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/Ja2F9kgAMEjFBGVJXdLwn1ORLik1w1lijb8MsDw3aKM=424</guid>
-    </item>
-    <item>
-      <title>Exploring Active Agent, or can we build AI features the Rails way?—Martian Chronicles, Evil Martians’ team blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fevilmartians.com%2Fchronicles%2Fexploring-active-agent-or-can-we-build-ai-features-the-rails-way%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/FSz9OAf6tTDkZ-_5oHYZ-Q6_VRZDcuTBr0Xln19wWm8=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fevilmartians.com%2Fchronicles%2Fexploring-active-agent-or-can-we-build-ai-features-the-rails-way%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/FSz9OAf6tTDkZ-_5oHYZ-Q6_VRZDcuTBr0Xln19wWm8=424</guid>
-    </item>
-    <item>
-      <title>Open source AI Data Generator</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.metabase.com%2Fai-data-generator%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/jEeIf0pBH2-u-3isnos2gluRJM14E7_k6md_myUSaHE=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.metabase.com%2Fai-data-generator%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/jEeIf0pBH2-u-3isnos2gluRJM14E7_k6md_myUSaHE=424</guid>
-    </item>
-    <item>
-      <title>TanStack Start v1 Release Candidate | TanStack Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftanstack.com%2Fblog%2Fannouncing-tanstack-start-v1%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/rraCJo0ZHiGULIIYey3tLdfcNXhDYG9q8mUOWzew06I=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftanstack.com%2Fblog%2Fannouncing-tanstack-start-v1%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/rraCJo0ZHiGULIIYey3tLdfcNXhDYG9q8mUOWzew06I=424</guid>
-    </item>
-    <item>
-      <title>Authentication Security in Web Applications: A Comprehensive Guide for Developers</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.clerk.com%2FVqej45v%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/O9in4AbCms94JT_KPR8Wf1M9ip8YchQ8hBYq6NxMat4=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.clerk.com%2FVqej45v%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/O9in4AbCms94JT_KPR8Wf1M9ip8YchQ8hBYq6NxMat4=424</guid>
-    </item>
-    <item>
-      <title>Your Images Are (Probably) Oversized</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Freasonunderpressure.com%2Fblog%2Fposts%2Fyour-images-are-probably-oversized%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/W5FYutpHMbTAhHDnT9daph2T5J4OG6B1cDuiCv_JFwM=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Freasonunderpressure.com%2Fblog%2Fposts%2Fyour-images-are-probably-oversized%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/W5FYutpHMbTAhHDnT9daph2T5J4OG6B1cDuiCv_JFwM=424</guid>
-    </item>
-    <item>
-      <title>MESH: I tried HTMX, then ditched it - Alex Moon - tech, innovation, society, games</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fajmoon.com%2Fposts%2Fmesh-i-tried-htmx-then-ditched-it%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/UHJ-kSn1PXySr5yyyaPFtw6ae4oC3LTwDDny_aRXhko=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fajmoon.com%2Fposts%2Fmesh-i-tried-htmx-then-ditched-it%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/UHJ-kSn1PXySr5yyyaPFtw6ae4oC3LTwDDny_aRXhko=424</guid>
-    </item>
-    <item>
-      <title>Infobip: The Infrastructure Behind 10 Billion Daily Messages</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshiftmag.dev%2Fhow-infobips-infrastructure-handled-10-billion-messages-in-a-day-6162%2F%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/wQRuy_wyjOyATRb7KY_0nTGj-e6YwEGgJkpfr6nZ2F0=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshiftmag.dev%2Fhow-infobips-infrastructure-handled-10-billion-messages-in-a-day-6162%2F%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/wQRuy_wyjOyATRb7KY_0nTGj-e6YwEGgJkpfr6nZ2F0=424</guid>
-    </item>
-    <item>
-      <title>Thundering Herd Problem: Preventing the Stampede – Distributed Computing Musings</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdistributed-computing-musings.com%2F2025%2F08%2Fthundering-herd-problem-preventing-the-stampede%2F%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/q7ykHAWNm3G6lE3Tic7GQMw-1j0O7Knr2NESHHFEJkQ=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdistributed-computing-musings.com%2F2025%2F08%2Fthundering-herd-problem-preventing-the-stampede%2F%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/q7ykHAWNm3G6lE3Tic7GQMw-1j0O7Knr2NESHHFEJkQ=424</guid>
-    </item>
-    <item>
-      <title>advanced-context-engineering-for-coding-agents/ace-fca.md at main · humanlayer/advanced-context-engineering-for-coding-agents · GitHub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fhumanlayer%2Fadvanced-context-engineering-for-coding-agents%2Fblob%2Fmain%2Face-fca.md%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/uP5KzEUX7LJ0BPNtSVDq-ZkeXYwTwKJh38_FVe34L6g=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fhumanlayer%2Fadvanced-context-engineering-for-coding-agents%2Fblob%2Fmain%2Face-fca.md%3Futm_source=tldrwebdev/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/uP5KzEUX7LJ0BPNtSVDq-ZkeXYwTwKJh38_FVe34L6g=424</guid>
-    </item>
-    <item>
-      <title>TLDR WebDev</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=1ee4a5f4-98ff-11f0-a5b0-dbca188214a6%26pt=campaign%26t=1758712715%26s=deea73c133519a708a46329ae13ccb59b4c3c3a5947b20b6ed1f0139e47dc6cb/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/O7tjd1P5UY8JnHUP88jVYne-6u721ceHkwHWB_QNBNw=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=1ee4a5f4-98ff-11f0-a5b0-dbca188214a6%26pt=campaign%26t=1758712715%26s=deea73c133519a708a46329ae13ccb59b4c3c3a5947b20b6ed1f0139e47dc6cb/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/O7tjd1P5UY8JnHUP88jVYne-6u721ceHkwHWB_QNBNw=424</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/IazbML_hPJRMYRY-O1HZNT4mwhjU8kzJI7_cBTv-mp4=424</link>
-      <description>Link found in newsletter: 'Using AI in big codebases 🐘, TanStack Start v1 🚀, Postgres’s evolution 🌱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001997b72588e-66d65bf2-77df-47b3-95a5-a4f6230c1b0e-000000/IazbML_hPJRMYRY-O1HZNT4mwhjU8kzJI7_cBTv-mp4=424</guid>
-    </item>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=04a589d2-9937-11f0-9ffb-310c1305c150%26pt=campaign%26pv=4%26spa=1758718858%26t=1758720109%26s=54ab9fd306aa52d10aaa04d120e48461e03992aebd3fb8bead6297b7892de831/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/t4GluxZtLeeFm-gNqlarMwVm4TTTuSol6wJ1k0GO-bg=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=04a589d2-9937-11f0-9ffb-310c1305c150%26pt=campaign%26pv=4%26spa=1758718858%26t=1758720109%26s=54ab9fd306aa52d10aaa04d120e48461e03992aebd3fb8bead6297b7892de831/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/t4GluxZtLeeFm-gNqlarMwVm4TTTuSol6wJ1k0GO-bg=424</guid>
-    </item>
-    <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/eLH-zK6s0WgKR7IfItCur2BSznvIYR6PFFG58vKQc5c=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/eLH-zK6s0WgKR7IfItCur2BSznvIYR6PFFG58vKQc5c=424</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/pl07VsAoDuaB6KFu9ietcN7P5Yt8bwJR455netiJ5AA=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/pl07VsAoDuaB6KFu9ietcN7P5Yt8bwJR455netiJ5AA=424</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/u-sV_u6mCJFHfVIW9R4nMmcJq3HibRB7wB8De7ZlpMc=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/u-sV_u6mCJFHfVIW9R4nMmcJq3HibRB7wB8De7ZlpMc=424</guid>
-    </item>
-    <item>
-      <title>TLDR AI | Referral Hub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/CHnXLSoCSU_H495aboEp4mVUnJJykmkd9NJ7Z_sD7KE=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/CHnXLSoCSU_H495aboEp4mVUnJJykmkd9NJ7Z_sD7KE=424</guid>
-    </item>
-    <item>
-      <title>How Americans View AI and Its Impact on Human Abilities, Society | Pew Research Center</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FKgxRcu/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/rAxk4I4zOEjsZo-yDGzNK7xIklNFbnoW3zv9Vo65LbY=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FKgxRcu/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/rAxk4I4zOEjsZo-yDGzNK7xIklNFbnoW3zv9Vo65LbY=424</guid>
-    </item>
-    <item>
-      <title>Sam Altman says ChatGPT will stop talking about suicide with teens | The Verge</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2Fai-artificial-intelligence%2F779053%2Fsam-altman-says-chatgpt-will-stop-talking-about-suicide-with-teens%3Futm_source=tldrai/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/KBtywPvSZZMRMCshz0gzgsZbIjIRqzqsvfgJD-Lr7xs=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2Fai-artificial-intelligence%2F779053%2Fsam-altman-says-chatgpt-will-stop-talking-about-suicide-with-teens%3Futm_source=tldrai/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/KBtywPvSZZMRMCshz0gzgsZbIjIRqzqsvfgJD-Lr7xs=424</guid>
-    </item>
-    <item>
-      <title>deepset | Empowering Insurance Sales Teams in Real Time with Gen AI</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.deepset.ai%2Fwebinars%2Fai-for-insurance-sales%3Futm_campaign=23430057-2510%2520-%2520Insurance%26utm_source=tldr%26utm_medium=newsletter%26utm_content=insurance-sales-webinar/2/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/1NYIvyBJ3iWqGg1kEYIMG6QiU1iFyhf1PlVjdQ-aFHM=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.deepset.ai%2Fwebinars%2Fai-for-insurance-sales%3Futm_campaign=23430057-2510%2520-%2520Insurance%26utm_source=tldr%26utm_medium=newsletter%26utm_content=insurance-sales-webinar/2/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/1NYIvyBJ3iWqGg1kEYIMG6QiU1iFyhf1PlVjdQ-aFHM=424</guid>
-    </item>
-    <item>
-      <title>deepset | Empowering Insurance Sales Teams in Real Time with Gen AI</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.deepset.ai%2Fwebinars%2Fai-for-insurance-sales%3Futm_campaign=23430057-2510%2520-%2520Insurance%26utm_source=tldr%26utm_medium=newsletter%26utm_content=insurance-sales-webinar/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/REF8lELjnVI97GQGZaFu5x5RQKsw7rvXGmwMy7hpd4U=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.deepset.ai%2Fwebinars%2Fai-for-insurance-sales%3Futm_campaign=23430057-2510%2520-%2520Insurance%26utm_source=tldr%26utm_medium=newsletter%26utm_content=insurance-sales-webinar/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/REF8lELjnVI97GQGZaFu5x5RQKsw7rvXGmwMy7hpd4U=424</guid>
-    </item>
-    <item>
-      <title>The 28 AI tools I wish existed</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsharif.io%2F28-ideas-2025%3Futm_source=tldrai/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/VdfD-FgvPx4Jia5viZtIOWPrjHI9ZmD8zozeTfntgsc=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsharif.io%2F28-ideas-2025%3Futm_source=tldrai/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/VdfD-FgvPx4Jia5viZtIOWPrjHI9ZmD8zozeTfntgsc=424</guid>
-    </item>
-    <item>
-      <title>Abundant Intelligence - Sam Altman</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.samaltman.com%2Fabundant-intelligence%3Futm_source=tldrai/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/kh7bvaxshWmc-DM8UJU39OHZwQGTBBuLhSsRnLYfcCE=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.samaltman.com%2Fabundant-intelligence%3Futm_source=tldrai/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/kh7bvaxshWmc-DM8UJU39OHZwQGTBBuLhSsRnLYfcCE=424</guid>
-    </item>
-    <item>
-      <title>Chrome DevTools (MCP) for your AI agent  |  Blog  |  Chrome for Developers</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdeveloper.chrome.com%2Fblog%2Fchrome-devtools-mcp%3Futm_source=tldrai/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/uCzuM4-UhXtXkRcqFln-RZeThf3q_TEw3lmB9Vux-vU=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdeveloper.chrome.com%2Fblog%2Fchrome-devtools-mcp%3Futm_source=tldrai/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/uCzuM4-UhXtXkRcqFln-RZeThf3q_TEw3lmB9Vux-vU=424</guid>
-    </item>
-    <item>
-      <title>Thread by @OpenAIDevs on Thread Reader App – Thread Reader App</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F1970535239048159237.html%3Futm_source=tldrai/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/9JSgw_RC0NJlhWIYzaPUpJ7epTGurKzS7Eqi3f4NX7M=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F1970535239048159237.html%3Futm_source=tldrai/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/9JSgw_RC0NJlhWIYzaPUpJ7epTGurKzS7Eqi3f4NX7M=424</guid>
-    </item>
-    <item>
-      <title>Blog | parth sareen</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fparthsareen.com%2Fblog.html%23sampling.md%3Futm_source=tldrai/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/vhwU-gUkT6opMiMtKbEDgJ59itXLo0-yErTQFbxEGoA=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fparthsareen.com%2Fblog.html%23sampling.md%3Futm_source=tldrai/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/vhwU-gUkT6opMiMtKbEDgJ59itXLo0-yErTQFbxEGoA=424</guid>
-    </item>
-    <item>
-      <title>advanced-context-engineering-for-coding-agents/ace-fca.md at main · humanlayer/advanced-context-engineering-for-coding-agents · GitHub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fhumanlayer%2Fadvanced-context-engineering-for-coding-agents%2Fblob%2Fmain%2Face-fca.md%3Futm_source=tldrai/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/mi3EzkZaSsUdmJhY1Tu7XbDKJstPqejqsr81iaQF8hg=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fhumanlayer%2Fadvanced-context-engineering-for-coding-agents%2Fblob%2Fmain%2Face-fca.md%3Futm_source=tldrai/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/mi3EzkZaSsUdmJhY1Tu7XbDKJstPqejqsr81iaQF8hg=424</guid>
-    </item>
-    <item>
-      <title>Mixboard: Google Labs’ new experiment to visualize ideas</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FLMds6C/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/X2j4mbbgHEMjGF5Qz9kbGlLoNybIWiwflk9PEaUfKJ8=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FLMds6C/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/X2j4mbbgHEMjGF5Qz9kbGlLoNybIWiwflk9PEaUfKJ8=424</guid>
-    </item>
-    <item>
-      <title>Javelin: Breaking down silos in identity fraud whitepaper | Plaid</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fplaid.com%2Fjavelin-identity-fraud-whitepaper%2F%3Futm_source=TLDRAI%26utm_medium=PaidNewsletter%26utm_campaign=TLDRAI_Paid_Newsletter_Ad_Buy%26utm_content=Javelin_Identity_Fraud_Report/5/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/kzytEfesW5dF1Rcy10nknYjP_KhsBt3UTffwMCo5zoo=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fplaid.com%2Fjavelin-identity-fraud-whitepaper%2F%3Futm_source=TLDRAI%26utm_medium=PaidNewsletter%26utm_campaign=TLDRAI_Paid_Newsletter_Ad_Buy%26utm_content=Javelin_Identity_Fraud_Report/5/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/kzytEfesW5dF1Rcy10nknYjP_KhsBt3UTffwMCo5zoo=424</guid>
-    </item>
-    <item>
-      <title>Javelin: Breaking down silos in identity fraud whitepaper | Plaid</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fplaid.com%2Fjavelin-identity-fraud-whitepaper%2F%3Futm_source=TLDRAI%26utm_medium=PaidNewsletter%26utm_campaign=TLDRAI_Paid_Newsletter_Ad_Buy%26utm_content=Javelin_Identity_Fraud_Report/4/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/9qbyniQfEQAB7L9jz2NaclfZDIfeLzcrS2lvEGIO29I=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fplaid.com%2Fjavelin-identity-fraud-whitepaper%2F%3Futm_source=TLDRAI%26utm_medium=PaidNewsletter%26utm_campaign=TLDRAI_Paid_Newsletter_Ad_Buy%26utm_content=Javelin_Identity_Fraud_Report/4/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/9qbyniQfEQAB7L9jz2NaclfZDIfeLzcrS2lvEGIO29I=424</guid>
-    </item>
-    <item>
-      <title>Javelin: Breaking down silos in identity fraud whitepaper | Plaid</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fplaid.com%2Fjavelin-identity-fraud-whitepaper%2F%3Futm_source=TLDRAI%26utm_medium=PaidNewsletter%26utm_campaign=TLDRAI_Paid_Newsletter_Ad_Buy%26utm_content=Javelin_Identity_Fraud_Report/3/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/1GxV7z7xRnRcWITE2CmizNOYpkESh1BOV7ZNi_UvUZg=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fplaid.com%2Fjavelin-identity-fraud-whitepaper%2F%3Futm_source=TLDRAI%26utm_medium=PaidNewsletter%26utm_campaign=TLDRAI_Paid_Newsletter_Ad_Buy%26utm_content=Javelin_Identity_Fraud_Report/3/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/1GxV7z7xRnRcWITE2CmizNOYpkESh1BOV7ZNi_UvUZg=424</guid>
-    </item>
-    <item>
-      <title>Javelin: Breaking down silos in identity fraud whitepaper | Plaid</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fplaid.com%2Fjavelin-identity-fraud-whitepaper%2F%3Futm_source=TLDRAI%26utm_medium=PaidNewsletter%26utm_campaign=TLDRAI_Paid_Newsletter_Ad_Buy%26utm_content=Javelin_Identity_Fraud_Report/2/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/KYIEvEl8N4H3_ElGr2zIoohQAODEMOfQum17UlTf3eM=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fplaid.com%2Fjavelin-identity-fraud-whitepaper%2F%3Futm_source=TLDRAI%26utm_medium=PaidNewsletter%26utm_campaign=TLDRAI_Paid_Newsletter_Ad_Buy%26utm_content=Javelin_Identity_Fraud_Report/2/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/KYIEvEl8N4H3_ElGr2zIoohQAODEMOfQum17UlTf3eM=424</guid>
-    </item>
-    <item>
-      <title>Javelin: Breaking down silos in identity fraud whitepaper | Plaid</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fplaid.com%2Fjavelin-identity-fraud-whitepaper%2F%3Futm_source=TLDRAI%26utm_medium=PaidNewsletter%26utm_campaign=TLDRAI_Paid_Newsletter_Ad_Buy%26utm_content=Javelin_Identity_Fraud_Report/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/-2-5bgCFk3jKpahL1JVufwxXTPLfuXsNBQUuAl1IXBc=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fplaid.com%2Fjavelin-identity-fraud-whitepaper%2F%3Futm_source=TLDRAI%26utm_medium=PaidNewsletter%26utm_campaign=TLDRAI_Paid_Newsletter_Ad_Buy%26utm_content=Javelin_Identity_Fraud_Report/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/-2-5bgCFk3jKpahL1JVufwxXTPLfuXsNBQUuAl1IXBc=424</guid>
-    </item>
-    <item>
-      <title>TLDR AI</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=04a589d2-9937-11f0-9ffb-310c1305c150%26pt=campaign%26t=1758720109%26s=5d60e861b0c04903a72d80590ff06853436042f392180d9e5164663a7a063cbb/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/Gez09mh68fXYyybXKn_ZE-oZlXYvvcXUAGpNFggGXJs=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=04a589d2-9937-11f0-9ffb-310c1305c150%26pt=campaign%26t=1758720109%26s=5d60e861b0c04903a72d80590ff06853436042f392180d9e5164663a7a063cbb/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/Gez09mh68fXYyybXKn_ZE-oZlXYvvcXUAGpNFggGXJs=424</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/DaPt-dHb9tkeiej3nvX9wi0W6wlfD6b6oEKGjMxdvKo=424</link>
-      <description>Link found in newsletter: 'Apple MCP 📱, Google Mixboard 🖼️, Perplexity email assistant 📧'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001997be32a5c-9e18fb2e-b2b4-4d59-a498-3d9537282eef-000000/DaPt-dHb9tkeiej3nvX9wi0W6wlfD6b6oEKGjMxdvKo=424</guid>
-    </item>
+    <lastBuildDate>Tue, 30 Sep 2025 12:27:25 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=88f92c44-99ef-11f0-97d2-25953c66a563%26pt=campaign%26pv=4%26spa=1758794462%26t=1758795944%26s=964a1f00c683cf7cc9b7fe4fa0f68825f83d12598313a5ce779cc2e407764224/1/010001998068506e-20e6933e-9506-4e1c-8ea1-e252dbd0f1f8-000000/wgd4DXyZGJsREAjwCVfhOtIt6kd_wPwEv8eIpeW1Xvg=424</link>
@@ -696,12 +426,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Ffis-acquires-fintech-amount-banking-payments-deal%2F761005%2F%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/4sxGp6q3an37fdEMJt10MLCJYp6kz-Y1oSNbVz-uLNo=424</link>
       <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Ffis-acquires-fintech-amount-banking-payments-deal%2F761005%2F%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/4sxGp6q3an37fdEMJt10MLCJYp6kz-Y1oSNbVz-uLNo=424</guid>
-    </item>
-    <item>
-      <title>AppZen secures $180m to scale autonomous finance AI</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffintech.global%2F2025%2F09%2F22%2Fappzen-secures-180m-to-scale-autonomous-finance-ai%2F%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/4kSlTXZoDQ2X475ZlUzaau69DTJWYCEcqCuwGIr0YoI=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffintech.global%2F2025%2F09%2F22%2Fappzen-secures-180m-to-scale-autonomous-finance-ai%2F%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/4kSlTXZoDQ2X475ZlUzaau69DTJWYCEcqCuwGIr0YoI=424</guid>
     </item>
     <item>
       <title>Stripe Valuation Reaches Record $106 Billion</title>
@@ -1138,12 +862,6 @@ Generation with World Models | Research - AI at Meta</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstevedylandev.bearblog.dev%2Fresurrect-the-old-web%2F%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/Sb7MjDjUAKkiz0NMMrOdvY2p0L2a_c9oAqeinNHJUuI=424</link>
       <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstevedylandev.bearblog.dev%2Fresurrect-the-old-web%2F%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/Sb7MjDjUAKkiz0NMMrOdvY2p0L2a_c9oAqeinNHJUuI=424</guid>
-    </item>
-    <item>
-      <title>Immutable Infrastructure DevOps: Why You Should Replace, Not Patch | by Lukas Niessen | Sep, 2025 | Medium</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FfQuMgP/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/YPDAWDyIDZwyHLEhTrLN3dv5rQpnLXthzBvkzN3Al2c=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FfQuMgP/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/YPDAWDyIDZwyHLEhTrLN3dv5rQpnLXthzBvkzN3Al2c=424</guid>
     </item>
     <item>
       <title>Continuing to bring you our latest models, with an improved Gemini 2.5 Flash and Flash-Lite release
@@ -1938,12 +1656,6 @@ Generation with World Models | Research - AI at Meta</title>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001999596b137-a2095e7a-3825-4a7a-b883-19365e0db93d-000000/eZmzH-NA78cUGsiCSfEaiQYMG_J2HwZSXxsU-JpTD-U=424</guid>
     </item>
     <item>
-      <title>borgrodrick · Kill the Newsletter!</title>
-      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
-      <description>Link found in newsletter: 'Apple Veritas 🍎, DeepSeek-V3.1-Terminus 🤖, ChatGPT model routing ➡️'</description>
-      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
-    </item>
-    <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=e2677a24-9d2d-11f0-85b9-df7ce12a65ad%26pt=campaign%26pv=4%26spa=1759150913%26t=1759153769%26s=7bf00c8c9b2f48b8b33a0752c64f2d67644d72cc4bfc2198d87ede642cccba85/1/0100019995bc4c64-9456c749-8ece-484c-abe8-780d03780f38-000000/ob3WrIrRbHf4s_ZvK9842E0wnQStT1u5vbS-p0qleYc=424</link>
       <description>Link found in newsletter: 'Apple Veritas 🍎, DeepSeek-V3.1-Terminus 🤖, ChatGPT model routing ➡️'</description>
@@ -2110,6 +1822,342 @@ Generation with World Models | Research - AI at Meta</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019995bc4c64-9456c749-8ece-484c-abe8-780d03780f38-000000/9bOapC9vOjlaXtmqmWaS9PHbLD3M6yuanfiicn1tbA0=424</link>
       <description>Link found in newsletter: 'Apple Veritas 🍎, DeepSeek-V3.1-Terminus 🤖, ChatGPT model routing ➡️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019995bc4c64-9456c749-8ece-484c-abe8-780d03780f38-000000/9bOapC9vOjlaXtmqmWaS9PHbLD3M6yuanfiicn1tbA0=424</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=7d0a3d18-9de3-11f0-ace2-33afd8f77014%26pt=campaign%26pv=4%26spa=1759226467%26t=1759227945%26s=e1f86665958309639e8ad0fc089d7ddecdb09985d10bc0477193b05a18459b07/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/WeRJGZNj2yIkl9KgfdRqXq7bXksfN6XRWp5LMwlyzec=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=7d0a3d18-9de3-11f0-ace2-33afd8f77014%26pt=campaign%26pv=4%26spa=1759226467%26t=1759227945%26s=e1f86665958309639e8ad0fc089d7ddecdb09985d10bc0477193b05a18459b07/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/WeRJGZNj2yIkl9KgfdRqXq7bXksfN6XRWp5LMwlyzec=424</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/fHBYBWa31fQP2vlJG4eVEFGffnwFpXwiWngjV7XBPSk=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/fHBYBWa31fQP2vlJG4eVEFGffnwFpXwiWngjV7XBPSk=424</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/Pfuul05feZucHQ5nsiHcWi80i36Vpp3nKrJKI9OLmjQ=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/Pfuul05feZucHQ5nsiHcWi80i36Vpp3nKrJKI9OLmjQ=424</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/Yy61KnzyVkoIolJQKK9jdB0wpDbx9C3uOtEYFjbgch8=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/Yy61KnzyVkoIolJQKK9jdB0wpDbx9C3uOtEYFjbgch8=424</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/-s5b6ymi8Vtr0M5vB0i2BIJXTIltQkdiLTnofiRnFt0=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/-s5b6ymi8Vtr0M5vB0i2BIJXTIltQkdiLTnofiRnFt0=424</guid>
+    </item>
+    <item>
+      <title>Use the Accept Header to serve Markdown instead of HTML to LLMs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.skeptrune.com%2Fposts%2Fuse-the-accept-header-to-serve-markdown-instead-of-html-to-llms%2F%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/Qj_n60DOd_jR5qoUE5SrtNtecVHAv-ws1y8Y8vRbaIU=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.skeptrune.com%2Fposts%2Fuse-the-accept-header-to-serve-markdown-instead-of-html-to-llms%2F%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/Qj_n60DOd_jR5qoUE5SrtNtecVHAv-ws1y8Y8vRbaIU=424</guid>
+    </item>
+    <item>
+      <title>sanix | THE WEIRD CONCEPT OF BRANCHLESS PROGRAMMING</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsanixdk.xyz%2Fblogs%2Fthe-weird-concept-of-branchless-programming%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/FcX7Pq4gHvGUbOJPaIb5hzSEiCRFHwmuL1bz_e3MVU0=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsanixdk.xyz%2Fblogs%2Fthe-weird-concept-of-branchless-programming%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/FcX7Pq4gHvGUbOJPaIb5hzSEiCRFHwmuL1bz_e3MVU0=424</guid>
+    </item>
+    <item>
+      <title>90% | Armin Ronacher's Thoughts and Writings</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flucumr.pocoo.org%2F2025%2F9%2F29%2F90-percent%2F%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/5ky1WV0Boq67WtfIsBjczRoQ1EHpTCc-XIGyuLOd-fU=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flucumr.pocoo.org%2F2025%2F9%2F29%2F90-percent%2F%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/5ky1WV0Boq67WtfIsBjczRoQ1EHpTCc-XIGyuLOd-fU=424</guid>
+    </item>
+    <item>
+      <title>Amazon and Google tip off Jensen Huang before announcing information about their homegrown AI chips — companies tread carefully to avoid surprising Nvidia, says report | Tom's Hardware</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tomshardware.com%2Ftech-industry%2Famazon-and-google-tip-off-jensen-huang-before-announcing-ai-chips%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/gXqjoDIL6rFk5T-7axcx-Jxc99LK2wKcchFCB57aiOQ=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tomshardware.com%2Ftech-industry%2Famazon-and-google-tip-off-jensen-huang-before-announcing-ai-chips%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/gXqjoDIL6rFk5T-7axcx-Jxc99LK2wKcchFCB57aiOQ=424</guid>
+    </item>
+    <item>
+      <title>Microsoft Sets the Tone for 'Vibe Working' With New Agent Mode in Word, Excel | PCMag</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FFD3PZm/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/mJ1qTuANj6uFepSyzCr_6JhFtxYBIghdhe__QPJ_lGM=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FFD3PZm/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/mJ1qTuANj6uFepSyzCr_6JhFtxYBIghdhe__QPJ_lGM=424</guid>
+    </item>
+    <item>
+      <title>F-Droid says Google’s new sideloading restrictions will kill the project - Ars Technica</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fgadgets%2F2025%2F09%2Ff-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading%2F%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/2GO23WGk0AYMYJEEdzi2y-qf9UIrGYY50o1PMeW8woQ=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fgadgets%2F2025%2F09%2Ff-droid-calls-for-regulators-to-stop-googles-crackdown-on-sideloading%2F%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/2GO23WGk0AYMYJEEdzi2y-qf9UIrGYY50o1PMeW8woQ=424</guid>
+    </item>
+    <item>
+      <title>OUTSOURCE FEARLESSLY</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.ubiquity.com%2Foutsource_fearlessly%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter4%26utm_term=fintech/2/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/S-Vkp-kaay35o5rug1DdcP5fjJwCSMz4Yljs82tiCuA=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.ubiquity.com%2Foutsource_fearlessly%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter4%26utm_term=fintech/2/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/S-Vkp-kaay35o5rug1DdcP5fjJwCSMz4Yljs82tiCuA=424</guid>
+    </item>
+    <item>
+      <title>OUTSOURCE FEARLESSLY</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.ubiquity.com%2Foutsource_fearlessly%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter4%26utm_term=fintech/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/nkg2PFbhWOzYlPypFbqgcs8x6uxOLPgJ3CiMU1KXglE=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.ubiquity.com%2Foutsource_fearlessly%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter4%26utm_term=fintech/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/nkg2PFbhWOzYlPypFbqgcs8x6uxOLPgJ3CiMU1KXglE=424</guid>
+    </item>
+    <item>
+      <title>Anthropic releases Claude Sonnet 4.5 in latest bid for AI agents and coding supremacy | The Verge</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2Fai-artificial-intelligence%2F787524%2Fanthropic-releases-claude-sonnet-4-5-in-latest-bid-for-ai-agents-and-coding-supremacy%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/7EE2bCBhIULDXaGXEl89uD2Zfj73zdaR2SA3U-EWdoE=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2Fai-artificial-intelligence%2F787524%2Fanthropic-releases-claude-sonnet-4-5-in-latest-bid-for-ai-agents-and-coding-supremacy%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/7EE2bCBhIULDXaGXEl89uD2Zfj73zdaR2SA3U-EWdoE=424</guid>
+    </item>
+    <item>
+      <title>In the economy of user effort, be a bargain, not a scam • Lea Verou</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flea.verou.me%2Fblog%2F2025%2Fuser-effort%2F%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/1_JRjq8J0rLJ_1PWbbv4f_9nnnjla7WpowdYkwQYZLs=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flea.verou.me%2Fblog%2F2025%2Fuser-effort%2F%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/1_JRjq8J0rLJ_1PWbbv4f_9nnnjla7WpowdYkwQYZLs=424</guid>
+    </item>
+    <item>
+      <title>Fork yeah: Valkey 9 sharpens edge against Redis • The Register</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2025%2F09%2F29%2Fvalkey_9%2F%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/AJmoL5sPREbXAvIcMpGgid41MewLdT3sPLcP-HV4-vM=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2025%2F09%2F29%2Fvalkey_9%2F%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/AJmoL5sPREbXAvIcMpGgid41MewLdT3sPLcP-HV4-vM=424</guid>
+    </item>
+    <item>
+      <title>Stigg Credit Suite | Launch Credits Without Rebuilding Billing</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.stigg.io%2Fcredits%3Futm_source=Tldr%26utm_medium=Newsletter%26utm_campaign=Credits/2/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/-DpRooWrJIYZCs0vhI9mqFq-HBgt_1XeQXuM7emt3Yc=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.stigg.io%2Fcredits%3Futm_source=Tldr%26utm_medium=Newsletter%26utm_campaign=Credits/2/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/-DpRooWrJIYZCs0vhI9mqFq-HBgt_1XeQXuM7emt3Yc=424</guid>
+    </item>
+    <item>
+      <title>Launch AI Credits Fast. Keep Your Billing Stack. | Stigg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.stigg.io%2Fblog-posts%2Flaunch-credits-fast-keep-your-billing-stack%3Futm_source=Tldr%26utm_medium=Newsletter%26utm_campaign=Credits/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/1AEiICvZeKShsgLH4IkuguHIP-5VRxbBnl_TSU0ZOYA=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.stigg.io%2Fblog-posts%2Flaunch-credits-fast-keep-your-billing-stack%3Futm_source=Tldr%26utm_medium=Newsletter%26utm_campaign=Credits/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/1AEiICvZeKShsgLH4IkuguHIP-5VRxbBnl_TSU0ZOYA=424</guid>
+    </item>
+    <item>
+      <title>Stigg Credit Suite | Launch Credits Without Rebuilding Billing</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.stigg.io%2Fcredits%3Futm_source=Tldr%26utm_medium=Newsletter%26utm_campaign=Credits/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/VhcT4Df5mynWVM5fWR8-eVyUIHY_Tw7zPxcFoFOCqt4=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.stigg.io%2Fcredits%3Futm_source=Tldr%26utm_medium=Newsletter%26utm_campaign=Credits/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/VhcT4Df5mynWVM5fWR8-eVyUIHY_Tw7zPxcFoFOCqt4=424</guid>
+    </item>
+    <item>
+      <title>6,100-Qubit Processor Shatters Quantum Computing Record : ScienceAlert</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sciencealert.com%2F6100-qubit-processor-shatters-quantum-computing-record%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/xco0GSkwdwhjdSLqmDtAm7jqWvCPfbaeAP4oOl0R64Q=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sciencealert.com%2F6100-qubit-processor-shatters-quantum-computing-record%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/xco0GSkwdwhjdSLqmDtAm7jqWvCPfbaeAP4oOl0R64Q=424</guid>
+    </item>
+    <item>
+      <title>China's oyster-inspired 'bone glue' bonds fractures in minutes</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Finterestingengineering.com%2Fscience%2Fchinas-oyster-inspired-bone-glue%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/qZcm5jh1vvqgFrEQjX2I9M1mgqzjlfV4kpsAo4J3lj0=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Finterestingengineering.com%2Fscience%2Fchinas-oyster-inspired-bone-glue%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/qZcm5jh1vvqgFrEQjX2I9M1mgqzjlfV4kpsAo4J3lj0=424</guid>
+    </item>
+    <item>
+      <title>OpenAI will reportedly release a TikTok-like social app alongside Sora 2</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.engadget.com%2Fai%2Fopenai-will-reportedly-release-a-tiktok-like-social-app-alongside-sora-2-205842527.html%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/ZasI5iIQdg_xt04qoRLTPE8LSQyJxMMmOcPzsB6Xk5s=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.engadget.com%2Fai%2Fopenai-will-reportedly-release-a-tiktok-like-social-app-alongside-sora-2-205842527.html%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/ZasI5iIQdg_xt04qoRLTPE8LSQyJxMMmOcPzsB6Xk5s=424</guid>
+    </item>
+    <item>
+      <title>OpenAI takes on Google, Amazon with new agentic shopping system | TechCrunch</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F09%2F29%2Fopenai-takes-on-google-amazon-with-new-agentic-shopping-system%2F%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/kLabmWsjtTPbKylYONY2qiTKoZd7LGh5ZXTmysDrt5A=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F09%2F29%2Fopenai-takes-on-google-amazon-with-new-agentic-shopping-system%2F%3Futm_source=tldrnewsletter/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/kLabmWsjtTPbKylYONY2qiTKoZd7LGh5ZXTmysDrt5A=424</guid>
+    </item>
+    <item>
+      <title>QA Wolf | 80% automated test coverage in 4 months</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250930-None_Experiment-FALSE%26utm_term=cta-ScheduleADemoToLearnMore%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownFromHoursToMinutesWithAutomatedTesting____Newsletter-PrimaryPlacement_20250930_v1_/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/EOVAmRqCO5aDcOihXqTyy-YW3_iAFgeBx6Epggf-FLQ=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250930-None_Experiment-FALSE%26utm_term=cta-ScheduleADemoToLearnMore%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownFromHoursToMinutesWithAutomatedTesting____Newsletter-PrimaryPlacement_20250930_v1_/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/EOVAmRqCO5aDcOihXqTyy-YW3_iAFgeBx6Epggf-FLQ=424</guid>
+    </item>
+    <item>
+      <title>Drata secured 86% faster QA cycles | QA Wolf</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fcase-studies%2Fdrata%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250930-None_Experiment-FALSE%26utm_term=body-DratasTeamOf80PlusEngineers%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownFromHoursToMinutesWithAutomatedTesting____Newsletter-PrimaryPlacement_20250930_v1_/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/JxCFjsBHBlAFpeatPid_3QDetJG84PfjMGkk25cqQoU=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fcase-studies%2Fdrata%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250930-None_Experiment-FALSE%26utm_term=body-DratasTeamOf80PlusEngineers%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownFromHoursToMinutesWithAutomatedTesting____Newsletter-PrimaryPlacement_20250930_v1_/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/JxCFjsBHBlAFpeatPid_3QDetJG84PfjMGkk25cqQoU=424</guid>
+    </item>
+    <item>
+      <title>QA Wolf | 80% automated test coverage in 4 months</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250930-None_Experiment-FALSE%26utm_term=body-QAWolf%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownFromHoursToMinutesWithAutomatedTesting____Newsletter-PrimaryPlacement_20250930_v1_/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/e0EQaqS-G1olCxqt0kpMyAU2TyPRcSFHNoYxnpriZus=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250930-None_Experiment-FALSE%26utm_term=body-QAWolf%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownFromHoursToMinutesWithAutomatedTesting____Newsletter-PrimaryPlacement_20250930_v1_/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/e0EQaqS-G1olCxqt0kpMyAU2TyPRcSFHNoYxnpriZus=424</guid>
+    </item>
+    <item>
+      <title>How it works</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fhow-it-works%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250930-None_Experiment-FALSE%26utm_term=body-80PercentEndToEndTestCoverage%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownFromHoursToMinutesWithAutomatedTesting____Newsletter-PrimaryPlacement_20250930_v1_/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/X62vKksSheTuieC6zWfjesPD4aWSD9GCQWVL-ZLdWVg=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fhow-it-works%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250930-None_Experiment-FALSE%26utm_term=body-80PercentEndToEndTestCoverage%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownFromHoursToMinutesWithAutomatedTesting____Newsletter-PrimaryPlacement_20250930_v1_/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/X62vKksSheTuieC6zWfjesPD4aWSD9GCQWVL-ZLdWVg=424</guid>
+    </item>
+    <item>
+      <title>QA Wolf | 80% automated test coverage in 4 months</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250930-None_Experiment-FALSE%26utm_term=headline-CutYourQACyclesDownFromHoursToMinutesWithAutomatedTesting%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownFromHoursToMinutesWithAutomatedTesting____Newsletter-PrimaryPlacement_20250930_v1_/2/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/OYNfOWWhyvGnifdoHGAxIXEIrU8OTeKomLtt8usjdmE=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250930-None_Experiment-FALSE%26utm_term=headline-CutYourQACyclesDownFromHoursToMinutesWithAutomatedTesting%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownFromHoursToMinutesWithAutomatedTesting____Newsletter-PrimaryPlacement_20250930_v1_/2/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/OYNfOWWhyvGnifdoHGAxIXEIrU8OTeKomLtt8usjdmE=424</guid>
+    </item>
+    <item>
+      <title>QA Wolf | 80% automated test coverage in 4 months</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250930-None_Experiment-FALSE%26utm_term=headline-CutYourQACyclesDownFromHoursToMinutesWithAutomatedTesting%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownFromHoursToMinutesWithAutomatedTesting____Newsletter-PrimaryPlacement_20250930_v1_/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/NcBQMZ5HPFz0deMsW5i6IrljkQl9-GiQTts3aSMss9s=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250930-None_Experiment-FALSE%26utm_term=headline-CutYourQACyclesDownFromHoursToMinutesWithAutomatedTesting%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownFromHoursToMinutesWithAutomatedTesting____Newsletter-PrimaryPlacement_20250930_v1_/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/NcBQMZ5HPFz0deMsW5i6IrljkQl9-GiQTts3aSMss9s=424</guid>
+    </item>
+    <item>
+      <title>TLDR</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=7d0a3d18-9de3-11f0-ace2-33afd8f77014%26pt=campaign%26t=1759227945%26s=c1794e927d5d5d7a419ec5909d590871d9b53ff35bdc16ffd0dd6cd5c7a81e7d/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/Ixmd86htl3MWXXheAbqclGhqD5LjSjhGinEsbQrOm9Y=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=7d0a3d18-9de3-11f0-ace2-33afd8f77014%26pt=campaign%26t=1759227945%26s=c1794e927d5d5d7a419ec5909d590871d9b53ff35bdc16ffd0dd6cd5c7a81e7d/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/Ixmd86htl3MWXXheAbqclGhqD5LjSjhGinEsbQrOm9Y=424</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/CGRi1Tdj0Ex7U0nrlzicTsgKfsQ52p9aN1GWiwbfmcU=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/CGRi1Tdj0Ex7U0nrlzicTsgKfsQ52p9aN1GWiwbfmcU=424</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/SwC1gnr9SWhdhn8Y4595D-gDW7GYuobBAzIDwdFvjBg=424</link>
+      <description>Link found in newsletter: 'ChatGPT Checkout 🛒, Claude Sonnet 4.5 🤖, Valkey 9 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/010001999a2820ae-eacaa096-72d3-432c-be41-c5503b70b240-000000/SwC1gnr9SWhdhn8Y4595D-gDW7GYuobBAzIDwdFvjBg=424</guid>
+    </item>
+    <item>
+      <title>borgrodrick · Kill the Newsletter!</title>
+      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=cf44ecf2-9da9-11f0-8151-ed1a6244838e%26pt=campaign%26pv=4%26spa=1759230092%26t=1759231129%26s=975811ff2d2d4bb4ab5fcfd1f28fdf39ba4375dd9efc175dabf3027b5ba77926/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/h7bXzmjUDksJgMKdchJ5O0u4_2KSMlbYHaqNlXlrrU8=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=cf44ecf2-9da9-11f0-8151-ed1a6244838e%26pt=campaign%26pv=4%26spa=1759230092%26t=1759231129%26s=975811ff2d2d4bb4ab5fcfd1f28fdf39ba4375dd9efc175dabf3027b5ba77926/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/h7bXzmjUDksJgMKdchJ5O0u4_2KSMlbYHaqNlXlrrU8=424</guid>
+    </item>
+    <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/xXPjTKSTUeiiOBKqQttTqW1niGy2MyEc4b2pIYhJBzU=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/xXPjTKSTUeiiOBKqQttTqW1niGy2MyEc4b2pIYhJBzU=424</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/-Z5_cgbEYQxSW_iEbFX3r6ZTqduhfeZMCUYIY9tMtlE=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/-Z5_cgbEYQxSW_iEbFX3r6ZTqduhfeZMCUYIY9tMtlE=424</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/rPvd1o_PVNwnuTXhXhAp7C3P5apLrP7OcuPiBaHcMUk=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/rPvd1o_PVNwnuTXhXhAp7C3P5apLrP7OcuPiBaHcMUk=424</guid>
+    </item>
+    <item>
+      <title>TLDR Web Dev | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/xT6h3Yz1bRlbfhbBb7FDqgVbdL5owGP5zoNjl0mGJt4=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/xT6h3Yz1bRlbfhbBb7FDqgVbdL5owGP5zoNjl0mGJt4=424</guid>
+    </item>
+    <item>
+      <title>Eliminating Cold Starts 2: shard and conquer</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.cloudflare.com%2Feliminating-cold-starts-2-shard-and-conquer%2F%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/ZL9JQBK9HVHY1--J68LGZjPnF0wvm432O2TnK9q4Nn0=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.cloudflare.com%2Feliminating-cold-starts-2-shard-and-conquer%2F%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/ZL9JQBK9HVHY1--J68LGZjPnF0wvm432O2TnK9q4Nn0=424</guid>
+    </item>
+    <item>
+      <title>Tuning AIO in PostgreSQL 18 - Tomas Vondra</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fvondra.me%2Fposts%2Ftuning-aio-in-postgresql-18%2F%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/T1_66DYWvwo0IGvgU-gLdUTbNjBvM9J-imgpgiktVDo=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fvondra.me%2Fposts%2Ftuning-aio-in-postgresql-18%2F%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/T1_66DYWvwo0IGvgU-gLdUTbNjBvM9J-imgpgiktVDo=424</guid>
+    </item>
+    <item>
+      <title>Test Driven Development: Bad Example – Axol's Blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftheaxolot.wordpress.com%2F2025%2F09%2F28%2Ftest-driven-development-bad-example%2F%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/d5IRoTLgCSu7P35UdRJLapPpIL_qYamzfvM0QmBzUdc=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftheaxolot.wordpress.com%2F2025%2F09%2F28%2Ftest-driven-development-bad-example%2F%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/d5IRoTLgCSu7P35UdRJLapPpIL_qYamzfvM0QmBzUdc=424</guid>
+    </item>
+    <item>
+      <title>Stop using .reverse().find(): meet findLast() - Matt Smith</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fallthingssmitty.com%2F2025%2F09%2F22%2Fstop-using-reverse-find-meet-findlast%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/HAijRN96mCl5Q1UWtL8YS9WLDO-3um3j8iotQRbf2GQ=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fallthingssmitty.com%2F2025%2F09%2F22%2Fstop-using-reverse-find-meet-findlast%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/HAijRN96mCl5Q1UWtL8YS9WLDO-3um3j8iotQRbf2GQ=424</guid>
+    </item>
+    <item>
+      <title>Sandboxing agents at the kernel level | Greptile Blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.greptile.com%2Fblog%2Fsandboxing-agents-at-the-kernel-level%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/uZWMYgrWxUUbkxI8FmuXJW--XMzOj6J7M8fG8XOG1iY=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.greptile.com%2Fblog%2Fsandboxing-agents-at-the-kernel-level%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/uZWMYgrWxUUbkxI8FmuXJW--XMzOj6J7M8fG8XOG1iY=424</guid>
+    </item>
+    <item>
+      <title>Subtleties of SQLite Indexes | Evan Schwartz</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Femschwartz.me%2Fsubtleties-of-sqlite-indexes%2F%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/n-fSXuvJW31jUeUTAcTvlScRKf1NdE_ZQJUb2WaM3cs=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Femschwartz.me%2Fsubtleties-of-sqlite-indexes%2F%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/n-fSXuvJW31jUeUTAcTvlScRKf1NdE_ZQJUb2WaM3cs=424</guid>
+    </item>
+    <item>
+      <title>AddyOsmani.com - Give your AI eyes: Introducing Chrome DevTools MCP</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faddyosmani.com%2Fblog%2Fdevtools-mcp%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/TDMo3bxVXQ0OkuTlyZT0SvfY5Z7UvnyCee50CIWyXyM=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faddyosmani.com%2Fblog%2Fdevtools-mcp%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/TDMo3bxVXQ0OkuTlyZT0SvfY5Z7UvnyCee50CIWyXyM=424</guid>
+    </item>
+    <item>
+      <title>Introducing Claude Sonnet 4.5 \ Anthropic</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fclaude-sonnet-4-5%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/qYzZVnbvdnWGqkeoTWSujwMFVkWC9Zq4xJakjAV5osw=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fclaude-sonnet-4-5%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/qYzZVnbvdnWGqkeoTWSujwMFVkWC9Zq4xJakjAV5osw=424</guid>
+    </item>
+    <item>
+      <title>To AI or not to AI</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fantropia.studio%2Fblog%2Fto-ai-or-not-to-ai%2F%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/We5IwQtYI7CUctamNCMo_oyxf5t06XudA-DmFz7Elto=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fantropia.studio%2Fblog%2Fto-ai-or-not-to-ai%2F%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/We5IwQtYI7CUctamNCMo_oyxf5t06XudA-DmFz7Elto=424</guid>
+    </item>
+    <item>
+      <title>Friction is necessary for Growth - Jameel Ur Rahman</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjameelur.com%2Fblog%2Fovercoming-friction-leads-to-growth%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/8whr7tOn-WptlGqrmzH9y2KTyzKSX9wkpGJieur4H0g=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjameelur.com%2Fblog%2Fovercoming-friction-leads-to-growth%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/8whr7tOn-WptlGqrmzH9y2KTyzKSX9wkpGJieur4H0g=424</guid>
+    </item>
+    <item>
+      <title>React &lt;ViewTransition&gt;: Smooth Animations Made Simple - Certificates.dev Blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcertificates.dev%2Fblog%2Freact-viewtransition-smooth-animations-made-simple%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/3P_f9KTMd0AflyfmwqAeiTtHAirAFS8wg_yf-8ciRNk=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcertificates.dev%2Fblog%2Freact-viewtransition-smooth-animations-made-simple%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/3P_f9KTMd0AflyfmwqAeiTtHAirAFS8wg_yf-8ciRNk=424</guid>
+    </item>
+    <item>
+      <title>Parallel and recursive route rendering</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwofoldframework.com%2Fblog%2Fparallel-and-recursive-route-rendering-with-rsc%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/f-pfm_V11xDAVn_rEI57KcO2IkoVG3P6nrfXCUNPaJU=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftwofoldframework.com%2Fblog%2Fparallel-and-recursive-route-rendering-with-rsc%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/f-pfm_V11xDAVn_rEI57KcO2IkoVG3P6nrfXCUNPaJU=424</guid>
+    </item>
+    <item>
+      <title>Heuristic: Ors Are Expensive</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fethanseal.com%2Farticles%2Fors-are-expensive%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/SBqWMOI8UKRr71UMPe1bQY1m9KoupKMxHdh_I7IfxxE=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fethanseal.com%2Farticles%2Fors-are-expensive%3Futm_source=tldrwebdev/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/SBqWMOI8UKRr71UMPe1bQY1m9KoupKMxHdh_I7IfxxE=424</guid>
+    </item>
+    <item>
+      <title>Domain Reseller Program</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.name.com%2Fnameapi%3Futm_source=tldr-webdev%26utm_medium=newsletter-p1%26utm_campaign=name_reseller/3/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/c1ILMn7ae_yZ0pH1Ikh3TcTD7mPBuXj4hsOcBPxdXLM=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.name.com%2Fnameapi%3Futm_source=tldr-webdev%26utm_medium=newsletter-p1%26utm_campaign=name_reseller/3/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/c1ILMn7ae_yZ0pH1Ikh3TcTD7mPBuXj4hsOcBPxdXLM=424</guid>
+    </item>
+    <item>
+      <title>Domain Reseller Program</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.name.com%2Fnameapi%3Futm_source=tldr-webdev%26utm_medium=newsletter-p1%26utm_campaign=name_reseller/2/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/UkI0Lz-PctKCWP8I3XUeRl3qQ3_4cvLUPNSXq7RFg_c=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.name.com%2Fnameapi%3Futm_source=tldr-webdev%26utm_medium=newsletter-p1%26utm_campaign=name_reseller/2/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/UkI0Lz-PctKCWP8I3XUeRl3qQ3_4cvLUPNSXq7RFg_c=424</guid>
+    </item>
+    <item>
+      <title>Domain Reseller Program</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.name.com%2Fnameapi%3Futm_source=tldr-webdev%26utm_medium=newsletter-p1%26utm_campaign=name_reseller/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/CahRxkZRZ6zvA0q0Vv1c2o43siiK6jH823TOAYwz6So=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.name.com%2Fnameapi%3Futm_source=tldr-webdev%26utm_medium=newsletter-p1%26utm_campaign=name_reseller/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/CahRxkZRZ6zvA0q0Vv1c2o43siiK6jH823TOAYwz6So=424</guid>
+    </item>
+    <item>
+      <title>TLDR WebDev</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=cf44ecf2-9da9-11f0-8151-ed1a6244838e%26pt=campaign%26t=1759231129%26s=e9b7d4e2c9480a2d739a2eb1d128a1b38687bbbc271ee32398c45a562eb98acc/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/2Bfk691w9RTIPoxcd1uxApdYOK0T4rdu68mGOXcHSck=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=cf44ecf2-9da9-11f0-8151-ed1a6244838e%26pt=campaign%26t=1759231129%26s=e9b7d4e2c9480a2d739a2eb1d128a1b38687bbbc271ee32398c45a562eb98acc/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/2Bfk691w9RTIPoxcd1uxApdYOK0T4rdu68mGOXcHSck=424</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/MdYzpdsxxvA8PJKj9w-06znK_AhVe_1WGnQOKwQJXaQ=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/MdYzpdsxxvA8PJKj9w-06znK_AhVe_1WGnQOKwQJXaQ=424</guid>
     </item>
   </channel>
 </rss>
