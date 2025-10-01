@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Oct 2025 01:06:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 06:20:03 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=84db0aa8-99ca-11f0-879f-cfb840762a99%26pt=campaign%26pv=4%26spa=1758798036%26t=1758798946%26s=8149ab8f6146d6d07497178aa23b6d7b12914eaa619b35189411f2058dbaeaa2/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/nvnAn_puA7LP5qYsBUOMP3f2ynW42_iNuuId-vy1AHs=424</link>
@@ -1858,6 +1858,12 @@ Generation with World Models | Research - AI at Meta</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=cf44ecf2-9da9-11f0-8151-ed1a6244838e%26pt=campaign%26pv=4%26spa=1759230092%26t=1759231129%26s=975811ff2d2d4bb4ab5fcfd1f28fdf39ba4375dd9efc175dabf3027b5ba77926/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/h7bXzmjUDksJgMKdchJ5O0u4_2KSMlbYHaqNlXlrrU8=424</link>
       <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=cf44ecf2-9da9-11f0-8151-ed1a6244838e%26pt=campaign%26pv=4%26spa=1759230092%26t=1759231129%26s=975811ff2d2d4bb4ab5fcfd1f28fdf39ba4375dd9efc175dabf3027b5ba77926/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/h7bXzmjUDksJgMKdchJ5O0u4_2KSMlbYHaqNlXlrrU8=424</guid>
+    </item>
+    <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/xXPjTKSTUeiiOBKqQttTqW1niGy2MyEc4b2pIYhJBzU=424</link>
+      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/xXPjTKSTUeiiOBKqQttTqW1niGy2MyEc4b2pIYhJBzU=424</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
