@@ -6,277 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Oct 2025 06:20:03 +0000</lastBuildDate>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=84db0aa8-99ca-11f0-879f-cfb840762a99%26pt=campaign%26pv=4%26spa=1758798036%26t=1758798946%26s=8149ab8f6146d6d07497178aa23b6d7b12914eaa619b35189411f2058dbaeaa2/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/nvnAn_puA7LP5qYsBUOMP3f2ynW42_iNuuId-vy1AHs=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=84db0aa8-99ca-11f0-879f-cfb840762a99%26pt=campaign%26pv=4%26spa=1758798036%26t=1758798946%26s=8149ab8f6146d6d07497178aa23b6d7b12914eaa619b35189411f2058dbaeaa2/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/nvnAn_puA7LP5qYsBUOMP3f2ynW42_iNuuId-vy1AHs=424</guid>
-    </item>
-    <item>
-      <title>Jenny X. - Meta | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/h4aG8b8MFutqczq6FVd-sZLBCrSdIz5nAOtZkWQim5Y=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/h4aG8b8MFutqczq6FVd-sZLBCrSdIz5nAOtZkWQim5Y=424</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/jTDAWrBbGsAkQxdNfvyvFpVXt0GG7HO39DaUDLTERzk=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/jTDAWrBbGsAkQxdNfvyvFpVXt0GG7HO39DaUDLTERzk=424</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/_psnAFb4svJW_VsdpSlmNMH6ridn_RDPYSU1p-qwiU8=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/_psnAFb4svJW_VsdpSlmNMH6ridn_RDPYSU1p-qwiU8=424</guid>
-    </item>
-    <item>
-      <title>TLDR Web Dev | Referral Hub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/_vLhNlI7hgTD5sdo2Z5lJODXDhFFBaV8Mv89AehGD34=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/_vLhNlI7hgTD5sdo2Z5lJODXDhFFBaV8Mv89AehGD34=424</guid>
-    </item>
-    <item>
-      <title>The Day the Linter Broke My Code | Fillmore Labs Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.fillmore-labs.com%2Fposts%2Ferrors-2%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/iC-H6xac3vTnfM6mqlQ38UNA3tezQljxNfkFDt8rlgA=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.fillmore-labs.com%2Fposts%2Ferrors-2%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/iC-H6xac3vTnfM6mqlQ38UNA3tezQljxNfkFDt8rlgA=424</guid>
-    </item>
-    <item>
-      <title>Why I Keep Business Logic Out of SQL - Ewald Benes</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fewaldbenes.com%2Fen%2Fblog%2Fwhy-i-keep-business-logic-out-of-sql%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/t-DdsDhSu4bsevMxLsrBnmqeS9UJ4ZpKTtK7RLS8Y_g=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fewaldbenes.com%2Fen%2Fblog%2Fwhy-i-keep-business-logic-out-of-sql%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/t-DdsDhSu4bsevMxLsrBnmqeS9UJ4ZpKTtK7RLS8Y_g=424</guid>
-    </item>
-    <item>
-      <title>macOS becomes iOS: Safari video controls</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Funderpassapp.com%2Fnews%2F2025%2F9%2F8.html%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/LbW3_Nj5uR1k7Y4pB1dcKaGTbaL8f-IBUvVA3jG1C0U=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Funderpassapp.com%2Fnews%2F2025%2F9%2F8.html%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/LbW3_Nj5uR1k7Y4pB1dcKaGTbaL8f-IBUvVA3jG1C0U=424</guid>
-    </item>
-    <item>
-      <title>[Announcement] Upcoming new requirements for YouTube downloads · Issue #14404 · yt-dlp/yt-dlp · GitHub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fyt-dlp%2Fyt-dlp%2Fissues%2F14404%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/2-x6QrYhVb3vlee5zF0-02WqjmQHWVHXGjDv-QxLcF0=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fyt-dlp%2Fyt-dlp%2Fissues%2F14404%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/2-x6QrYhVb3vlee5zF0-02WqjmQHWVHXGjDv-QxLcF0=424</guid>
-    </item>
-    <item>
-      <title>Redis is fast - I'll cache in Postgres | Dizzy zone</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdizzy.zone%2F2025%2F09%2F24%2FRedis-is-fast-Ill-cache-in-Postgres%2F%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/KMsWYn5tZfbT5-D17nPVA6hJb1nj8fziFnviFWiNHB8=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdizzy.zone%2F2025%2F09%2F24%2FRedis-is-fast-Ill-cache-in-Postgres%2F%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/KMsWYn5tZfbT5-D17nPVA6hJb1nj8fziFnviFWiNHB8=424</guid>
-    </item>
-    <item>
-      <title>Why you should replace PostgreSQL with Git for your next project – Upsun Developer Center</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevcenter.upsun.com%2Fposts%2Fwhy-you-should-replace-postgresql-with-git-for-your-next-project%2F%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/VA-Ebk8x0YvV7Fd-tUj0FiZUoDMOcu_BSI-xWDPXvbs=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevcenter.upsun.com%2Fposts%2Fwhy-you-should-replace-postgresql-with-git-for-your-next-project%2F%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/VA-Ebk8x0YvV7Fd-tUj0FiZUoDMOcu_BSI-xWDPXvbs=424</guid>
-    </item>
-    <item>
-      <title>Imagining a Language without Booleans</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjustinpombrio.net%2F2025%2F09%2F22%2Fimagining-a-language-without-booleans.html%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/6ad0Minkgk0gjfY9ya8zqzBgny_gm1TllNGQoM2lSvQ=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjustinpombrio.net%2F2025%2F09%2F22%2Fimagining-a-language-without-booleans.html%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/6ad0Minkgk0gjfY9ya8zqzBgny_gm1TllNGQoM2lSvQ=424</guid>
-    </item>
-    <item>
-      <title>Omittable — Solving the Ambiguity of Null</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcommitting-crimes.com%2Farticles%2F2025-09-16-null-and-absence%2F%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/qlIFMKYJpba-50Iv6USMdbXhTsf6VtFraRUerJ3y5kE=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcommitting-crimes.com%2Farticles%2F2025-09-16-null-and-absence%2F%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/qlIFMKYJpba-50Iv6USMdbXhTsf6VtFraRUerJ3y5kE=424</guid>
-    </item>
-    <item>
-      <title>Introducing SedonaDB: A single-node analytical database engine with geospatial as a first-class citizen - Apache Sedona</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsedona.apache.org%2Flatest%2Fblog%2F2025%2F09%2F24%2Fintroducing-sedonadb-a-single-node-analytical-database-engine-with-geospatial-as-a-first-class-citizen%2F%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/h08aNOjLJ8dXtk9ry1vBxVuz-9a2OlpYVjsvBmEhzas=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsedona.apache.org%2Flatest%2Fblog%2F2025%2F09%2F24%2Fintroducing-sedonadb-a-single-node-analytical-database-engine-with-geospatial-as-a-first-class-citizen%2F%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/h08aNOjLJ8dXtk9ry1vBxVuz-9a2OlpYVjsvBmEhzas=424</guid>
-    </item>
-    <item>
-      <title>Python on the Edge: Fast, sandboxed, and powered by WebAssembly · Blog · Wasmer</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwasmer.io%2Fposts%2Fpython-on-the-edge-powered-by-webassembly%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/SsnG_dnEMrTaUC2Gaa3HGwOLtkkUgOZdbhLgrYC-6WE=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwasmer.io%2Fposts%2Fpython-on-the-edge-powered-by-webassembly%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/SsnG_dnEMrTaUC2Gaa3HGwOLtkkUgOZdbhLgrYC-6WE=424</guid>
-    </item>
-    <item>
-      <title>QA Wolf | 80% automated test coverage in 4 months</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250925-None_Experiment-FALSE%26utm_term=cta-ScheduleADemoToLearnMore%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownToMinutesWithQAWolf_None_None_None_Newsletter-SecondaryPlacement_20250925_v1/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/w3Aeo10hULFW6pGB36TnnX3lpYyI_8nWNVfjiEv3ZxU=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250925-None_Experiment-FALSE%26utm_term=cta-ScheduleADemoToLearnMore%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownToMinutesWithQAWolf_None_None_None_Newsletter-SecondaryPlacement_20250925_v1/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/w3Aeo10hULFW6pGB36TnnX3lpYyI_8nWNVfjiEv3ZxU=424</guid>
-    </item>
-    <item>
-      <title>Drata secured 86% faster QA cycles | QA Wolf</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fcase-studies%2Fdrata%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250925-None_Experiment-FALSE%26utm_term=body-DratasTeamOf80PlusEngineers%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownToMinutesWithQAWolf_None_None_None_Newsletter-SecondaryPlacement_20250925_v1/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/zORWiAoj_6QJUJ2BvUKzYUgkx-nK1ebT6fF7tj2HWh8=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fcase-studies%2Fdrata%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250925-None_Experiment-FALSE%26utm_term=body-DratasTeamOf80PlusEngineers%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownToMinutesWithQAWolf_None_None_None_Newsletter-SecondaryPlacement_20250925_v1/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/zORWiAoj_6QJUJ2BvUKzYUgkx-nK1ebT6fF7tj2HWh8=424</guid>
-    </item>
-    <item>
-      <title>QA Wolf | 80% automated test coverage in 4 months</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250925-None_Experiment-FALSE%26utm_term=body-QAWolf%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownToMinutesWithQAWolf_None_None_None_Newsletter-SecondaryPlacement_20250925_v1/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/U63EF-J-aZygZa9F4YOkqnkT0TI1XYAZri_u1oCZRKQ=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250925-None_Experiment-FALSE%26utm_term=body-QAWolf%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownToMinutesWithQAWolf_None_None_None_Newsletter-SecondaryPlacement_20250925_v1/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/U63EF-J-aZygZa9F4YOkqnkT0TI1XYAZri_u1oCZRKQ=424</guid>
-    </item>
-    <item>
-      <title>QA Wolf | 80% automated test coverage in 4 months</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250925-None_Experiment-FALSE%26utm_term=headline-CutYourQACyclesDownToMinutesWithQAWolf%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownToMinutesWithQAWolf_None_None_None_Newsletter-SecondaryPlacement_20250925_v1/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/TnV4CciXMKc00yI6YzLpaP0SCCF_2m1r110fjtoeM_Y=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_CutQACycles_20250925-None_Experiment-FALSE%26utm_term=headline-CutYourQACyclesDownToMinutesWithQAWolf%26utm_content=CutQACycles_ScheduleADemoToLearnMore_None_Headline%253ACutYourQACyclesDownToMinutesWithQAWolf_None_None_None_Newsletter-SecondaryPlacement_20250925_v1/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/TnV4CciXMKc00yI6YzLpaP0SCCF_2m1r110fjtoeM_Y=424</guid>
-    </item>
-    <item>
-      <title>Migrating to TanStack Start</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcatalins.tech%2Fmigrating-to-tanstack-start%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/TBsmso0P-JgAdOTdkwWvhzl_0OJJFfzuAh7yvbtbGsQ=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcatalins.tech%2Fmigrating-to-tanstack-start%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/TBsmso0P-JgAdOTdkwWvhzl_0OJJFfzuAh7yvbtbGsQ=424</guid>
-    </item>
-    <item>
-      <title>How to Be a Leader When the Vibes Are Off</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fchaoticgood.management%2Fhow-to-be-a-leader-when-the-vibes-are-off%2F%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/JzeqlthxHFhuV-5KC4NMXhOdLrCSf98ewlg1BSCw718=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fchaoticgood.management%2Fhow-to-be-a-leader-when-the-vibes-are-off%2F%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/JzeqlthxHFhuV-5KC4NMXhOdLrCSf98ewlg1BSCw718=424</guid>
-    </item>
-    <item>
-      <title>Building a better online editor for TypeScript | Val Town Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.val.town%2Fvtlsp%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/mlF_c8UQXGpaeGTuCaL59PfArlrWu3FXaDNtDVkaXJg=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.val.town%2Fvtlsp%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/mlF_c8UQXGpaeGTuCaL59PfArlrWu3FXaDNtDVkaXJg=424</guid>
-    </item>
-    <item>
-      <title>We Thought React Native Was the Answer — Until Our App Hit 190% CPU | by Matt Sellars | Motion Engineering Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F6ke9VB/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/hoTO5eIFk650yFFfJwODeZBsehW0fGaXHKHLmlwOkIE=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F6ke9VB/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/hoTO5eIFk650yFFfJwODeZBsehW0fGaXHKHLmlwOkIE=424</guid>
-    </item>
-    <item>
-      <title>How Claude Code is built - by Gergely Orosz</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnewsletter.pragmaticengineer.com%2Fp%2Fhow-claude-code-is-built%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/iICTfzvMNmHAS3Kzigkul-dRCkZMBzUQ4LqIAPV3kvw=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnewsletter.pragmaticengineer.com%2Fp%2Fhow-claude-code-is-built%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/iICTfzvMNmHAS3Kzigkul-dRCkZMBzUQ4LqIAPV3kvw=424</guid>
-    </item>
-    <item>
-      <title>TLDR WebDev</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=84db0aa8-99ca-11f0-879f-cfb840762a99%26pt=campaign%26t=1758798946%26s=aa171bad3ecbd601a66d18d4a6f896c22ae44aeec018a0b16d15551ca6a10b3c/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/AeV4VbHtsC3hrIGxLqCgA-IlnkD0QHuPR7aK8tkTpq4=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=84db0aa8-99ca-11f0-879f-cfb840762a99%26pt=campaign%26t=1758798946%26s=aa171bad3ecbd601a66d18d4a6f896c22ae44aeec018a0b16d15551ca6a10b3c/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/AeV4VbHtsC3hrIGxLqCgA-IlnkD0QHuPR7aK8tkTpq4=424</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/hCdQy7jnVFulCAWCU6PZ2zZvz-A0wQH83q2Ko4kp9pw=424</link>
-      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/hCdQy7jnVFulCAWCU6PZ2zZvz-A0wQH83q2Ko4kp9pw=424</guid>
-    </item>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=f2f90db6-99d7-11f0-a95d-d9748d5bd686%26pt=campaign%26pv=4%26spa=1758805327%26t=1758805775%26s=47d7684cbb712a7b3eaf67fd55839130923ba0ed026481cfa5b45cd2704b7bf6/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/O5O8keTZZjZhajOXWtTk_Rh9PbjK8XDSANKPKH2-nzI=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=f2f90db6-99d7-11f0-a95d-d9748d5bd686%26pt=campaign%26pv=4%26spa=1758805327%26t=1758805775%26s=47d7684cbb712a7b3eaf67fd55839130923ba0ed026481cfa5b45cd2704b7bf6/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/O5O8keTZZjZhajOXWtTk_Rh9PbjK8XDSANKPKH2-nzI=424</guid>
-    </item>
-    <item>
-      <title>Gabriel Sundaram - attain | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/hrIWzo58JTlQMmDOyHvrnxu-EUQLmlESo-fXyW-B2KY=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/hrIWzo58JTlQMmDOyHvrnxu-EUQLmlESo-fXyW-B2KY=424</guid>
-    </item>
-    <item>
-      <title>Matt Cheung - Ceviche AI | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/ZnhyjqnkO43wGq8bR9v7AAO9W9N9eudeqffM6NuhEgg=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/ZnhyjqnkO43wGq8bR9v7AAO9W9N9eudeqffM6NuhEgg=424</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/Po46O4uy8l8ovG4sUtmHWB3EP0ZaMZkZthCru3ZMFNI=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/Po46O4uy8l8ovG4sUtmHWB3EP0ZaMZkZthCru3ZMFNI=424</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/gXTqMzlIAFvw_SCSXWhKuIiJ9UOrYFcPfQMcOeGtCvg=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/gXTqMzlIAFvw_SCSXWhKuIiJ9UOrYFcPfQMcOeGtCvg=424</guid>
-    </item>
-    <item>
-      <title>Powered by India's small businesses, UK fintech Tide becomes a TPG-backed unicorn | TechCrunch</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F09%2F21%2Fpowered-by-indias-small-businesses-uk-fintech-tide-becomes-a-tpg-backed-unicorn%2F%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/W2zBX6NHBZNs6lWpsm3Px5JFDUDYV6iWG68kuLFqeu4=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F09%2F21%2Fpowered-by-indias-small-businesses-uk-fintech-tide-becomes-a-tpg-backed-unicorn%2F%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/W2zBX6NHBZNs6lWpsm3Px5JFDUDYV6iWG68kuLFqeu4=424</guid>
-    </item>
-    <item>
-      <title>PayPal to invest $100m in Middle East and Africa digital economy - Arabian Business: Latest News on the Middle East, Real Estate, Finance, and More</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.arabianbusiness.com%2Findustries%2Fbanking-finance%2Fpaypal-middle-east-africa-digital-economy%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/k2x-IKRK_XwCcb3XBUA1Hlt_vnAtDBipiyIPW0ubMo4=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.arabianbusiness.com%2Findustries%2Fbanking-finance%2Fpaypal-middle-east-africa-digital-economy%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/k2x-IKRK_XwCcb3XBUA1Hlt_vnAtDBipiyIPW0ubMo4=424</guid>
-    </item>
-    <item>
-      <title>Cardless fuels growth with new $60M | Payments Dive</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Fcardless-raises-60m-credit-card-fintech-bilt-spark-spelfogel%2F760741%2F%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/h77WSl-ZwzG8M41nBRvFJ6mOvUmgOiQbSF82WvcAiLc=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Fcardless-raises-60m-credit-card-fintech-bilt-spark-spelfogel%2F760741%2F%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/h77WSl-ZwzG8M41nBRvFJ6mOvUmgOiQbSF82WvcAiLc=424</guid>
-    </item>
-    <item>
-      <title>Mastercard welcomes 11 startups to Start Path’s Emerging Fintech program</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FkkhCPG/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/QeZpUGnDcYhixtKJVPBJ7_AX0G8hqz7TnTzSFlIhRqg=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FkkhCPG/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/QeZpUGnDcYhixtKJVPBJ7_AX0G8hqz7TnTzSFlIhRqg=424</guid>
-    </item>
-    <item>
-      <title>Amex Launches Travel App With 5 Key Features for Travelers -  AFAR</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.afar.com%2Fmagazine%2Famex-launches-travel-app-with-5-key-features-for-travelers%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/Xf8ts7ghAXoZ19d20cZK4nXjfn7ndrE3p02N5_7LJ10=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.afar.com%2Fmagazine%2Famex-launches-travel-app-with-5-key-features-for-travelers%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/Xf8ts7ghAXoZ19d20cZK4nXjfn7ndrE3p02N5_7LJ10=424</guid>
-    </item>
-    <item>
-      <title>Webinar: How PayPal puts the customer at the center of every decision</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fget.unitq.com%2Fwebinar-how-paypal-puts-the-customer-at-the-center-of-every-decision%3Futm_campaign=22146172-TLDR%2520Fintech%26utm_source=newsletter%26utm_medium=secondary-placement%26utm_content=paypal-webinar/3/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/w9dCbZ6tCj2KwfRyBphOaEU72_-SXvEk-Sq-HoB7vrU=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fget.unitq.com%2Fwebinar-how-paypal-puts-the-customer-at-the-center-of-every-decision%3Futm_campaign=22146172-TLDR%2520Fintech%26utm_source=newsletter%26utm_medium=secondary-placement%26utm_content=paypal-webinar/3/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/w9dCbZ6tCj2KwfRyBphOaEU72_-SXvEk-Sq-HoB7vrU=424</guid>
-    </item>
-    <item>
-      <title>Webinar: How PayPal puts the customer at the center of every decision</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fget.unitq.com%2Fwebinar-how-paypal-puts-the-customer-at-the-center-of-every-decision%3Futm_campaign=22146172-TLDR%2520Fintech%26utm_source=newsletter%26utm_medium=secondary-placement%26utm_content=paypal-webinar/2/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/EnoE_OXAZ5IzbCItNhki94tuRWs72uBTEr79nmlpSSk=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fget.unitq.com%2Fwebinar-how-paypal-puts-the-customer-at-the-center-of-every-decision%3Futm_campaign=22146172-TLDR%2520Fintech%26utm_source=newsletter%26utm_medium=secondary-placement%26utm_content=paypal-webinar/2/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/EnoE_OXAZ5IzbCItNhki94tuRWs72uBTEr79nmlpSSk=424</guid>
-    </item>
-    <item>
-      <title>Webinar: How PayPal puts the customer at the center of every decision</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fget.unitq.com%2Fwebinar-how-paypal-puts-the-customer-at-the-center-of-every-decision%3Futm_campaign=22146172-TLDR%2520Fintech%26utm_source=newsletter%26utm_medium=secondary-placement%26utm_content=paypal-webinar/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/Akuyav6yTm_z-vfpHVQDB1dt4iy3royhp7f6doOeMnQ=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fget.unitq.com%2Fwebinar-how-paypal-puts-the-customer-at-the-center-of-every-decision%3Futm_campaign=22146172-TLDR%2520Fintech%26utm_source=newsletter%26utm_medium=secondary-placement%26utm_content=paypal-webinar/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/Akuyav6yTm_z-vfpHVQDB1dt4iy3royhp7f6doOeMnQ=424</guid>
-    </item>
-    <item>
-      <title>A look at Navan’s S-1</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.thisweekinfintech.com%2Fa-look-at-navans-s-1%2F%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/jVb0TpgFmVLfK82fJ3iDN9w7E7vQOqOgLQPG4Dngo1o=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.thisweekinfintech.com%2Fa-look-at-navans-s-1%2F%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/jVb0TpgFmVLfK82fJ3iDN9w7E7vQOqOgLQPG4Dngo1o=424</guid>
-    </item>
-    <item>
-      <title>How Agentic AI is Accelerating the Autonomous Payment Transition: By Dmytro Spilka</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fblogposting%2F29414%2Fhow-agentic-ai-is-accelerating-the-autonomous-payment-transition%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/uw-oo8i-WaGCxPTcKs9inHAnO-SkePvjJBFHb8lX1ok=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fblogposting%2F29414%2Fhow-agentic-ai-is-accelerating-the-autonomous-payment-transition%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/uw-oo8i-WaGCxPTcKs9inHAnO-SkePvjJBFHb8lX1ok=424</guid>
-    </item>
-    <item>
-      <title>FIS acquires fintech Amount | Payments Dive</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Ffis-acquires-fintech-amount-banking-payments-deal%2F761005%2F%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/4sxGp6q3an37fdEMJt10MLCJYp6kz-Y1oSNbVz-uLNo=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Ffis-acquires-fintech-amount-banking-payments-deal%2F761005%2F%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/4sxGp6q3an37fdEMJt10MLCJYp6kz-Y1oSNbVz-uLNo=424</guid>
-    </item>
-    <item>
-      <title>Stripe Valuation Reaches Record $106 Billion</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.pymnts.com%2Fnews%2Ffintech-investments%2F2025%2Fstripe-valuation-reaches-record-106-billion%2F%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/nW_Mijdr-NCg4EVr7u0k1K8x1bNPHXH7dEwj1_UihNs=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.pymnts.com%2Fnews%2Ffintech-investments%2F2025%2Fstripe-valuation-reaches-record-106-billion%2F%3Futm_source=tldrfintech/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/nW_Mijdr-NCg4EVr7u0k1K8x1bNPHXH7dEwj1_UihNs=424</guid>
-    </item>
-    <item>
-      <title>TLDR Fintech</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=f2f90db6-99d7-11f0-a95d-d9748d5bd686%26pt=campaign%26t=1758805775%26s=3a621b50b323cd838df9ef14fa988725b2b06d91bb9ee4e625a6e698c186f9db/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/3XWuMEUVNKZJK0ewFEMTQFQdjSgWFQKnnPvqGhZ75PA=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=f2f90db6-99d7-11f0-a95d-d9748d5bd686%26pt=campaign%26t=1758805775%26s=3a621b50b323cd838df9ef14fa988725b2b06d91bb9ee4e625a6e698c186f9db/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/3XWuMEUVNKZJK0ewFEMTQFQdjSgWFQKnnPvqGhZ75PA=424</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/rTfPPLgTOTNpn3TWA_tnXwAzhQ4Bpq5r-KQy-yKjLHE=424</link>
-      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/rTfPPLgTOTNpn3TWA_tnXwAzhQ4Bpq5r-KQy-yKjLHE=424</guid>
-    </item>
+    <lastBuildDate>Wed, 01 Oct 2025 12:27:57 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=bd205daa-99fc-11f0-bd06-bdc0fa3e444a%26pt=campaign%26pv=4%26spa=1758805311%26t=1758806710%26s=61981bcecf5433d68c920b0870d6e4b292558de2f6ff8769f18d8c017352b64f/1/01000199810c98a4-d2ad1c88-4491-416a-bbc7-607ad89baa88-000000/A-OPKvFk7s7IFTR-1QuE-hwzS0OWoJBqX5vysao-vEw=424</link>
@@ -1992,12 +1722,6 @@ Generation with World Models | Research - AI at Meta</title>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/MdYzpdsxxvA8PJKj9w-06znK_AhVe_1WGnQOKwQJXaQ=424</guid>
     </item>
     <item>
-      <title>borgrodrick · Kill the Newsletter!</title>
-      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
-      <description>Link found in newsletter: 'Claude Sonnet 4.5 4️⃣, Claude Agent SDK 💻, Agentic Commerce Protocol 🛒'</description>
-      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
-    </item>
-    <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=56e4d5a4-9dec-11f0-a844-c788b3e52065%26pt=campaign%26pv=4%26spa=1759237269%26t=1759238424%26s=d156f3c51c692706635fba3f3fb2691d763f967b450c38af4f017e6facf1bd24/1/010001999ac8083f-50f5ce37-44e3-40cb-a63f-a877accac49f-000000/6SRtv0mf6M6VbKfe9dFsr_ma_A8ei9ZY--qLdPXLB44=424</link>
       <description>Link found in newsletter: 'Claude Sonnet 4.5 4️⃣, Claude Agent SDK 💻, Agentic Commerce Protocol 🛒'</description>
@@ -2176,6 +1900,306 @@ Generation with World Models | Research - AI at Meta</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001999ac8083f-50f5ce37-44e3-40cb-a63f-a877accac49f-000000/T6S-IO_syYaDLw-qgnaAy7pyrHYxnKswDdCm9b6SMoE=424</link>
       <description>Link found in newsletter: 'Claude Sonnet 4.5 4️⃣, Claude Agent SDK 💻, Agentic Commerce Protocol 🛒'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001999ac8083f-50f5ce37-44e3-40cb-a63f-a877accac49f-000000/T6S-IO_syYaDLw-qgnaAy7pyrHYxnKswDdCm9b6SMoE=424</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=c613b998-9ea7-11f0-9436-0f5e3cc0ef54%26pt=campaign%26pv=4%26spa=1759312909%26t=1759314365%26s=c368a293727326aba95454bbd046d6883220b8f103b6045d990802b27515b29a/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/vxaEgnmjuOZR-V3M3ypJ9wIhAArQwuLTK9Kid0dCS40=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=c613b998-9ea7-11f0-9436-0f5e3cc0ef54%26pt=campaign%26pv=4%26spa=1759312909%26t=1759314365%26s=c368a293727326aba95454bbd046d6883220b8f103b6045d990802b27515b29a/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/vxaEgnmjuOZR-V3M3ypJ9wIhAArQwuLTK9Kid0dCS40=425</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/pX4Yo5XnYe0K7Z0swDJUys50DOQw3I_GMn4QEK_9JrI=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/pX4Yo5XnYe0K7Z0swDJUys50DOQw3I_GMn4QEK_9JrI=425</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/T8DEQ5xlm-Ledr-v_dnnL2ltO8P2LINesOXNxEiKKXY=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/T8DEQ5xlm-Ledr-v_dnnL2ltO8P2LINesOXNxEiKKXY=425</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/kInCFzRlPXRRMruu5QHUyFRaif9hb9Oqvx1_joECaVY=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/kInCFzRlPXRRMruu5QHUyFRaif9hb9Oqvx1_joECaVY=425</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/gAtQvwfttNI2TjBop-kB1hKGOBpFdVqsizxsG7DUAmg=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/gAtQvwfttNI2TjBop-kB1hKGOBpFdVqsizxsG7DUAmg=425</guid>
+    </item>
+    <item>
+      <title>The First Ever At-Home Cortisol Test Just Launched. And You Don't Even Need to Draw Blood - CNET</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnet.com%2Fhealth%2Fmedical%2Fthe-first-ever-at-home-cortisol-test-just-launched-and-you-dont-even-need-to-draw-blood%2F%23ftag=CAD590a51e%3Futm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/zy3KxENhjzDmPiDKN50cMt52TvDzDNCQT5qQQv6K7i0=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnet.com%2Fhealth%2Fmedical%2Fthe-first-ever-at-home-cortisol-test-just-launched-and-you-dont-even-need-to-draw-blood%2F%23ftag=CAD590a51e%3Futm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/zy3KxENhjzDmPiDKN50cMt52TvDzDNCQT5qQQv6K7i0=425</guid>
+    </item>
+    <item>
+      <title>Elon Musk Plans to Take on Wikipedia With 'Grokipedia' | PCMag</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F2QRjhC/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/vzzO-Ts_Hn6ptl6yeQRRClBwGRcPLU0LXa2Wg_4ca5w=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F2QRjhC/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/vzzO-Ts_Hn6ptl6yeQRRClBwGRcPLU0LXa2Wg_4ca5w=425</guid>
+    </item>
+    <item>
+      <title>Organize your Slack channels by “How Often”, not “What” - Aggressively Paraphrasing Me</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faggressivelyparaphrasing.me%2F2025%2F09%2F30%2Forganize-your-slack-channels-by-how-often-not-what%2F%3Futm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/0iPnlMC06R9d8ee7nWUVTXOtfl7SijnEB7tJOFs8RP4=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faggressivelyparaphrasing.me%2F2025%2F09%2F30%2Forganize-your-slack-channels-by-how-often-not-what%2F%3Futm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/0iPnlMC06R9d8ee7nWUVTXOtfl7SijnEB7tJOFs8RP4=425</guid>
+    </item>
+    <item>
+      <title>M5 chip leak reveals Apple has big gains coming in key area - 9to5Mac</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2025%2F09%2F30%2Fm5-chip-leak-reveals-apple-has-big-gains-coming-in-key-area%2F%3Futm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/C5_tjY1bO3VIsz0T42E0IthFHJ-6jiNkue6ZzdC55oA=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2025%2F09%2F30%2Fm5-chip-leak-reveals-apple-has-big-gains-coming-in-key-area%2F%3Futm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/C5_tjY1bO3VIsz0T42E0IthFHJ-6jiNkue6ZzdC55oA=425</guid>
+    </item>
+    <item>
+      <title>Stripe's Bridge Seeks Federal Banking Charter Ahead of Stablecoin Rules - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2025-10-01%2Fstripe-s-bridge-seeks-federal-charter-ahead-of-stablecoin-rules%3FaccessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1OTI5ODcwNCwiZXhwIjoxNzU5OTAzNTA0LCJhcnRpY2xlSWQiOiJUM0Y5VEVHUFFRQU8wMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.uKVoRko-EPvhliaHyUVKhNObsEemEIL0wKxHHYdAObc%26utm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/OervgKS_6andBHYfK2wzve9c0pVOCjaBSfSN2PMKizs=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2025-10-01%2Fstripe-s-bridge-seeks-federal-charter-ahead-of-stablecoin-rules%3FaccessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1OTI5ODcwNCwiZXhwIjoxNzU5OTAzNTA0LCJhcnRpY2xlSWQiOiJUM0Y5VEVHUFFRQU8wMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.uKVoRko-EPvhliaHyUVKhNObsEemEIL0wKxHHYdAObc%26utm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/OervgKS_6andBHYfK2wzve9c0pVOCjaBSfSN2PMKizs=425</guid>
+    </item>
+    <item>
+      <title>Inside Amazon’s Hardware Overhaul: Interview with Panos Panay on Echo, Kindle - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2025-09-30%2Finside-amazon-s-hardware-overhaul-interview-with-panos-panay-on-echo-kindle%3FaccessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1OTI5ODY5MiwiZXhwIjoxNzU5OTAzNDkyLCJhcnRpY2xlSWQiOiJUM0VTR0FHUEZJMDUwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.t20_0wKTNc1YD_kxrYy3kLr2OWS8N1Tajg1bRgXiNGc%26utm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/aPoTqsWiBSW0DrKktk6HMff42MZcnxpQypbmwB79I7k=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bloomberg.com%2Fnews%2Farticles%2F2025-09-30%2Finside-amazon-s-hardware-overhaul-interview-with-panos-panay-on-echo-kindle%3FaccessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc1OTI5ODY5MiwiZXhwIjoxNzU5OTAzNDkyLCJhcnRpY2xlSWQiOiJUM0VTR0FHUEZJMDUwMCIsImJjb25uZWN0SWQiOiJBOEExRDhFQTI5OTc0OTRGQTQ1QUE2REJBMjAwNTM3MSJ9.t20_0wKTNc1YD_kxrYy3kLr2OWS8N1Tajg1bRgXiNGc%26utm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/aPoTqsWiBSW0DrKktk6HMff42MZcnxpQypbmwB79I7k=425</guid>
+    </item>
+    <item>
+      <title>Apple’s Foundation Models framework unlocks new intelligent app experiences - Apple</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.apple.com%2Fnewsroom%2F2025%2F09%2Fapples-foundation-models-framework-unlocks-new-intelligent-app-experiences%2F%3Futm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/xgdU2B7V8wFizLUtARBwbB08xgVOm8zmxBRodvlBzkk=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.apple.com%2Fnewsroom%2F2025%2F09%2Fapples-foundation-models-framework-unlocks-new-intelligent-app-experiences%2F%3Futm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/xgdU2B7V8wFizLUtARBwbB08xgVOm8zmxBRodvlBzkk=425</guid>
+    </item>
+    <item>
+      <title>Examples are the best documentation | exotext</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frakhim.exotext.com%2Fexamples-are-the-best-documentation%3Futm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/2MD6p-VjUxqL_jUhw4jTYKdKf-iaHg2-8hSHCe4TTBg=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frakhim.exotext.com%2Fexamples-are-the-best-documentation%3Futm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/2MD6p-VjUxqL_jUhw4jTYKdKf-iaHg2-8hSHCe4TTBg=425</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=secondary10012025/2/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/7oj7q0U95K5Kz1JjrAOfZwaCQT2Xg7uzvAQAaKs1XZE=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=secondary10012025/2/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/7oj7q0U95K5Kz1JjrAOfZwaCQT2Xg7uzvAQAaKs1XZE=425</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=secondary10012025/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/8tA_h_fCbKVwCLt06E2wnKrNfOgwDilh2x_KhTn4RRQ=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=secondary10012025/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/8tA_h_fCbKVwCLt06E2wnKrNfOgwDilh2x_KhTn4RRQ=425</guid>
+    </item>
+    <item>
+      <title>Human skin DNA fertilised to make embryo for first time</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bbc.com%2Fnews%2Farticles%2Fc4g2vyee0zlo%3Futm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/FwMTX6RmjRoaGAioPRwDoasp9OUlejaWKaEcisuqJnY=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bbc.com%2Fnews%2Farticles%2Fc4g2vyee0zlo%3Futm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/FwMTX6RmjRoaGAioPRwDoasp9OUlejaWKaEcisuqJnY=425</guid>
+    </item>
+    <item>
+      <title>DoorDash unveils Dot, its autonomous robot built to deliver your food | TechCrunch</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F09%2F30%2Fdoordash-unveils-dot-its-autonomous-robot-built-to-deliver-your-food%2F%3Futm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/2woYJ5Ip3zMdWD_XQ5zgXV2vrPG9EVah3hRQSI7Jeow=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F09%2F30%2Fdoordash-unveils-dot-its-autonomous-robot-built-to-deliver-your-food%2F%3Futm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/2woYJ5Ip3zMdWD_XQ5zgXV2vrPG9EVah3hRQSI7Jeow=425</guid>
+    </item>
+    <item>
+      <title>Everything announced at Amazon's fall hardware event</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.engadget.com%2Fhome%2Feverything-announced-at-amazons-fall-hardware-event-143557140.html%3Futm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/jdzdfR_a-T1BrddSQmWI_xf34yTnk06JPrNqrd2US5s=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.engadget.com%2Fhome%2Feverything-announced-at-amazons-fall-hardware-event-143557140.html%3Futm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/jdzdfR_a-T1BrddSQmWI_xf34yTnk06JPrNqrd2US5s=425</guid>
+    </item>
+    <item>
+      <title>ChatGPT parent company OpenAI announces Sora 2 with AI video app</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.nbcnews.com%2Ftech%2Ftech-news%2Fopenai-announces-sora-2-ai-video-audio-app-rcna234753%3Futm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/70Z0E5H28fSRuHfYVy8QxPdiGf96H-szvuiz8abKy5U=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.nbcnews.com%2Ftech%2Ftech-news%2Fopenai-announces-sora-2-ai-video-audio-app-rcna234753%3Futm_source=tldrnewsletter/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/70Z0E5H28fSRuHfYVy8QxPdiGf96H-szvuiz8abKy5U=425</guid>
+    </item>
+    <item>
+      <title>TLDR</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=c613b998-9ea7-11f0-9436-0f5e3cc0ef54%26pt=campaign%26t=1759314365%26s=ffa9ea3562546b5fc262098dc3d46aab8e114cec997763f650ad63167560beb1/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/BTRTXhWdOWxR9ViYlL3FwItmVXjwamotPiZ76yXHOIU=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=c613b998-9ea7-11f0-9436-0f5e3cc0ef54%26pt=campaign%26t=1759314365%26s=ffa9ea3562546b5fc262098dc3d46aab8e114cec997763f650ad63167560beb1/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/BTRTXhWdOWxR9ViYlL3FwItmVXjwamotPiZ76yXHOIU=425</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/PXVZhAmE2jS5IZk-24F57uqWhBb7ufswxeshehAT6A4=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/PXVZhAmE2jS5IZk-24F57uqWhBb7ufswxeshehAT6A4=425</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/IK5aK-I39oyTbPaZffK-5CmB8LEUOzNpPmzG3vjJIzo=425</link>
+      <description>Link found in newsletter: 'OpenAI Sora 2 📱, Amazon's hardware reboot 🔊, accelerating science 👩🏻‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/010001999f4ecce5-9d099c21-ebb4-4347-8396-f9c534a536c1-000000/IK5aK-I39oyTbPaZffK-5CmB8LEUOzNpPmzG3vjJIzo=425</guid>
+    </item>
+    <item>
+      <title>borgrodrick · Kill the Newsletter!</title>
+      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=4b6e585c-9e83-11f0-bdb2-0f5e3cc0ef54%26pt=campaign%26pv=4%26spa=1759316486%26t=1759318358%26s=3a8ff6758eadd5c730885fc94ee61de3e956fd7356bcd3f94348136da788db62/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/u93p9LguIKlX74ZFfcMziSu5USq2DlvvXZcde-lgew0=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=4b6e585c-9e83-11f0-bdb2-0f5e3cc0ef54%26pt=campaign%26pv=4%26spa=1759316486%26t=1759318358%26s=3a8ff6758eadd5c730885fc94ee61de3e956fd7356bcd3f94348136da788db62/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/u93p9LguIKlX74ZFfcMziSu5USq2DlvvXZcde-lgew0=425</guid>
+    </item>
+    <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/05edof3AOgYLK-THvi8xcsZaPWBbONqn2YVPuTuDY98=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/05edof3AOgYLK-THvi8xcsZaPWBbONqn2YVPuTuDY98=425</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/EtNIknLECWPz5euF-32n3jZ_rpViOhMJTCv51K48Y_s=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/EtNIknLECWPz5euF-32n3jZ_rpViOhMJTCv51K48Y_s=425</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/nHnlY78PsbUZ34lNeOh-WGYi6SiN-NMquj-R8fn8Yr0=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/nHnlY78PsbUZ34lNeOh-WGYi6SiN-NMquj-R8fn8Yr0=425</guid>
+    </item>
+    <item>
+      <title>TLDR Web Dev | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/vyqsbKLPA4MMyb7EsyXJSMV1E7LXcEt8MBwjHpVG57E=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/vyqsbKLPA4MMyb7EsyXJSMV1E7LXcEt8MBwjHpVG57E=425</guid>
+    </item>
+    <item>
+      <title>The Software Essays that Shaped Me · Refactoring English</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefactoringenglish.com%2Fblog%2Fsoftware-essays-that-shaped-me%2F%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/nNfpGq4AbgoeckGAKh2HOQWTI2YMSzl_GypmYcGbI1E=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefactoringenglish.com%2Fblog%2Fsoftware-essays-that-shaped-me%2F%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/nNfpGq4AbgoeckGAKh2HOQWTI2YMSzl_GypmYcGbI1E=425</guid>
+    </item>
+    <item>
+      <title>GitHub - airweave-ai/airweave: Airweave lets agents search any app</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fairweave-ai%2Fairweave%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/3Aa7RIXPXD17qTODoVZcbSjclgyYQdSORHv-JW5dS1Q=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fairweave-ai%2Fairweave%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/3Aa7RIXPXD17qTODoVZcbSjclgyYQdSORHv-JW5dS1Q=425</guid>
+    </item>
+    <item>
+      <title>Comprehension Debt: The Ticking Time Bomb of LLM-Generated Code – Codemanship's Blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcodemanship.wordpress.com%2F2025%2F09%2F30%2Fcomprehension-debt-the-ticking-time-bomb-of-llm-generated-code%2F%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/XOFT92m63xZEEB6G43XA4Mh1dGURAohvd4f8V6nrNjM=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcodemanship.wordpress.com%2F2025%2F09%2F30%2Fcomprehension-debt-the-ticking-time-bomb-of-llm-generated-code%2F%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/XOFT92m63xZEEB6G43XA4Mh1dGURAohvd4f8V6nrNjM=425</guid>
+    </item>
+    <item>
+      <title>Diff Algorithms - flo.znkr.io</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fflo.znkr.io%2Fdiff%2F%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/pKHk2t3d13em1utfHLthYtEYHuKxVz74BFp9VttJKLU=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fflo.znkr.io%2Fdiff%2F%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/pKHk2t3d13em1utfHLthYtEYHuKxVz74BFp9VttJKLU=425</guid>
+    </item>
+    <item>
+      <title>Designing agentic loops</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsimonwillison.net%2F2025%2FSep%2F30%2Fdesigning-agentic-loops%2F%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/-16CEaA1zVWJLbw2Eo_bbhjwgmmnrTKepEA1F9jxoHI=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsimonwillison.net%2F2025%2FSep%2F30%2Fdesigning-agentic-loops%2F%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/-16CEaA1zVWJLbw2Eo_bbhjwgmmnrTKepEA1F9jxoHI=425</guid>
+    </item>
+    <item>
+      <title>Cloudflare just got faster and more secure, powered by Rust</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.cloudflare.com%2F20-percent-internet-upgrade%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/ver4N3PlAHhz5vuSN7BSaI5s7sdpM19Hy9C2-DMNsmQ=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.cloudflare.com%2F20-percent-internet-upgrade%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/ver4N3PlAHhz5vuSN7BSaI5s7sdpM19Hy9C2-DMNsmQ=425</guid>
+    </item>
+    <item>
+      <title>GitHub - cjpais/Handy: A free, open source, and extensible speech-to-text application that works completely offline.</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fcjpais%2FHandy%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/0ACzO7YYY1ljlC2OMVL2ulLLUURLjWEajqSrjQ-c0J0=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fcjpais%2FHandy%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/0ACzO7YYY1ljlC2OMVL2ulLLUURLjWEajqSrjQ-c0J0=425</guid>
+    </item>
+    <item>
+      <title>GitHub - NickvanDyke/eslint-plugin-react-you-might-not-need-an-effect: Catch unnecessary React useEffect hooks to make your code simpler, faster, and safer.</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FNickvanDyke%2Feslint-plugin-react-you-might-not-need-an-effect%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/3XCd_8y2PryrGyi2LD7sYOlIsszIntyphE3RBjRlj00=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FNickvanDyke%2Feslint-plugin-react-you-might-not-need-an-effect%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/3XCd_8y2PryrGyi2LD7sYOlIsszIntyphE3RBjRlj00=425</guid>
+    </item>
+    <item>
+      <title>DevCycle | The First OpenFeature-Native Feature Flag Platform</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevcycle.com%2F%3Futm_source=tldr%26utm_medium=cpc%26utm_campaign=tldr-10/3/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/xBTiF-E0yj9lvGCa4-we5jnVHc86yvUOR7xDGmv9iJk=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevcycle.com%2F%3Futm_source=tldr%26utm_medium=cpc%26utm_campaign=tldr-10/3/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/xBTiF-E0yj9lvGCa4-we5jnVHc86yvUOR7xDGmv9iJk=425</guid>
+    </item>
+    <item>
+      <title>DevCycle | The First OpenFeature-Native Feature Flag Platform</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevcycle.com%2F%3Futm_source=tldr%26utm_medium=cpc%26utm_campaign=tldr-10/2/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/a0FvX7iiUczWjU227jK70U-q3NU7-VyjhXPmdaGGn84=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevcycle.com%2F%3Futm_source=tldr%26utm_medium=cpc%26utm_campaign=tldr-10/2/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/a0FvX7iiUczWjU227jK70U-q3NU7-VyjhXPmdaGGn84=425</guid>
+    </item>
+    <item>
+      <title>DevCycle | The First OpenFeature-Native Feature Flag Platform</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevcycle.com%2F%3Futm_source=tldr%26utm_medium=cpc%26utm_campaign=tldr-10/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/j9oQeutP-GnWMxEhua2n_OLESaiJVO0cb_WzlbZw41o=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevcycle.com%2F%3Futm_source=tldr%26utm_medium=cpc%26utm_campaign=tldr-10/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/j9oQeutP-GnWMxEhua2n_OLESaiJVO0cb_WzlbZw41o=425</guid>
+    </item>
+    <item>
+      <title>Frontend complexity and the HTML renaissance</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Folliewilliams.xyz%2Fblog%2Fhtml-renaissance%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/KqFC_wsBF010OvPcwIj0IS9ENOSi0eaJdGTVMKlbdnc=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Folliewilliams.xyz%2Fblog%2Fhtml-renaissance%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/KqFC_wsBF010OvPcwIj0IS9ENOSi0eaJdGTVMKlbdnc=425</guid>
+    </item>
+    <item>
+      <title>Codex vs Claude Code: which is the better AI coding agent?</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.builder.io%2Fblog%2Fcodex-vs-claude-code%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/peaLuVaSpS6_IZOu1MtR_9pKWeTQrn9r-YV-i_mRuTE=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.builder.io%2Fblog%2Fcodex-vs-claude-code%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/peaLuVaSpS6_IZOu1MtR_9pKWeTQrn9r-YV-i_mRuTE=425</guid>
+    </item>
+    <item>
+      <title>Hiring only senior engineers is the worst policy in the startup industry - Weave - X-ray vision for engineering teams</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkweave.dev%2Fblog%2Fhiring-only-senior-engineers-is-killing-companies%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/YYNxOMAJzvtqaxZfN5PNzc-Zekfe2_gDBzE1jBEn2Is=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkweave.dev%2Fblog%2Fhiring-only-senior-engineers-is-killing-companies%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/YYNxOMAJzvtqaxZfN5PNzc-Zekfe2_gDBzE1jBEn2Is=425</guid>
+    </item>
+    <item>
+      <title>Let’s Be Specific: CSS Specificity Explained | Playful Programming</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fplayfulprogramming.com%2Fposts%2Fcss-specificity-explained%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/mzfQnbeitOfDGChMAPFECLUKu_DrbhOgMpZ8VQDGwdU=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fplayfulprogramming.com%2Fposts%2Fcss-specificity-explained%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/mzfQnbeitOfDGChMAPFECLUKu_DrbhOgMpZ8VQDGwdU=425</guid>
+    </item>
+    <item>
+      <title>Effective context engineering for AI agents \ Anthropic</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fengineering%2Feffective-context-engineering-for-ai-agents%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/-kG5oYoPpP1AHkek4waOmWs_3QSyO8QV2Qy7P05Bh9U=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fengineering%2Feffective-context-engineering-for-ai-agents%3Futm_source=tldrwebdev/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/-kG5oYoPpP1AHkek4waOmWs_3QSyO8QV2Qy7P05Bh9U=425</guid>
+    </item>
+    <item>
+      <title>Build smarter RAG applications with AWS Marketplace -  AWS Marketplace</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faws.amazon.com%2Fmarketplace%2Fbuild-learn%2Fbuild-smarter-rag-applications%3Ftrk=b3f6c88f-9057-4885-9859-407d112e71b0%26sc_channel=el/4/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/_qdvlihw0PhhT4YL-HpCqwiCSnJlo5w3WqroFOVjSAY=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faws.amazon.com%2Fmarketplace%2Fbuild-learn%2Fbuild-smarter-rag-applications%3Ftrk=b3f6c88f-9057-4885-9859-407d112e71b0%26sc_channel=el/4/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/_qdvlihw0PhhT4YL-HpCqwiCSnJlo5w3WqroFOVjSAY=425</guid>
+    </item>
+    <item>
+      <title>Build smarter RAG applications with AWS Marketplace -  AWS Marketplace</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faws.amazon.com%2Fmarketplace%2Fbuild-learn%2Fbuild-smarter-rag-applications%3Ftrk=b3f6c88f-9057-4885-9859-407d112e71b0%26sc_channel=el/3/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/gtXky1IJUtBKgcg-uUUMe2009zC-LWD9NsujCdsuEEU=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faws.amazon.com%2Fmarketplace%2Fbuild-learn%2Fbuild-smarter-rag-applications%3Ftrk=b3f6c88f-9057-4885-9859-407d112e71b0%26sc_channel=el/3/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/gtXky1IJUtBKgcg-uUUMe2009zC-LWD9NsujCdsuEEU=425</guid>
+    </item>
+    <item>
+      <title>Build smarter RAG applications with AWS Marketplace -  AWS Marketplace</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faws.amazon.com%2Fmarketplace%2Fbuild-learn%2Fbuild-smarter-rag-applications%3Ftrk=b3f6c88f-9057-4885-9859-407d112e71b0%26sc_channel=el/2/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/UCrNv2LwfwtOOZGUgaRGRqHpag8EyrlUxdYjRoyNsrI=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faws.amazon.com%2Fmarketplace%2Fbuild-learn%2Fbuild-smarter-rag-applications%3Ftrk=b3f6c88f-9057-4885-9859-407d112e71b0%26sc_channel=el/2/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/UCrNv2LwfwtOOZGUgaRGRqHpag8EyrlUxdYjRoyNsrI=425</guid>
+    </item>
+    <item>
+      <title>Build smarter RAG applications with AWS Marketplace -  AWS Marketplace</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faws.amazon.com%2Fmarketplace%2Fbuild-learn%2Fbuild-smarter-rag-applications%3Ftrk=b3f6c88f-9057-4885-9859-407d112e71b0%26sc_channel=el/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/jcejfGh4DST9OssaO1Fe1HBDxaXDk1gg18aObvUP-VU=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faws.amazon.com%2Fmarketplace%2Fbuild-learn%2Fbuild-smarter-rag-applications%3Ftrk=b3f6c88f-9057-4885-9859-407d112e71b0%26sc_channel=el/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/jcejfGh4DST9OssaO1Fe1HBDxaXDk1gg18aObvUP-VU=425</guid>
+    </item>
+    <item>
+      <title>TLDR Dev</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=4b6e585c-9e83-11f0-bdb2-0f5e3cc0ef54%26pt=campaign%26t=1759318358%26s=48114d7f9601a1b288c00b7c59a58e1352a246d9e1813106dc273af144e9328c/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/CK19uGdBmGhsGAcm4DgpLF4-AopKAvER9M1KcZL02Jo=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=4b6e585c-9e83-11f0-bdb2-0f5e3cc0ef54%26pt=campaign%26t=1759318358%26s=48114d7f9601a1b288c00b7c59a58e1352a246d9e1813106dc273af144e9328c/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/CK19uGdBmGhsGAcm4DgpLF4-AopKAvER9M1KcZL02Jo=425</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/W-o85ZuIXGoIg0H4EVzki6_LorkZcTjf-sVpRfoedyM=425</link>
+      <description>Link found in newsletter: 'Better context engineering 🧰, hire more junior devs 🌱, comprehension debt 🏦'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/010001999f8bb83f-40a3c017-6d22-4bc5-8115-7556de0a215e-000000/W-o85ZuIXGoIg0H4EVzki6_LorkZcTjf-sVpRfoedyM=425</guid>
     </item>
   </channel>
 </rss>
