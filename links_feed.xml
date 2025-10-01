@@ -6,12 +6,18 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 30 Sep 2025 18:17:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Oct 2025 01:06:51 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=84db0aa8-99ca-11f0-879f-cfb840762a99%26pt=campaign%26pv=4%26spa=1758798036%26t=1758798946%26s=8149ab8f6146d6d07497178aa23b6d7b12914eaa619b35189411f2058dbaeaa2/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/nvnAn_puA7LP5qYsBUOMP3f2ynW42_iNuuId-vy1AHs=424</link>
       <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=84db0aa8-99ca-11f0-879f-cfb840762a99%26pt=campaign%26pv=4%26spa=1758798036%26t=1758798946%26s=8149ab8f6146d6d07497178aa23b6d7b12914eaa619b35189411f2058dbaeaa2/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/nvnAn_puA7LP5qYsBUOMP3f2ynW42_iNuuId-vy1AHs=424</guid>
+    </item>
+    <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/h4aG8b8MFutqczq6FVd-sZLBCrSdIz5nAOtZkWQim5Y=424</link>
+      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/h4aG8b8MFutqczq6FVd-sZLBCrSdIz5nAOtZkWQim5Y=424</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
@@ -134,6 +140,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.val.town%2Fvtlsp%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/mlF_c8UQXGpaeGTuCaL59PfArlrWu3FXaDNtDVkaXJg=424</guid>
     </item>
     <item>
+      <title>We Thought React Native Was the Answer — Until Our App Hit 190% CPU | by Matt Sellars | Motion Engineering Blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F6ke9VB/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/hoTO5eIFk650yFFfJwODeZBsehW0fGaXHKHLmlwOkIE=424</link>
+      <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F6ke9VB/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/hoTO5eIFk650yFFfJwODeZBsehW0fGaXHKHLmlwOkIE=424</guid>
+    </item>
+    <item>
       <title>How Claude Code is built - by Gergely Orosz</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnewsletter.pragmaticengineer.com%2Fp%2Fhow-claude-code-is-built%3Futm_source=tldrwebdev/1/010001998096211c-3ad91578-323d-45c6-b6a9-e62686b0e004-000000/iICTfzvMNmHAS3Kzigkul-dRCkZMBzUQ4LqIAPV3kvw=424</link>
       <description>Link found in newsletter: 'How Claude Code is built 🛠, Python on the edge 🌐, a language without booleans ➕'</description>
@@ -156,6 +168,18 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=f2f90db6-99d7-11f0-a95d-d9748d5bd686%26pt=campaign%26pv=4%26spa=1758805327%26t=1758805775%26s=47d7684cbb712a7b3eaf67fd55839130923ba0ed026481cfa5b45cd2704b7bf6/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/O5O8keTZZjZhajOXWtTk_Rh9PbjK8XDSANKPKH2-nzI=424</link>
       <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=f2f90db6-99d7-11f0-a95d-d9748d5bd686%26pt=campaign%26pv=4%26spa=1758805327%26t=1758805775%26s=47d7684cbb712a7b3eaf67fd55839130923ba0ed026481cfa5b45cd2704b7bf6/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/O5O8keTZZjZhajOXWtTk_Rh9PbjK8XDSANKPKH2-nzI=424</guid>
+    </item>
+    <item>
+      <title>Gabriel Sundaram - attain | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/hrIWzo58JTlQMmDOyHvrnxu-EUQLmlESo-fXyW-B2KY=424</link>
+      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/hrIWzo58JTlQMmDOyHvrnxu-EUQLmlESo-fXyW-B2KY=424</guid>
+    </item>
+    <item>
+      <title>Matt Cheung - Ceviche AI | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/ZnhyjqnkO43wGq8bR9v7AAO9W9N9eudeqffM6NuhEgg=424</link>
+      <description>Link found in newsletter: 'Stripe at $106B 🚀, AppZen raises $180M 💰, Amex travel app ✈️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019980fe55af-ce2a49fb-77f8-4238-a647-c57fc60eeb07-000000/ZnhyjqnkO43wGq8bR9v7AAO9W9N9eudeqffM6NuhEgg=424</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
@@ -260,6 +284,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=bd205daa-99fc-11f0-bd06-bdc0fa3e444a%26pt=campaign%26pv=4%26spa=1758805311%26t=1758806710%26s=61981bcecf5433d68c920b0870d6e4b292558de2f6ff8769f18d8c017352b64f/1/01000199810c98a4-d2ad1c88-4491-416a-bbc7-607ad89baa88-000000/A-OPKvFk7s7IFTR-1QuE-hwzS0OWoJBqX5vysao-vEw=424</guid>
     </item>
     <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000199810c98a4-d2ad1c88-4491-416a-bbc7-607ad89baa88-000000/lynVOl0uTdVnW0nnY_pk6lBbSNtpzsZHlFf3_-pdlz4=424</link>
+      <description>Link found in newsletter: 'ChatGPT Alpha Models 🤖, Meta’s Code World 💻, Cross-Agent Privilege Escalation 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000199810c98a4-d2ad1c88-4491-416a-bbc7-607ad89baa88-000000/lynVOl0uTdVnW0nnY_pk6lBbSNtpzsZHlFf3_-pdlz4=424</guid>
+    </item>
+    <item>
       <title>TLDR Jobs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000199810c98a4-d2ad1c88-4491-416a-bbc7-607ad89baa88-000000/BhrwSGQBPE6yZ-EEGP7hCV2Be_Nulqcs8HDYYE99Hok=424</link>
       <description>Link found in newsletter: 'ChatGPT Alpha Models 🤖, Meta’s Code World 💻, Cross-Agent Privilege Escalation 👨‍💻'</description>
@@ -320,7 +350,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farxiv.org%2Fabs%2F2509.19249%3Futm_source=tldrai/1/01000199810c98a4-d2ad1c88-4491-416a-bbc7-607ad89baa88-000000/azHlyjjtfiUAec-A0irlFttg4F-aSpwXV1BLF_Mm_6A=424</guid>
     </item>
     <item>
-      <title>GitHub - cloudflare/vibesdk</title>
+      <title>GitHub - cloudflare/vibesdk: An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fcloudflare%2Fvibesdk%3Futm_source=tldrai/1/01000199810c98a4-d2ad1c88-4491-416a-bbc7-607ad89baa88-000000/eiVh_0AKRXRiMn21JGO1mMXdjmqVAKTWyh0hIr2sYHI=424</link>
       <description>Link found in newsletter: 'ChatGPT Alpha Models 🤖, Meta’s Code World 💻, Cross-Agent Privilege Escalation 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fcloudflare%2Fvibesdk%3Futm_source=tldrai/1/01000199810c98a4-d2ad1c88-4491-416a-bbc7-607ad89baa88-000000/eiVh_0AKRXRiMn21JGO1mMXdjmqVAKTWyh0hIr2sYHI=424</guid>
@@ -1584,12 +1614,6 @@ Generation with World Models | Research - AI at Meta</title>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.lesswrong.com%2Fposts%2FKmH83cDTh54EjTjbi%2Fthe-ai-village-in-numbers%3Futm_source=tldrai/1/0100019995bc4c64-9456c749-8ece-484c-abe8-780d03780f38-000000/9QREUpKX1NZF-wXB84ssb72FlCGph9N5U-9RdpCqCOI=424</guid>
     </item>
     <item>
-      <title>TLDR - A Byte Sized Daily Tech Newsletter</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FfOI08H%26utm_source=tldrai/1/0100019995bc4c64-9456c749-8ece-484c-abe8-780d03780f38-000000/kOC0tBWdc7pwoRfLFkHUp3uT0xlfuxRukAFk00kBDv0=424</link>
-      <description>Link found in newsletter: 'Apple Veritas 🍎, DeepSeek-V3.1-Terminus 🤖, ChatGPT model routing ➡️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FfOI08H%26utm_source=tldrai/1/0100019995bc4c64-9456c749-8ece-484c-abe8-780d03780f38-000000/kOC0tBWdc7pwoRfLFkHUp3uT0xlfuxRukAFk00kBDv0=424</guid>
-    </item>
-    <item>
       <title>Apple’s ‘Veritas’ chatbot is reportedly an employee-only test of Siri’s AI upgrades | The Verge</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2Fnews%2F787046%2Fapples-veritas-siri-ai-chatbot%3Futm_source=tldrai/1/0100019995bc4c64-9456c749-8ece-484c-abe8-780d03780f38-000000/J3V_A9jtJDHHmR8RlYJWn_67LqUZAm3FRxm3hA1fdtM=424</link>
       <description>Link found in newsletter: 'Apple Veritas 🍎, DeepSeek-V3.1-Terminus 🤖, ChatGPT model routing ➡️'</description>
@@ -1834,12 +1858,6 @@ Generation with World Models | Research - AI at Meta</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=cf44ecf2-9da9-11f0-8151-ed1a6244838e%26pt=campaign%26pv=4%26spa=1759230092%26t=1759231129%26s=975811ff2d2d4bb4ab5fcfd1f28fdf39ba4375dd9efc175dabf3027b5ba77926/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/h7bXzmjUDksJgMKdchJ5O0u4_2KSMlbYHaqNlXlrrU8=424</link>
       <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=cf44ecf2-9da9-11f0-8151-ed1a6244838e%26pt=campaign%26pv=4%26spa=1759230092%26t=1759231129%26s=975811ff2d2d4bb4ab5fcfd1f28fdf39ba4375dd9efc175dabf3027b5ba77926/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/h7bXzmjUDksJgMKdchJ5O0u4_2KSMlbYHaqNlXlrrU8=424</guid>
-    </item>
-    <item>
-      <title>Jenny X. - Meta | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/xXPjTKSTUeiiOBKqQttTqW1niGy2MyEc4b2pIYhJBzU=424</link>
-      <description>Link found in newsletter: 'Claude Sonnet 4.5 🚀, Chrome DevTools MCP 👀, how to sandbox AI agents 📦'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/010001999a58b955-64e3a16b-0c8c-4280-a222-d933b739f85d-000000/xXPjTKSTUeiiOBKqQttTqW1niGy2MyEc4b2pIYhJBzU=424</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
