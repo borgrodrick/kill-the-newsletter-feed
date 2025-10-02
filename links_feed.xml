@@ -6,325 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 02 Oct 2025 12:25:08 +0000</lastBuildDate>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=c802cd06-9a93-11f0-a0bf-99da4816bdf5%26pt=campaign%26pv=4%26spa=1758884474%26t=1758885611%26s=e6c969e383640e932d3522e77261d2a19d7c2d33b6ecb6b7f382d67448099924/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/6aijHyk6HiaqvPX_VBgrs0VNQ8jDcIw3vn4n7NshEJ8=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=c802cd06-9a93-11f0-a0bf-99da4816bdf5%26pt=campaign%26pv=4%26spa=1758884474%26t=1758885611%26s=e6c969e383640e932d3522e77261d2a19d7c2d33b6ecb6b7f382d67448099924/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/6aijHyk6HiaqvPX_VBgrs0VNQ8jDcIw3vn4n7NshEJ8=424</guid>
-    </item>
-    <item>
-      <title>Jenny X. - Meta | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/E6SoLAeqChH37VSfu0uEFjxDYvddgOtwDDyMKA3c8yU=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/E6SoLAeqChH37VSfu0uEFjxDYvddgOtwDDyMKA3c8yU=424</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/_3vfdTUdYW8Fh-hLcWZe57NWvBNc8NoxhWU3cbg4BHQ=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/_3vfdTUdYW8Fh-hLcWZe57NWvBNc8NoxhWU3cbg4BHQ=424</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/gsvIIq7KV0hE7JKFcB34NL6oZDt-PCcTtS6Lr2M14pY=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/gsvIIq7KV0hE7JKFcB34NL6oZDt-PCcTtS6Lr2M14pY=424</guid>
-    </item>
-    <item>
-      <title>TLDR Web Dev | Referral Hub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/5YH0e9YqanO7WeJtzc4_aM5JheRF30U3zjUufPWBt8k=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/5YH0e9YqanO7WeJtzc4_aM5JheRF30U3zjUufPWBt8k=424</guid>
-    </item>
-    <item>
-      <title>Resurrect the Old Web | Steve's Bear Blog ʕ º ᴥ ºʔ</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstevedylandev.bearblog.dev%2Fresurrect-the-old-web%2F%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/Sb7MjDjUAKkiz0NMMrOdvY2p0L2a_c9oAqeinNHJUuI=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstevedylandev.bearblog.dev%2Fresurrect-the-old-web%2F%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/Sb7MjDjUAKkiz0NMMrOdvY2p0L2a_c9oAqeinNHJUuI=424</guid>
-    </item>
-    <item>
-      <title>Immutable Infrastructure DevOps: Why You Should Replace, Not Patch | by Lukas Niessen | Sep, 2025 | Medium</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FfQuMgP/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/YPDAWDyIDZwyHLEhTrLN3dv5rQpnLXthzBvkzN3Al2c=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FfQuMgP/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/YPDAWDyIDZwyHLEhTrLN3dv5rQpnLXthzBvkzN3Al2c=424</guid>
-    </item>
-    <item>
-      <title>Continuing to bring you our latest models, with an improved Gemini 2.5 Flash and Flash-Lite release
-            
-            
-            - Google Developers Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevelopers.googleblog.com%2Fen%2Fcontinuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release%2F%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/wEJLfVVOKTvSWY8nUCJzUTZcVZWuDGl3N8wihQtPs-4=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevelopers.googleblog.com%2Fen%2Fcontinuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release%2F%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/wEJLfVVOKTvSWY8nUCJzUTZcVZWuDGl3N8wihQtPs-4=424</guid>
-    </item>
-    <item>
-      <title>Our plan for a more secure npm supply chain - The GitHub Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.blog%2Fsecurity%2Fsupply-chain-security%2Four-plan-for-a-more-secure-npm-supply-chain%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/I8NTMezzf-uyNbVI46N_slZTBYyNXDgKwpuQBS51orM=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.blog%2Fsecurity%2Fsupply-chain-security%2Four-plan-for-a-more-secure-npm-supply-chain%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/I8NTMezzf-uyNbVI46N_slZTBYyNXDgKwpuQBS51orM=424</guid>
-    </item>
-    <item>
-      <title>Athlon 64: How AMD turned the tables on Intel - The Silicon Underground</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdfarq.homeip.net%2Fathlon-64-how-amd-turned-the-tables-on-intel%2F%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/7PEJm4PTjbOUk6e9zrsINHj2O5fBTyjtK-DYpG9Q5pk=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdfarq.homeip.net%2Fathlon-64-how-amd-turned-the-tables-on-intel%2F%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/7PEJm4PTjbOUk6e9zrsINHj2O5fBTyjtK-DYpG9Q5pk=424</guid>
-    </item>
-    <item>
-      <title>Web search · Ollama Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Follama.com%2Fblog%2Fweb-search%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/-C8cmdQxfQNkGk32EAuOSoT2hcsOH-jkCCgWvyF5GDA=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Follama.com%2Fblog%2Fweb-search%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/-C8cmdQxfQNkGk32EAuOSoT2hcsOH-jkCCgWvyF5GDA=424</guid>
-    </item>
-    <item>
-      <title>Announcing Cloudflare Email Service’s private beta</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.cloudflare.com%2Femail-service%2F%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/IDoPx5q3vJzTrIa29CctuZickh5CtHmkUjTZVbczXQE=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.cloudflare.com%2Femail-service%2F%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/IDoPx5q3vJzTrIa29CctuZickh5CtHmkUjTZVbczXQE=424</guid>
-    </item>
-    <item>
-      <title>PostgreSQL: PostgreSQL 18 Released!</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.postgresql.org%2Fabout%2Fnews%2Fpostgresql-18-released-3142%2F%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/JT2E5jziW0Eo45WP6oQK1JChY3VVIKubtrwLW10-XyI=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.postgresql.org%2Fabout%2Fnews%2Fpostgresql-18-released-3142%2F%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/JT2E5jziW0Eo45WP6oQK1JChY3VVIKubtrwLW10-XyI=424</guid>
-    </item>
-    <item>
-      <title>Atlassian is a leader in the Forrester Wave™: DevOps 2025 | Atlassian</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.atlassian.com%2Fforrester%2Fforrester-wave-devops%3Futm_source=newsletter-email%255B%25E2%2580%25A6%255Dtter*Y:itsm*E:cloud*%26utm_sfdc-campaign_id=701QB00000SlmhHYAR/3/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/cT09IclUNSs7v4r80yN566RscZkRTqt6AxeVRO6wOvs=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.atlassian.com%2Fforrester%2Fforrester-wave-devops%3Futm_source=newsletter-email%255B%25E2%2580%25A6%255Dtter*Y:itsm*E:cloud*%26utm_sfdc-campaign_id=701QB00000SlmhHYAR/3/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/cT09IclUNSs7v4r80yN566RscZkRTqt6AxeVRO6wOvs=424</guid>
-    </item>
-    <item>
-      <title>Atlassian is a leader in the Forrester Wave™: DevOps 2025 | Atlassian</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.atlassian.com%2Fforrester%2Fforrester-wave-devops%3Futm_source=newsletter-email%255B%25E2%2580%25A6%255Dtter*Y:itsm*E:cloud*%26utm_sfdc-campaign_id=701QB00000SlmhHYAR/2/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/YRdBO_U0h1jAt07tbM9qIrlrMOq_IPMrqaWyKctAy0k=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.atlassian.com%2Fforrester%2Fforrester-wave-devops%3Futm_source=newsletter-email%255B%25E2%2580%25A6%255Dtter*Y:itsm*E:cloud*%26utm_sfdc-campaign_id=701QB00000SlmhHYAR/2/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/YRdBO_U0h1jAt07tbM9qIrlrMOq_IPMrqaWyKctAy0k=424</guid>
-    </item>
-    <item>
-      <title>Atlassian is a leader in the Forrester Wave™: DevOps 2025 | Atlassian</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.atlassian.com%2Fforrester%2Fforrester-wave-devops%3Futm_source=newsletter-email%255B%25E2%2580%25A6%255Dtter*Y:itsm*E:cloud*%26utm_sfdc-campaign_id=701QB00000SlmhHYAR/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/C9hmjdhJ6a8iqKxO2JqUQ0vRZ9G8iTEZ4S5QvVlvORg=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.atlassian.com%2Fforrester%2Fforrester-wave-devops%3Futm_source=newsletter-email%255B%25E2%2580%25A6%255Dtter*Y:itsm*E:cloud*%26utm_sfdc-campaign_id=701QB00000SlmhHYAR/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/C9hmjdhJ6a8iqKxO2JqUQ0vRZ9G8iTEZ4S5QvVlvORg=424</guid>
-    </item>
-    <item>
-      <title>The Attribute of Greatness: Decision Log</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fread.perspectiveship.com%2Fp%2Fdecision-log%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/J_KoLMAvqhgS8DkWSVis0KSPqax08Z8VWYzQbts_2PE=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fread.perspectiveship.com%2Fp%2Fdecision-log%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/J_KoLMAvqhgS8DkWSVis0KSPqax08Z8VWYzQbts_2PE=424</guid>
-    </item>
-    <item>
-      <title>meks.quest</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmeks.quest%2Fblogs%2Fthe-theatre-of-pull-requests-and-code-review%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/YjUeEzeIDB8ERWRM3kBT1Ggxbs8fwpkupEtqicX1rX8=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmeks.quest%2Fblogs%2Fthe-theatre-of-pull-requests-and-code-review%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/YjUeEzeIDB8ERWRM3kBT1Ggxbs8fwpkupEtqicX1rX8=424</guid>
-    </item>
-    <item>
-      <title>The self-trivialisation of software development</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstefvanwijchen.com%2Fthe-self-trivialisation-of-software-development%2F%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/9tdv5EHKR9kZ2jsp1DeKUNiycjRuCFqWRN2bcGrDZrU=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstefvanwijchen.com%2Fthe-self-trivialisation-of-software-development%2F%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/9tdv5EHKR9kZ2jsp1DeKUNiycjRuCFqWRN2bcGrDZrU=424</guid>
-    </item>
-    <item>
-      <title>How to organize Expo app folder structure for clarity and scalability</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fexpo.dev%2Fblog%2Fexpo-app-folder-structure-best-practices%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/AC6xXd2b3344s8LMpQVTK-iRABhkV_6ECwJq8ltGHw4=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fexpo.dev%2Fblog%2Fexpo-app-folder-structure-best-practices%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/AC6xXd2b3344s8LMpQVTK-iRABhkV_6ECwJq8ltGHw4=424</guid>
-    </item>
-    <item>
-      <title>You may be looking for a useSyncExternalStore | Swizec Teller</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fswizec.com%2Fblog%2Fyou-may-be-looking-for-a-useSyncExternalStore%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/CvrAhjWpiiinPWNBfSkr3V3wzlUD6a1yH44J_TvUqtk=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fswizec.com%2Fblog%2Fyou-may-be-looking-for-a-useSyncExternalStore%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/CvrAhjWpiiinPWNBfSkr3V3wzlUD6a1yH44J_TvUqtk=424</guid>
-    </item>
-    <item>
-      <title>A Worker-Owned Tech Consultancy - Bocoup</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bocoup.com%2Fblog%2Fthe-webs-most-tolerated-feature%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/Cs3A3RIusT8Wm3kZVayhMCsQFPlvAJREnBeK1Pyh90k=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bocoup.com%2Fblog%2Fthe-webs-most-tolerated-feature%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/Cs3A3RIusT8Wm3kZVayhMCsQFPlvAJREnBeK1Pyh90k=424</guid>
-    </item>
-    <item>
-      <title>Enterprise AI Governance Kit</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fenterprise-ai-governance-kit-tldr%3Futm_campaign=23734021-TLDR%2520WebDev%2520Primary%25209262025%26utm_source=external-newsletter%26utm_medium=email%26utm_content=tldrwebdev926/5/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/MhS9obD6wg1aXJdvsimHvH7s4YdNuWhPxuVLfjF3jrk=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fenterprise-ai-governance-kit-tldr%3Futm_campaign=23734021-TLDR%2520WebDev%2520Primary%25209262025%26utm_source=external-newsletter%26utm_medium=email%26utm_content=tldrwebdev926/5/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/MhS9obD6wg1aXJdvsimHvH7s4YdNuWhPxuVLfjF3jrk=424</guid>
-    </item>
-    <item>
-      <title>Enterprise AI Governance Kit</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fenterprise-ai-governance-kit-tldr%3Futm_campaign=23734021-TLDR%2520WebDev%2520Primary%25209262025%26utm_source=external-newsletter%26utm_medium=email%26utm_content=tldrwebdev926/4/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/f-vT5NOatBVX2k6VuwMFQ2CIVJtk8C-9vL8YjqfXfhY=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fenterprise-ai-governance-kit-tldr%3Futm_campaign=23734021-TLDR%2520WebDev%2520Primary%25209262025%26utm_source=external-newsletter%26utm_medium=email%26utm_content=tldrwebdev926/4/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/f-vT5NOatBVX2k6VuwMFQ2CIVJtk8C-9vL8YjqfXfhY=424</guid>
-    </item>
-    <item>
-      <title>Enterprise AI Governance Kit</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fenterprise-ai-governance-kit-tldr%3Futm_campaign=23734021-TLDR%2520WebDev%2520Primary%25209262025%26utm_source=external-newsletter%26utm_medium=email%26utm_content=tldrwebdev926/3/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/VzqJNtN-JQrwjZQhngY0h2HtnR2i6XItiyAN8syZWtg=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fenterprise-ai-governance-kit-tldr%3Futm_campaign=23734021-TLDR%2520WebDev%2520Primary%25209262025%26utm_source=external-newsletter%26utm_medium=email%26utm_content=tldrwebdev926/3/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/VzqJNtN-JQrwjZQhngY0h2HtnR2i6XItiyAN8syZWtg=424</guid>
-    </item>
-    <item>
-      <title>Enterprise AI Governance Kit</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fenterprise-ai-governance-kit-tldr%3Futm_campaign=23734021-TLDR%2520WebDev%2520Primary%25209262025%26utm_source=external-newsletter%26utm_medium=email%26utm_content=tldrwebdev926/2/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/ny7HLexlsLxXc7k_QDKJ-4zTykxCuwL91yF66x5igXQ=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fenterprise-ai-governance-kit-tldr%3Futm_campaign=23734021-TLDR%2520WebDev%2520Primary%25209262025%26utm_source=external-newsletter%26utm_medium=email%26utm_content=tldrwebdev926/2/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/ny7HLexlsLxXc7k_QDKJ-4zTykxCuwL91yF66x5igXQ=424</guid>
-    </item>
-    <item>
-      <title>Enterprise AI Governance Kit</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fenterprise-ai-governance-kit-tldr%3Futm_campaign=23734021-TLDR%2520WebDev%2520Primary%25209262025%26utm_source=external-newsletter%26utm_medium=email%26utm_content=tldrwebdev926/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/WUZi0ZwMI6CZ56Ohr64aXDbsNCAG6TF_yMsKPfYUcnw=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fenterprise-ai-governance-kit-tldr%3Futm_campaign=23734021-TLDR%2520WebDev%2520Primary%25209262025%26utm_source=external-newsletter%26utm_medium=email%26utm_content=tldrwebdev926/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/WUZi0ZwMI6CZ56Ohr64aXDbsNCAG6TF_yMsKPfYUcnw=424</guid>
-    </item>
-    <item>
-      <title>TLDR WebDev</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=c802cd06-9a93-11f0-a0bf-99da4816bdf5%26pt=campaign%26t=1758885611%26s=e78c958ddc76fcb1a06d3710536b164860902ef2ca66004439739afa9b00936a/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/eDrIgnKudnl_eq0YQQkgYEMtu_3vVjoPS0dYyNV-2q8=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=c802cd06-9a93-11f0-a0bf-99da4816bdf5%26pt=campaign%26t=1758885611%26s=e78c958ddc76fcb1a06d3710536b164860902ef2ca66004439739afa9b00936a/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/eDrIgnKudnl_eq0YQQkgYEMtu_3vVjoPS0dYyNV-2q8=424</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/pWE5gJPq3CR4Lf6SuXYkJnSXKoPiYj5NfzsUIqp6qJc=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/pWE5gJPq3CR4Lf6SuXYkJnSXKoPiYj5NfzsUIqp6qJc=424</guid>
-    </item>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=51fd9506-9ac9-11f0-bce5-79603be2f2ad%26pt=campaign%26pv=4%26spa=1758891685%26t=1758894107%26s=e334f8e6ef5fcdedad463ea58919903a1927b7cae1f3f2645286d6e11cc5ed3e/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/CS_WQ08ylU0DsPaDYWSstsjBjgFjHLNMLRqybkIQ6z8=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=51fd9506-9ac9-11f0-bce5-79603be2f2ad%26pt=campaign%26pv=4%26spa=1758891685%26t=1758894107%26s=e334f8e6ef5fcdedad463ea58919903a1927b7cae1f3f2645286d6e11cc5ed3e/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/CS_WQ08ylU0DsPaDYWSstsjBjgFjHLNMLRqybkIQ6z8=424</guid>
-    </item>
-    <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/KJnw_2hqmF0eGRxVvpASbQG_vQZfrIO4CKu7xGixACw=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/KJnw_2hqmF0eGRxVvpASbQG_vQZfrIO4CKu7xGixACw=424</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/qOSCKYiVnSKjvJ9Tji7iykWCmDpMATeiIHlIm97Xyyo=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/qOSCKYiVnSKjvJ9Tji7iykWCmDpMATeiIHlIm97Xyyo=424</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/mni3XPqLsMGRQ76IWuy4PwiX3H0q2v0sEydLYhAfn5U=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/mni3XPqLsMGRQ76IWuy4PwiX3H0q2v0sEydLYhAfn5U=424</guid>
-    </item>
-    <item>
-      <title>TLDR AI | Referral Hub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/QOPof8xlvqowyQ2NXMza6bf9mt3-vLMioQr9GrVn9JA=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/QOPof8xlvqowyQ2NXMza6bf9mt3-vLMioQr9GrVn9JA=424</guid>
-    </item>
-    <item>
-      <title>OpenAI launches shared projects for ChatGPT Business</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fopenai-launches-shared-projects-for-chatgpt-business%2F%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/fGfLK8e6eOwNNqfMY2IiOrO-A8H5yUioRUwldIwEPl0=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fopenai-launches-shared-projects-for-chatgpt-business%2F%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/fGfLK8e6eOwNNqfMY2IiOrO-A8H5yUioRUwldIwEPl0=424</guid>
-    </item>
-    <item>
-      <title>In Defense of AI Evals, for Everyone</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sh-reya.com%2Fblog%2Fin-defense-ai-evals%2F%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/pYFGdqCO5PlCiATlOr-8g9XFAQpDDwqdFm1YOAkNEaA=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sh-reya.com%2Fblog%2Fin-defense-ai-evals%2F%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/pYFGdqCO5PlCiATlOr-8g9XFAQpDDwqdFm1YOAkNEaA=424</guid>
-    </item>
-    <item>
-      <title>Spotify to label AI music, filter spam and more in AI policy change | TechCrunch</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F09%2F25%2Fspotify-updates-ai-policy-to-label-tracks-cut-down-on-spam%2F%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/ZYinBLqTfwHm-sRreI4yCg17dHfZpRxFHpxR46FN9NE=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F09%2F25%2Fspotify-updates-ai-policy-to-label-tracks-cut-down-on-spam%2F%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/ZYinBLqTfwHm-sRreI4yCg17dHfZpRxFHpxR46FN9NE=424</guid>
-    </item>
-    <item>
-      <title>Nova Act extension: Build and test AI agents without leaving your IDE</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flabs.amazon.science%2Fblog%2Fnova-act-extension-build-and-test-ai-agents-without-leaving-your-ide%3Futm_campaign=nova-act-extension-build-and-test-ai-agents-without-leaving-your-ide%26utm_medium=employer-brand%26utm_source=newsletter%26utm_content=nova-act-extension-build-and-test-ai-agents-without-leaving-your-ide%26utm_term=2025-september/2/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/eZA73KHnbAZM3mTattTJEAW2lAcWNk0C-unBB53IWYo=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flabs.amazon.science%2Fblog%2Fnova-act-extension-build-and-test-ai-agents-without-leaving-your-ide%3Futm_campaign=nova-act-extension-build-and-test-ai-agents-without-leaving-your-ide%26utm_medium=employer-brand%26utm_source=newsletter%26utm_content=nova-act-extension-build-and-test-ai-agents-without-leaving-your-ide%26utm_term=2025-september/2/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/eZA73KHnbAZM3mTattTJEAW2lAcWNk0C-unBB53IWYo=424</guid>
-    </item>
-    <item>
-      <title>Nova Act extension: Build and test AI agents without leaving your IDE</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flabs.amazon.science%2Fblog%2Fnova-act-extension-build-and-test-ai-agents-without-leaving-your-ide%3Futm_campaign=nova-act-extension-build-and-test-ai-agents-without-leaving-your-ide%26utm_medium=employer-brand%26utm_source=newsletter%26utm_content=nova-act-extension-build-and-test-ai-agents-without-leaving-your-ide%26utm_term=2025-september/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/KU_FzJxhbnrmA5vsv2eERl-sWJorGqhgxJn2OB3WxOU=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flabs.amazon.science%2Fblog%2Fnova-act-extension-build-and-test-ai-agents-without-leaving-your-ide%3Futm_campaign=nova-act-extension-build-and-test-ai-agents-without-leaving-your-ide%26utm_medium=employer-brand%26utm_source=newsletter%26utm_content=nova-act-extension-build-and-test-ai-agents-without-leaving-your-ide%26utm_term=2025-september/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/KU_FzJxhbnrmA5vsv2eERl-sWJorGqhgxJn2OB3WxOU=424</guid>
-    </item>
-    <item>
-      <title>AI isn't replacing radiologists</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.worksinprogress.news%2Fp%2Fwhy-ai-isnt-replacing-radiologists%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/vEt5gTtPvEQ6jpsFgmMlHS703P7TBXkzYOZXnDSBOZc=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.worksinprogress.news%2Fp%2Fwhy-ai-isnt-replacing-radiologists%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/vEt5gTtPvEQ6jpsFgmMlHS703P7TBXkzYOZXnDSBOZc=424</guid>
-    </item>
-    <item>
-      <title>Max Mynter - Full Stack Machine Learning Engineer</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.maxmynter.com%2Fpages%2Fblog%2Fjobhunt%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/qz06sV248WaHw49LMe0PITLeQfGinhIf4mf_LhsxMdQ=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.maxmynter.com%2Fpages%2Fblog%2Fjobhunt%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/qz06sV248WaHw49LMe0PITLeQfGinhIf4mf_LhsxMdQ=424</guid>
-    </item>
-    <item>
-      <title>Gemini Robotics 1.5 brings AI agents into the physical world - Google DeepMind</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdeepmind.google%2Fdiscover%2Fblog%2Fgemini-robotics-15-brings-ai-agents-into-the-physical-world%2F%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/eltLySmRjNWweH64RBtnF6e-JgB3z7xyHhA1aRuCPGA=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdeepmind.google%2Fdiscover%2Fblog%2Fgemini-robotics-15-brings-ai-agents-into-the-physical-world%2F%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/eltLySmRjNWweH64RBtnF6e-JgB3z7xyHhA1aRuCPGA=424</guid>
-    </item>
-    <item>
-      <title>Continuing to bring you our latest models, with an improved Gemini 2.5 Flash and Flash-Lite release
-            
-            
-            - Google Developers Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevelopers.googleblog.com%2Fen%2Fcontinuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release%2F%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/FaYl3tyB104sdXCdeoIOQX8OOas6meWgrMZBAZzNRbI=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevelopers.googleblog.com%2Fen%2Fcontinuing-to-bring-you-our-latest-models-with-an-improved-gemini-2-5-flash-and-flash-lite-release%2F%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/FaYl3tyB104sdXCdeoIOQX8OOas6meWgrMZBAZzNRbI=424</guid>
-    </item>
-    <item>
-      <title>Toward Computational Taste: LLMs, Aesthetics &amp; Judgment - Patron</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fpatron.fund%2Fblog%2Ftoward-computational-taste-llms-aesthetics-judgment%2F%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/toS4PvPShAn0xcn-_ozFofqXbeyrbB0BcKZlwBBf_ss=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fpatron.fund%2Fblog%2Ftoward-computational-taste-llms-aesthetics-judgment%2F%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/toS4PvPShAn0xcn-_ozFofqXbeyrbB0BcKZlwBBf_ss=424</guid>
-    </item>
-    <item>
-      <title>Is OpenAI's Reinforcement Fine-Tuning (RFT) Worth It? · TensorZero</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tensorzero.com%2Fblog%2Fis-openai-reinforcement-fine-tuning-rft-worth-it%2F%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/0xKjdqEgnZcqsmCW6vrbxAVLM5FQq-JnSMH2CPxURtU=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tensorzero.com%2Fblog%2Fis-openai-reinforcement-fine-tuning-rft-worth-it%2F%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/0xKjdqEgnZcqsmCW6vrbxAVLM5FQq-JnSMH2CPxURtU=424</guid>
-    </item>
-    <item>
-      <title>What are popular AI coding benchmarks actually measuring? - nilenso blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.nilenso.com%2Fblog%2F2025%2F09%2F25%2Fswe-benchmarks%2F%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/v8LlLsm4cI1rCxwqpYCHYxY-_K4DeRMcR2AVg7NWzzo=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.nilenso.com%2Fblog%2F2025%2F09%2F25%2Fswe-benchmarks%2F%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/v8LlLsm4cI1rCxwqpYCHYxY-_K4DeRMcR2AVg7NWzzo=424</guid>
-    </item>
-    <item>
-      <title>Musk’s xAI sues OpenAI, alleging theft of trade secrets - Sherwood News</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsherwood.news%2Ftech%2Fmusks-xai-sues-openai-alleging-theft-of-trade-secrets%2F%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/3bMfaf55uFKNJEp1yMbDaxZ3G-b4YnHn_OXd8C_QVHc=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsherwood.news%2Ftech%2Fmusks-xai-sues-openai-alleging-theft-of-trade-secrets%2F%3Futm_source=tldrai/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/3bMfaf55uFKNJEp1yMbDaxZ3G-b4YnHn_OXd8C_QVHc=424</guid>
-    </item>
-    <item>
-      <title>Instant GPU Clusters | Together AI</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.together.ai%2Finstant-gpu-clusters%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=tldr-instant-cluster-ga/3/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/4-nHH66LH3WXjvpk2Pf0BGrJ1pExTTta4QoyB4OT07A=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.together.ai%2Finstant-gpu-clusters%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=tldr-instant-cluster-ga/3/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/4-nHH66LH3WXjvpk2Pf0BGrJ1pExTTta4QoyB4OT07A=424</guid>
-    </item>
-    <item>
-      <title>Instant GPU Clusters | Together AI</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.together.ai%2Finstant-gpu-clusters%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=tldr-instant-cluster-ga/2/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/okTNIvxCuN00qUGJQPOD11sk9kvfbfNKkN_EGhRAXv4=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.together.ai%2Finstant-gpu-clusters%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=tldr-instant-cluster-ga/2/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/okTNIvxCuN00qUGJQPOD11sk9kvfbfNKkN_EGhRAXv4=424</guid>
-    </item>
-    <item>
-      <title>Instant GPU Clusters | Together AI</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.together.ai%2Finstant-gpu-clusters%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=tldr-instant-cluster-ga/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/ib4EDoffh1jf3v-cYKQOHEUYhPkFGAGhk3JSktYqB0o=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.together.ai%2Finstant-gpu-clusters%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=tldr-instant-cluster-ga/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/ib4EDoffh1jf3v-cYKQOHEUYhPkFGAGhk3JSktYqB0o=424</guid>
-    </item>
-    <item>
-      <title>TLDR AI</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=51fd9506-9ac9-11f0-bce5-79603be2f2ad%26pt=campaign%26t=1758894107%26s=555aac045a97109f51a70ae8794247f3c85a7c6a8b3d156c549881a5c552e671/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/H1qogSkzxYvvx3us9-fGNU57uf_bdHCT37pas-qy39o=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=51fd9506-9ac9-11f0-bce5-79603be2f2ad%26pt=campaign%26t=1758894107%26s=555aac045a97109f51a70ae8794247f3c85a7c6a8b3d156c549881a5c552e671/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/H1qogSkzxYvvx3us9-fGNU57uf_bdHCT37pas-qy39o=424</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/5RKRbPj8_jTwLO441wADGBqBsnlZZc4yA34QE7PB0AU=424</link>
-      <description>Link found in newsletter: 'ChatGPT Pulse 💗, Perplexity Search API 🔍, GDPVal 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019986422b34-a69f0eff-3e5c-49f8-a0e4-28778e0002c0-000000/5RKRbPj8_jTwLO441wADGBqBsnlZZc4yA34QE7PB0AU=424</guid>
-    </item>
+    <lastBuildDate>Thu, 02 Oct 2025 18:18:36 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=a469fdb4-9d0f-11f0-be41-8d42c484f1c4%26pt=campaign%26pv=4%26spa=1759140048%26t=1759143631%26s=1cce6a7bd9859d5b5521dd5c5873874870d0eef991126b65aab7b9647bab32f0/1/0100019995219ad8-2de77c64-20e6-4220-9c9a-4b5d8267b1ec-000000/oILXNbZjGG-epS375aTiN-5A69lRlG9i5nvwCAw3nOc=424</link>
@@ -2102,12 +1784,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/01000199a474d273-c18ecf60-b131-4f41-8132-6c1cb1ac0dcd-000000/BFdw7TSU6BDNzVNVhRVKODj37OTwxNJYrTuBnH4bEzU=425</guid>
     </item>
     <item>
-      <title>borgrodrick · Kill the Newsletter!</title>
-      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
-      <description>Link found in newsletter: 'Don’t avoid office politics 💼, Cursor 1.7 🚀, memory engineering for agents 💾'</description>
-      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
-    </item>
-    <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=4e54002e-9f5c-11f0-bc35-5553065bcaf8%26pt=campaign%26pv=4%26spa=1759402855%26t=1759403760%26s=10368332e8874b5c5f79d5ed06df1ed09c1094c9f203648f98459f1e2ce649df/1/01000199a4a2dd23-96d0e72d-0715-417e-873a-d1f3658593a4-000000/KnHlzSrQ4sXOcTSPdn5oxu8Q7eNV-5hhYTFCpcdgHoA=425</link>
       <description>Link found in newsletter: 'Don’t avoid office politics 💼, Cursor 1.7 🚀, memory engineering for agents 💾'</description>
@@ -2286,6 +1962,321 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/01000199a4a2dd23-96d0e72d-0715-417e-873a-d1f3658593a4-000000/tGMFNQkrslGmi2Pmw5QQbjCLrQL50PbYygGrNbDzMY8=425</link>
       <description>Link found in newsletter: 'Don’t avoid office politics 💼, Cursor 1.7 🚀, memory engineering for agents 💾'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/01000199a4a2dd23-96d0e72d-0715-417e-873a-d1f3658593a4-000000/tGMFNQkrslGmi2Pmw5QQbjCLrQL50PbYygGrNbDzMY8=425</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=7dfa0d52-9f5f-11f0-a2fe-c5eefb25afd9%26pt=campaign%26pv=4%26spa=1759410067%26t=1759410433%26s=771f962685efae16e0c69d6a01d2e60b719e5917dc6959ac8cd5b4cde08da384/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/5yoAyD-T3hzI2tJgIhAP6i4wUeRNaMEokLh0mXJzQ9E=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=7dfa0d52-9f5f-11f0-a2fe-c5eefb25afd9%26pt=campaign%26pv=4%26spa=1759410067%26t=1759410433%26s=771f962685efae16e0c69d6a01d2e60b719e5917dc6959ac8cd5b4cde08da384/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/5yoAyD-T3hzI2tJgIhAP6i4wUeRNaMEokLh0mXJzQ9E=425</guid>
+    </item>
+    <item>
+      <title>Gabriel Sundaram - attain | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/9qpO3IdjAmGHAIZsGftDlZNEosg1Aff7aaZh5-Rauw4=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/9qpO3IdjAmGHAIZsGftDlZNEosg1Aff7aaZh5-Rauw4=425</guid>
+    </item>
+    <item>
+      <title>Matt Cheung - Ceviche AI | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/Egy3xjRGmVKT61Ozvq61VKhFBFWazWFLPHtvFGRQapg=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/Egy3xjRGmVKT61Ozvq61VKhFBFWazWFLPHtvFGRQapg=425</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/1bsJDom99kU-N78aLfZF0MIy69N9BNHlOWeNVFjXtUo=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/1bsJDom99kU-N78aLfZF0MIy69N9BNHlOWeNVFjXtUo=425</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/gRCgDNbjvDA6TnhjLgXT2AvhObSJgbVF0EM1_QTbzqY=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/gRCgDNbjvDA6TnhjLgXT2AvhObSJgbVF0EM1_QTbzqY=425</guid>
+    </item>
+    <item>
+      <title>Mastercard taps transaction data for advertising platform</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46692%2Fmastercard-taps-transaction-data-for-advertising-platform%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/LYXHLGaz4lewUtZGTK9XHwJH76mpCuOoimX0hAxGZ9c=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46692%2Fmastercard-taps-transaction-data-for-advertising-platform%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/LYXHLGaz4lewUtZGTK9XHwJH76mpCuOoimX0hAxGZ9c=425</guid>
+    </item>
+    <item>
+      <title>FinovateFall 2025 Archives - Finovate</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffinovate.com%2Fcategory%2Ffinovatefall-2025%2F%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/ZE_MVggin6JcJqmYAVfQiBk-EfjkArtJOlWVxnSQg0s=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffinovate.com%2Fcategory%2Ffinovatefall-2025%2F%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/ZE_MVggin6JcJqmYAVfQiBk-EfjkArtJOlWVxnSQg0s=425</guid>
+    </item>
+    <item>
+      <title>Frank founder Charlie Javice sentenced to 7 years in prison for defrauding JPMorgan Chase | TechCrunch</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F09%2F29%2Ffrank-founder-charlie-javice-sentenced-to-7-years-in-prison-for-defrauding-jpmorgan-chase%2F%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/uoCa2w126M9qW1ggPSj937qHDCEmhEuL6PUiD1_IfG4=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F09%2F29%2Ffrank-founder-charlie-javice-sentenced-to-7-years-in-prison-for-defrauding-jpmorgan-chase%2F%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/uoCa2w126M9qW1ggPSj937qHDCEmhEuL6PUiD1_IfG4=425</guid>
+    </item>
+    <item>
+      <title>PayOS and Mastercard complete milestone agentic payment transaction</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46682%2Fpayos-and-mastercard-complete-milestone-agentic-payment-transaction%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/vRfdMaZlPBz8TSf0waJ-UVrsDYMYffTGbVXi5WtpRSY=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46682%2Fpayos-and-mastercard-complete-milestone-agentic-payment-transaction%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/vRfdMaZlPBz8TSf0waJ-UVrsDYMYffTGbVXi5WtpRSY=425</guid>
+    </item>
+    <item>
+      <title>YC x Coinbase RFS: Build Onchain | Y Combinator</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ycombinator.com%2Fblog%2Fbuild-onchain%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/ZpFJa-8dZakV0CbZ23tuLM9vs2MY5npLcY2AKIUX6XE=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ycombinator.com%2Fblog%2Fbuild-onchain%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/ZpFJa-8dZakV0CbZ23tuLM9vs2MY5npLcY2AKIUX6XE=425</guid>
+    </item>
+    <item>
+      <title>PayPal Honey to Add Agentic Commerce Features by Black Friday</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.pymnts.com%2Fnews%2Fecommerce%2F2025%2Fpaypal-honey-add-agentic-commerce-features-black-friday%2F%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/ub6tz_sDUxU5V0BnV5WEJYxp4shwDNgdEsH6Ob207yQ=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.pymnts.com%2Fnews%2Fecommerce%2F2025%2Fpaypal-honey-add-agentic-commerce-features-black-friday%2F%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/ub6tz_sDUxU5V0BnV5WEJYxp4shwDNgdEsH6Ob207yQ=425</guid>
+    </item>
+    <item>
+      <title>Brex Announces Launch of Stablecoin Payments</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fffnews.com%2Fnewsarticle%2Fbrex-announces-launch-of-stablecoin-payments%2F%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/AHtkTmwYU9YVoEiG-FmylFcY7NzxVvNua-HIXkcoaVU=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fffnews.com%2Fnewsarticle%2Fbrex-announces-launch-of-stablecoin-payments%2F%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/AHtkTmwYU9YVoEiG-FmylFcY7NzxVvNua-HIXkcoaVU=425</guid>
+    </item>
+    <item>
+      <title>One Small Step for PayOS; One Giant Leap for Agentic Commerce; PayOS Performs Live Agentic Token Transaction in Partnership with Mastercard</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffinance.yahoo.com%2Fnews%2Fone-small-step-payos-one-052600633.html%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/Rc65Vz9WFlEcI3CA65cd6vHvPrT-kA7h1i2XUvq_-64=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffinance.yahoo.com%2Fnews%2Fone-small-step-payos-one-052600633.html%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/Rc65Vz9WFlEcI3CA65cd6vHvPrT-kA7h1i2XUvq_-64=425</guid>
+    </item>
+    <item>
+      <title>Industries - Finance and Insurance</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ubiquity.com%2Findustries%2Fbanking-financial-services%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter5%26utm_term=fintech/3/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/DCLrMvH84wFTrEwtE8rVUEsOXcH0WGy7i4S4Q5rt5fY=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ubiquity.com%2Findustries%2Fbanking-financial-services%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter5%26utm_term=fintech/3/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/DCLrMvH84wFTrEwtE8rVUEsOXcH0WGy7i4S4Q5rt5fY=425</guid>
+    </item>
+    <item>
+      <title>Industries - Finance and Insurance</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ubiquity.com%2Findustries%2Fbanking-financial-services%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter5%26utm_term=fintech/2/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/9T3dKr00MecHu8O1BgENby6r1T3M8MlwOQG6Tn42Xf4=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ubiquity.com%2Findustries%2Fbanking-financial-services%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter5%26utm_term=fintech/2/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/9T3dKr00MecHu8O1BgENby6r1T3M8MlwOQG6Tn42Xf4=425</guid>
+    </item>
+    <item>
+      <title>Industries - Finance and Insurance</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ubiquity.com%2Findustries%2Fbanking-financial-services%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter5%26utm_term=fintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/h-iv_Xc0IFuTODdl-RNL8eQXp82WTn0FnwQ6tpdyXZo=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ubiquity.com%2Findustries%2Fbanking-financial-services%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter5%26utm_term=fintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/h-iv_Xc0IFuTODdl-RNL8eQXp82WTn0FnwQ6tpdyXZo=425</guid>
+    </item>
+    <item>
+      <title>ApplePay’s 11th birthday in iOS 26 – What’s New? | Noyes Payments Blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.starpointllp.com%2F%3Fp=7211%26utm_source=www.fintechbrainfood.com%26utm_medium=referral%26utm_campaign=two-new-protocols-that-teach-ai-how-to-pay-x402-atxp/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/1XHx_Xwn52R55CGsok7O7snXcTSpltnQF9jXlM5YysQ=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.starpointllp.com%2F%3Fp=7211%26utm_source=www.fintechbrainfood.com%26utm_medium=referral%26utm_campaign=two-new-protocols-that-teach-ai-how-to-pay-x402-atxp/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/1XHx_Xwn52R55CGsok7O7snXcTSpltnQF9jXlM5YysQ=425</guid>
+    </item>
+    <item>
+      <title>US payments growth may have peaked | Payments Dive</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Fus-payments-revenue-growth-bcg-report-cards-cash%2F761276%2F%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/fvB0BTRBy4pPe_ewDpFZCt8l_KNNrcvzAHiRQWJ55PQ=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Fus-payments-revenue-growth-bcg-report-cards-cash%2F761276%2F%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/fvB0BTRBy4pPe_ewDpFZCt8l_KNNrcvzAHiRQWJ55PQ=425</guid>
+    </item>
+    <item>
+      <title>Better Tomorrow Ventures closes $140M, remains bullish on fintech | TechCrunch</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F01%2Fbetter-tomorrow-ventures-closes-140m-remains-bullish-on-fintech%2F%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/OCZkNLmi1CIMps2DcqlL7zJ7ipu1lCNBULUu14y6T6s=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F01%2Fbetter-tomorrow-ventures-closes-140m-remains-bullish-on-fintech%2F%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/OCZkNLmi1CIMps2DcqlL7zJ7ipu1lCNBULUu14y6T6s=425</guid>
+    </item>
+    <item>
+      <title>Couldflare to introduce US dollar stablecoin for the agentic web</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107317%2Fcouldflare-to-introduce-us-dollar-stablecoin-for-the-agentic-web%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/65Axs-aAkkOblHJF_360UCuXnybgDzJPZrRL0tlNpIU=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107317%2Fcouldflare-to-introduce-us-dollar-stablecoin-for-the-agentic-web%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/65Axs-aAkkOblHJF_360UCuXnybgDzJPZrRL0tlNpIU=425</guid>
+    </item>
+    <item>
+      <title>Stripe powers Instant Checkout in ChatGPT and releases Agentic Commerce Protocol co-developed with OpenAI</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstripe.com%2Fen-ca%2Fnewsroom%2Fnews%2Fstripe-openai-instant-checkout%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/SJfL_C9aOLjY0KyclK-wrIZgAHGQhj4XPOq12IH6VjM=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstripe.com%2Fen-ca%2Fnewsroom%2Fnews%2Fstripe-openai-instant-checkout%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/SJfL_C9aOLjY0KyclK-wrIZgAHGQhj4XPOq12IH6VjM=425</guid>
+    </item>
+    <item>
+      <title>With Marqeta, you won't have to compromise</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_primary/4/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/DSq5FgjKsKXg-VAFzIWui3xL45fnEvQtKrixkhQw_sA=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_primary/4/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/DSq5FgjKsKXg-VAFzIWui3xL45fnEvQtKrixkhQw_sA=425</guid>
+    </item>
+    <item>
+      <title>With Marqeta, you won't have to compromise</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_primary/3/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/wsweiDtp8KeKRLJDwZeoIA0HbogVMj9PGbVBz4POlls=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_primary/3/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/wsweiDtp8KeKRLJDwZeoIA0HbogVMj9PGbVBz4POlls=425</guid>
+    </item>
+    <item>
+      <title>With Marqeta, you won't have to compromise</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_primary/2/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/_GMTFK-P3wTf0bQ_T0WprOpDTDPFGGQ2jfkRXvS5hOk=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_primary/2/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/_GMTFK-P3wTf0bQ_T0WprOpDTDPFGGQ2jfkRXvS5hOk=425</guid>
+    </item>
+    <item>
+      <title>With Marqeta, you won't have to compromise</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_primary/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/mXJjsfHe_zticti_fuh_yUrHQN4i1A3BGYSAZFa0M6M=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_primary/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/mXJjsfHe_zticti_fuh_yUrHQN4i1A3BGYSAZFa0M6M=425</guid>
+    </item>
+    <item>
+      <title>TLDR Fintech</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=7dfa0d52-9f5f-11f0-a2fe-c5eefb25afd9%26pt=campaign%26t=1759410433%26s=a84feb3a39654a6412faad099453910c05da10cccd8fe31d24702bc922f66f2a/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/WDB3Kyzu_ZD_z-ESHLQh3hBv4nv8WfJ4yVUT3RKmXfA=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=7dfa0d52-9f5f-11f0-a2fe-c5eefb25afd9%26pt=campaign%26t=1759410433%26s=a84feb3a39654a6412faad099453910c05da10cccd8fe31d24702bc922f66f2a/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/WDB3Kyzu_ZD_z-ESHLQh3hBv4nv8WfJ4yVUT3RKmXfA=425</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/4XVCUgIVmIDuYac5w-UdGEsrFXIjntyXtEc8WCKiBys=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/4XVCUgIVmIDuYac5w-UdGEsrFXIjntyXtEc8WCKiBys=425</guid>
+    </item>
+    <item>
+      <title>borgrodrick · Kill the Newsletter!</title>
+      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=f1c986d2-9f81-11f0-88c3-e3d1ec53aba4%26pt=campaign%26pv=4%26spa=1759410118%26t=1759411481%26s=8b57a8216293d0b7e7af4a1cb4fbb884d12f66d2af09078c42186951504d7029/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/AThXPovnEkTdkuY3OqaYI-8OEqpztPywjp_OjGwNNHw=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=f1c986d2-9f81-11f0-88c3-e3d1ec53aba4%26pt=campaign%26pv=4%26spa=1759410118%26t=1759411481%26s=8b57a8216293d0b7e7af4a1cb4fbb884d12f66d2af09078c42186951504d7029/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/AThXPovnEkTdkuY3OqaYI-8OEqpztPywjp_OjGwNNHw=425</guid>
+    </item>
+    <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/yGcQC_dMVpyWqos6VQ30H5wma2nsTBQ7dKf1sXpyShw=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/yGcQC_dMVpyWqos6VQ30H5wma2nsTBQ7dKf1sXpyShw=425</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/q7wWCBUk9NDryliRmxHSYzPZCBMeCJN0RgHazkshlOg=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/q7wWCBUk9NDryliRmxHSYzPZCBMeCJN0RgHazkshlOg=425</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/bNaGot4t_t23Q_OXZQwJX1EXcSbCo_3taXoys18y8LA=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/bNaGot4t_t23Q_OXZQwJX1EXcSbCo_3taXoys18y8LA=425</guid>
+    </item>
+    <item>
+      <title>TLDR AI | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/B62uGcBL8KzRYCR3uWlmvBUTzqvF7qIMwosPb3i8qjA=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/B62uGcBL8KzRYCR3uWlmvBUTzqvF7qIMwosPb3i8qjA=425</guid>
+    </item>
+    <item>
+      <title>OpenAI's Stargate project to consume up to 40% of global DRAM output — inks deal with Samsung and SK hynix to the tune of up to 900,000 wafers per month | Tom's Hardware</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tomshardware.com%2Fpc-components%2Fdram%2Fopenais-stargate-project-to-consume-up-to-40-percent-of-global-dram-output-inks-deal-with-samsung-and-sk-hynix-to-the-tune-of-up-to-900-000-wafers-per-month%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/nNTNck27mYX-vhswYXWpi9wMPvtLpQoWuzpCAmYb1r4=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tomshardware.com%2Fpc-components%2Fdram%2Fopenais-stargate-project-to-consume-up-to-40-percent-of-global-dram-output-inks-deal-with-samsung-and-sk-hynix-to-the-tune-of-up-to-900-000-wafers-per-month%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/nNTNck27mYX-vhswYXWpi9wMPvtLpQoWuzpCAmYb1r4=425</guid>
+    </item>
+    <item>
+      <title>CharacterAI removes Disney characters after receiving cease-and-desist letter | TechCrunch</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F01%2Fcharacter-ai-removes-disney-characters-after-receiving-cease-and-desist-letter%2F%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/u9bjAnaf5zwQ4f4Ah29Z3vTfLWENMjmMPjWvvTuqYPg=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F01%2Fcharacter-ai-removes-disney-characters-after-receiving-cease-and-desist-letter%2F%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/u9bjAnaf5zwQ4f4Ah29Z3vTfLWENMjmMPjWvvTuqYPg=425</guid>
+    </item>
+    <item>
+      <title>Cerebras Raises $1.1 Billion at $8.1 Billion Valuation</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cerebras.ai%2Fpress-release%2Fseries-g%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/Nu1n6fVqsERggUGT8UsKb4xiPMPO4VhQZrFuHJLtoaE=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cerebras.ai%2Fpress-release%2Fseries-g%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/Nu1n6fVqsERggUGT8UsKb4xiPMPO4VhQZrFuHJLtoaE=425</guid>
+    </item>
+    <item>
+      <title>2025 State of AI Infrastructure Report | Google Cloud</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcloud.google.com%2Fresources%2Fcontent%2Fstate-of-ai-infrastructure%3Fe=48754805%26utm_source=cloud_sfdc%26utm_medium=email%26utm_campaign=FY24-Q3-GLOBAL-ENDM467-website-dl-AIInfraTrends-8889%26utm_content=tldr%26utm_term=october_2%26hl=en/2/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/Mbpdbhm7BjEHV3BvqzA2l7NeVB_C6FFXW_oVWXbt9iU=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcloud.google.com%2Fresources%2Fcontent%2Fstate-of-ai-infrastructure%3Fe=48754805%26utm_source=cloud_sfdc%26utm_medium=email%26utm_campaign=FY24-Q3-GLOBAL-ENDM467-website-dl-AIInfraTrends-8889%26utm_content=tldr%26utm_term=october_2%26hl=en/2/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/Mbpdbhm7BjEHV3BvqzA2l7NeVB_C6FFXW_oVWXbt9iU=425</guid>
+    </item>
+    <item>
+      <title>2025 State of AI Infrastructure Report | Google Cloud</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcloud.google.com%2Fresources%2Fcontent%2Fstate-of-ai-infrastructure%3Fe=48754805%26utm_source=cloud_sfdc%26utm_medium=email%26utm_campaign=FY24-Q3-GLOBAL-ENDM467-website-dl-AIInfraTrends-8889%26utm_content=tldr%26utm_term=october_2%26hl=en/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/ax326WhZXnoi3fbZvpOf4eLI-3b3K19bZAX2MkSIQvQ=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcloud.google.com%2Fresources%2Fcontent%2Fstate-of-ai-infrastructure%3Fe=48754805%26utm_source=cloud_sfdc%26utm_medium=email%26utm_campaign=FY24-Q3-GLOBAL-ENDM467-website-dl-AIInfraTrends-8889%26utm_content=tldr%26utm_term=october_2%26hl=en/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/ax326WhZXnoi3fbZvpOf4eLI-3b3K19bZAX2MkSIQvQ=425</guid>
+    </item>
+    <item>
+      <title>CoreWeave stock climbs 12% after $14 billion deal with Meta</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F09%2F30%2Fcoreweave-meta-deal-ai.html%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/rfO5UBxuc-v2QYRVdzCp123SQrDa1VaSYjvO95JqY-4=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F09%2F30%2Fcoreweave-meta-deal-ai.html%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/rfO5UBxuc-v2QYRVdzCp123SQrDa1VaSYjvO95JqY-4=425</guid>
+    </item>
+    <item>
+      <title>YouTube Thinks AI Is Its Next Big Bang | WIRED</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.wired.com%2Fstory%2Fyoutube-thinks-ai-is-its-next-big-bang%2F%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/IqAL61CnZvtgpLfO34OpoqgpDYyoD_pUINUCW2-NemE=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.wired.com%2Fstory%2Fyoutube-thinks-ai-is-its-next-big-bang%2F%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/IqAL61CnZvtgpLfO34OpoqgpDYyoD_pUINUCW2-NemE=425</guid>
+    </item>
+    <item>
+      <title>Google DeepMind and Ross Lovegrove partner on design and AI</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.google%2Ftechnology%2Fgoogle-deepmind%2Fross-lovegrove-design%2F%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/_1yhNFQe0PQI-qjmHEQ6xmOvpGaK344SbxDB3IDvNR4=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.google%2Ftechnology%2Fgoogle-deepmind%2Fross-lovegrove-design%2F%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/_1yhNFQe0PQI-qjmHEQ6xmOvpGaK344SbxDB3IDvNR4=425</guid>
+    </item>
+    <item>
+      <title>Introducing Tunix: A JAX-Native Library for LLM Post-Training
+            
+            
+            - Google Developers Blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevelopers.googleblog.com%2Fen%2Fintroducing-tunix-a-jax-native-library-for-llm-post-training%2F%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/P-Z7n-BXjE1jvpokSN2ahPpPEHCSjD_GiDckpOiM15E=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevelopers.googleblog.com%2Fen%2Fintroducing-tunix-a-jax-native-library-for-llm-post-training%2F%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/P-Z7n-BXjE1jvpokSN2ahPpPEHCSjD_GiDckpOiM15E=425</guid>
+    </item>
+    <item>
+      <title>The Magic of Claude Code</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.alephic.com%2Fwriting%2Fthe-magic-of-claude-code%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/2bv817MelNGQ2EpM4O7MymGbb_-m49JBiNuVZhCujtw=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.alephic.com%2Fwriting%2Fthe-magic-of-claude-code%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/2bv817MelNGQ2EpM4O7MymGbb_-m49JBiNuVZhCujtw=425</guid>
+    </item>
+    <item>
+      <title>OpenAI staff grapples with the company's social media push | TechCrunch</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F01%2Fopenai-staff-grapples-with-the-companys-social-media-push%2F%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/bBJ-TZ4f29SWS5qWHPBryaY6g8inTNuiv46WFbYUYZ8=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F01%2Fopenai-staff-grapples-with-the-companys-social-media-push%2F%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/bBJ-TZ4f29SWS5qWHPBryaY6g8inTNuiv46WFbYUYZ8=425</guid>
+    </item>
+    <item>
+      <title>Anthropic works on customizable Skills for Claude</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fanthropic-works-on-customizable-skills-for-claude%2F%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/QWbNuhqe4wT0APavS15mfeoHYANnOVpHdkyR4viN2-E=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fanthropic-works-on-customizable-skills-for-claude%2F%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/QWbNuhqe4wT0APavS15mfeoHYANnOVpHdkyR4viN2-E=425</guid>
+    </item>
+    <item>
+      <title>Announcing Tinker - Thinking Machines Lab</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthinkingmachines.ai%2Fblog%2Fannouncing-tinker%2F%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/GCRoO6kaTZKRQPtHDhnWuEAVihVKhsy8AOyuUOTBv1I=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthinkingmachines.ai%2Fblog%2Fannouncing-tinker%2F%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/GCRoO6kaTZKRQPtHDhnWuEAVihVKhsy8AOyuUOTBv1I=425</guid>
+    </item>
+    <item>
+      <title>Enterprise Ready Conf 2025 – by WorkOS</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fenterprise-ready.com%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/3/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/A95ldZEOnb2qpsxi8W5iygpir6KCu32UEvxmH3W5Atk=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fenterprise-ready.com%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/3/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/A95ldZEOnb2qpsxi8W5iygpir6KCu32UEvxmH3W5Atk=425</guid>
+    </item>
+    <item>
+      <title>WorkOS — Your app, Enterprise Ready.</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/yHsr0U9RpoL07HSitz-xq0jVp-arjCLXDY3ckPErD0k=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/yHsr0U9RpoL07HSitz-xq0jVp-arjCLXDY3ckPErD0k=425</guid>
+    </item>
+    <item>
+      <title>Enterprise Ready Conf 2025 – by WorkOS</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fenterprise-ready.com%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/2/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/j8_bnHfoe76arHGtiC8naXCJNPaxqXSYs-om4-4LEJY=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fenterprise-ready.com%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/2/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/j8_bnHfoe76arHGtiC8naXCJNPaxqXSYs-om4-4LEJY=425</guid>
+    </item>
+    <item>
+      <title>Enterprise Ready Conf 2025 – by WorkOS</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fenterprise-ready.com%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/1t4PVq264bk1Vofk-h6EFe0M2Ey5HoLq06EKoy1ghhg=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fenterprise-ready.com%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/1t4PVq264bk1Vofk-h6EFe0M2Ey5HoLq06EKoy1ghhg=425</guid>
+    </item>
+    <item>
+      <title>TLDR AI</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=f1c986d2-9f81-11f0-88c3-e3d1ec53aba4%26pt=campaign%26t=1759411481%26s=a38a1f709dc776a80c34584a56d943f684b807a1a32e44680f4590abefa6bbbf/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/rBR9UTWMcWDETqCmaT2kZUn_caBhkNQ3rXv4cFPGpds=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=f1c986d2-9f81-11f0-88c3-e3d1ec53aba4%26pt=campaign%26t=1759411481%26s=a38a1f709dc776a80c34584a56d943f684b807a1a32e44680f4590abefa6bbbf/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/rBR9UTWMcWDETqCmaT2kZUn_caBhkNQ3rXv4cFPGpds=425</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/HwY3n_W9N2bTUcedgiNqoM-Ym3sE-DbR7pb3NHyTOoM=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/HwY3n_W9N2bTUcedgiNqoM-Ym3sE-DbR7pb3NHyTOoM=425</guid>
     </item>
   </channel>
 </rss>
