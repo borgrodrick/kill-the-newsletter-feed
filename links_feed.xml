@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 01 Oct 2025 18:18:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Oct 2025 00:58:42 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=bd205daa-99fc-11f0-bd06-bdc0fa3e444a%26pt=campaign%26pv=4%26spa=1758805311%26t=1758806710%26s=61981bcecf5433d68c920b0870d6e4b292558de2f6ff8769f18d8c017352b64f/1/01000199810c98a4-d2ad1c88-4491-416a-bbc7-607ad89baa88-000000/A-OPKvFk7s7IFTR-1QuE-hwzS0OWoJBqX5vysao-vEw=424</link>
@@ -424,12 +424,6 @@ Generation with World Models | Research - AI at Meta</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstevedylandev.bearblog.dev%2Fresurrect-the-old-web%2F%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/Sb7MjDjUAKkiz0NMMrOdvY2p0L2a_c9oAqeinNHJUuI=424</link>
       <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstevedylandev.bearblog.dev%2Fresurrect-the-old-web%2F%3Futm_source=tldrwebdev/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/Sb7MjDjUAKkiz0NMMrOdvY2p0L2a_c9oAqeinNHJUuI=424</guid>
-    </item>
-    <item>
-      <title>Immutable Infrastructure DevOps: Why You Should Replace, Not Patch | by Lukas Niessen | Sep, 2025 | Medium</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FfQuMgP/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/YPDAWDyIDZwyHLEhTrLN3dv5rQpnLXthzBvkzN3Al2c=424</link>
-      <description>Link found in newsletter: 'PostgreSQL 18 🚀, the web’s most tolerated feature 🤔, ChatGPT Pulse 🗞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FfQuMgP/1/0100019985c088a7-a908f6a5-b7e6-46f5-b956-a42fb1c432e6-000000/YPDAWDyIDZwyHLEhTrLN3dv5rQpnLXthzBvkzN3Al2c=424</guid>
     </item>
     <item>
       <title>Continuing to bring you our latest models, with an improved Gemini 2.5 Flash and Flash-Lite release
@@ -1032,12 +1026,6 @@ Generation with World Models | Research - AI at Meta</title>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcassidoo.co%2Fpost%2Fquestions-when-i-need-to-finish-something%2F%3Futm_source=tldrwebdev/1/0100019995328706-f515255b-8960-491a-83ab-ef13ff12bf4f-000000/yMF0ieId3dtUdZ7_Q3hrmnvDGXp330GRAlhrwiHUbtQ=424</guid>
     </item>
     <item>
-      <title>Building a Next-Generation Key-Value Store at Airbnb | by Shravan Gaonkar | The Airbnb Tech Blog | Sep, 2025 | Medium</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmedium.com%2Fairbnb-engineering%2Fbuilding-a-next-generation-key-value-store-at-airbnb-0de8465ba354%3Futm_source=tldrwebdev/1/0100019995328706-f515255b-8960-491a-83ab-ef13ff12bf4f-000000/1iv3lrKDMbF2RjCLK84tHXFiPGcWJU5QZ3nyaMzzyKg=424</link>
-      <description>Link found in newsletter: 'Zustand Sync 🔄, why LLMs think 🧠, Postgres 18 speed comparison ⚡️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmedium.com%2Fairbnb-engineering%2Fbuilding-a-next-generation-key-value-store-at-airbnb-0de8465ba354%3Futm_source=tldrwebdev/1/0100019995328706-f515255b-8960-491a-83ab-ef13ff12bf4f-000000/1iv3lrKDMbF2RjCLK84tHXFiPGcWJU5QZ3nyaMzzyKg=424</guid>
-    </item>
-    <item>
       <title>Shadow AI Guide</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fshadow-ai-guide%3Futm_campaign=23734024-TLDR%2520WebDev%2520Primary%25209292025%26utm_source=external-newsletter%26utm_medium=email%26utm_content=tldrwebdev929/5/0100019995328706-f515255b-8960-491a-83ab-ef13ff12bf4f-000000/hkG0Xbon3CPFzQRSGnCRkomT0umzv91_KzmEP5rO_F4=424</link>
       <description>Link found in newsletter: 'Zustand Sync 🔄, why LLMs think 🧠, Postgres 18 speed comparison ⚡️'</description>
@@ -1336,12 +1324,6 @@ Generation with World Models | Research - AI at Meta</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsnyk.io%2Fevents%2Fdevseccon%2F%3Futm_campaign=dm_pp_tldr_250929_evt_251022_devseccon_flagship_2025%26utm_medium=em-pa%26utm_source=tldr%26utm_content=evt_251022_devseccon_flagship_2025/1/0100019995bc4c64-9456c749-8ece-484c-abe8-780d03780f38-000000/8xFmEYw1dRMCFHwAvTM2laVo8S7j7Z2BSFq1mjSkMIU=424</link>
       <description>Link found in newsletter: 'Apple Veritas 🍎, DeepSeek-V3.1-Terminus 🤖, ChatGPT model routing ➡️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsnyk.io%2Fevents%2Fdevseccon%2F%3Futm_campaign=dm_pp_tldr_250929_evt_251022_devseccon_flagship_2025%26utm_medium=em-pa%26utm_source=tldr%26utm_content=evt_251022_devseccon_flagship_2025/1/0100019995bc4c64-9456c749-8ece-484c-abe8-780d03780f38-000000/8xFmEYw1dRMCFHwAvTM2laVo8S7j7Z2BSFq1mjSkMIU=424</guid>
-    </item>
-    <item>
-      <title>The AI Village in Numbers — LessWrong</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.lesswrong.com%2Fposts%2FKmH83cDTh54EjTjbi%2Fthe-ai-village-in-numbers%3Futm_source=tldrai/1/0100019995bc4c64-9456c749-8ece-484c-abe8-780d03780f38-000000/9QREUpKX1NZF-wXB84ssb72FlCGph9N5U-9RdpCqCOI=424</link>
-      <description>Link found in newsletter: 'Apple Veritas 🍎, DeepSeek-V3.1-Terminus 🤖, ChatGPT model routing ➡️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.lesswrong.com%2Fposts%2FKmH83cDTh54EjTjbi%2Fthe-ai-village-in-numbers%3Futm_source=tldrai/1/0100019995bc4c64-9456c749-8ece-484c-abe8-780d03780f38-000000/9QREUpKX1NZF-wXB84ssb72FlCGph9N5U-9RdpCqCOI=424</guid>
     </item>
     <item>
       <title>Apple’s ‘Veritas’ chatbot is reportedly an employee-only test of Siri’s AI upgrades | The Verge</title>
