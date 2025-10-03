@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 03 Oct 2025 00:58:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 06:18:56 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=a469fdb4-9d0f-11f0-be41-8d42c484f1c4%26pt=campaign%26pv=4%26spa=1759140048%26t=1759143631%26s=1cce6a7bd9859d5b5521dd5c5873874870d0eef991126b65aab7b9647bab32f0/1/0100019995219ad8-2de77c64-20e6-4220-9c9a-4b5d8267b1ec-000000/oILXNbZjGG-epS375aTiN-5A69lRlG9i5nvwCAw3nOc=424</link>
@@ -636,6 +636,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsnyk.io%2Fevents%2Fdevseccon%2F%3Futm_campaign=dm_pp_tldr_250929_evt_251022_devseccon_flagship_2025%26utm_medium=em-pa%26utm_source=tldr%26utm_content=evt_251022_devseccon_flagship_2025/1/0100019995bc4c64-9456c749-8ece-484c-abe8-780d03780f38-000000/8xFmEYw1dRMCFHwAvTM2laVo8S7j7Z2BSFq1mjSkMIU=424</link>
       <description>Link found in newsletter: 'Apple Veritas 🍎, DeepSeek-V3.1-Terminus 🤖, ChatGPT model routing ➡️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsnyk.io%2Fevents%2Fdevseccon%2F%3Futm_campaign=dm_pp_tldr_250929_evt_251022_devseccon_flagship_2025%26utm_medium=em-pa%26utm_source=tldr%26utm_content=evt_251022_devseccon_flagship_2025/1/0100019995bc4c64-9456c749-8ece-484c-abe8-780d03780f38-000000/8xFmEYw1dRMCFHwAvTM2laVo8S7j7Z2BSFq1mjSkMIU=424</guid>
+    </item>
+    <item>
+      <title>The AI Village in Numbers — LessWrong</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.lesswrong.com%2Fposts%2FKmH83cDTh54EjTjbi%2Fthe-ai-village-in-numbers%3Futm_source=tldrai/1/0100019995bc4c64-9456c749-8ece-484c-abe8-780d03780f38-000000/9QREUpKX1NZF-wXB84ssb72FlCGph9N5U-9RdpCqCOI=424</link>
+      <description>Link found in newsletter: 'Apple Veritas 🍎, DeepSeek-V3.1-Terminus 🤖, ChatGPT model routing ➡️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.lesswrong.com%2Fposts%2FKmH83cDTh54EjTjbi%2Fthe-ai-village-in-numbers%3Futm_source=tldrai/1/0100019995bc4c64-9456c749-8ece-484c-abe8-780d03780f38-000000/9QREUpKX1NZF-wXB84ssb72FlCGph9N5U-9RdpCqCOI=424</guid>
     </item>
     <item>
       <title>Apple’s ‘Veritas’ chatbot is reportedly an employee-only test of Siri’s AI upgrades | The Verge</title>
@@ -2084,6 +2090,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107317%2Fcouldflare-to-introduce-us-dollar-stablecoin-for-the-agentic-web%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/65Axs-aAkkOblHJF_360UCuXnybgDzJPZrRL0tlNpIU=425</guid>
     </item>
     <item>
+      <title>Stripe powers Instant Checkout in ChatGPT and releases Agentic Commerce Protocol co-developed with OpenAI</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstripe.com%2Fen-ca%2Fnewsroom%2Fnews%2Fstripe-openai-instant-checkout%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/SJfL_C9aOLjY0KyclK-wrIZgAHGQhj4XPOq12IH6VjM=425</link>
+      <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstripe.com%2Fen-ca%2Fnewsroom%2Fnews%2Fstripe-openai-instant-checkout%3Futm_source=tldrfintech/1/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/SJfL_C9aOLjY0KyclK-wrIZgAHGQhj4XPOq12IH6VjM=425</guid>
+    </item>
+    <item>
       <title>With Marqeta, you won't have to compromise</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_primary/4/01000199a508af7a-5b3e6c76-5bdc-42f8-ac98-beaa01fe16ac-000000/DSq5FgjKsKXg-VAFzIWui3xL45fnEvQtKrixkhQw_sA=425</link>
       <description>Link found in newsletter: 'Stripe powers ChatGPT instant checkout 🚀, Wealthfront IPO 📈, Cloudflare's stablecoin 🪙'</description>
@@ -2154,6 +2166,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/B62uGcBL8KzRYCR3uWlmvBUTzqvF7qIMwosPb3i8qjA=425</link>
       <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/B62uGcBL8KzRYCR3uWlmvBUTzqvF7qIMwosPb3i8qjA=425</guid>
+    </item>
+    <item>
+      <title>OpenAI's Stargate project to consume up to 40% of global DRAM output — inks deal with Samsung and SK hynix to the tune of up to 900,000 wafers per month | Tom's Hardware</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tomshardware.com%2Fpc-components%2Fdram%2Fopenais-stargate-project-to-consume-up-to-40-percent-of-global-dram-output-inks-deal-with-samsung-and-sk-hynix-to-the-tune-of-up-to-900-000-wafers-per-month%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/nNTNck27mYX-vhswYXWpi9wMPvtLpQoWuzpCAmYb1r4=425</link>
+      <description>Link found in newsletter: 'Thinking Machines’ Tinker API 💻, Claude Skills 🤖, Slack gives AI access 💬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tomshardware.com%2Fpc-components%2Fdram%2Fopenais-stargate-project-to-consume-up-to-40-percent-of-global-dram-output-inks-deal-with-samsung-and-sk-hynix-to-the-tune-of-up-to-900-000-wafers-per-month%3Futm_source=tldrai/1/01000199a518ac01-27fe3296-26ae-4263-abe5-0fed875c85fb-000000/nNTNck27mYX-vhswYXWpi9wMPvtLpQoWuzpCAmYb1r4=425</guid>
     </item>
     <item>
       <title>CharacterAI removes Disney characters after receiving cease-and-desist letter | TechCrunch</title>
