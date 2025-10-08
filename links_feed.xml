@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 07 Oct 2025 18:19:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 00:59:04 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=4c1834c8-9f71-11f0-8b4f-a5315d811386%26pt=campaign%26pv=4%26spa=1759399253%26t=1759400743%26s=75fb0c59d26130a2112065ef4d9edc6a9dec377ca6fc4203ed6f6365982f3db1/1/01000199a474d273-c18ecf60-b131-4f41-8132-6c1cb1ac0dcd-000000/K6g9Qnzjg16IVG65qTjck1gidIOIh9-rFNQLx6vWe-A=425</link>
@@ -230,7 +230,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.jacobstechtavern.com%2Fp%2Fswift-reference-counting%3Futm_source=tldrwebdev/1/01000199a4a2dd23-96d0e72d-0715-417e-873a-d1f3658593a4-000000/7nZH6752kxzpNJ9QZ4vr1g7Y83HGnLcgvTeuGMyQXjs=425</guid>
     </item>
     <item>
-      <title>Browser Controls, Agent Autocomplete, and Hooks · Cursor</title>
+      <title>Browser Controls, Plan Mode, and Hooks · Cursor</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcursor.com%2Fchangelog%2F1-7%3Futm_source=tldrwebdev/1/01000199a4a2dd23-96d0e72d-0715-417e-873a-d1f3658593a4-000000/1aIKOuVxpTvDag4NOsrrkK665UCF3-LtlDJFstIHD2c=425</link>
       <description>Link found in newsletter: 'Don’t avoid office politics 💼, Cursor 1.7 🚀, memory engineering for agents 💾'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcursor.com%2Fchangelog%2F1-7%3Futm_source=tldrwebdev/1/01000199a4a2dd23-96d0e72d-0715-417e-873a-d1f3658593a4-000000/1aIKOuVxpTvDag4NOsrrkK665UCF3-LtlDJFstIHD2c=425</guid>
@@ -851,6 +851,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthinkingmachines.ai%2Ftinker%2F%3Futm_source=tldrwebdev/1/01000199a9d81326-14c8c233-8ba2-4aac-bdca-62097f29a09a-000000/aQA6aIofPEjcFS7sqsi4BMnPDsMlmfQYxqcy-JCh0Do=425</guid>
     </item>
     <item>
+      <title>The Company Man — LessWrong</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.lesswrong.com%2Fposts%2FJH6tJhYpnoCfFqAct%2Fthe-company-man%3Futm_source=tldrwebdev/1/01000199a9d81326-14c8c233-8ba2-4aac-bdca-62097f29a09a-000000/aHQCfcaohKCntQnyuxUuRXBNPmFMfcJdt0DGLHigsYI=425</link>
+      <description>Link found in newsletter: 'Comment-driven development 💬, illegal actions at work 🚫, Claude Code’s magic 🪄'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.lesswrong.com%2Fposts%2FJH6tJhYpnoCfFqAct%2Fthe-company-man%3Futm_source=tldrwebdev/1/01000199a9d81326-14c8c233-8ba2-4aac-bdca-62097f29a09a-000000/aHQCfcaohKCntQnyuxUuRXBNPmFMfcJdt0DGLHigsYI=425</guid>
+    </item>
+    <item>
       <title>Signal &gt;&gt; Blog &gt;&gt; Signal Protocol and Post-Quantum Ratchets</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsignal.org%2Fblog%2Fspqr%2F%3Futm_source=tldrwebdev/1/01000199a9d81326-14c8c233-8ba2-4aac-bdca-62097f29a09a-000000/-h0u7L6E1VSzDkCHK6j4qHld0FIWs0pL30D4tc6Kf_o=425</link>
       <description>Link found in newsletter: 'Comment-driven development 💬, illegal actions at work 🚫, Claude Code’s magic 🪄'</description>
@@ -1346,6 +1352,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdistinctplace.com%2F2024%2F09%2F11%2Ffive-years-as-startup-cto-was-it-all-worth-it%2F%3Futm_source=tldrwebdev/1/01000199b93eca2b-6060abe7-3852-4866-b209-a93c96ed5de8-000000/FNuRugxpZ9KEJyM0yMN_a2hRtzd22gy2RtwPUnqfevo=425</guid>
     </item>
     <item>
+      <title>Focus Is Saying No. Software Modernization Projects Dilemma… | by Yifeng Liu | Aug, 2025 | Medium</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmedium.com%2F@HobokenDays%2Fsoftware-modernization-projects-dilemma-part-2-7f6002c4b6f1%3Futm_source=tldrwebdev/1/01000199b93eca2b-6060abe7-3852-4866-b209-a93c96ed5de8-000000/vRPY3ATbcSzZZkiitYsfMUHpmL7aT3ZLTUFZW6eChS8=425</link>
+      <description>Link found in newsletter: 'Google Jules API 🌱, AI slop cleanup 🧼, influencing tech co politics 💼'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmedium.com%2F@HobokenDays%2Fsoftware-modernization-projects-dilemma-part-2-7f6002c4b6f1%3Futm_source=tldrwebdev/1/01000199b93eca2b-6060abe7-3852-4866-b209-a93c96ed5de8-000000/vRPY3ATbcSzZZkiitYsfMUHpmL7aT3ZLTUFZW6eChS8=425</guid>
+    </item>
+    <item>
       <title>How I influence tech company politics as a staff software engineer</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.seangoedecke.com%2Fhow-to-influence-politics%2F%3Futm_source=tldrwebdev/1/01000199b93eca2b-6060abe7-3852-4866-b209-a93c96ed5de8-000000/db1uPUuEN51XNcvyqOL0WoCe13sFEd8-CUMV2DJHHwU=425</link>
       <description>Link found in newsletter: 'Google Jules API 🌱, AI slop cleanup 🧼, influencing tech co politics 💼'</description>
@@ -1782,6 +1794,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthecascade.dev%2Farticle%2Fleast-amount-of-css%2F%3Futm_source=tldrwebdev/1/01000199be6318a3-40f5faa3-b6a9-42d7-b4e7-a36ccb6c5038-000000/XI_97XI2R4asuq6pDcpD9hslcJmdGDb_z3vXxjP1iQ4=425</link>
       <description>Link found in newsletter: 'ChatGPT Apps SDK 📱, OpenAI ChatKit 💬, TypeScript vs Zod 🎓'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthecascade.dev%2Farticle%2Fleast-amount-of-css%2F%3Futm_source=tldrwebdev/1/01000199be6318a3-40f5faa3-b6a9-42d7-b4e7-a36ccb6c5038-000000/XI_97XI2R4asuq6pDcpD9hslcJmdGDb_z3vXxjP1iQ4=425</guid>
+    </item>
+    <item>
+      <title>HelloFresh’s Brownfield Leap: One App to Feed Them All! | by Arbaaz Dossani | Oct, 2025 | HelloTech</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.hellofresh.com%2Fhellofreshs-brownfield-leap-one-app-to-feed-them-all-56244a22ceeb%3Futm_source=tldrwebdev/1/01000199be6318a3-40f5faa3-b6a9-42d7-b4e7-a36ccb6c5038-000000/rhd2FsQ19J0Zy25R17D84h-FM_pfjk7WFK1P__x3PP8=425</link>
+      <description>Link found in newsletter: 'ChatGPT Apps SDK 📱, OpenAI ChatKit 💬, TypeScript vs Zod 🎓'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.hellofresh.com%2Fhellofreshs-brownfield-leap-one-app-to-feed-them-all-56244a22ceeb%3Futm_source=tldrwebdev/1/01000199be6318a3-40f5faa3-b6a9-42d7-b4e7-a36ccb6c5038-000000/rhd2FsQ19J0Zy25R17D84h-FM_pfjk7WFK1P__x3PP8=425</guid>
     </item>
     <item>
       <title>Why do LLMs freak out over the seahorse emoji?</title>
