@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 10 Oct 2025 00:59:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Oct 2025 06:20:08 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=5d332b92-a28b-11f0-921c-77d4c08b1104%26pt=campaign%26pv=4%26spa=1759748460%26t=1759749523%26s=1f54474c2c7b4e29ce5dad142eddd021a177c4623e091aa21cbf414ce0a95285/1/01000199b93eca2b-6060abe7-3852-4866-b209-a93c96ed5de8-000000/LXKK6QIjeSRKWgJjK7GzpTGx7R9CQE7V3PMcD2UqHFs=425</link>
@@ -102,6 +102,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdistinctplace.com%2F2024%2F09%2F11%2Ffive-years-as-startup-cto-was-it-all-worth-it%2F%3Futm_source=tldrwebdev/1/01000199b93eca2b-6060abe7-3852-4866-b209-a93c96ed5de8-000000/FNuRugxpZ9KEJyM0yMN_a2hRtzd22gy2RtwPUnqfevo=425</link>
       <description>Link found in newsletter: 'Google Jules API 🌱, AI slop cleanup 🧼, influencing tech co politics 💼'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdistinctplace.com%2F2024%2F09%2F11%2Ffive-years-as-startup-cto-was-it-all-worth-it%2F%3Futm_source=tldrwebdev/1/01000199b93eca2b-6060abe7-3852-4866-b209-a93c96ed5de8-000000/FNuRugxpZ9KEJyM0yMN_a2hRtzd22gy2RtwPUnqfevo=425</guid>
+    </item>
+    <item>
+      <title>Focus Is Saying No. Software Modernization Projects Dilemma… | by Yifeng Liu | Medium</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmedium.com%2F@HobokenDays%2Fsoftware-modernization-projects-dilemma-part-2-7f6002c4b6f1%3Futm_source=tldrwebdev/1/01000199b93eca2b-6060abe7-3852-4866-b209-a93c96ed5de8-000000/vRPY3ATbcSzZZkiitYsfMUHpmL7aT3ZLTUFZW6eChS8=425</link>
+      <description>Link found in newsletter: 'Google Jules API 🌱, AI slop cleanup 🧼, influencing tech co politics 💼'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmedium.com%2F@HobokenDays%2Fsoftware-modernization-projects-dilemma-part-2-7f6002c4b6f1%3Futm_source=tldrwebdev/1/01000199b93eca2b-6060abe7-3852-4866-b209-a93c96ed5de8-000000/vRPY3ATbcSzZZkiitYsfMUHpmL7aT3ZLTUFZW6eChS8=425</guid>
     </item>
     <item>
       <title>How I influence tech company politics as a staff software engineer</title>
