@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 11 Oct 2025 12:22:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Oct 2025 18:15:38 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=ba339634-a339-11f0-926c-592a8f2b4fda%26pt=campaign%26pv=4%26spa=1759834865%26t=1759835789%26s=a46553f4c585005f228e7ae8decd206184de9631d3153e4303bfe351917904e7/1/01000199be6318a3-40f5faa3-b6a9-42d7-b4e7-a36ccb6c5038-000000/BhdnJ1uYCVesQFNBYiWCks2t3gBG-sQ1SkVZ78ziHBQ=425</link>
@@ -54,6 +54,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthecascade.dev%2Farticle%2Fleast-amount-of-css%2F%3Futm_source=tldrwebdev/1/01000199be6318a3-40f5faa3-b6a9-42d7-b4e7-a36ccb6c5038-000000/XI_97XI2R4asuq6pDcpD9hslcJmdGDb_z3vXxjP1iQ4=425</link>
       <description>Link found in newsletter: 'ChatGPT Apps SDK 📱, OpenAI ChatKit 💬, TypeScript vs Zod 🎓'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthecascade.dev%2Farticle%2Fleast-amount-of-css%2F%3Futm_source=tldrwebdev/1/01000199be6318a3-40f5faa3-b6a9-42d7-b4e7-a36ccb6c5038-000000/XI_97XI2R4asuq6pDcpD9hslcJmdGDb_z3vXxjP1iQ4=425</guid>
+    </item>
+    <item>
+      <title>HelloFresh’s Brownfield Leap: One App to Feed Them All! | by Arbaaz Dossani | Oct, 2025 | HelloTech</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.hellofresh.com%2Fhellofreshs-brownfield-leap-one-app-to-feed-them-all-56244a22ceeb%3Futm_source=tldrwebdev/1/01000199be6318a3-40f5faa3-b6a9-42d7-b4e7-a36ccb6c5038-000000/rhd2FsQ19J0Zy25R17D84h-FM_pfjk7WFK1P__x3PP8=425</link>
+      <description>Link found in newsletter: 'ChatGPT Apps SDK 📱, OpenAI ChatKit 💬, TypeScript vs Zod 🎓'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.hellofresh.com%2Fhellofreshs-brownfield-leap-one-app-to-feed-them-all-56244a22ceeb%3Futm_source=tldrwebdev/1/01000199be6318a3-40f5faa3-b6a9-42d7-b4e7-a36ccb6c5038-000000/rhd2FsQ19J0Zy25R17D84h-FM_pfjk7WFK1P__x3PP8=425</guid>
     </item>
     <item>
       <title>Why do LLMs freak out over the seahorse emoji?</title>
@@ -410,12 +416,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F06%2Fopenai-launches-apps-inside-of-chatgpt%2F%3Futm_source=tldrai/1/01000199bee87210-755c11d9-6dd5-4f83-ae21-13fd6d77abca-000000/P2IOZ7LNgf-V6GfuP16vDx9xNIhG4nkTDX2WHT_MvJk=425</guid>
     </item>
     <item>
-      <title>OpenAI looks to take 10% stake in AMD through AI chip deal</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F06%2Fopenai-amd-chip-deal-ai.html%3Futm_source=tldrai/1/01000199bee87210-755c11d9-6dd5-4f83-ae21-13fd6d77abca-000000/u3WAVJr-nCTFmVDhmpW4FcEL5t-Euk0lMZaOzTE8Ea0=425</link>
-      <description>Link found in newsletter: 'OpenAI AgentKit 💻, AMD &amp; OpenAI partnership 🤝, ChatGPT apps 📱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F06%2Fopenai-amd-chip-deal-ai.html%3Futm_source=tldrai/1/01000199bee87210-755c11d9-6dd5-4f83-ae21-13fd6d77abca-000000/u3WAVJr-nCTFmVDhmpW4FcEL5t-Euk0lMZaOzTE8Ea0=425</guid>
-    </item>
-    <item>
       <title>TLDR AI</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=e8a13abc-a35c-11f0-9f0b-85a6c18ede71%26pt=campaign%26t=1759844528%26s=d147bcf57161ab2859482f25b73a74fc6c8bf92fe9a2f364119936e5096b8d91/1/01000199bee87210-755c11d9-6dd5-4f83-ae21-13fd6d77abca-000000/nNNA6dLrOSbbmFLilqC-YiiMXOcxgofWkNfNONinGoQ=425</link>
       <description>Link found in newsletter: 'OpenAI AgentKit 💻, AMD &amp; OpenAI partnership 🤝, ChatGPT apps 📱'</description>
@@ -674,7 +674,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fhunvreus%2Fdevpush%3Futm_source=tldrwebdev/1/01000199c38d73bc-2fdb0252-33c3-467e-86bc-c7b1be3a52e9-000000/Q3iPsAoZoVNtEqPKzQIQULNL2dtPdBMU7GHGzcVun7E=426</guid>
     </item>
     <item>
-      <title>GitHub - Basekick-Labs/arc: Time-series data warehouse built for speed. 1.89M records/sec on native deployment. DuckDB + Parquet + MinIO. AGPL-3.0</title>
+      <title>GitHub - Basekick-Labs/arc: Time-series data warehouse built for speed. 2.01M records/sec on native deployment. DuckDB + Parquet + MinIO. AGPL-3.0</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FBasekick-Labs%2Farc%3Futm_source=tldrwebdev/1/01000199c38d73bc-2fdb0252-33c3-467e-86bc-c7b1be3a52e9-000000/qnAPe0gTWcqBi_BdCF66cdfBd4GYeyh2fHVdJ1jaUU4=426</link>
       <description>Link found in newsletter: 'Gemini 2.5 Computer Use 🖱, state of dev jobs market 💼, vibe engineering 😎'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FBasekick-Labs%2Farc%3Futm_source=tldrwebdev/1/01000199c38d73bc-2fdb0252-33c3-467e-86bc-c7b1be3a52e9-000000/qnAPe0gTWcqBi_BdCF66cdfBd4GYeyh2fHVdJ1jaUU4=426</guid>
@@ -1046,12 +1046,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fe95KgW%26utm_source=tldrnewsletter/1/01000199c8818b66-fac8343a-f8c2-4094-b5d8-c25a9988e394-000000/GYC3mp_UZLPmhF_Btt_dbKSBJLgn6u1xdc_Gs_vLH4M=426</guid>
     </item>
     <item>
-      <title>Amazon debuts prescription kiosks at Los Angeles One Medical clinics</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F08%2Famazon-debuts-prescription-kiosks-at-los-angeles-one-medical-clinics.html%3Futm_source=tldrnewsletter/1/01000199c8818b66-fac8343a-f8c2-4094-b5d8-c25a9988e394-000000/S6ByVqPrrB8CfVn22uoLFEyfttUmo1igNeW15fn0qLE=426</link>
-      <description>Link found in newsletter: 'Gemini bundling 📱, Sam Altman Q&amp;A 💬, the React Foundation 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F08%2Famazon-debuts-prescription-kiosks-at-los-angeles-one-medical-clinics.html%3Futm_source=tldrnewsletter/1/01000199c8818b66-fac8343a-f8c2-4094-b5d8-c25a9988e394-000000/S6ByVqPrrB8CfVn22uoLFEyfttUmo1igNeW15fn0qLE=426</guid>
-    </item>
-    <item>
       <title>TLDR - A Byte Sized Daily Tech Newsletter</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FC4Zzke%26utm_source=tldrnewsletter/1/01000199c8818b66-fac8343a-f8c2-4094-b5d8-c25a9988e394-000000/S9UglGXBaj0DdE9VN0vHihF0rpGrVbPpd-VOiuMdr-U=426</link>
       <description>Link found in newsletter: 'Gemini bundling 📱, Sam Altman Q&amp;A 💬, the React Foundation 👨‍💻'</description>
@@ -1310,6 +1304,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthefinanser.com%2F2025%2F10%2Ffinancial-bubbles-destroy-everything-industrial-bubbles-make-the-future-jeff-bezos%3Futm_source=tldrfintech/1/01000199c916134e-d164a08b-de65-425b-a99a-e4fd12d780ad-000000/FL6ylNvWvRDzWRVQP2R0Mo6BHCPC8QqH7rPud_Bvd1U=426</guid>
     </item>
     <item>
+      <title>AI RegTech Feedzai bags $75m at $2bn valuation</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffintech.global%2F2025%2F10%2F06%2Fai-regtech-feedzai-bags-75m-at-2bn-valuation%2F%3Futm_source=tldrfintech/1/01000199c916134e-d164a08b-de65-425b-a99a-e4fd12d780ad-000000/a0jSjwGwAg3POzez43UHwvpuCbLGhZ6MzcIknmno_gY=426</link>
+      <description>Link found in newsletter: 'Nubank applies for US banking charter 🏦, Ramp's fraud fighting AI 🤖, Revolut India 🇮🇳'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffintech.global%2F2025%2F10%2F06%2Fai-regtech-feedzai-bags-75m-at-2bn-valuation%2F%3Futm_source=tldrfintech/1/01000199c916134e-d164a08b-de65-425b-a99a-e4fd12d780ad-000000/a0jSjwGwAg3POzez43UHwvpuCbLGhZ6MzcIknmno_gY=426</guid>
+    </item>
+    <item>
       <title>Square introduces integrated bitcoin payments and wallet solution for local businesses</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107424%2Fsquare-introduces-integrated-bitcoin-payments-and-wallet-solution-for-local-businesses%3Futm_source=tldrfintech/1/01000199c916134e-d164a08b-de65-425b-a99a-e4fd12d780ad-000000/5asmCRP1-RPtOJFmSbIyhRYG4sImVWH34WnpOJhHYb4=426</link>
       <description>Link found in newsletter: 'Nubank applies for US banking charter 🏦, Ramp's fraud fighting AI 🤖, Revolut India 🇮🇳'</description>
@@ -1380,12 +1380,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNjVpVs%26utm_source=tldrfintech/1/01000199c916134e-d164a08b-de65-425b-a99a-e4fd12d780ad-000000/Ri_TfIpOsiDSqz588pyvihdWNxFUG-NWu5Bqs_cCN10=426</link>
       <description>Link found in newsletter: 'Nubank applies for US banking charter 🏦, Ramp's fraud fighting AI 🤖, Revolut India 🇮🇳'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNjVpVs%26utm_source=tldrfintech/1/01000199c916134e-d164a08b-de65-425b-a99a-e4fd12d780ad-000000/Ri_TfIpOsiDSqz588pyvihdWNxFUG-NWu5Bqs_cCN10=426</guid>
-    </item>
-    <item>
-      <title>Verizon names former PayPal boss Dan Schulman as new CEO</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F06%2Fverizon-ceo-dan-schulman-replaces-hans-vestberg.html%3Futm_source=tldrfintech/1/01000199c916134e-d164a08b-de65-425b-a99a-e4fd12d780ad-000000/7Zv7U9Zwomd6RYc8kpPdHPESznH4sDMTovtrUYnnORE=426</link>
-      <description>Link found in newsletter: 'Nubank applies for US banking charter 🏦, Ramp's fraud fighting AI 🤖, Revolut India 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F06%2Fverizon-ceo-dan-schulman-replaces-hans-vestberg.html%3Futm_source=tldrfintech/1/01000199c916134e-d164a08b-de65-425b-a99a-e4fd12d780ad-000000/7Zv7U9Zwomd6RYc8kpPdHPESznH4sDMTovtrUYnnORE=426</guid>
     </item>
     <item>
       <title>Brazil’s Nubank applies for US banking charter | Banking Dive</title>
