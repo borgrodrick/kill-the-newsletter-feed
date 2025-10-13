@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 12 Oct 2025 18:16:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 01:03:57 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=ba339634-a339-11f0-926c-592a8f2b4fda%26pt=campaign%26pv=4%26spa=1759834865%26t=1759835789%26s=a46553f4c585005f228e7ae8decd206184de9631d3153e4303bfe351917904e7/1/01000199be6318a3-40f5faa3-b6a9-42d7-b4e7-a36ccb6c5038-000000/BhdnJ1uYCVesQFNBYiWCks2t3gBG-sQ1SkVZ78ziHBQ=425</link>
@@ -344,12 +344,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.replit.com%2Fconnectors%3Futm_source=tldrai/1/01000199bee87210-755c11d9-6dd5-4f83-ae21-13fd6d77abca-000000/jnYoJYUCPjQvKa2tVOLEzEwQ6xN-L0Ep5vV9FxKaG1g=425</guid>
     </item>
     <item>
-      <title>Anthropic lands its biggest enterprise deployment ever with Deloitte</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F06%2Fanthropic-deloitte-enterprise-ai.html%3Futm_source=tldrai/1/01000199bee87210-755c11d9-6dd5-4f83-ae21-13fd6d77abca-000000/uQ-4x9jQ0G74pGTL-1o0_V3gbceZFy2dAd98BLbTywk=425</link>
-      <description>Link found in newsletter: 'OpenAI AgentKit 💻, AMD &amp; OpenAI partnership 🤝, ChatGPT apps 📱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F06%2Fanthropic-deloitte-enterprise-ai.html%3Futm_source=tldrai/1/01000199bee87210-755c11d9-6dd5-4f83-ae21-13fd6d77abca-000000/uQ-4x9jQ0G74pGTL-1o0_V3gbceZFy2dAd98BLbTywk=425</guid>
-    </item>
-    <item>
       <title>Sam Altman says there are no current plans for ads within ChatGPT Pulse — but he’s not ruling it out | The Verge</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2Fnews%2F793073%2Fchatgpt-pulse-no-plans-for-ads-sam-altman%3Futm_source=tldrai/1/01000199bee87210-755c11d9-6dd5-4f83-ae21-13fd6d77abca-000000/BDm65MWwqJxIVjnl6u63xx2VWlF_e__Le2QgI6SnnRk=425</link>
       <description>Link found in newsletter: 'OpenAI AgentKit 💻, AMD &amp; OpenAI partnership 🤝, ChatGPT apps 📱'</description>
@@ -414,6 +408,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F06%2Fopenai-launches-apps-inside-of-chatgpt%2F%3Futm_source=tldrai/1/01000199bee87210-755c11d9-6dd5-4f83-ae21-13fd6d77abca-000000/P2IOZ7LNgf-V6GfuP16vDx9xNIhG4nkTDX2WHT_MvJk=425</link>
       <description>Link found in newsletter: 'OpenAI AgentKit 💻, AMD &amp; OpenAI partnership 🤝, ChatGPT apps 📱'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F06%2Fopenai-launches-apps-inside-of-chatgpt%2F%3Futm_source=tldrai/1/01000199bee87210-755c11d9-6dd5-4f83-ae21-13fd6d77abca-000000/P2IOZ7LNgf-V6GfuP16vDx9xNIhG4nkTDX2WHT_MvJk=425</guid>
+    </item>
+    <item>
+      <title>OpenAI looks to take 10% stake in AMD through AI chip deal</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F06%2Fopenai-amd-chip-deal-ai.html%3Futm_source=tldrai/1/01000199bee87210-755c11d9-6dd5-4f83-ae21-13fd6d77abca-000000/u3WAVJr-nCTFmVDhmpW4FcEL5t-Euk0lMZaOzTE8Ea0=425</link>
+      <description>Link found in newsletter: 'OpenAI AgentKit 💻, AMD &amp; OpenAI partnership 🤝, ChatGPT apps 📱'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F06%2Fopenai-amd-chip-deal-ai.html%3Futm_source=tldrai/1/01000199bee87210-755c11d9-6dd5-4f83-ae21-13fd6d77abca-000000/u3WAVJr-nCTFmVDhmpW4FcEL5t-Euk0lMZaOzTE8Ea0=425</guid>
     </item>
     <item>
       <title>TLDR AI</title>
@@ -1046,6 +1046,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fe95KgW%26utm_source=tldrnewsletter/1/01000199c8818b66-fac8343a-f8c2-4094-b5d8-c25a9988e394-000000/GYC3mp_UZLPmhF_Btt_dbKSBJLgn6u1xdc_Gs_vLH4M=426</guid>
     </item>
     <item>
+      <title>Amazon debuts prescription kiosks at Los Angeles One Medical clinics</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F08%2Famazon-debuts-prescription-kiosks-at-los-angeles-one-medical-clinics.html%3Futm_source=tldrnewsletter/1/01000199c8818b66-fac8343a-f8c2-4094-b5d8-c25a9988e394-000000/S6ByVqPrrB8CfVn22uoLFEyfttUmo1igNeW15fn0qLE=426</link>
+      <description>Link found in newsletter: 'Gemini bundling 📱, Sam Altman Q&amp;A 💬, the React Foundation 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F08%2Famazon-debuts-prescription-kiosks-at-los-angeles-one-medical-clinics.html%3Futm_source=tldrnewsletter/1/01000199c8818b66-fac8343a-f8c2-4094-b5d8-c25a9988e394-000000/S6ByVqPrrB8CfVn22uoLFEyfttUmo1igNeW15fn0qLE=426</guid>
+    </item>
+    <item>
       <title>TLDR - A Byte Sized Daily Tech Newsletter</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FC4Zzke%26utm_source=tldrnewsletter/1/01000199c8818b66-fac8343a-f8c2-4094-b5d8-c25a9988e394-000000/S9UglGXBaj0DdE9VN0vHihF0rpGrVbPpd-VOiuMdr-U=426</link>
       <description>Link found in newsletter: 'Gemini bundling 📱, Sam Altman Q&amp;A 💬, the React Foundation 👨‍💻'</description>
@@ -1304,6 +1310,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthefinanser.com%2F2025%2F10%2Ffinancial-bubbles-destroy-everything-industrial-bubbles-make-the-future-jeff-bezos%3Futm_source=tldrfintech/1/01000199c916134e-d164a08b-de65-425b-a99a-e4fd12d780ad-000000/FL6ylNvWvRDzWRVQP2R0Mo6BHCPC8QqH7rPud_Bvd1U=426</guid>
     </item>
     <item>
+      <title>AI RegTech Feedzai bags $75m at $2bn valuation</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffintech.global%2F2025%2F10%2F06%2Fai-regtech-feedzai-bags-75m-at-2bn-valuation%2F%3Futm_source=tldrfintech/1/01000199c916134e-d164a08b-de65-425b-a99a-e4fd12d780ad-000000/a0jSjwGwAg3POzez43UHwvpuCbLGhZ6MzcIknmno_gY=426</link>
+      <description>Link found in newsletter: 'Nubank applies for US banking charter 🏦, Ramp's fraud fighting AI 🤖, Revolut India 🇮🇳'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffintech.global%2F2025%2F10%2F06%2Fai-regtech-feedzai-bags-75m-at-2bn-valuation%2F%3Futm_source=tldrfintech/1/01000199c916134e-d164a08b-de65-425b-a99a-e4fd12d780ad-000000/a0jSjwGwAg3POzez43UHwvpuCbLGhZ6MzcIknmno_gY=426</guid>
+    </item>
+    <item>
       <title>Square introduces integrated bitcoin payments and wallet solution for local businesses</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107424%2Fsquare-introduces-integrated-bitcoin-payments-and-wallet-solution-for-local-businesses%3Futm_source=tldrfintech/1/01000199c916134e-d164a08b-de65-425b-a99a-e4fd12d780ad-000000/5asmCRP1-RPtOJFmSbIyhRYG4sImVWH34WnpOJhHYb4=426</link>
       <description>Link found in newsletter: 'Nubank applies for US banking charter 🏦, Ramp's fraud fighting AI 🤖, Revolut India 🇮🇳'</description>
@@ -1374,12 +1386,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNjVpVs%26utm_source=tldrfintech/1/01000199c916134e-d164a08b-de65-425b-a99a-e4fd12d780ad-000000/Ri_TfIpOsiDSqz588pyvihdWNxFUG-NWu5Bqs_cCN10=426</link>
       <description>Link found in newsletter: 'Nubank applies for US banking charter 🏦, Ramp's fraud fighting AI 🤖, Revolut India 🇮🇳'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNjVpVs%26utm_source=tldrfintech/1/01000199c916134e-d164a08b-de65-425b-a99a-e4fd12d780ad-000000/Ri_TfIpOsiDSqz588pyvihdWNxFUG-NWu5Bqs_cCN10=426</guid>
-    </item>
-    <item>
-      <title>Verizon names former PayPal boss Dan Schulman as new CEO</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F06%2Fverizon-ceo-dan-schulman-replaces-hans-vestberg.html%3Futm_source=tldrfintech/1/01000199c916134e-d164a08b-de65-425b-a99a-e4fd12d780ad-000000/7Zv7U9Zwomd6RYc8kpPdHPESznH4sDMTovtrUYnnORE=426</link>
-      <description>Link found in newsletter: 'Nubank applies for US banking charter 🏦, Ramp's fraud fighting AI 🤖, Revolut India 🇮🇳'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F06%2Fverizon-ceo-dan-schulman-replaces-hans-vestberg.html%3Futm_source=tldrfintech/1/01000199c916134e-d164a08b-de65-425b-a99a-e4fd12d780ad-000000/7Zv7U9Zwomd6RYc8kpPdHPESznH4sDMTovtrUYnnORE=426</guid>
     </item>
     <item>
       <title>Brazil’s Nubank applies for US banking charter | Banking Dive</title>
@@ -1494,12 +1500,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2Fvideo%2Fwhy-californias-new-ai-safety-law-succeeded-where-sb-1047-failed%2F%3Futm_source=tldrai/1/01000199c9258d92-df369189-0ad8-4d78-a409-323bb67dd8cc-000000/bTNi3dK_jLlmS86fSf3SeM9pMlK56h1BY7Gvodxf20Y=426</link>
       <description>Link found in newsletter: 'Sora tops ChatGPT 📱, Sam Altman interview 💬, recursive reasoning 💡'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2Fvideo%2Fwhy-californias-new-ai-safety-law-succeeded-where-sb-1047-failed%2F%3Futm_source=tldrai/1/01000199c9258d92-df369189-0ad8-4d78-a409-323bb67dd8cc-000000/bTNi3dK_jLlmS86fSf3SeM9pMlK56h1BY7Gvodxf20Y=426</guid>
-    </item>
-    <item>
-      <title>5 things: Nvidia's Huang on the state of the AI race with China</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F08%2Fnvidia-huang-ai-race-china-us-trump.html%3Futm_source=tldrai/1/01000199c9258d92-df369189-0ad8-4d78-a409-323bb67dd8cc-000000/MfJVCEgKUTHGDqWOT9d4ZNvXy22LdQT_7CxUMKolrsM=426</link>
-      <description>Link found in newsletter: 'Sora tops ChatGPT 📱, Sam Altman interview 💬, recursive reasoning 💡'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F08%2Fnvidia-huang-ai-race-china-us-trump.html%3Futm_source=tldrai/1/01000199c9258d92-df369189-0ad8-4d78-a409-323bb67dd8cc-000000/MfJVCEgKUTHGDqWOT9d4ZNvXy22LdQT_7CxUMKolrsM=426</guid>
     </item>
     <item>
       <title>SyFI Lab: Home</title>
