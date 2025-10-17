@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 16 Oct 2025 18:19:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Oct 2025 01:00:51 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=18b89838-a819-11f0-a48c-5722c44a84f8%26pt=campaign%26pv=4%26spa=1760349658%26t=1760351122%26s=ab6a1d4fb046936aadf3fe19d415695ab5ceccc70cb33a06bfbe1f0a9f6b03e0/1/01000199dd1a74cb-e4396713-b93f-41f4-a8ee-ee9b5c48db2c-000000/H9i_a5V9YspEEu0CGiVGyUlFTupJZ2JyHcQ035NKu9E=426</link>
@@ -1010,6 +1010,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F13%2Fsalesforce-announces-agentforce-360-as-enterprise-ai-competition-heats-up%2F%3Futm_source=tldrinfosec/1/01000199e2e07591-8adad833-98a8-47f7-a9d1-933074d48bce-000000/OjlFVuEBXWTyaYWh3odRBKZf7pQXnFtYReNQ_WXlrro=427</guid>
     </item>
     <item>
+      <title>NotebookLM Video Overviews add Nano Banana visual styles</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5google.com%2F2025%2F10%2F13%2Fnotebooklm-video-overviews-styles%2F%3Futm_source=tldrinfosec/1/01000199e2e07591-8adad833-98a8-47f7-a9d1-933074d48bce-000000/WlQOPCHZH_RE-wJdigjRxbu5IbgIbMPHTEH-H7j8IRc=427</link>
+      <description>Link found in newsletter: 'OpenAI &amp; Broadcom partnership 🤝, Nano Banana 🍌, Salesforce Agentforce 360 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5google.com%2F2025%2F10%2F13%2Fnotebooklm-video-overviews-styles%2F%3Futm_source=tldrinfosec/1/01000199e2e07591-8adad833-98a8-47f7-a9d1-933074d48bce-000000/WlQOPCHZH_RE-wJdigjRxbu5IbgIbMPHTEH-H7j8IRc=427</guid>
+    </item>
+    <item>
       <title>TLDR InfoSec</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=7009d1b4-a8e7-11f0-b77b-fd7057594471%26pt=campaign%26t=1760447984%26s=0194b51379ff70eedfcbb1d74f98ff3a99e2d22d1a2bf00490784d854997e189/1/01000199e2e07591-8adad833-98a8-47f7-a9d1-933074d48bce-000000/9tuGua_m2ir2vRv3EWf1Hpoz_7954_cE5WVn4nMNDHc=427</link>
       <description>Link found in newsletter: 'OpenAI &amp; Broadcom partnership 🤝, Nano Banana 🍌, Salesforce Agentforce 360 🤖'</description>
@@ -1670,12 +1676,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faiven.io%2Finkless%3Futm_source=---%26utm_medium=sponsored%26%26utm_content=tldr/2/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/4SzvjVugDm6Uur2C0oxFJz87RDm_3z-lCO8gn6K3iyI=427</guid>
     </item>
     <item>
-      <title>Diskless for Apache Kafka®  (BYOC)</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faiven.io%2Finkless%3Futm_source=---%26utm_medium=sponsored%26%26utm_content=tldr/1/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/fFWT9noxiOKD50Xq4q0a6gOB0WNSr2Z8W18wKiviFho=427</link>
-      <description>Link found in newsletter: 'M5 MacBook Pro 💻, DeepMind cancer treatment 💊, title arbitrage 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faiven.io%2Finkless%3Futm_source=---%26utm_medium=sponsored%26%26utm_content=tldr/1/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/fFWT9noxiOKD50Xq4q0a6gOB0WNSr2Z8W18wKiviFho=427</guid>
-    </item>
-    <item>
       <title>TLDR</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=fd8e8a8c-aa60-11f0-8bc1-8f730be392fe%26pt=campaign%26t=1760610343%26s=efa6fe0da18222f0920f1c7f49f67e099b4cf12635814fb371d0f4c06425feb8/1/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/LdrKsMFdY0PS9JV4NeUfjUGBnDORQ0tcQxTDTBErZa8=427</link>
       <description>Link found in newsletter: 'M5 MacBook Pro 💻, DeepMind cancer treatment 💊, title arbitrage 💼'</description>
@@ -1794,12 +1794,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftkdodo.eu%2Fblog%2Fcontext-inheritance-in-tan-stack-router%3Futm_source=tldrwebdev/1/01000199ecbbac06-0e00115a-df99-4cd4-b082-6b82082e9eac-000000/a1vkg4J6XlamGoD_pXNkR88FffuSadRLs9RGlbxftJ4=427</link>
       <description>Link found in newsletter: 'The country that broke Kotlin ⛓️‍💥, Apple M5 chip 💻, Claude Haiku 4.5 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftkdodo.eu%2Fblog%2Fcontext-inheritance-in-tan-stack-router%3Futm_source=tldrwebdev/1/01000199ecbbac06-0e00115a-df99-4cd4-b082-6b82082e9eac-000000/a1vkg4J6XlamGoD_pXNkR88FffuSadRLs9RGlbxftJ4=427</guid>
-    </item>
-    <item>
-      <title>The Country That Broke Kotlin. Logic vs language: how a Turkish… | by Sam Cooper | Oct, 2025 | Medium</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FueM215/1/01000199ecbbac06-0e00115a-df99-4cd4-b082-6b82082e9eac-000000/8CJY2AcpCxxbFgqM1ehjz0ZB8vA3Kp2L1T7hVsuK9kE=427</link>
-      <description>Link found in newsletter: 'The country that broke Kotlin ⛓️‍💥, Apple M5 chip 💻, Claude Haiku 4.5 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FueM215/1/01000199ecbbac06-0e00115a-df99-4cd4-b082-6b82082e9eac-000000/8CJY2AcpCxxbFgqM1ehjz0ZB8vA3Kp2L1T7hVsuK9kE=427</guid>
     </item>
     <item>
       <title>TLDR Dev</title>
