@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Oct 2025 06:17:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Oct 2025 12:23:25 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=4e0a4844-a82b-11f0-92c5-3b3b9d1cea0f%26pt=campaign%26pv=4%26spa=1760360466%26t=1760363312%26s=e981b3792b20ce866f710e4cb106e779fd7df1e1cabe7c00ce3cbdc2e0a22a0a/1/01000199ddd4740f-69bbba70-502b-48e8-bb23-409a7d2f55d4-000000/eSqSrrQm3Joz9mqXq0nfjEP5i3rwPKkwYKl-IRCDo2g=426</link>
@@ -594,12 +594,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F13%2Fsalesforce-announces-agentforce-360-as-enterprise-ai-competition-heats-up%2F%3Futm_source=tldrinfosec/1/01000199e2e07591-8adad833-98a8-47f7-a9d1-933074d48bce-000000/OjlFVuEBXWTyaYWh3odRBKZf7pQXnFtYReNQ_WXlrro=427</link>
       <description>Link found in newsletter: 'OpenAI &amp; Broadcom partnership 🤝, Nano Banana 🍌, Salesforce Agentforce 360 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F13%2Fsalesforce-announces-agentforce-360-as-enterprise-ai-competition-heats-up%2F%3Futm_source=tldrinfosec/1/01000199e2e07591-8adad833-98a8-47f7-a9d1-933074d48bce-000000/OjlFVuEBXWTyaYWh3odRBKZf7pQXnFtYReNQ_WXlrro=427</guid>
-    </item>
-    <item>
-      <title>NotebookLM Video Overviews add Nano Banana visual styles</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5google.com%2F2025%2F10%2F13%2Fnotebooklm-video-overviews-styles%2F%3Futm_source=tldrinfosec/1/01000199e2e07591-8adad833-98a8-47f7-a9d1-933074d48bce-000000/WlQOPCHZH_RE-wJdigjRxbu5IbgIbMPHTEH-H7j8IRc=427</link>
-      <description>Link found in newsletter: 'OpenAI &amp; Broadcom partnership 🤝, Nano Banana 🍌, Salesforce Agentforce 360 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5google.com%2F2025%2F10%2F13%2Fnotebooklm-video-overviews-styles%2F%3Futm_source=tldrinfosec/1/01000199e2e07591-8adad833-98a8-47f7-a9d1-933074d48bce-000000/WlQOPCHZH_RE-wJdigjRxbu5IbgIbMPHTEH-H7j8IRc=427</guid>
     </item>
     <item>
       <title>TLDR InfoSec</title>
@@ -1386,6 +1380,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftkdodo.eu%2Fblog%2Fcontext-inheritance-in-tan-stack-router%3Futm_source=tldrwebdev/1/01000199ecbbac06-0e00115a-df99-4cd4-b082-6b82082e9eac-000000/a1vkg4J6XlamGoD_pXNkR88FffuSadRLs9RGlbxftJ4=427</link>
       <description>Link found in newsletter: 'The country that broke Kotlin ⛓️‍💥, Apple M5 chip 💻, Claude Haiku 4.5 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftkdodo.eu%2Fblog%2Fcontext-inheritance-in-tan-stack-router%3Futm_source=tldrwebdev/1/01000199ecbbac06-0e00115a-df99-4cd4-b082-6b82082e9eac-000000/a1vkg4J6XlamGoD_pXNkR88FffuSadRLs9RGlbxftJ4=427</guid>
+    </item>
+    <item>
+      <title>The Country That Broke Kotlin. Logic vs language: how a Turkish… | by Sam Cooper | Oct, 2025 | Medium</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FueM215/1/01000199ecbbac06-0e00115a-df99-4cd4-b082-6b82082e9eac-000000/8CJY2AcpCxxbFgqM1ehjz0ZB8vA3Kp2L1T7hVsuK9kE=427</link>
+      <description>Link found in newsletter: 'The country that broke Kotlin ⛓️‍💥, Apple M5 chip 💻, Claude Haiku 4.5 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FueM215/1/01000199ecbbac06-0e00115a-df99-4cd4-b082-6b82082e9eac-000000/8CJY2AcpCxxbFgqM1ehjz0ZB8vA3Kp2L1T7hVsuK9kE=427</guid>
     </item>
     <item>
       <title>TLDR Dev</title>
