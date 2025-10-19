@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 19 Oct 2025 06:18:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 12:23:35 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=4e0a4844-a82b-11f0-92c5-3b3b9d1cea0f%26pt=campaign%26pv=4%26spa=1760360466%26t=1760363312%26s=e981b3792b20ce866f710e4cb106e779fd7df1e1cabe7c00ce3cbdc2e0a22a0a/1/01000199ddd4740f-69bbba70-502b-48e8-bb23-409a7d2f55d4-000000/eSqSrrQm3Joz9mqXq0nfjEP5i3rwPKkwYKl-IRCDo2g=426</link>
@@ -1850,6 +1850,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2Fnews%2F800455%2Fwaymo-doordash-autonomous-food-delivery-phoenix%3Futm_source=tldrnewsletter/1/01000199f1b452fd-13cd0043-0980-426b-ab08-c51767e246cf-000000/t5y30bmk7Ds4jxr9AMwitRX7FG3cw7UXcBJl1BfezoA=427</guid>
     </item>
     <item>
+      <title>Apple Readies High-End MacBook Pro With Touch, Hole-Punch Screen - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FY53sAg/1/01000199f1b452fd-13cd0043-0980-426b-ab08-c51767e246cf-000000/xmTorAERQ9qnBScIwmViG1hXuc8w1Pj7Dztk71o2Mks=427</link>
+      <description>Link found in newsletter: 'Touchscreen MacBook 💻, Claude Skills 🤖, spreadsheet UI design 🧑‍🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FY53sAg/1/01000199f1b452fd-13cd0043-0980-426b-ab08-c51767e246cf-000000/xmTorAERQ9qnBScIwmViG1hXuc8w1Pj7Dztk71o2Mks=427</guid>
+    </item>
+    <item>
       <title>Galaxy Trading | Institutional Digital Asset Trading | Galaxy</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhubs.li%2FQ03HYyNn0/5/01000199f1b452fd-13cd0043-0980-426b-ab08-c51767e246cf-000000/7SSRB_-D9fKDabLl_hfFW92ZmJmEsk-rgrvlfX_U52w=427</link>
       <description>Link found in newsletter: 'Touchscreen MacBook 💻, Claude Skills 🤖, spreadsheet UI design 🧑‍🎨'</description>
@@ -1986,6 +1992,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsmartmic.bearblog.dev%2Fwhy-hacker-news%2F%3Futm_source=tldrwebdev/1/01000199f1f0cb95-1dcae0bf-4f2b-4be9-bba7-837cdb8982f3-000000/FBoaFfeHZ1r1dtS84EHGg2zuy9CW0yHrJN0GXe8aTS4=427</link>
       <description>Link found in newsletter: 'Claude Skills 📊, Cloudflare Sandbox SDK 🗳, Gemini 3.0 in the wild 🦏'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsmartmic.bearblog.dev%2Fwhy-hacker-news%2F%3Futm_source=tldrwebdev/1/01000199f1f0cb95-1dcae0bf-4f2b-4be9-bba7-837cdb8982f3-000000/FBoaFfeHZ1r1dtS84EHGg2zuy9CW0yHrJN0GXe8aTS4=427</guid>
+    </item>
+    <item>
+      <title>Most of What We Call Progress - Yusuf Aytas</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fyusufaytas.com%2Fmost-of-what-we-call-progress%2F%3Futm_source=tldrwebdev/1/01000199f1f0cb95-1dcae0bf-4f2b-4be9-bba7-837cdb8982f3-000000/nTyfpq_gaLHFKAMMiBG2_d7Fy6BOm39hm_Iis3ZQhtY=427</link>
+      <description>Link found in newsletter: 'Claude Skills 📊, Cloudflare Sandbox SDK 🗳, Gemini 3.0 in the wild 🦏'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fyusufaytas.com%2Fmost-of-what-we-call-progress%2F%3Futm_source=tldrwebdev/1/01000199f1f0cb95-1dcae0bf-4f2b-4be9-bba7-837cdb8982f3-000000/nTyfpq_gaLHFKAMMiBG2_d7Fy6BOm39hm_Iis3ZQhtY=427</guid>
     </item>
     <item>
       <title>How to tame a user interface using a spreadsheet  ⌘I  Get Info</title>
