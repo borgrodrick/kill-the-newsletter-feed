@@ -6,12 +6,18 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 18 Oct 2025 18:16:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Oct 2025 01:08:02 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=4e0a4844-a82b-11f0-92c5-3b3b9d1cea0f%26pt=campaign%26pv=4%26spa=1760360466%26t=1760363312%26s=e981b3792b20ce866f710e4cb106e779fd7df1e1cabe7c00ce3cbdc2e0a22a0a/1/01000199ddd4740f-69bbba70-502b-48e8-bb23-409a7d2f55d4-000000/eSqSrrQm3Joz9mqXq0nfjEP5i3rwPKkwYKl-IRCDo2g=426</link>
       <description>Link found in newsletter: 'Meta poaches TML cofounder 🤝, Claude Code plugins 🔌, Veo 3.1 leaks 🎥'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=4e0a4844-a82b-11f0-92c5-3b3b9d1cea0f%26pt=campaign%26pv=4%26spa=1760360466%26t=1760363312%26s=e981b3792b20ce866f710e4cb106e779fd7df1e1cabe7c00ce3cbdc2e0a22a0a/1/01000199ddd4740f-69bbba70-502b-48e8-bb23-409a7d2f55d4-000000/eSqSrrQm3Joz9mqXq0nfjEP5i3rwPKkwYKl-IRCDo2g=426</guid>
+    </item>
+    <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000199ddd4740f-69bbba70-502b-48e8-bb23-409a7d2f55d4-000000/6VJ7Lv85ga3aFX_xVJQb7lvnIwxUmy8XN07yMRV-Iqg=426</link>
+      <description>Link found in newsletter: 'Meta poaches TML cofounder 🤝, Claude Code plugins 🔌, Veo 3.1 leaks 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000199ddd4740f-69bbba70-502b-48e8-bb23-409a7d2f55d4-000000/6VJ7Lv85ga3aFX_xVJQb7lvnIwxUmy8XN07yMRV-Iqg=426</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
@@ -356,6 +362,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=a588a104-a8d2-11f0-b86e-03acc6e6bf31%26pt=campaign%26pv=4%26spa=1760439645%26t=1760441052%26s=a48016eb358339ff6a175ce52719f355c9625083a6cec9040c1add83743251f6/1/01000199e276ac2c-194760dc-4433-4c3f-9974-8080875ecfb4-000000/sFGOS1pmRRirdTRh0NEfg-ROU-odJPv4fJpGl52iNQM=427</guid>
     </item>
     <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/01000199e276ac2c-194760dc-4433-4c3f-9974-8080875ecfb4-000000/5UJEyJb4EddepdhkTS1-EpWkRukuIKa1ScdBt1BdMs0=427</link>
+      <description>Link found in newsletter: 'What LLMs are bad at 👎, scaling request logging 🛜, Nanochat 🤏'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/01000199e276ac2c-194760dc-4433-4c3f-9974-8080875ecfb4-000000/5UJEyJb4EddepdhkTS1-EpWkRukuIKa1ScdBt1BdMs0=427</guid>
+    </item>
+    <item>
       <title>TLDR Jobs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000199e276ac2c-194760dc-4433-4c3f-9974-8080875ecfb4-000000/2i67StGNMgMy0d63TFnD1HXslRq_bIZpLZq2hXCpafk=427</link>
       <description>Link found in newsletter: 'What LLMs are bad at 👎, scaling request logging 🛜, Nanochat 🤏'</description>
@@ -402,6 +414,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbuttondown.com%2Fhillelwayne%2Farchive%2Fthree-ways-formally-verified-code-can-go-wrong-in%2F%3Futm_source=tldrwebdev/1/01000199e276ac2c-194760dc-4433-4c3f-9974-8080875ecfb4-000000/2nZmWjHE273xfRrecl6f3Qi4NXGv4gh2PRu39OPQv1A=427</link>
       <description>Link found in newsletter: 'What LLMs are bad at 👎, scaling request logging 🛜, Nanochat 🤏'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbuttondown.com%2Fhillelwayne%2Farchive%2Fthree-ways-formally-verified-code-can-go-wrong-in%2F%3Futm_source=tldrwebdev/1/01000199e276ac2c-194760dc-4433-4c3f-9974-8080875ecfb4-000000/2nZmWjHE273xfRrecl6f3Qi4NXGv4gh2PRu39OPQv1A=427</guid>
+    </item>
+    <item>
+      <title>LLMs are getting better at character-level text manipulation | Tom Burkert</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.burkert.me%2Fposts%2Fllm_evolution_character_manipulation%2F%3Futm_source=tldrwebdev/1/01000199e276ac2c-194760dc-4433-4c3f-9974-8080875ecfb4-000000/LTXffjCSQfGJGn7maisZ4NJHvRgXC7jm0ByV_chewdI=427</link>
+      <description>Link found in newsletter: 'What LLMs are bad at 👎, scaling request logging 🛜, Nanochat 🤏'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.burkert.me%2Fposts%2Fllm_evolution_character_manipulation%2F%3Futm_source=tldrwebdev/1/01000199e276ac2c-194760dc-4433-4c3f-9974-8080875ecfb4-000000/LTXffjCSQfGJGn7maisZ4NJHvRgXC7jm0ByV_chewdI=427</guid>
     </item>
     <item>
       <title>GitHub - rictic/jsonriver: A simple, fast streaming JSON parser built on standards.</title>
@@ -468,6 +486,24 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=7009d1b4-a8e7-11f0-b77b-fd7057594471%26pt=campaign%26pv=4%26spa=1760446839%26t=1760447984%26s=452f27a223cf3fb50b4e0bec653e205bc7d889e1502d429686e321a76ef4597b/1/01000199e2e07591-8adad833-98a8-47f7-a9d1-933074d48bce-000000/jVZATNmasxZaRRWOVTOV7hM0pnrbN294KwTog_Oo2xA=427</link>
       <description>Link found in newsletter: 'OpenAI &amp; Broadcom partnership 🤝, Nano Banana 🍌, Salesforce Agentforce 360 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=7009d1b4-a8e7-11f0-b77b-fd7057594471%26pt=campaign%26pv=4%26spa=1760446839%26t=1760447984%26s=452f27a223cf3fb50b4e0bec653e205bc7d889e1502d429686e321a76ef4597b/1/01000199e2e07591-8adad833-98a8-47f7-a9d1-933074d48bce-000000/jVZATNmasxZaRRWOVTOV7hM0pnrbN294KwTog_Oo2xA=427</guid>
+    </item>
+    <item>
+      <title>Sammy Tbeile - D. E. Shaw Research | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsammy-tbeile%2F/1/01000199e2e07591-8adad833-98a8-47f7-a9d1-933074d48bce-000000/qT_As-oYX6wGq2Igpjk1M8ChWO4YdCcxEHQUPUvhMBc=427</link>
+      <description>Link found in newsletter: 'OpenAI &amp; Broadcom partnership 🤝, Nano Banana 🍌, Salesforce Agentforce 360 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fsammy-tbeile%2F/1/01000199e2e07591-8adad833-98a8-47f7-a9d1-933074d48bce-000000/qT_As-oYX6wGq2Igpjk1M8ChWO4YdCcxEHQUPUvhMBc=427</guid>
+    </item>
+    <item>
+      <title>Eric Fernandez del Campo - Port.io | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fericfernandezdelcampo%2F/1/01000199e2e07591-8adad833-98a8-47f7-a9d1-933074d48bce-000000/cwUF_O5GWR63moIZLCvi5UwZiS65xlqBM38pyuLWx84=427</link>
+      <description>Link found in newsletter: 'OpenAI &amp; Broadcom partnership 🤝, Nano Banana 🍌, Salesforce Agentforce 360 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fericfernandezdelcampo%2F/1/01000199e2e07591-8adad833-98a8-47f7-a9d1-933074d48bce-000000/cwUF_O5GWR63moIZLCvi5UwZiS65xlqBM38pyuLWx84=427</guid>
+    </item>
+    <item>
+      <title>Prasanna Gautam - Anchorage Digital | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fprasannagautam%2F/1/01000199e2e07591-8adad833-98a8-47f7-a9d1-933074d48bce-000000/3KNW511oNqhhBJRNjM36k0CupY9ZPsn-DAwX-lRZRL0=427</link>
+      <description>Link found in newsletter: 'OpenAI &amp; Broadcom partnership 🤝, Nano Banana 🍌, Salesforce Agentforce 360 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fprasannagautam%2F/1/01000199e2e07591-8adad833-98a8-47f7-a9d1-933074d48bce-000000/3KNW511oNqhhBJRNjM36k0CupY9ZPsn-DAwX-lRZRL0=427</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
@@ -758,6 +794,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=737a0d4a-a9a6-11f0-8db4-7792922b87ba%26pt=campaign%26pv=4%26spa=1760526059%26t=1760527971%26s=dc850ccc54aa0b7614e11d8986604f14a3c4c0f1b8440a0cb5bdd06899bf56c3/1/01000199e7a4f66c-7241f5ef-d0a4-409b-a17e-da626e836057-000000/IhpXJYtldDGA-3jU65ikCAF4vDYao-bl8HxMSYwX_5k=427</guid>
     </item>
     <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/01000199e7a4f66c-7241f5ef-d0a4-409b-a17e-da626e836057-000000/AcACPuw_l5KrowMbCgIqjMh89NlAXo7X06X_O0cBQpU=427</link>
+      <description>Link found in newsletter: 'Testing web frameworks 🧪, home-cooked software 🍳, coding bootcamp drama ⚖️`'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/01000199e7a4f66c-7241f5ef-d0a4-409b-a17e-da626e836057-000000/AcACPuw_l5KrowMbCgIqjMh89NlAXo7X06X_O0cBQpU=427</guid>
+    </item>
+    <item>
       <title>TLDR Jobs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000199e7a4f66c-7241f5ef-d0a4-409b-a17e-da626e836057-000000/aiTveUpL8LztGNSfsDyYnUHgm5ECakaNIisFg42t5g0=427</link>
       <description>Link found in newsletter: 'Testing web frameworks 🧪, home-cooked software 🍳, coding bootcamp drama ⚖️`'</description>
@@ -896,6 +938,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=2c26670a-a9b4-11f0-8d3a-c70c848d11ae%26pt=campaign%26pv=4%26spa=1760533262%26t=1760534415%26s=bec6b76ea575c1b1e424a4192bdc0305d5031e82400088de75ac36b1814ec700/1/01000199e8074848-ace93b5e-7e7a-4b37-98ec-b969f67e10c0-000000/9PVybmtc1OGwfV_OVpW6Lq6k6gQ6TcXxWHjfJgU2XoA=427</guid>
     </item>
     <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000199e8074848-ace93b5e-7e7a-4b37-98ec-b969f67e10c0-000000/ndanuPj2VR9tO77e6et-Ay9gmf-rraAaljNxMtD9Tcc=427</link>
+      <description>Link found in newsletter: 'Oracle and AMD partnership 🤝, ChatGPT loosens restrictions 🤖, Walmart in ChatGPT 🛒'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/01000199e8074848-ace93b5e-7e7a-4b37-98ec-b969f67e10c0-000000/ndanuPj2VR9tO77e6et-Ay9gmf-rraAaljNxMtD9Tcc=427</guid>
+    </item>
+    <item>
       <title>TLDR Jobs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/01000199e8074848-ace93b5e-7e7a-4b37-98ec-b969f67e10c0-000000/HkVoNTnXqOyWJKZVsIvh3NYqEaVOCeZW2Drz5fpOvPI=427</link>
       <description>Link found in newsletter: 'Oracle and AMD partnership 🤝, ChatGPT loosens restrictions 🤖, Walmart in ChatGPT 🛒'</description>
@@ -1002,6 +1050,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fboydkane.com%2Fessays%2Fboss%3Futm_source=tldrai/1/01000199e8074848-ace93b5e-7e7a-4b37-98ec-b969f67e10c0-000000/7jHtPCVGwyBRy8dqi4yxMt6Tb8NYMT9Vb1ohjT0RSSQ=427</link>
       <description>Link found in newsletter: 'Oracle and AMD partnership 🤝, ChatGPT loosens restrictions 🤖, Walmart in ChatGPT 🛒'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fboydkane.com%2Fessays%2Fboss%3Futm_source=tldrai/1/01000199e8074848-ace93b5e-7e7a-4b37-98ec-b969f67e10c0-000000/7jHtPCVGwyBRy8dqi4yxMt6Tb8NYMT9Vb1ohjT0RSSQ=427</guid>
+    </item>
+    <item>
+      <title>LLMs are getting better at character-level text manipulation | Tom Burkert</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.burkert.me%2Fposts%2Fllm_evolution_character_manipulation%2F%3Futm_source=tldrai/1/01000199e8074848-ace93b5e-7e7a-4b37-98ec-b969f67e10c0-000000/omq8ynVvIMDZxmrSYMwsvkD7898VBxM3ugNkcr2MbiA=427</link>
+      <description>Link found in newsletter: 'Oracle and AMD partnership 🤝, ChatGPT loosens restrictions 🤖, Walmart in ChatGPT 🛒'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.burkert.me%2Fposts%2Fllm_evolution_character_manipulation%2F%3Futm_source=tldrai/1/01000199e8074848-ace93b5e-7e7a-4b37-98ec-b969f67e10c0-000000/omq8ynVvIMDZxmrSYMwsvkD7898VBxM3ugNkcr2MbiA=427</guid>
     </item>
     <item>
       <title>Walmart teams up with OpenAI to allow purchases in ChatGPT</title>
@@ -1326,12 +1380,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftkdodo.eu%2Fblog%2Fcontext-inheritance-in-tan-stack-router%3Futm_source=tldrwebdev/1/01000199ecbbac06-0e00115a-df99-4cd4-b082-6b82082e9eac-000000/a1vkg4J6XlamGoD_pXNkR88FffuSadRLs9RGlbxftJ4=427</link>
       <description>Link found in newsletter: 'The country that broke Kotlin ⛓️‍💥, Apple M5 chip 💻, Claude Haiku 4.5 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftkdodo.eu%2Fblog%2Fcontext-inheritance-in-tan-stack-router%3Futm_source=tldrwebdev/1/01000199ecbbac06-0e00115a-df99-4cd4-b082-6b82082e9eac-000000/a1vkg4J6XlamGoD_pXNkR88FffuSadRLs9RGlbxftJ4=427</guid>
-    </item>
-    <item>
-      <title>The Country That Broke Kotlin. Logic vs language: how a Turkish… | by Sam Cooper | Oct, 2025 | Medium</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FueM215/1/01000199ecbbac06-0e00115a-df99-4cd4-b082-6b82082e9eac-000000/8CJY2AcpCxxbFgqM1ehjz0ZB8vA3Kp2L1T7hVsuK9kE=427</link>
-      <description>Link found in newsletter: 'The country that broke Kotlin ⛓️‍💥, Apple M5 chip 💻, Claude Haiku 4.5 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FueM215/1/01000199ecbbac06-0e00115a-df99-4cd4-b082-6b82082e9eac-000000/8CJY2AcpCxxbFgqM1ehjz0ZB8vA3Kp2L1T7hVsuK9kE=427</guid>
     </item>
     <item>
       <title>TLDR Dev</title>
