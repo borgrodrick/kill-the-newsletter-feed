@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Oct 2025 01:05:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 06:20:45 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=4e0a4844-a82b-11f0-92c5-3b3b9d1cea0f%26pt=campaign%26pv=4%26spa=1760360466%26t=1760363312%26s=e981b3792b20ce866f710e4cb106e779fd7df1e1cabe7c00ce3cbdc2e0a22a0a/1/01000199ddd4740f-69bbba70-502b-48e8-bb23-409a7d2f55d4-000000/eSqSrrQm3Joz9mqXq0nfjEP5i3rwPKkwYKl-IRCDo2g=426</link>
@@ -1233,6 +1233,12 @@
     </item>
     <item>
       <title>Diskless for Apache Kafka®  (BYOC)</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faiven.io%2Finkless%3Futm_source=---%26utm_medium=sponsored%26%26utm_content=tldr/5/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/28dfocOReS5EbqC_HydGN3z0HSY3eAfQNxVFSoi7Mmg=427</link>
+      <description>Link found in newsletter: 'M5 MacBook Pro 💻, DeepMind cancer treatment 💊, title arbitrage 💼'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faiven.io%2Finkless%3Futm_source=---%26utm_medium=sponsored%26%26utm_content=tldr/5/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/28dfocOReS5EbqC_HydGN3z0HSY3eAfQNxVFSoi7Mmg=427</guid>
+    </item>
+    <item>
+      <title>Diskless for Apache Kafka®  (BYOC)</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faiven.io%2Finkless%3Futm_source=---%26utm_medium=sponsored%26%26utm_content=tldr/4/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/2m-yukYe2DctgfbDCLYadN5dvKQwq3rfYhwT5svLyts=427</link>
       <description>Link found in newsletter: 'M5 MacBook Pro 💻, DeepMind cancer treatment 💊, title arbitrage 💼'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faiven.io%2Finkless%3Futm_source=---%26utm_medium=sponsored%26%26utm_content=tldr/4/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/2m-yukYe2DctgfbDCLYadN5dvKQwq3rfYhwT5svLyts=427</guid>
@@ -1248,6 +1254,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faiven.io%2Finkless%3Futm_source=---%26utm_medium=sponsored%26%26utm_content=tldr/2/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/4SzvjVugDm6Uur2C0oxFJz87RDm_3z-lCO8gn6K3iyI=427</link>
       <description>Link found in newsletter: 'M5 MacBook Pro 💻, DeepMind cancer treatment 💊, title arbitrage 💼'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faiven.io%2Finkless%3Futm_source=---%26utm_medium=sponsored%26%26utm_content=tldr/2/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/4SzvjVugDm6Uur2C0oxFJz87RDm_3z-lCO8gn6K3iyI=427</guid>
+    </item>
+    <item>
+      <title>Diskless for Apache Kafka®  (BYOC)</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faiven.io%2Finkless%3Futm_source=---%26utm_medium=sponsored%26%26utm_content=tldr/1/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/fFWT9noxiOKD50Xq4q0a6gOB0WNSr2Z8W18wKiviFho=427</link>
+      <description>Link found in newsletter: 'M5 MacBook Pro 💻, DeepMind cancer treatment 💊, title arbitrage 💼'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faiven.io%2Finkless%3Futm_source=---%26utm_medium=sponsored%26%26utm_content=tldr/1/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/fFWT9noxiOKD50Xq4q0a6gOB0WNSr2Z8W18wKiviFho=427</guid>
     </item>
     <item>
       <title>TLDR</title>
