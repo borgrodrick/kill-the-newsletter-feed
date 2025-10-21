@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 20 Oct 2025 18:20:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 01:02:35 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=737a0d4a-a9a6-11f0-8db4-7792922b87ba%26pt=campaign%26pv=4%26spa=1760526059%26t=1760527971%26s=dc850ccc54aa0b7614e11d8986604f14a3c4c0f1b8440a0cb5bdd06899bf56c3/1/01000199e7a4f66c-7241f5ef-d0a4-409b-a17e-da626e836057-000000/IhpXJYtldDGA-3jU65ikCAF4vDYao-bl8HxMSYwX_5k=427</link>
@@ -459,12 +459,6 @@
     </item>
     <item>
       <title>Diskless for Apache Kafka®  (BYOC)</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faiven.io%2Finkless%3Futm_source=---%26utm_medium=sponsored%26%26utm_content=tldr/4/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/2m-yukYe2DctgfbDCLYadN5dvKQwq3rfYhwT5svLyts=427</link>
-      <description>Link found in newsletter: 'M5 MacBook Pro 💻, DeepMind cancer treatment 💊, title arbitrage 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faiven.io%2Finkless%3Futm_source=---%26utm_medium=sponsored%26%26utm_content=tldr/4/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/2m-yukYe2DctgfbDCLYadN5dvKQwq3rfYhwT5svLyts=427</guid>
-    </item>
-    <item>
-      <title>Diskless for Apache Kafka®  (BYOC)</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faiven.io%2Finkless%3Futm_source=---%26utm_medium=sponsored%26%26utm_content=tldr/3/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/LWRJRtqmolszPq2DJWhpohy3WvnnG0Tb9_s9L4HmCeI=427</link>
       <description>Link found in newsletter: 'M5 MacBook Pro 💻, DeepMind cancer treatment 💊, title arbitrage 💼'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faiven.io%2Finkless%3Futm_source=---%26utm_medium=sponsored%26%26utm_content=tldr/3/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/LWRJRtqmolszPq2DJWhpohy3WvnnG0Tb9_s9L4HmCeI=427</guid>
@@ -720,6 +714,36 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F10%2Fnavan-plows-ahead-with-ipo-during-shutdown-aims-for-6-45b-valuation%2F%3Futm_source=tldrfintech/1/01000199ed21f36d-9aa44814-2095-4038-b971-de4b992b38ef-000000/Uiqv-d-CAcE4Mquur8Y_ofBf4o6F3_KorX3I806HoKk=427</link>
       <description>Link found in newsletter: 'Navan IPO 🚀, Stripe stablecoin subscriptions 🪙, Visa's Trusted Agent Protocol 🖥️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F10%2Fnavan-plows-ahead-with-ipo-during-shutdown-aims-for-6-45b-valuation%2F%3Futm_source=tldrfintech/1/01000199ed21f36d-9aa44814-2095-4038-b971-de4b992b38ef-000000/Uiqv-d-CAcE4Mquur8Y_ofBf4o6F3_KorX3I806HoKk=427</guid>
+    </item>
+    <item>
+      <title>With Marqeta, you won't have to compromise</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_primary/5/01000199ed21f36d-9aa44814-2095-4038-b971-de4b992b38ef-000000/Ngo75fEDKrTk3dtFd4Gpq21fNr4ZYt8FaBvXGhYlwE4=427</link>
+      <description>Link found in newsletter: 'Navan IPO 🚀, Stripe stablecoin subscriptions 🪙, Visa's Trusted Agent Protocol 🖥️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_primary/5/01000199ed21f36d-9aa44814-2095-4038-b971-de4b992b38ef-000000/Ngo75fEDKrTk3dtFd4Gpq21fNr4ZYt8FaBvXGhYlwE4=427</guid>
+    </item>
+    <item>
+      <title>With Marqeta, you won't have to compromise</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_primary/4/01000199ed21f36d-9aa44814-2095-4038-b971-de4b992b38ef-000000/XrQHg8FBbVCaovHZBHDfzIsNpih1JkPlcKLVUf70YKs=427</link>
+      <description>Link found in newsletter: 'Navan IPO 🚀, Stripe stablecoin subscriptions 🪙, Visa's Trusted Agent Protocol 🖥️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_primary/4/01000199ed21f36d-9aa44814-2095-4038-b971-de4b992b38ef-000000/XrQHg8FBbVCaovHZBHDfzIsNpih1JkPlcKLVUf70YKs=427</guid>
+    </item>
+    <item>
+      <title>With Marqeta, you won't have to compromise</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_primary/3/01000199ed21f36d-9aa44814-2095-4038-b971-de4b992b38ef-000000/NfEvPtbO6Wy3ncNJfvpdU3FXdPvgBQDFoqu-uye2nI8=427</link>
+      <description>Link found in newsletter: 'Navan IPO 🚀, Stripe stablecoin subscriptions 🪙, Visa's Trusted Agent Protocol 🖥️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_primary/3/01000199ed21f36d-9aa44814-2095-4038-b971-de4b992b38ef-000000/NfEvPtbO6Wy3ncNJfvpdU3FXdPvgBQDFoqu-uye2nI8=427</guid>
+    </item>
+    <item>
+      <title>With Marqeta, you won't have to compromise</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_primary/2/01000199ed21f36d-9aa44814-2095-4038-b971-de4b992b38ef-000000/MjmNsPyTOOyYwqiqOuOZb9m9B-y_6oRuSFkeLZ7xzPc=427</link>
+      <description>Link found in newsletter: 'Navan IPO 🚀, Stripe stablecoin subscriptions 🪙, Visa's Trusted Agent Protocol 🖥️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_primary/2/01000199ed21f36d-9aa44814-2095-4038-b971-de4b992b38ef-000000/MjmNsPyTOOyYwqiqOuOZb9m9B-y_6oRuSFkeLZ7xzPc=427</guid>
+    </item>
+    <item>
+      <title>With Marqeta, you won't have to compromise</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_primary/1/01000199ed21f36d-9aa44814-2095-4038-b971-de4b992b38ef-000000/jb-sHVwkScvSkZImZOK4SRYurjdDpvIgaAswI9elxMc=427</link>
+      <description>Link found in newsletter: 'Navan IPO 🚀, Stripe stablecoin subscriptions 🪙, Visa's Trusted Agent Protocol 🖥️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_primary/1/01000199ed21f36d-9aa44814-2095-4038-b971-de4b992b38ef-000000/jb-sHVwkScvSkZImZOK4SRYurjdDpvIgaAswI9elxMc=427</guid>
     </item>
     <item>
       <title>TLDR Fintech</title>
@@ -1032,6 +1056,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_secondary_cta1/1/01000199f1b452fd-13cd0043-0980-426b-ab08-c51767e246cf-000000/kGjTzLAEaKo3RADRc3_DmQ56lN9_o4op4hYLXvTQ4AM=427</link>
       <description>Link found in newsletter: 'Touchscreen MacBook 💻, Claude Skills 🤖, spreadsheet UI design 🧑‍🎨'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_secondary_cta1/1/01000199f1b452fd-13cd0043-0980-426b-ab08-c51767e246cf-000000/kGjTzLAEaKo3RADRc3_DmQ56lN9_o4op4hYLXvTQ4AM=427</guid>
+    </item>
+    <item>
+      <title>China advances all-solid-state EV batteries with 1,000 km range</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2025%2F10%2F16%2Fchina-advances-all-solid-state-ev-batteries-with-1000-km-range%2F%3Futm_source=tldrnewsletter/1/01000199f1b452fd-13cd0043-0980-426b-ab08-c51767e246cf-000000/_9k_dPazeef-L9dNrE52r1fMshPUrOqBGW1UVvF6EjU=427</link>
+      <description>Link found in newsletter: 'Touchscreen MacBook 💻, Claude Skills 🤖, spreadsheet UI design 🧑‍🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2025%2F10%2F16%2Fchina-advances-all-solid-state-ev-batteries-with-1000-km-range%2F%3Futm_source=tldrnewsletter/1/01000199f1b452fd-13cd0043-0980-426b-ab08-c51767e246cf-000000/_9k_dPazeef-L9dNrE52r1fMshPUrOqBGW1UVvF6EjU=427</guid>
     </item>
     <item>
       <title>Helion Receives Approvals for Next Phase of Construction of World’s First Commercial Fusion Power Plant | Helion</title>
@@ -1370,31 +1400,31 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fskills%3Futm_source=tldrai/1/01000199f2560e06-19336fab-62df-406f-931f-fbd199fc7a19-000000/pt7kaDQWilchtV8De5d26v9C00Ya1_DMRdMhE46WBGg=427</guid>
     </item>
     <item>
-      <title>Maintenance | SANS Institute</title>
+      <title>AI Security Starts Here | SANS Institute</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sans.org%2Fmlp%2Fartificial-intelligence%3Futm_medium=Sponsored_Content%26utm_source=TLDR%26utm_content=AI_MLP_10.17.25%26utm_campaign=SP_AI_2025%26utm_rdetail=Global%26utm_goal=Leads%26utm_type=Global_Campaign/1/01000199f2560e06-19336fab-62df-406f-931f-fbd199fc7a19-000000/W-b1M_ZFE68ZIkoiM3o9g0tn5oZE4gBW19ULgwww7OE=427</link>
       <description>Link found in newsletter: 'Claude Skills 🤖, ChatGPT shared prompts 📝, OpenAI hires physicist 🌌'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sans.org%2Fmlp%2Fartificial-intelligence%3Futm_medium=Sponsored_Content%26utm_source=TLDR%26utm_content=AI_MLP_10.17.25%26utm_campaign=SP_AI_2025%26utm_rdetail=Global%26utm_goal=Leads%26utm_type=Global_Campaign/1/01000199f2560e06-19336fab-62df-406f-931f-fbd199fc7a19-000000/W-b1M_ZFE68ZIkoiM3o9g0tn5oZE4gBW19ULgwww7OE=427</guid>
     </item>
     <item>
-      <title>Maintenance | SANS Institute</title>
+      <title>Critical AI Security Guidelines | SANS Institute</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sans.org%2Fmlp%2Fcritical-ai-security-guidelines%3Futm_medium=Sponsored_Content%26utm_source=TLDR%26utm_content=AI_Report_Critical_10.17.25%26utm_campaign=AI_Report_CriticalSecurityGuidelines%26utm_rdetail=Global%26utm_goal=Leads%26utm_type=Global_Campaign/1/01000199f2560e06-19336fab-62df-406f-931f-fbd199fc7a19-000000/DXUIMHSJ8tzEJjUi9ix_ERRS74dpNAyrC0ZKuuGf5HE=427</link>
       <description>Link found in newsletter: 'Claude Skills 🤖, ChatGPT shared prompts 📝, OpenAI hires physicist 🌌'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sans.org%2Fmlp%2Fcritical-ai-security-guidelines%3Futm_medium=Sponsored_Content%26utm_source=TLDR%26utm_content=AI_Report_Critical_10.17.25%26utm_campaign=AI_Report_CriticalSecurityGuidelines%26utm_rdetail=Global%26utm_goal=Leads%26utm_type=Global_Campaign/1/01000199f2560e06-19336fab-62df-406f-931f-fbd199fc7a19-000000/DXUIMHSJ8tzEJjUi9ix_ERRS74dpNAyrC0ZKuuGf5HE=427</guid>
     </item>
     <item>
-      <title>Maintenance | SANS Institute</title>
+      <title>Own AI Securely with SANS | SANS Institute</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sans.org%2Fmlp%2Fai-security-blueprint%3Futm_medium=Sponsored_Content%26utm_source=TLDR%26utm_content=SP_AI_Blueprint_10.17.25%26utm_campaign=SP_AI_2025%26utm_rdetail=Global%26utm_goal=Leads%26utm_type=Global_Campaign/3/01000199f2560e06-19336fab-62df-406f-931f-fbd199fc7a19-000000/pap5E0BqTD8H6oQ08XHLxpeniqAFv_UXep2_qY3VQJ4=427</link>
       <description>Link found in newsletter: 'Claude Skills 🤖, ChatGPT shared prompts 📝, OpenAI hires physicist 🌌'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sans.org%2Fmlp%2Fai-security-blueprint%3Futm_medium=Sponsored_Content%26utm_source=TLDR%26utm_content=SP_AI_Blueprint_10.17.25%26utm_campaign=SP_AI_2025%26utm_rdetail=Global%26utm_goal=Leads%26utm_type=Global_Campaign/3/01000199f2560e06-19336fab-62df-406f-931f-fbd199fc7a19-000000/pap5E0BqTD8H6oQ08XHLxpeniqAFv_UXep2_qY3VQJ4=427</guid>
     </item>
     <item>
-      <title>Maintenance | SANS Institute</title>
+      <title>Own AI Securely with SANS | SANS Institute</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sans.org%2Fmlp%2Fai-security-blueprint%3Futm_medium=Sponsored_Content%26utm_source=TLDR%26utm_content=SP_AI_Blueprint_10.17.25%26utm_campaign=SP_AI_2025%26utm_rdetail=Global%26utm_goal=Leads%26utm_type=Global_Campaign/2/01000199f2560e06-19336fab-62df-406f-931f-fbd199fc7a19-000000/AQ2TpWB1q8IaUmdm4JmM82J1kiof31q_cqvy9XNnG9I=427</link>
       <description>Link found in newsletter: 'Claude Skills 🤖, ChatGPT shared prompts 📝, OpenAI hires physicist 🌌'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sans.org%2Fmlp%2Fai-security-blueprint%3Futm_medium=Sponsored_Content%26utm_source=TLDR%26utm_content=SP_AI_Blueprint_10.17.25%26utm_campaign=SP_AI_2025%26utm_rdetail=Global%26utm_goal=Leads%26utm_type=Global_Campaign/2/01000199f2560e06-19336fab-62df-406f-931f-fbd199fc7a19-000000/AQ2TpWB1q8IaUmdm4JmM82J1kiof31q_cqvy9XNnG9I=427</guid>
     </item>
     <item>
-      <title>Maintenance | SANS Institute</title>
+      <title>Own AI Securely with SANS | SANS Institute</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sans.org%2Fmlp%2Fai-security-blueprint%3Futm_medium=Sponsored_Content%26utm_source=TLDR%26utm_content=SP_AI_Blueprint_10.17.25%26utm_campaign=SP_AI_2025%26utm_rdetail=Global%26utm_goal=Leads%26utm_type=Global_Campaign/1/01000199f2560e06-19336fab-62df-406f-931f-fbd199fc7a19-000000/ZjaSaX5-HvB8WJMLxYPOEYPEd5F0GmjtG7n3qDwgXW4=427</link>
       <description>Link found in newsletter: 'Claude Skills 🤖, ChatGPT shared prompts 📝, OpenAI hires physicist 🌌'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sans.org%2Fmlp%2Fai-security-blueprint%3Futm_medium=Sponsored_Content%26utm_source=TLDR%26utm_content=SP_AI_Blueprint_10.17.25%26utm_campaign=SP_AI_2025%26utm_rdetail=Global%26utm_goal=Leads%26utm_type=Global_Campaign/1/01000199f2560e06-19336fab-62df-406f-931f-fbd199fc7a19-000000/ZjaSaX5-HvB8WJMLxYPOEYPEd5F0GmjtG7n3qDwgXW4=427</guid>
@@ -1626,6 +1656,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjovidecroock.com%2Fblog%2Fgraphql-myths%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/CFZnOit2hoz3RM9We7f2fIPzsRB4S97fTCYNlcafbNg=427</link>
       <description>Link found in newsletter: 'Software quality collapse ⬇️, GraphQL myths 🛠, SQL anti-patterns 💠'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjovidecroock.com%2Fblog%2Fgraphql-myths%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/CFZnOit2hoz3RM9We7f2fIPzsRB4S97fTCYNlcafbNg=427</guid>
+    </item>
+    <item>
+      <title>Stop Ignoring the Browser: The Biggest Frontend Shift in a Decade - The New Stack</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthenewstack.io%2Fstop-ignoring-the-browser-the-biggest-frontend-shift-in-a-decade%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/JuyxE-DcFEKucEnTTS_W16pVVppMlzLqAHF3Asq78BQ=427</link>
+      <description>Link found in newsletter: 'Software quality collapse ⬇️, GraphQL myths 🛠, SQL anti-patterns 💠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthenewstack.io%2Fstop-ignoring-the-browser-the-biggest-frontend-shift-in-a-decade%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/JuyxE-DcFEKucEnTTS_W16pVVppMlzLqAHF3Asq78BQ=427</guid>
     </item>
     <item>
       <title>Leading OpenAI researcher announced a GPT-5 math breakthrough that never happened</title>
@@ -1928,7 +1964,13 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/M106-ZCm-Y_blsdHP8Vo_UYvN_gs8BQ23JVjl_AztEo=427</guid>
     </item>
     <item>
-      <title>WhatsApp changes its terms to bar general purpose chatbots from its platform | TechCrunch</title>
+      <title>TLDR AI | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/7O4VP4O8kSuBDq7FYAO9dAILNkwpD4P5uYnuSOWI7QY=427</link>
+      <description>Link found in newsletter: 'Google Maps Gemini API 🗺️, Karpathy on AGI 🤖, Siri concerns 📱'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/7O4VP4O8kSuBDq7FYAO9dAILNkwpD4P5uYnuSOWI7QY=427</guid>
+    </item>
+    <item>
+      <title>WhatsApp changes its terms to bar general-purpose chatbots from its platform | TechCrunch</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F18%2Fwhatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform%2F%3Futm_source=tldrai/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/huAm5VG3qR7PowctM-e4-2_S9xfubaqouB5XtL1yTcg=427</link>
       <description>Link found in newsletter: 'Google Maps Gemini API 🗺️, Karpathy on AGI 🤖, Siri concerns 📱'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F18%2Fwhatssapp-changes-its-terms-to-bar-general-purpose-chatbots-from-its-platform%2F%3Futm_source=tldrai/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/huAm5VG3qR7PowctM-e4-2_S9xfubaqouB5XtL1yTcg=427</guid>
@@ -2037,6 +2079,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.scmp.com%2Fbusiness%2Farticle%2F3329450%2Falibaba-cloud-claims-slash-nvidia-gpu-use-82-new-pooling-system%3Futm_source=tldrai/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/QUCl7KhZuga7bZJjYZtZnVppSmIctlABM2PTCAkeHDc=427</link>
       <description>Link found in newsletter: 'Google Maps Gemini API 🗺️, Karpathy on AGI 🤖, Siri concerns 📱'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.scmp.com%2Fbusiness%2Farticle%2F3329450%2Falibaba-cloud-claims-slash-nvidia-gpu-use-82-new-pooling-system%3Futm_source=tldrai/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/QUCl7KhZuga7bZJjYZtZnVppSmIctlABM2PTCAkeHDc=427</guid>
+    </item>
+    <item>
+      <title>Apple employees have 'concerns' over Siri performance in early iOS 26.4 builds: report - 9to5Mac</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2025%2F10%2F19%2Fapple-employees-concerned-by-early-ios-26-4-apple-intelligence-sir-version%2F%3Futm_source=tldrai/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/4KrC-8kwUz7xdOBjhDCQo_I3kTM6V5tJhp6_dqz_954=427</link>
+      <description>Link found in newsletter: 'Google Maps Gemini API 🗺️, Karpathy on AGI 🤖, Siri concerns 📱'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2025%2F10%2F19%2Fapple-employees-concerned-by-early-ios-26-4-apple-intelligence-sir-version%2F%3Futm_source=tldrai/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/4KrC-8kwUz7xdOBjhDCQo_I3kTM6V5tJhp6_dqz_954=427</guid>
     </item>
     <item>
       <title>Grounding for Google Maps now available in the Gemini API</title>
