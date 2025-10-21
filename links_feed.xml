@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Oct 2025 12:28:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 18:18:30 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=fd8e8a8c-aa60-11f0-8bc1-8f730be392fe%26pt=campaign%26pv=4%26spa=1760608891%26t=1760610343%26s=09729e8bc21126082668a9f3c0f034aef839785b31de1878386925f81dd3049f/1/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/D-_GUBZUgsjsAK3UiFB86FAImPm8oa7_jMoJkyUepDI=427</link>
@@ -1334,6 +1334,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.pcloadletter.dev%2Fblog%2Frss%2F%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/8i2_xIgiMPkR_B8i3sJRk8Z3dpzCE75ES4ws2N56iFU=427</guid>
     </item>
     <item>
+      <title>Chris's Wiki :: blog/tech/SSDWritePerfMetricsWish</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Futcc.utoronto.ca%2F~cks%2Fspace%2Fblog%2Ftech%2FSSDWritePerfMetricsWish%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/fxRX9B15LQ2hWQPvkza-GzS2bs8WP5G-hVPLJYC00Z0=427</link>
+      <description>Link found in newsletter: 'Software quality collapse ⬇️, GraphQL myths 🛠, SQL anti-patterns 💠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Futcc.utoronto.ca%2F~cks%2Fspace%2Fblog%2Ftech%2FSSDWritePerfMetricsWish%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/fxRX9B15LQ2hWQPvkza-GzS2bs8WP5G-hVPLJYC00Z0=427</guid>
+    </item>
+    <item>
       <title>GraphQL Myths</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjovidecroock.com%2Fblog%2Fgraphql-myths%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/CFZnOit2hoz3RM9We7f2fIPzsRB4S97fTCYNlcafbNg=427</link>
       <description>Link found in newsletter: 'Software quality collapse ⬇️, GraphQL myths 🛠, SQL anti-patterns 💠'</description>
@@ -1745,12 +1751,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.scmp.com%2Fbusiness%2Farticle%2F3329450%2Falibaba-cloud-claims-slash-nvidia-gpu-use-82-new-pooling-system%3Futm_source=tldrai/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/QUCl7KhZuga7bZJjYZtZnVppSmIctlABM2PTCAkeHDc=427</guid>
     </item>
     <item>
-      <title>Apple employees have 'concerns' over Siri performance in early iOS 26.4 builds: report - 9to5Mac</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2025%2F10%2F19%2Fapple-employees-concerned-by-early-ios-26-4-apple-intelligence-sir-version%2F%3Futm_source=tldrai/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/4KrC-8kwUz7xdOBjhDCQo_I3kTM6V5tJhp6_dqz_954=427</link>
-      <description>Link found in newsletter: 'Google Maps Gemini API 🗺️, Karpathy on AGI 🤖, Siri concerns 📱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2025%2F10%2F19%2Fapple-employees-concerned-by-early-ios-26-4-apple-intelligence-sir-version%2F%3Futm_source=tldrai/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/4KrC-8kwUz7xdOBjhDCQo_I3kTM6V5tJhp6_dqz_954=427</guid>
-    </item>
-    <item>
       <title>Grounding for Google Maps now available in the Gemini API</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.google%2Ftechnology%2Fdevelopers%2Fgrounding-google-maps-gemini-api%2F%3Futm_source=tldrai/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/gcAu2ox6lwh7no-kVmjS-vw2RPg1uG1CpVLhMlw7rmk=427</link>
       <description>Link found in newsletter: 'Google Maps Gemini API 🗺️, Karpathy on AGI 🤖, Siri concerns 📱'</description>
@@ -1763,7 +1763,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Fmcp%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/n2sfXPM_g1fIbJus9IDH4rD1QjCLUeTc29CBuhyYtAY=427</guid>
     </item>
     <item>
-      <title>Model Context Protocol – AuthKit – WorkOS Docs</title>
+      <title>WorkOS Docs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Fdocs%2Fauthkit%2Fmcp%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/0NPZxcPf-MxVvYFoe3LWSknNepeRPF7ZTHZ9T9ZeUgk=427</link>
       <description>Link found in newsletter: 'Google Maps Gemini API 🗺️, Karpathy on AGI 🤖, Siri concerns 📱'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Fdocs%2Fauthkit%2Fmcp%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/0NPZxcPf-MxVvYFoe3LWSknNepeRPF7ZTHZ9T9ZeUgk=427</guid>
@@ -1967,12 +1967,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019a064dc632-92837318-a46c-4848-98c4-6abce9e96763-000000/X5vQIOD7bz66tIOIiSonEENiDYCwV_SmHLlyif8j8bI=427</guid>
     </item>
     <item>
-      <title>borgrodrick · Kill the Newsletter!</title>
-      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
-      <description>Link found in newsletter: 'AWS outage 📉, Claude Code on the web 🌐, scary user support emails 💀'</description>
-      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
-    </item>
-    <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=268715e2-ae4b-11f0-a256-83a134693d7a%26pt=campaign%26pv=4%26spa=1761044452%26t=1761045356%26s=01acd67fe9f7fca2e2e5f40ba5a17c158e26489747dfe02c4df729d1a4afd9cf/1/0100019a067ba000-d3c7db9d-67c1-4609-965b-22c39faef608-000000/jIKvr6MAZnGTHUwJ2UFxpNFMe113z_dlph447U0PO04=427</link>
       <description>Link found in newsletter: 'AWS outage 📉, Claude Code on the web 🌐, scary user support emails 💀'</description>
@@ -2133,6 +2127,174 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a067ba000-d3c7db9d-67c1-4609-965b-22c39faef608-000000/89Pv1JR1iwithjwJzjDFVYWVPYqf2jXM9vpxIGjxJgU=427</link>
       <description>Link found in newsletter: 'AWS outage 📉, Claude Code on the web 🌐, scary user support emails 💀'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a067ba000-d3c7db9d-67c1-4609-965b-22c39faef608-000000/89Pv1JR1iwithjwJzjDFVYWVPYqf2jXM9vpxIGjxJgU=427</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=991d0596-ae67-11f0-a89d-b7573b5dec54%26pt=campaign%26pv=4%26spa=1761051690%26t=1761054105%26s=0e21855d2b3d42d6887847291ae6898d201b1d846d9374c24ef1edc2242cd382/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/lRiiwrQj8uW5_uM0Xm4crEiMuf_zKUGbkfsY-IDRisQ=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=991d0596-ae67-11f0-a89d-b7573b5dec54%26pt=campaign%26pv=4%26spa=1761051690%26t=1761054105%26s=0e21855d2b3d42d6887847291ae6898d201b1d846d9374c24ef1edc2242cd382/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/lRiiwrQj8uW5_uM0Xm4crEiMuf_zKUGbkfsY-IDRisQ=427</guid>
+    </item>
+    <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/5mOOHRE5mcH16RrXUhFCZUt5efkUpSA0UFyjuDcR6o8=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/5mOOHRE5mcH16RrXUhFCZUt5efkUpSA0UFyjuDcR6o8=427</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/tROz_8UHZPdAqNylP0Dp5Y6oodOWesd-crJOxjlWFZs=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/tROz_8UHZPdAqNylP0Dp5Y6oodOWesd-crJOxjlWFZs=427</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/8PWnoXuI6zZl2qGmWNuRsGpysabJXQuOr8CoWsd0f30=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/8PWnoXuI6zZl2qGmWNuRsGpysabJXQuOr8CoWsd0f30=427</guid>
+    </item>
+    <item>
+      <title>TLDR AI | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/jZvOUnRTSg8ayeLqG5spgU_APGVxhhKSwA9qilE6YvI=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/jZvOUnRTSg8ayeLqG5spgU_APGVxhhKSwA9qilE6YvI=427</guid>
+    </item>
+    <item>
+      <title>Solving virtual machine puzzles: How AI is optimizing cloud computing</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fresearch.google%2Fblog%2Fsolving-virtual-machine-puzzles-how-ai-is-optimizing-cloud-computing%2F%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/q4DPsHpKiNA9u2kjQMhdPbxM9mR_avkn6qjv1DpukaE=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fresearch.google%2Fblog%2Fsolving-virtual-machine-puzzles-how-ai-is-optimizing-cloud-computing%2F%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/q4DPsHpKiNA9u2kjQMhdPbxM9mR_avkn6qjv1DpukaE=427</guid>
+    </item>
+    <item>
+      <title>Agentic AI’s OODA Loop Problem - Schneier on Security</title>
+      <link>http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fschneier.com%2Fblog%2Farchives%2F2025%2F10%2Fagentic-ais-ooda-loop-problem.html%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/WPtNACAgimxyw1FbLnLuu9jD81FQswv-cEYD3UAyvD4=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fschneier.com%2Fblog%2Farchives%2F2025%2F10%2Fagentic-ais-ooda-loop-problem.html%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/WPtNACAgimxyw1FbLnLuu9jD81FQswv-cEYD3UAyvD4=427</guid>
+    </item>
+    <item>
+      <title>Pinterest Newsroom</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnewsroom.pinterest.com%2Fnews%2Fpinterest-rolls-out-new-tools-to-give-users-more-control-over-gen-ai-content%2F%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/6g_aksifnzMyA-mmElYpG6_fbB51rHNDS_WyklZoFBA=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnewsroom.pinterest.com%2Fnews%2Fpinterest-rolls-out-new-tools-to-give-users-more-control-over-gen-ai-content%2F%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/6g_aksifnzMyA-mmElYpG6_fbB51rHNDS_WyklZoFBA=427</guid>
+    </item>
+    <item>
+      <title>OpenEvidence, the ChatGPT for doctors, raises $200M at $6B valuation   | TechCrunch</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F20%2Fopenevidence-the-chatgpt-for-doctors-raises-200m-at-6b-valuation%2F%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/468_Twu9bB3YO0zMEr7PXP1mCJd6KlEiaCsIzZZYcF4=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F20%2Fopenevidence-the-chatgpt-for-doctors-raises-200m-at-6b-valuation%2F%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/468_Twu9bB3YO0zMEr7PXP1mCJd6KlEiaCsIzZZYcF4=427</guid>
+    </item>
+    <item>
+      <title>Adobe launches a foundry service that builds custom generative AI models for enterprises | TechCrunch</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F20%2Fadobe-launches-a-foundry-service-that-builds-custom-generative-ai-models-for-enterprises%2F%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/CNnddv9oGdgTFEBxfz_QSoCIMIKGA8Vq-CSKk1ITZgo=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F20%2Fadobe-launches-a-foundry-service-that-builds-custom-generative-ai-models-for-enterprises%2F%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/CNnddv9oGdgTFEBxfz_QSoCIMIKGA8Vq-CSKk1ITZgo=427</guid>
+    </item>
+    <item>
+      <title>Claude for Life Sciences \ Anthropic</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fclaude-for-life-sciences%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/cXCHzJ4kP0ieVmbFTXR4-dclsPJiveTStD-VsABneB0=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fclaude-for-life-sciences%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/cXCHzJ4kP0ieVmbFTXR4-dclsPJiveTStD-VsABneB0=427</guid>
+    </item>
+    <item>
+      <title>OmniVinci: Joint Visual-Audio Understanding</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnvlabs.github.io%2FOmniVinci%2F%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/U5TtwPCDUb-ExTAnhxCrMRRBgGLv-6AoZZd9tSsslSM=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnvlabs.github.io%2FOmniVinci%2F%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/U5TtwPCDUb-ExTAnhxCrMRRBgGLv-6AoZZd9tSsslSM=427</guid>
+    </item>
+    <item>
+      <title>LOLMIL: Living Off the Land Models and Inference Libraries</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdreadnode.io%2Fblog%2Flolmil-living-off-the-land-models-and-inference-libraries%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/ZFa3GESRHU9PU2MfVL3fm3kH4nvIbG07xOWnnsl-DW8=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdreadnode.io%2Fblog%2Flolmil-living-off-the-land-models-and-inference-libraries%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/ZFa3GESRHU9PU2MfVL3fm3kH4nvIbG07xOWnnsl-DW8=427</guid>
+    </item>
+    <item>
+      <title>GitHub - deepseek-ai/DeepSeek-OCR: Contexts Optical Compression</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fdeepseek-ai%2FDeepSeek-OCR%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/1p_Wt7OxvIwY_fOKJuoU8zJZDhysOoQ5w4vPNS3_kpE=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fdeepseek-ai%2FDeepSeek-OCR%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/1p_Wt7OxvIwY_fOKJuoU8zJZDhysOoQ5w4vPNS3_kpE=427</guid>
+    </item>
+    <item>
+      <title>Data, analytics, and machine learning tools for AWS | AWS Marketplace</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faws.amazon.com%2Fmarketplace%2Fbuild-learn%2Fdata-analytics%3Ftrk=8e474a0d-cf17-4d67-a7ef-6b1fbf3b5721%26sc_channel=el/2/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/lmt61C87XdKG3TjpmOZkrdiBjQzzzBqy-3qQ8Ovv1NE=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faws.amazon.com%2Fmarketplace%2Fbuild-learn%2Fdata-analytics%3Ftrk=8e474a0d-cf17-4d67-a7ef-6b1fbf3b5721%26sc_channel=el/2/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/lmt61C87XdKG3TjpmOZkrdiBjQzzzBqy-3qQ8Ovv1NE=427</guid>
+    </item>
+    <item>
+      <title>Data, analytics, and machine learning tools for AWS | AWS Marketplace</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faws.amazon.com%2Fmarketplace%2Fbuild-learn%2Fdata-analytics%3Ftrk=8e474a0d-cf17-4d67-a7ef-6b1fbf3b5721%26sc_channel=el/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/Sq6uPFj3Gf4KIWsLug8iqPXmkJcJVAfrr2alFA0QT4Y=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faws.amazon.com%2Fmarketplace%2Fbuild-learn%2Fdata-analytics%3Ftrk=8e474a0d-cf17-4d67-a7ef-6b1fbf3b5721%26sc_channel=el/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/Sq6uPFj3Gf4KIWsLug8iqPXmkJcJVAfrr2alFA0QT4Y=427</guid>
+    </item>
+    <item>
+      <title>Data, analytics, and machine learning tools for AWS | AWS Marketplace</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faws.amazon.com%2Fmarketplace%2Fbuild-learn%2Fdata-analytics%3Ftrk=8e474a0d-cf17-4d67-a7ef-6b1fbf3b5721%26sc_channel=el%26utm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/nWBoB6pnpikezSXTdcN-tyOEcwCHiTIf_je90aeSEQY=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faws.amazon.com%2Fmarketplace%2Fbuild-learn%2Fdata-analytics%3Ftrk=8e474a0d-cf17-4d67-a7ef-6b1fbf3b5721%26sc_channel=el%26utm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/nWBoB6pnpikezSXTdcN-tyOEcwCHiTIf_je90aeSEQY=427</guid>
+    </item>
+    <item>
+      <title>Do AIs think differently in different languages?</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theargumentmag.com%2Fp%2Fdo-ais-think-differently-in-different%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/Ap3slkvxi792xl55kKjVoH9CxIv9pevV51UGBFMwTL0=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theargumentmag.com%2Fp%2Fdo-ais-think-differently-in-different%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/Ap3slkvxi792xl55kKjVoH9CxIv9pevV51UGBFMwTL0=427</guid>
+    </item>
+    <item>
+      <title>BERT is just a Single Text Diffusion Step | nathan.rs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnathan.rs%2Fposts%2Froberta-diffusion%2F%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/lVKPRjkEsumemzsJCduGpnjPur86v_o4sApUP5ik1z4=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnathan.rs%2Fposts%2Froberta-diffusion%2F%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/lVKPRjkEsumemzsJCduGpnjPur86v_o4sApUP5ik1z4=427</guid>
+    </item>
+    <item>
+      <title>Building an infinitely learning geolocation model with online RL - sdan blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.sdan.io%2Fgeospot-infinity%2F%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/6ibMw9pY078xdwyd8q_ITcZbAxetuP2gbJUOo4Xfarw=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.sdan.io%2Fgeospot-infinity%2F%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/6ibMw9pY078xdwyd8q_ITcZbAxetuP2gbJUOo4Xfarw=427</guid>
+    </item>
+    <item>
+      <title>Meta AI's app downloads and daily users spiked after launch of 'Vibes' AI video feed | TechCrunch</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F20%2Fmeta-ais-app-downloads-and-daily-users-spiked-after-launch-of-vibes-ai-video-feed%2F%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/lY5WenA_NjdKVG4lOlKdqm1nHCUZP6uYkxdwahQwEtQ=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F20%2Fmeta-ais-app-downloads-and-daily-users-spiked-after-launch-of-vibes-ai-video-feed%2F%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/lY5WenA_NjdKVG4lOlKdqm1nHCUZP6uYkxdwahQwEtQ=427</guid>
+    </item>
+    <item>
+      <title>This Is How Much Anthropic and Cursor Spend On Amazon Web Services</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.wheresyoured.at%2Fcosts%2F%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/CYC4-8LLp9QXF1tN9HhTGq_QVV2IQ3ngObjhWA-FKgU=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.wheresyoured.at%2Fcosts%2F%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/CYC4-8LLp9QXF1tN9HhTGq_QVV2IQ3ngObjhWA-FKgU=427</guid>
+    </item>
+    <item>
+      <title>Claude Code on the web \ Anthropic</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fclaude-code-on-the-web%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/9WAPblS_eA8dXTg3q1G3edZx_OacH7sPJMpzZ1SV5B4=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fclaude-code-on-the-web%3Futm_source=tldrai/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/9WAPblS_eA8dXTg3q1G3edZx_OacH7sPJMpzZ1SV5B4=427</guid>
+    </item>
+    <item>
+      <title>Moving beyond the hype: How to scale AI successfully | Thoughtworks</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.thoughtworks.com%2Finsights%2Fwhitepapers%2Fhow-to-scale-ai-successfully%3Futm_source=media-buy%26utm_medium=paid-media%26utm_campaign=sai_tsi_rp-gl-pspt_tldrai_2025-09/3/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/SoPAqYcmL-hg6gBBBW0BnytVAsqB7LaVsH_BOyhx6gU=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.thoughtworks.com%2Finsights%2Fwhitepapers%2Fhow-to-scale-ai-successfully%3Futm_source=media-buy%26utm_medium=paid-media%26utm_campaign=sai_tsi_rp-gl-pspt_tldrai_2025-09/3/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/SoPAqYcmL-hg6gBBBW0BnytVAsqB7LaVsH_BOyhx6gU=427</guid>
+    </item>
+    <item>
+      <title>Moving beyond the hype: How to scale AI successfully | Thoughtworks</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.thoughtworks.com%2Finsights%2Fwhitepapers%2Fhow-to-scale-ai-successfully%3Futm_source=media-buy%26utm_medium=paid-media%26utm_campaign=sai_tsi_rp-gl-pspt_tldrai_2025-09/2/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/MGeAfa1JQO7EgSuk98dgEuyJIkkaV5BoqwoemrBAtbQ=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.thoughtworks.com%2Finsights%2Fwhitepapers%2Fhow-to-scale-ai-successfully%3Futm_source=media-buy%26utm_medium=paid-media%26utm_campaign=sai_tsi_rp-gl-pspt_tldrai_2025-09/2/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/MGeAfa1JQO7EgSuk98dgEuyJIkkaV5BoqwoemrBAtbQ=427</guid>
+    </item>
+    <item>
+      <title>Moving beyond the hype: How to scale AI successfully | Thoughtworks</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.thoughtworks.com%2Finsights%2Fwhitepapers%2Fhow-to-scale-ai-successfully%3Futm_source=media-buy%26utm_medium=paid-media%26utm_campaign=sai_tsi_rp-gl-pspt_tldrai_2025-09/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/nQKSIdwanYSsSNXdSy7cqYgt2QnjS4UjLOXVQdU6FUg=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.thoughtworks.com%2Finsights%2Fwhitepapers%2Fhow-to-scale-ai-successfully%3Futm_source=media-buy%26utm_medium=paid-media%26utm_campaign=sai_tsi_rp-gl-pspt_tldrai_2025-09/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/nQKSIdwanYSsSNXdSy7cqYgt2QnjS4UjLOXVQdU6FUg=427</guid>
+    </item>
+    <item>
+      <title>TLDR AI</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=991d0596-ae67-11f0-a89d-b7573b5dec54%26pt=campaign%26t=1761054105%26s=7799905b49ec9cfcc5d2e490347a15203c2d0156c5dd3e1aa7170fd6a4db8436/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/Or8I4M-eGoRxr-h-CXYCVu_ViLooM4xJWYUybFKygps=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=991d0596-ae67-11f0-a89d-b7573b5dec54%26pt=campaign%26t=1761054105%26s=7799905b49ec9cfcc5d2e490347a15203c2d0156c5dd3e1aa7170fd6a4db8436/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/Or8I4M-eGoRxr-h-CXYCVu_ViLooM4xJWYUybFKygps=427</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/5DPKQy6NerwTu0V1O7MVr-5Si3iCfslLRbbd7yBCEmI=427</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a07011e32-fc830585-c6e7-4937-acc5-6015f668105a-000000/5DPKQy6NerwTu0V1O7MVr-5Si3iCfslLRbbd7yBCEmI=427</guid>
     </item>
   </channel>
 </rss>
