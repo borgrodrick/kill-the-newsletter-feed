@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Oct 2025 01:02:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 06:20:21 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=737a0d4a-a9a6-11f0-8db4-7792922b87ba%26pt=campaign%26pv=4%26spa=1760526059%26t=1760527971%26s=dc850ccc54aa0b7614e11d8986604f14a3c4c0f1b8440a0cb5bdd06899bf56c3/1/01000199e7a4f66c-7241f5ef-d0a4-409b-a17e-da626e836057-000000/IhpXJYtldDGA-3jU65ikCAF4vDYao-bl8HxMSYwX_5k=427</link>
@@ -456,6 +456,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faiven.io%2Finkless%3Futm_source=---%26utm_medium=sponsored%26%26utm_content=tldr/5/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/28dfocOReS5EbqC_HydGN3z0HSY3eAfQNxVFSoi7Mmg=427</link>
       <description>Link found in newsletter: 'M5 MacBook Pro 💻, DeepMind cancer treatment 💊, title arbitrage 💼'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faiven.io%2Finkless%3Futm_source=---%26utm_medium=sponsored%26%26utm_content=tldr/5/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/28dfocOReS5EbqC_HydGN3z0HSY3eAfQNxVFSoi7Mmg=427</guid>
+    </item>
+    <item>
+      <title>Diskless for Apache Kafka®  (BYOC)</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faiven.io%2Finkless%3Futm_source=---%26utm_medium=sponsored%26%26utm_content=tldr/4/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/2m-yukYe2DctgfbDCLYadN5dvKQwq3rfYhwT5svLyts=427</link>
+      <description>Link found in newsletter: 'M5 MacBook Pro 💻, DeepMind cancer treatment 💊, title arbitrage 💼'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faiven.io%2Finkless%3Futm_source=---%26utm_medium=sponsored%26%26utm_content=tldr/4/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/2m-yukYe2DctgfbDCLYadN5dvKQwq3rfYhwT5svLyts=427</guid>
     </item>
     <item>
       <title>Diskless for Apache Kafka®  (BYOC)</title>
@@ -1058,12 +1064,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_secondary_cta1/1/01000199f1b452fd-13cd0043-0980-426b-ab08-c51767e246cf-000000/kGjTzLAEaKo3RADRc3_DmQ56lN9_o4op4hYLXvTQ4AM=427</guid>
     </item>
     <item>
-      <title>China advances all-solid-state EV batteries with 1,000 km range</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2025%2F10%2F16%2Fchina-advances-all-solid-state-ev-batteries-with-1000-km-range%2F%3Futm_source=tldrnewsletter/1/01000199f1b452fd-13cd0043-0980-426b-ab08-c51767e246cf-000000/_9k_dPazeef-L9dNrE52r1fMshPUrOqBGW1UVvF6EjU=427</link>
-      <description>Link found in newsletter: 'Touchscreen MacBook 💻, Claude Skills 🤖, spreadsheet UI design 🧑‍🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2025%2F10%2F16%2Fchina-advances-all-solid-state-ev-batteries-with-1000-km-range%2F%3Futm_source=tldrnewsletter/1/01000199f1b452fd-13cd0043-0980-426b-ab08-c51767e246cf-000000/_9k_dPazeef-L9dNrE52r1fMshPUrOqBGW1UVvF6EjU=427</guid>
-    </item>
-    <item>
       <title>Helion Receives Approvals for Next Phase of Construction of World’s First Commercial Fusion Power Plant | Helion</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.helionenergy.com%2Farticles%2Fhelion-receives-approvals-for-next-phase-of-construction-of-worlds-first-commercial-fusion-power-plant%2F%3Futm_source=tldrnewsletter/1/01000199f1b452fd-13cd0043-0980-426b-ab08-c51767e246cf-000000/YK9JH43MPbs0aJL-nGxMG8pbtKl9-9Bct0CXBwolxhw=427</link>
       <description>Link found in newsletter: 'Touchscreen MacBook 💻, Claude Skills 🤖, spreadsheet UI design 🧑‍🎨'</description>
@@ -1134,12 +1134,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=2cd1363c-ab1a-11f0-a014-71df8ee98038%26pt=campaign%26pv=4%26spa=1760698835%26t=1760700713%26s=76688d06b3e4cd359d9018351115a899eca78de9f03f138888e2725d7481fee5/1/01000199f1f0cb95-1dcae0bf-4f2b-4be9-bba7-837cdb8982f3-000000/jl9Ayw8opZcTIpgiwkVLddlc9NrDf8BLBf21h2_KvBM=427</link>
       <description>Link found in newsletter: 'Claude Skills 📊, Cloudflare Sandbox SDK 🗳, Gemini 3.0 in the wild 🦏'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=2cd1363c-ab1a-11f0-a014-71df8ee98038%26pt=campaign%26pv=4%26spa=1760698835%26t=1760700713%26s=76688d06b3e4cd359d9018351115a899eca78de9f03f138888e2725d7481fee5/1/01000199f1f0cb95-1dcae0bf-4f2b-4be9-bba7-837cdb8982f3-000000/jl9Ayw8opZcTIpgiwkVLddlc9NrDf8BLBf21h2_KvBM=427</guid>
-    </item>
-    <item>
-      <title>Jenny X. - Meta | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/01000199f1f0cb95-1dcae0bf-4f2b-4be9-bba7-837cdb8982f3-000000/MwfgwYBGmWskkx3oOta7KuFZ1KM9ZqL2343k_fmKtgw=427</link>
-      <description>Link found in newsletter: 'Claude Skills 📊, Cloudflare Sandbox SDK 🗳, Gemini 3.0 in the wild 🦏'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/01000199f1f0cb95-1dcae0bf-4f2b-4be9-bba7-837cdb8982f3-000000/MwfgwYBGmWskkx3oOta7KuFZ1KM9ZqL2343k_fmKtgw=427</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
@@ -1650,6 +1644,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.pcloadletter.dev%2Fblog%2Frss%2F%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/8i2_xIgiMPkR_B8i3sJRk8Z3dpzCE75ES4ws2N56iFU=427</link>
       <description>Link found in newsletter: 'Software quality collapse ⬇️, GraphQL myths 🛠, SQL anti-patterns 💠'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.pcloadletter.dev%2Fblog%2Frss%2F%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/8i2_xIgiMPkR_B8i3sJRk8Z3dpzCE75ES4ws2N56iFU=427</guid>
+    </item>
+    <item>
+      <title>Chris's Wiki :: blog/tech/SSDWritePerfMetricsWish</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Futcc.utoronto.ca%2F~cks%2Fspace%2Fblog%2Ftech%2FSSDWritePerfMetricsWish%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/fxRX9B15LQ2hWQPvkza-GzS2bs8WP5G-hVPLJYC00Z0=427</link>
+      <description>Link found in newsletter: 'Software quality collapse ⬇️, GraphQL myths 🛠, SQL anti-patterns 💠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Futcc.utoronto.ca%2F~cks%2Fspace%2Fblog%2Ftech%2FSSDWritePerfMetricsWish%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/fxRX9B15LQ2hWQPvkza-GzS2bs8WP5G-hVPLJYC00Z0=427</guid>
     </item>
     <item>
       <title>GraphQL Myths</title>
