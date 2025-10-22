@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 22 Oct 2025 01:03:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 06:20:51 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=fd8e8a8c-aa60-11f0-8bc1-8f730be392fe%26pt=campaign%26pv=4%26spa=1760608891%26t=1760610343%26s=09729e8bc21126082668a9f3c0f034aef839785b31de1878386925f81dd3049f/1/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/D-_GUBZUgsjsAK3UiFB86FAImPm8oa7_jMoJkyUepDI=427</link>
@@ -1592,12 +1592,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=57df3a40-ada9-11f0-abf4-39f1696b0a19%26pt=campaign%26t=1760965718%26s=10a047df812693096d3225d4d2e8dade0ea4b5edd548dbbd6259c123b5447729/1/0100019a01bc7372-b19430ff-9db6-4d74-8a43-48b1116e32d1-000000/_k6SkWzCk5rZrjc7bhQfzol_Icj4ooIoPM5USSTkNNw=427</guid>
     </item>
     <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a01bc7372-b19430ff-9db6-4d74-8a43-48b1116e32d1-000000/4M1dAPYePYWNnQvllhJGYbV82sTUk64OKykleyAul_4=427</link>
-      <description>Link found in newsletter: 'Tempo raises $500M 🚀, Plaid's consumer credit score 💯, Prediction markets 💰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a01bc7372-b19430ff-9db6-4d74-8a43-48b1116e32d1-000000/4M1dAPYePYWNnQvllhJGYbV82sTUk64OKykleyAul_4=427</guid>
-    </item>
-    <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=1a172b04-adaa-11f0-b547-39f1696b0a19%26pt=campaign%26pv=4%26spa=1760965257%26t=1760966758%26s=259b078459327ba187d2f6141137addf54f1d94beca536b721bfa086232e8353/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/rhPFduns42-pUhSUI5iSY2fQaUaVgsE3nzEJ-00_oIA=427</link>
       <description>Link found in newsletter: 'Google Maps Gemini API 🗺️, Karpathy on AGI 🤖, Siri concerns 📱'</description>
@@ -1751,7 +1745,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Fmcp%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/n2sfXPM_g1fIbJus9IDH4rD1QjCLUeTc29CBuhyYtAY=427</guid>
     </item>
     <item>
-      <title>WorkOS Docs</title>
+      <title>Model Context Protocol – AuthKit – WorkOS Docs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Fdocs%2Fauthkit%2Fmcp%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/0NPZxcPf-MxVvYFoe3LWSknNepeRPF7ZTHZ9T9ZeUgk=427</link>
       <description>Link found in newsletter: 'Google Maps Gemini API 🗺️, Karpathy on AGI 🤖, Siri concerns 📱'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Fdocs%2Fauthkit%2Fmcp%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/0NPZxcPf-MxVvYFoe3LWSknNepeRPF7ZTHZ9T9ZeUgk=427</guid>
