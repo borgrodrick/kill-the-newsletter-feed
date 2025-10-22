@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 21 Oct 2025 18:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Oct 2025 01:03:44 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=fd8e8a8c-aa60-11f0-8bc1-8f730be392fe%26pt=campaign%26pv=4%26spa=1760608891%26t=1760610343%26s=09729e8bc21126082668a9f3c0f034aef839785b31de1878386925f81dd3049f/1/01000199ec8dda2d-e0e1c493-42d2-4f6c-a6fa-23736397dc9c-000000/D-_GUBZUgsjsAK3UiFB86FAImPm8oa7_jMoJkyUepDI=427</link>
@@ -296,6 +296,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftkdodo.eu%2Fblog%2Fcontext-inheritance-in-tan-stack-router%3Futm_source=tldrwebdev/1/01000199ecbbac06-0e00115a-df99-4cd4-b082-6b82082e9eac-000000/a1vkg4J6XlamGoD_pXNkR88FffuSadRLs9RGlbxftJ4=427</guid>
     </item>
     <item>
+      <title>The Country That Broke Kotlin. Logic vs language: how a Turkish… | by Sam Cooper | Oct, 2025 | Medium</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FueM215/1/01000199ecbbac06-0e00115a-df99-4cd4-b082-6b82082e9eac-000000/8CJY2AcpCxxbFgqM1ehjz0ZB8vA3Kp2L1T7hVsuK9kE=427</link>
+      <description>Link found in newsletter: 'The country that broke Kotlin ⛓️‍💥, Apple M5 chip 💻, Claude Haiku 4.5 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FueM215/1/01000199ecbbac06-0e00115a-df99-4cd4-b082-6b82082e9eac-000000/8CJY2AcpCxxbFgqM1ehjz0ZB8vA3Kp2L1T7hVsuK9kE=427</guid>
+    </item>
+    <item>
       <title>TLDR Dev</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=37531614-aa4f-11f0-85ae-d115136d9413%26pt=campaign%26t=1760613346%26s=f9b01835257527122b72999f3b82d304595864cd5bbe9d3d6ab7e290de7b6a9a/1/01000199ecbbac06-0e00115a-df99-4cd4-b082-6b82082e9eac-000000/65F5gRmjQGRKHM4orcKy_B-DekbhweZNe5p_D-0MR6s=427</link>
       <description>Link found in newsletter: 'The country that broke Kotlin ⛓️‍💥, Apple M5 chip 💻, Claude Haiku 4.5 🤖'</description>
@@ -560,12 +566,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fresearch%2Feconomic-policy-responses%3Futm_source=tldrai/1/01000199ed31242f-bd642f68-d983-4edc-a1e0-e2da629891a7-000000/bGU_e-HCWAz1_uHTT_J8KNfasQ0z0bAsw2_9kJQR2jk=427</guid>
     </item>
     <item>
-      <title>Artisanal shims for the bitter lesson age - nilenso blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.nilenso.com%2Fblog%2F2025%2F10%2F14%2Fbitter-lesson-applied-ai%2F%3Futm_source=tldrai/1/01000199ed31242f-bd642f68-d983-4edc-a1e0-e2da629891a7-000000/PIuwuveOPuvkGlJRexdJNj4KMp1xXqTnxXhUoqS7kFU=427</link>
-      <description>Link found in newsletter: 'Claude Haiku 4.5 4️⃣, Google Veo 3.1 📹, Aligned Data Centers 💰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.nilenso.com%2Fblog%2F2025%2F10%2F14%2Fbitter-lesson-applied-ai%2F%3Futm_source=tldrai/1/01000199ed31242f-bd642f68-d983-4edc-a1e0-e2da629891a7-000000/PIuwuveOPuvkGlJRexdJNj4KMp1xXqTnxXhUoqS7kFU=427</guid>
-    </item>
-    <item>
       <title>Nvidia, Microsoft, BlackRock part of $40B Aligned Data Centers deal</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F15%2Fnvidia-microsoft-blackrock-aligned-data-centers.html%3Futm_source=tldrai/1/01000199ed31242f-bd642f68-d983-4edc-a1e0-e2da629891a7-000000/2rPLVKR-0gRNLEeoUhtKcvtJ2B7ENQKt_0LMS14jFKc=427</link>
       <description>Link found in newsletter: 'Claude Haiku 4.5 4️⃣, Google Veo 3.1 📹, Aligned Data Centers 💰'</description>
@@ -762,12 +762,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2Fnews%2F800455%2Fwaymo-doordash-autonomous-food-delivery-phoenix%3Futm_source=tldrnewsletter/1/01000199f1b452fd-13cd0043-0980-426b-ab08-c51767e246cf-000000/t5y30bmk7Ds4jxr9AMwitRX7FG3cw7UXcBJl1BfezoA=427</link>
       <description>Link found in newsletter: 'Touchscreen MacBook 💻, Claude Skills 🤖, spreadsheet UI design 🧑‍🎨'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2Fnews%2F800455%2Fwaymo-doordash-autonomous-food-delivery-phoenix%3Futm_source=tldrnewsletter/1/01000199f1b452fd-13cd0043-0980-426b-ab08-c51767e246cf-000000/t5y30bmk7Ds4jxr9AMwitRX7FG3cw7UXcBJl1BfezoA=427</guid>
-    </item>
-    <item>
-      <title>Apple Readies High-End MacBook Pro With Touch, Hole-Punch Screen - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FY53sAg/1/01000199f1b452fd-13cd0043-0980-426b-ab08-c51767e246cf-000000/xmTorAERQ9qnBScIwmViG1hXuc8w1Pj7Dztk71o2Mks=427</link>
-      <description>Link found in newsletter: 'Touchscreen MacBook 💻, Claude Skills 🤖, spreadsheet UI design 🧑‍🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FY53sAg/1/01000199f1b452fd-13cd0043-0980-426b-ab08-c51767e246cf-000000/xmTorAERQ9qnBScIwmViG1hXuc8w1Pj7Dztk71o2Mks=427</guid>
     </item>
     <item>
       <title>Galaxy Trading | Institutional Digital Asset Trading | Galaxy</title>
@@ -1562,12 +1556,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthepaypers.com%2Fcrypto-web3-and-cbdc%2Fnews%2Fstripe-adds-stablecoin-support-for-subscription-payments%3Futm_source=tldrfintech/1/0100019a01bc7372-b19430ff-9db6-4d74-8a43-48b1116e32d1-000000/5h2QCjHSNiaGbbzjBp_KthpwC8saUlhKakoNQnT1KRI=427</guid>
     </item>
     <item>
-      <title>Revolut, Backers Near End of $3 Billion Fundraising Spree - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F7y1hPZ/1/0100019a01bc7372-b19430ff-9db6-4d74-8a43-48b1116e32d1-000000/yprFWDrQKLgSYEl1h8lWVUjKTaY_y9UJ1JGYaDyUmlU=427</link>
-      <description>Link found in newsletter: 'Tempo raises $500M 🚀, Plaid's consumer credit score 💯, Prediction markets 💰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F7y1hPZ/1/0100019a01bc7372-b19430ff-9db6-4d74-8a43-48b1116e32d1-000000/yprFWDrQKLgSYEl1h8lWVUjKTaY_y9UJ1JGYaDyUmlU=427</guid>
-    </item>
-    <item>
       <title>E-book: AI Is Rewriting CX Across Industries</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ubiquity.com%2Fresources%2Fcx-guides%2Fai-is-rewriting-cx%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter7%26utm_term=fintech/5/0100019a01bc7372-b19430ff-9db6-4d74-8a43-48b1116e32d1-000000/TnnKR6bal7qpQgqhK3IKPQieGluEohI-3iVyLs9r_bs=427</link>
       <description>Link found in newsletter: 'Tempo raises $500M 🚀, Plaid's consumer credit score 💯, Prediction markets 💰'</description>
@@ -2063,7 +2051,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.pcloadletter.dev%2Fblog%2Fai-hype-and-productivity%2F%3Futm_source=tldrwebdev/1/0100019a067ba000-d3c7db9d-67c1-4609-965b-22c39faef608-000000/5MUcwZP2s5o4-8PNJowlhD67Ei6thuq5urTmzPmceNE=427</guid>
     </item>
     <item>
-      <title>Today is when Amazon brain drain finally caught up with AWS • The Register</title>
+      <title>Amazon brain drain finally caught up with AWS • The Register</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2025%2F10%2F20%2Faws_outage_amazon_brain_drain_corey_quinn%2F%3Futm_source=tldrwebdev/1/0100019a067ba000-d3c7db9d-67c1-4609-965b-22c39faef608-000000/isTJztVpz9pVseiflSgRXjspNu-40n9Or6LeV7j_wq4=427</link>
       <description>Link found in newsletter: 'AWS outage 📉, Claude Code on the web 🌐, scary user support emails 💀'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2025%2F10%2F20%2Faws_outage_amazon_brain_drain_corey_quinn%2F%3Futm_source=tldrwebdev/1/0100019a067ba000-d3c7db9d-67c1-4609-965b-22c39faef608-000000/isTJztVpz9pVseiflSgRXjspNu-40n9Or6LeV7j_wq4=427</guid>
@@ -2127,6 +2115,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a067ba000-d3c7db9d-67c1-4609-965b-22c39faef608-000000/89Pv1JR1iwithjwJzjDFVYWVPYqf2jXM9vpxIGjxJgU=427</link>
       <description>Link found in newsletter: 'AWS outage 📉, Claude Code on the web 🌐, scary user support emails 💀'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a067ba000-d3c7db9d-67c1-4609-965b-22c39faef608-000000/89Pv1JR1iwithjwJzjDFVYWVPYqf2jXM9vpxIGjxJgU=427</guid>
+    </item>
+    <item>
+      <title>borgrodrick · Kill the Newsletter!</title>
+      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
+      <description>Link found in newsletter: 'Claude Code Web 👨‍💻, DeepSeek OCR 📝, is AI a bubble? 📈'</description>
+      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
     </item>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
