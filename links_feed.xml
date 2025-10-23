@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 23 Oct 2025 01:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Oct 2025 06:20:34 +0000</lastBuildDate>
     <item>
       <title>Email Disclaimer  | Galaxy</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.galaxy.com%2Femail-disclaimer-2025/1/01000199f1b452fd-13cd0043-0980-426b-ab08-c51767e246cf-000000/51Rp6C_FwLwEPGymELbZLav5A1JoRVbi_7iR3XHC9Wo=427</link>
@@ -722,12 +722,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.pcloadletter.dev%2Fblog%2Frss%2F%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/8i2_xIgiMPkR_B8i3sJRk8Z3dpzCE75ES4ws2N56iFU=427</guid>
     </item>
     <item>
-      <title>Chris's Wiki :: blog/tech/SSDWritePerfMetricsWish</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Futcc.utoronto.ca%2F~cks%2Fspace%2Fblog%2Ftech%2FSSDWritePerfMetricsWish%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/fxRX9B15LQ2hWQPvkza-GzS2bs8WP5G-hVPLJYC00Z0=427</link>
-      <description>Link found in newsletter: 'Software quality collapse ⬇️, GraphQL myths 🛠, SQL anti-patterns 💠'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Futcc.utoronto.ca%2F~cks%2Fspace%2Fblog%2Ftech%2FSSDWritePerfMetricsWish%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/fxRX9B15LQ2hWQPvkza-GzS2bs8WP5G-hVPLJYC00Z0=427</guid>
-    </item>
-    <item>
       <title>GraphQL Myths</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjovidecroock.com%2Fblog%2Fgraphql-myths%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/CFZnOit2hoz3RM9We7f2fIPzsRB4S97fTCYNlcafbNg=427</link>
       <description>Link found in newsletter: 'Software quality collapse ⬇️, GraphQL myths 🛠, SQL anti-patterns 💠'</description>
@@ -1169,7 +1163,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Fdocs%2Fauthkit%2Fmcp%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/0NPZxcPf-MxVvYFoe3LWSknNepeRPF7ZTHZ9T9ZeUgk=427</guid>
     </item>
     <item>
-      <title>Connect – AuthKit – WorkOS Docs</title>
+      <title>WorkOS Docs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Fdocs%2Fauthkit%2Fconnect%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/O9V_ofcFoJYh-DeuDRnW-SJGWJDOFQVFZzZKa5nWOR8=427</link>
       <description>Link found in newsletter: 'Google Maps Gemini API 🗺️, Karpathy on AGI 🤖, Siri concerns 📱'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Fdocs%2Fauthkit%2Fconnect%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/O9V_ofcFoJYh-DeuDRnW-SJGWJDOFQVFZzZKa5nWOR8=427</guid>
