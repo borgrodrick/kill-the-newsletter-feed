@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 24 Oct 2025 00:58:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 06:19:37 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=2a7b8660-ad9c-11f0-92ee-39f1696b0a19%26pt=campaign%26pv=4%26spa=1760958053%26t=1760959197%26s=14a4e8ea6e4df4b22a250003c54570edbf5eb85be0761b3fde12fc8e346794a8/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/xB7af1xt5rjNRlrmBhETg9mayKHFkAtIrrEjMN1EtWI=427</link>
@@ -54,12 +54,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.pcloadletter.dev%2Fblog%2Frss%2F%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/8i2_xIgiMPkR_B8i3sJRk8Z3dpzCE75ES4ws2N56iFU=427</link>
       <description>Link found in newsletter: 'Software quality collapse ⬇️, GraphQL myths 🛠, SQL anti-patterns 💠'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.pcloadletter.dev%2Fblog%2Frss%2F%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/8i2_xIgiMPkR_B8i3sJRk8Z3dpzCE75ES4ws2N56iFU=427</guid>
-    </item>
-    <item>
-      <title>Chris's Wiki :: blog/tech/SSDWritePerfMetricsWish</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Futcc.utoronto.ca%2F~cks%2Fspace%2Fblog%2Ftech%2FSSDWritePerfMetricsWish%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/fxRX9B15LQ2hWQPvkza-GzS2bs8WP5G-hVPLJYC00Z0=427</link>
-      <description>Link found in newsletter: 'Software quality collapse ⬇️, GraphQL myths 🛠, SQL anti-patterns 💠'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Futcc.utoronto.ca%2F~cks%2Fspace%2Fblog%2Ftech%2FSSDWritePerfMetricsWish%3Futm_source=tldrwebdev/1/0100019a0158f249-9f68ed69-862b-4857-868d-171f2ec194f4-000000/fxRX9B15LQ2hWQPvkza-GzS2bs8WP5G-hVPLJYC00Z0=427</guid>
     </item>
     <item>
       <title>GraphQL Myths</title>
@@ -224,6 +218,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F10%2Fmorgan-stanley-drops-crypto-fund-restrictions-for-wealth-clients.html%3Futm_source=tldrfintech/1/0100019a01bc7372-b19430ff-9db6-4d74-8a43-48b1116e32d1-000000/GQtCW4yX_nc2MFwaOoowZiiXXCTf_jHHhRxbyKv6imk=427</guid>
     </item>
     <item>
+      <title>Mexico’s Plata Raises $250 Million Series B at $3.1 Billion Valuation - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNRxFZP/1/0100019a01bc7372-b19430ff-9db6-4d74-8a43-48b1116e32d1-000000/3xhi40wup90HxHWfy_HpjjVO5vXyeqaW2BTN6UGsN68=427</link>
+      <description>Link found in newsletter: 'Tempo raises $500M 🚀, Plaid's consumer credit score 💯, Prediction markets 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNRxFZP/1/0100019a01bc7372-b19430ff-9db6-4d74-8a43-48b1116e32d1-000000/3xhi40wup90HxHWfy_HpjjVO5vXyeqaW2BTN6UGsN68=427</guid>
+    </item>
+    <item>
       <title>Basis Theory Raises $33M to Power Agentic Commerce and the Next Era of Merchant Payments</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fbasis-theory-raises-33m-to-power-agentic-commerce-and-the-next-era-of-merchant-payments-302582581.html%3Futm_source=tldrfintech/1/0100019a01bc7372-b19430ff-9db6-4d74-8a43-48b1116e32d1-000000/FSRoBpzpHOuZqak919CvAKe4gnPJYNv4brqLKr-d88A=427</link>
       <description>Link found in newsletter: 'Tempo raises $500M 🚀, Plaid's consumer credit score 💯, Prediction markets 💰'</description>
@@ -234,6 +234,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Fstripes-bridge-applies-for-national-trust-charter%2F802872%2F%3Futm_source=tldrfintech/1/0100019a01bc7372-b19430ff-9db6-4d74-8a43-48b1116e32d1-000000/0Jey9c__h-iiKyfwSx5HvZ28yQR65EbmPlvWDntIiQs=427</link>
       <description>Link found in newsletter: 'Tempo raises $500M 🚀, Plaid's consumer credit score 💯, Prediction markets 💰'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Fstripes-bridge-applies-for-national-trust-charter%2F802872%2F%3Futm_source=tldrfintech/1/0100019a01bc7372-b19430ff-9db6-4d74-8a43-48b1116e32d1-000000/0Jey9c__h-iiKyfwSx5HvZ28yQR65EbmPlvWDntIiQs=427</guid>
+    </item>
+    <item>
+      <title>Financial Data Network Plaid Launches a Consumer Credit Score - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F3h3gzx/1/0100019a01bc7372-b19430ff-9db6-4d74-8a43-48b1116e32d1-000000/qjjegNKLp_e05TjR1VwPfkcGT31mUowbxm8GRuHDABg=427</link>
+      <description>Link found in newsletter: 'Tempo raises $500M 🚀, Plaid's consumer credit score 💯, Prediction markets 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F3h3gzx/1/0100019a01bc7372-b19430ff-9db6-4d74-8a43-48b1116e32d1-000000/qjjegNKLp_e05TjR1VwPfkcGT31mUowbxm8GRuHDABg=427</guid>
     </item>
     <item>
       <title>Thread by @NikMilanovic on Thread Reader App – Thread Reader App</title>
@@ -410,7 +416,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.seangoedecke.com%2Fai-and-informal-science%2F%3Futm_source=tldrai/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/1HpokqA8cWBg02bdSVuMQKrdxRjh47W6VQyDIgHRHEk=427</guid>
     </item>
     <item>
-      <title>arXiv reCAPTCHA</title>
+      <title>[2507.02151] Non-exchangeable Conformal Prediction for Temporal Graph Neural Networks</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farxiv.org%2Fabs%2F2507.02151%3Futm_source=tldrai/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/58gUHTQsRWxEQR7WwzYUwDRAIiSScnVtZ1UJUchqwmI=427</link>
       <description>Link found in newsletter: 'Google Maps Gemini API 🗺️, Karpathy on AGI 🤖, Siri concerns 📱'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farxiv.org%2Fabs%2F2507.02151%3Futm_source=tldrai/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/58gUHTQsRWxEQR7WwzYUwDRAIiSScnVtZ1UJUchqwmI=427</guid>
@@ -473,12 +479,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.scmp.com%2Fbusiness%2Farticle%2F3329450%2Falibaba-cloud-claims-slash-nvidia-gpu-use-82-new-pooling-system%3Futm_source=tldrai/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/QUCl7KhZuga7bZJjYZtZnVppSmIctlABM2PTCAkeHDc=427</guid>
     </item>
     <item>
-      <title>Apple employees have 'concerns' over Siri performance in early iOS 26.4 builds: report - 9to5Mac</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2025%2F10%2F19%2Fapple-employees-concerned-by-early-ios-26-4-apple-intelligence-sir-version%2F%3Futm_source=tldrai/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/4KrC-8kwUz7xdOBjhDCQo_I3kTM6V5tJhp6_dqz_954=427</link>
-      <description>Link found in newsletter: 'Google Maps Gemini API 🗺️, Karpathy on AGI 🤖, Siri concerns 📱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2025%2F10%2F19%2Fapple-employees-concerned-by-early-ios-26-4-apple-intelligence-sir-version%2F%3Futm_source=tldrai/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/4KrC-8kwUz7xdOBjhDCQo_I3kTM6V5tJhp6_dqz_954=427</guid>
-    </item>
-    <item>
       <title>Grounding for Google Maps now available in the Gemini API</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.google%2Ftechnology%2Fdevelopers%2Fgrounding-google-maps-gemini-api%2F%3Futm_source=tldrai/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/gcAu2ox6lwh7no-kVmjS-vw2RPg1uG1CpVLhMlw7rmk=427</link>
       <description>Link found in newsletter: 'Google Maps Gemini API 🗺️, Karpathy on AGI 🤖, Siri concerns 📱'</description>
@@ -491,7 +491,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Fmcp%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/n2sfXPM_g1fIbJus9IDH4rD1QjCLUeTc29CBuhyYtAY=427</guid>
     </item>
     <item>
-      <title>Model Context Protocol – AuthKit – WorkOS Docs</title>
+      <title>WorkOS Docs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Fdocs%2Fauthkit%2Fmcp%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/0NPZxcPf-MxVvYFoe3LWSknNepeRPF7ZTHZ9T9ZeUgk=427</link>
       <description>Link found in newsletter: 'Google Maps Gemini API 🗺️, Karpathy on AGI 🤖, Siri concerns 📱'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Fdocs%2Fauthkit%2Fmcp%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=q32025/1/0100019a01cc4f0a-bdbd7f49-29bd-4b72-89cf-3862feddfd26-000000/0NPZxcPf-MxVvYFoe3LWSknNepeRPF7ZTHZ9T9ZeUgk=427</guid>
@@ -2067,6 +2067,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fpytorch.org%2Fblog%2Fhelion%2F%3Futm_source=tldrai/1/0100019a1154423e-421468f0-4119-4d05-99df-c0211b7adb3d-000000/5mapWGazSa4A-wintJTs5yH5VdE1CvGtItmMek8ZOJc=428</link>
       <description>Link found in newsletter: 'Meta AI layoffs 💼, ChatGPT retention 📈, AI buildout math 🛠️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fpytorch.org%2Fblog%2Fhelion%2F%3Futm_source=tldrai/1/0100019a1154423e-421468f0-4119-4d05-99df-c0211b7adb3d-000000/5mapWGazSa4A-wintJTs5yH5VdE1CvGtItmMek8ZOJc=428</guid>
+    </item>
+    <item>
+      <title>How Well Does RL Scale? — LessWrong</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.lesswrong.com%2Fposts%2Fxpj6KhDM9bJybdnEe%2Fhow-well-does-rl-scale%3Futm_source=tldrai/1/0100019a1154423e-421468f0-4119-4d05-99df-c0211b7adb3d-000000/r7_sUmFlqX4sBQOP63Iv7re2GU6L7mxJeEYwcpoIjiw=428</link>
+      <description>Link found in newsletter: 'Meta AI layoffs 💼, ChatGPT retention 📈, AI buildout math 🛠️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.lesswrong.com%2Fposts%2Fxpj6KhDM9bJybdnEe%2Fhow-well-does-rl-scale%3Futm_source=tldrai/1/0100019a1154423e-421468f0-4119-4d05-99df-c0211b7adb3d-000000/r7_sUmFlqX4sBQOP63Iv7re2GU6L7mxJeEYwcpoIjiw=428</guid>
     </item>
     <item>
       <title>Thoughts on the AI buildout</title>
