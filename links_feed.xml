@@ -6,199 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 12:27:52 +0000</lastBuildDate>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=ec754cc4-af13-11f0-9d4b-cf55a50234b2%26pt=campaign%26pv=4%26spa=1761127312%26t=1761128797%26s=99037bb839b9672da38baec5876b7b4964aa0f497c638ac28236af6b93cc1b63/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/sqnUq_quWKSU1wx94wVqLpNw0Uof5Fe8NYrMAMEjaNs=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=ec754cc4-af13-11f0-9d4b-cf55a50234b2%26pt=campaign%26pv=4%26spa=1761127312%26t=1761128797%26s=99037bb839b9672da38baec5876b7b4964aa0f497c638ac28236af6b93cc1b63/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/sqnUq_quWKSU1wx94wVqLpNw0Uof5Fe8NYrMAMEjaNs=427</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/MZ1ZOzTpmIUBdu7mIldvE5C4cwdR4jazzUGlG2pGeD4=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/MZ1ZOzTpmIUBdu7mIldvE5C4cwdR4jazzUGlG2pGeD4=427</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/cz-aDILYQ6VxM4wZ7cab2-3segpF_w8T8hiT2LEtBvQ=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/cz-aDILYQ6VxM4wZ7cab2-3segpF_w8T8hiT2LEtBvQ=427</guid>
-    </item>
-    <item>
-      <title>TLDR Newsletter | Referral Hub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/9wdV4-peyuYnDDAEWL8xjFikTpPifhiiilWSHvIHtx8=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/9wdV4-peyuYnDDAEWL8xjFikTpPifhiiilWSHvIHtx8=427</guid>
-    </item>
-    <item>
-      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/28FY4QufSq8_Qn4urQGG67esIaqByNqcIgq_L_Zl_Ac=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/28FY4QufSq8_Qn4urQGG67esIaqByNqcIgq_L_Zl_Ac=427</guid>
-    </item>
-    <item>
-      <title>The Lottery-fication of Everything - by Shreyas Hariharan</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.dopaminemarkets.com%2Fp%2Fthe-lottery-fication-of-everything%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/ObRWRmtmmG1ZhSngtnAWVrMadn3x14vJP801izpKl0k=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.dopaminemarkets.com%2Fp%2Fthe-lottery-fication-of-everything%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/ObRWRmtmmG1ZhSngtnAWVrMadn3x14vJP801izpKl0k=427</guid>
-    </item>
-    <item>
-      <title>Why SSA? · mcyoung</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmcyoung.xyz%2F2025%2F10%2F21%2Fssa-1%2F%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/QpnKxzfrj6Eff0zqbWQ82ADyGqBWvC4k2hz0d-SxhjM=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmcyoung.xyz%2F2025%2F10%2F21%2Fssa-1%2F%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/QpnKxzfrj6Eff0zqbWQ82ADyGqBWvC4k2hz0d-SxhjM=427</guid>
-    </item>
-    <item>
-      <title>Does AI actually make coding more efficient? : NPR</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.npr.org%2F2025%2F10%2F21%2Fnx-s1-5506141%2Fai-code-software-productivity-claims%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/qkPoBZsAOMVjok8HVnu_KuMdtRr2fJjDaV50XNdtbrE=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.npr.org%2F2025%2F10%2F21%2Fnx-s1-5506141%2Fai-code-software-productivity-claims%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/qkPoBZsAOMVjok8HVnu_KuMdtRr2fJjDaV50XNdtbrE=427</guid>
-    </item>
-    <item>
-      <title>With Marqeta, you won't have to compromise</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_quicklink_brand/2/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/vPV7clbc9jQVmv3QTwPbf2vr4x3ADULvqtyNf691I-c=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_quicklink_brand/2/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/vPV7clbc9jQVmv3QTwPbf2vr4x3ADULvqtyNf691I-c=427</guid>
-    </item>
-    <item>
-      <title>With Marqeta, you won't have to compromise</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_quicklink_brand/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/VsufhZy6TfJycVtmcN1wub9h2se9yMnoGlO-2x63p74=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_quicklink_brand/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/VsufhZy6TfJycVtmcN1wub9h2se9yMnoGlO-2x63p74=427</guid>
-    </item>
-    <item>
-      <title>Troy Hunt: Inside the Synthient Threat Data</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.troyhunt.com%2Finside-the-synthient-threat-data%2F%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/6sK1045nA8palXjDI9WwYLAfGzY2Lhqlbn7eM7s4KbA=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.troyhunt.com%2Finside-the-synthient-threat-data%2F%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/6sK1045nA8palXjDI9WwYLAfGzY2Lhqlbn7eM7s4KbA=427</guid>
-    </item>
-    <item>
-      <title>OpenAI Is Paying Ex-Investment Bankers to Train Its AI</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.entrepreneur.com%2Fbusiness-news%2Fopenai-is-paying-ex-investment-bankers-to-train-its-ai%2F498585%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/qDrEbrhB5OKjjniZr3oUPmzpS9VVTAcUPDrFeS9UAAk=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.entrepreneur.com%2Fbusiness-news%2Fopenai-is-paying-ex-investment-bankers-to-train-its-ai%2F498585%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/qDrEbrhB5OKjjniZr3oUPmzpS9VVTAcUPDrFeS9UAAk=427</guid>
-    </item>
-    <item>
-      <title>Thread by @jaredpalmer on Thread Reader App – Thread Reader App</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F1980619222918262842.html%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/IGhARgwOsV25k6NDYqGMvGWR4-SdsrDwTm0NXwrX0H0=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F1980619222918262842.html%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/IGhARgwOsV25k6NDYqGMvGWR4-SdsrDwTm0NXwrX0H0=427</guid>
-    </item>
-    <item>
-      <title>Basecamp: Project management software, online collaboration</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbasecamp.com%2Ftry-basecamp%3Futm_campaign=sponsorship%26utm_medium=digital%26%26utm_source=tldr/2/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/ED7avN2p5OXf770NRkfzsWW0UXH3Zg4fAU4oxMnhqcg=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbasecamp.com%2Ftry-basecamp%3Futm_campaign=sponsorship%26utm_medium=digital%26%26utm_source=tldr/2/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/ED7avN2p5OXf770NRkfzsWW0UXH3Zg4fAU4oxMnhqcg=427</guid>
-    </item>
-    <item>
-      <title>Basecamp: Project management software, online collaboration</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbasecamp.com%2Ftry-basecamp%3Futm_campaign=sponsorship%26utm_medium=digital%26%26utm_source=tldr/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/NBJ_FfLIEzNHxORfm96OqPiEzAcWYZHXsPEAIaxBiq0=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbasecamp.com%2Ftry-basecamp%3Futm_campaign=sponsorship%26utm_medium=digital%26%26utm_source=tldr/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/NBJ_FfLIEzNHxORfm96OqPiEzAcWYZHXsPEAIaxBiq0=427</guid>
-    </item>
-    <item>
-      <title>AI is Making Us Work More - Tawanda Munongo</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftawandamunongo.dev%2Fposts%2F2025%2F10%2Fai-work-more%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/z8Al0kDX70P_DQ_08S5IUKjcgDVbY4j8g6BSgz5gofU=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftawandamunongo.dev%2Fposts%2F2025%2F10%2Fai-work-more%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/z8Al0kDX70P_DQ_08S5IUKjcgDVbY4j8g6BSgz5gofU=427</guid>
-    </item>
-    <item>
-      <title>Samsung Galaxy XR hands-on: It’s like a cheaper Apple Vision Pro and launches today | The Verge</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2Ftech%2F802299%2Fsamsung-galaxy-xr-hands-on-price-release-date%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/xSGp22pS_WNlOJ0jEiPHY0sgpI2ImWr74v_juSmxAGM=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2Ftech%2F802299%2Fsamsung-galaxy-xr-hands-on-price-release-date%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/xSGp22pS_WNlOJ0jEiPHY0sgpI2ImWr74v_juSmxAGM=427</guid>
-    </item>
-    <item>
-      <title>Next.js 16 | Next.js</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnextjs.org%2Fblog%2Fnext-16%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/eyKS4IR3WSEMwS5pZqHStCMqAhBZFnNOKMopqzkFOBE=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnextjs.org%2Fblog%2Fnext-16%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/eyKS4IR3WSEMwS5pZqHStCMqAhBZFnNOKMopqzkFOBE=427</guid>
-    </item>
-    <item>
-      <title>Build Your Own Database</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.nan.fyi%2Fdatabase%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/IYXjUE14U5Op3AbT7xzVlZILniMUfYn9hf_KTeJJxsc=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.nan.fyi%2Fdatabase%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/IYXjUE14U5Op3AbT7xzVlZILniMUfYn9hf_KTeJJxsc=427</guid>
-    </item>
-    <item>
-      <title>AI Use Cases</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fai-use-cases%3Futm_campaign=26025014-TLDR%2520Tech%2520secondary%252010%252F22%26utm_source=external-newsletter%26utm_medium=email%26utm_term=TLDR%2520Tech%2520Secondary%25201022%26utm_content=TLDR%2520Tech%2520Secondary%25201022/3/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/cJGwWYD3HhCRi8lHHgJ169tN7hM2UDXV0Rz7Mhw-kGY=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fai-use-cases%3Futm_campaign=26025014-TLDR%2520Tech%2520secondary%252010%252F22%26utm_source=external-newsletter%26utm_medium=email%26utm_term=TLDR%2520Tech%2520Secondary%25201022%26utm_content=TLDR%2520Tech%2520Secondary%25201022/3/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/cJGwWYD3HhCRi8lHHgJ169tN7hM2UDXV0Rz7Mhw-kGY=427</guid>
-    </item>
-    <item>
-      <title>AI Use Cases</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fai-use-cases%3Futm_campaign=26025014-TLDR%2520Tech%2520secondary%252010%252F22%26utm_source=external-newsletter%26utm_medium=email%26utm_term=TLDR%2520Tech%2520Secondary%25201022%26utm_content=TLDR%2520Tech%2520Secondary%25201022/2/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/JmO8d-t9zsCoHeW2_YXHHPsxHPJ41kJ1kNUh-teyLo0=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fai-use-cases%3Futm_campaign=26025014-TLDR%2520Tech%2520secondary%252010%252F22%26utm_source=external-newsletter%26utm_medium=email%26utm_term=TLDR%2520Tech%2520Secondary%25201022%26utm_content=TLDR%2520Tech%2520Secondary%25201022/2/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/JmO8d-t9zsCoHeW2_YXHHPsxHPJ41kJ1kNUh-teyLo0=427</guid>
-    </item>
-    <item>
-      <title>AI Use Cases</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fai-use-cases%3Futm_campaign=26025014-TLDR%2520Tech%2520secondary%252010%252F22%26utm_source=external-newsletter%26utm_medium=email%26utm_term=TLDR%2520Tech%2520Secondary%25201022%26utm_content=TLDR%2520Tech%2520Secondary%25201022/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/Tx_2v_dTnA4kQlJ5kfd7eIfkLMnIk_tWSGOSL3_A3C8=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fai-use-cases%3Futm_campaign=26025014-TLDR%2520Tech%2520secondary%252010%252F22%26utm_source=external-newsletter%26utm_medium=email%26utm_term=TLDR%2520Tech%2520Secondary%25201022%26utm_content=TLDR%2520Tech%2520Secondary%25201022/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/Tx_2v_dTnA4kQlJ5kfd7eIfkLMnIk_tWSGOSL3_A3C8=427</guid>
-    </item>
-    <item>
-      <title>SpaceX Opens Up Its Starlink Laser Tech to Third-Party Companies | PCMag</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FKyfS3X/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/iKtOXv9caCIEXUuUz4Uc_ECdDFqu16kagequ2Lbwymk=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FKyfS3X/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/iKtOXv9caCIEXUuUz4Uc_ECdDFqu16kagequ2Lbwymk=427</guid>
-    </item>
-    <item>
-      <title>OpenAI looks for its “Google Chrome” moment with new Atlas web browser - Ars Technica</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fai%2F2025%2F10%2Fopenais-new-atlas-web-browser-wants-to-let-you-chat-with-a-page%2F%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/cHuvh1OylkkODT9SUgXafsPn8Vr6ZfnkrSvZm7cxXps=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fai%2F2025%2F10%2Fopenais-new-atlas-web-browser-wants-to-let-you-chat-with-a-page%2F%3Futm_source=tldrnewsletter/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/cHuvh1OylkkODT9SUgXafsPn8Vr6ZfnkrSvZm7cxXps=427</guid>
-    </item>
-    <item>
-      <title>Wispr Flow | Effortless Voice Dictation</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fref.wisprflow.ai%2Ftldr/5/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/hDSE_44eRANjKiyjONSYaJuL2sPP5eR4Oo2UJNv8ARU=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fref.wisprflow.ai%2Ftldr/5/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/hDSE_44eRANjKiyjONSYaJuL2sPP5eR4Oo2UJNv8ARU=427</guid>
-    </item>
-    <item>
-      <title>Wispr Flow | Effortless Voice Dictation</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fref.wisprflow.ai%2Ftldr/4/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/-LGzJHPdJomxZw-KxfSLpTKpgk_R-iYGpJn5EL5UpNE=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fref.wisprflow.ai%2Ftldr/4/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/-LGzJHPdJomxZw-KxfSLpTKpgk_R-iYGpJn5EL5UpNE=427</guid>
-    </item>
-    <item>
-      <title>Wispr Flow | Effortless Voice Dictation</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fref.wisprflow.ai%2Ftldr/3/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/Mu6zKsWp7AmHlJjFDq5cKvcabZDE4AUQ280bEq-pJ-Y=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fref.wisprflow.ai%2Ftldr/3/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/Mu6zKsWp7AmHlJjFDq5cKvcabZDE4AUQ280bEq-pJ-Y=427</guid>
-    </item>
-    <item>
-      <title>Wispr Flow | Effortless Voice Dictation</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fref.wisprflow.ai%2Ftldr/2/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/3aGkJX3VLvv-05_ee6jOZ69ATo4MDDvkhxm6do-TUTo=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fref.wisprflow.ai%2Ftldr/2/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/3aGkJX3VLvv-05_ee6jOZ69ATo4MDDvkhxm6do-TUTo=427</guid>
-    </item>
-    <item>
-      <title>Wispr Flow | Effortless Voice Dictation</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fref.wisprflow.ai%2Ftldr/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/8-lZ5N5BOrL6VJeUuOXHlR02cLisTwFgfIj8keojhmo=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fref.wisprflow.ai%2Ftldr/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/8-lZ5N5BOrL6VJeUuOXHlR02cLisTwFgfIj8keojhmo=427</guid>
-    </item>
-    <item>
-      <title>TLDR</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=ec754cc4-af13-11f0-9d4b-cf55a50234b2%26pt=campaign%26t=1761128797%26s=daef10af1f7bca27c1d8dbe7a5ebff4c032924097adb4ad4b7a6af41adb4ec16/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/Ytt0RxnoDgAlDHZHJRmnYZk6bKFzodrj4rRKqni7KDg=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=ec754cc4-af13-11f0-9d4b-cf55a50234b2%26pt=campaign%26t=1761128797%26s=daef10af1f7bca27c1d8dbe7a5ebff4c032924097adb4ad4b7a6af41adb4ec16/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/Ytt0RxnoDgAlDHZHJRmnYZk6bKFzodrj4rRKqni7KDg=427</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/mqhQNibYOrkSiBZmJP87zbcBJ5Pzq0T8j7_2w944elA=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/mqhQNibYOrkSiBZmJP87zbcBJ5Pzq0T8j7_2w944elA=427</guid>
-    </item>
-    <item>
-      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/Tkzj5BIPC35XFXjOwwni2r8aS4xfqeieLkYa5Kkxqok=427</link>
-      <description>Link found in newsletter: 'OpenAI's browser 🌍, Amazon automating 500k jobs 🤖, Next.js 16 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019a0b74d6e8-9ce04fd8-d299-48a2-b8b0-0db7f5666a52-000000/Tkzj5BIPC35XFXjOwwni2r8aS4xfqeieLkYa5Kkxqok=427</guid>
-    </item>
+    <lastBuildDate>Mon, 27 Oct 2025 18:20:20 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=967367bc-af1c-11f0-aec7-7f950638887d%26pt=campaign%26pv=4%26spa=1761130836%26t=1761131954%26s=37f23831b0de84af23b7a65933fa0aa4251b849d7ed000256c8442f8c9b14c91/1/0100019a0ba50004-f8e220a1-460f-44e9-bd0b-6dd3a0de57b6-000000/r93m0tfsgQ4JuR8kSZuYymAxwvf343l2LLUYxuoq4Ss=427</link>
@@ -1580,12 +1388,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.jakeworth.com%2Fposts%2Falways-be-ranking%2F%3Futm_source=tldrnewsletter/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/XEieW8SoZJFgzqtTJwVn7psmzJCquazuWfFefPWSGMs=428</guid>
     </item>
     <item>
-      <title>The ‘Hands Problem’ Holding Back the Humanoid Revolution - WSJ</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F1PIEHn/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/kHtBJpBu42w8AOk7Jaf3ge8Ygr82pYEOALgcIFWw4Yw=428</link>
-      <description>Link found in newsletter: 'AWS struggles 📉, Nvidia robotaxi 🚕, Swift for Android 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F1PIEHn/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/kHtBJpBu42w8AOk7Jaf3ge8Ygr82pYEOALgcIFWw4Yw=428</guid>
-    </item>
-    <item>
       <title>Advice for New Principal Tech ICs (i.e., Notes to Myself)</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Feugeneyan.com%2Fwriting%2Fprincipal%2F%3Futm_source=tldrnewsletter/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/HjLr77jYWPK-rxuwplutqbgw0sf9B4k4aWO56xx_HKY=428</link>
       <description>Link found in newsletter: 'AWS struggles 📉, Nvidia robotaxi 🚕, Swift for Android 👨‍💻'</description>
@@ -1700,12 +1502,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/BJH02X4zGe2Dipy_CZUvxjhKIuNN0D4exTXCAeH5wsY=428</guid>
     </item>
     <item>
-      <title>borgrodrick · Kill the Newsletter!</title>
-      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
-      <description>Link found in newsletter: 'Swift for Android 📱, subtle platform lock-ins 🔒, code like a surgeon 🏥'</description>
-      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
-    </item>
-    <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=6398af6e-b304-11f0-bf36-c5a59121b364%26pt=campaign%26pv=4%26spa=1761562869%26t=1761563953%26s=33e164e608d7efad39aa355845cc6424654eaad960809b51fe2a6cf70e630a49/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/icpuGYeTJ1ASQ_APdVsHa0qq5qrD4Jz77CXHxbXquUM=428</link>
       <description>Link found in newsletter: 'Swift for Android 📱, subtle platform lock-ins 🔒, code like a surgeon 🏥'</description>
@@ -1764,12 +1560,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Famit.prasad.me%2Fblog%2Fbefore-main%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/tZXpRzfNyiuMt3nSnXWC1frSOIEo1bQCxVvLsIZUEC4=428</link>
       <description>Link found in newsletter: 'Swift for Android 📱, subtle platform lock-ins 🔒, code like a surgeon 🏥'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Famit.prasad.me%2Fblog%2Fbefore-main%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/tZXpRzfNyiuMt3nSnXWC1frSOIEo1bQCxVvLsIZUEC4=428</guid>
-    </item>
-    <item>
-      <title>How We Saved $500,000 Per Year by Rolling Our Own “S3” | by Miedwar Meshbesher | Oct, 2025 | Nanit Engineering</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.nanit.com%2Fhow-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/9rsWKAb1bqfl7b0H5cv5ZLGSeFB18Lb2k4PXsy5Okg8=428</link>
-      <description>Link found in newsletter: 'Swift for Android 📱, subtle platform lock-ins 🔒, code like a surgeon 🏥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.nanit.com%2Fhow-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/9rsWKAb1bqfl7b0H5cv5ZLGSeFB18Lb2k4PXsy5Okg8=428</guid>
     </item>
     <item>
       <title>ShadCN Themes - Create Beautiful Themes for shadcn/ui | ShadCN Themer</title>
@@ -1872,6 +1662,366 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/ysSg-kKS59TiWJUUw6Ch7QRCbaDz6AJd8-WdEowpm_A=428</link>
       <description>Link found in newsletter: 'Swift for Android 📱, subtle platform lock-ins 🔒, code like a surgeon 🏥'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/ysSg-kKS59TiWJUUw6Ch7QRCbaDz6AJd8-WdEowpm_A=428</guid>
+    </item>
+    <item>
+      <title>Email Disclaimer  | Galaxy</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.galaxy.com%2Femail-disclaimer-2025/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/T8wCGKd0MnBHVuqt2DXzKKZAV396iKebst53qQ-WHxs=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.galaxy.com%2Femail-disclaimer-2025/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/T8wCGKd0MnBHVuqt2DXzKKZAV396iKebst53qQ-WHxs=428</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=9ea0842a-b312-11f0-bfd3-3bc40e509c6a%26pt=campaign%26pv=4%26spa=1761570089%26t=1761570500%26s=d724268bd626ebb77684ac66501ea4b26aedb588152e84a0fb17c79fc5d561b4/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/BefPS765aXgCl1jnQzwYjk7SRXyxvaX5tpwWcnvmvzo=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=9ea0842a-b312-11f0-bfd3-3bc40e509c6a%26pt=campaign%26pv=4%26spa=1761570089%26t=1761570500%26s=d724268bd626ebb77684ac66501ea4b26aedb588152e84a0fb17c79fc5d561b4/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/BefPS765aXgCl1jnQzwYjk7SRXyxvaX5tpwWcnvmvzo=428</guid>
+    </item>
+    <item>
+      <title>Gabriel Sundaram - attain | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/47JHTOEeNpOLb3ar9pfAKFQlwgju3J2zV1en_ZcS2jA=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/47JHTOEeNpOLb3ar9pfAKFQlwgju3J2zV1en_ZcS2jA=428</guid>
+    </item>
+    <item>
+      <title>Matt Cheung - Ceviche AI | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/rrpvLU_xs3VuQuZgrN9dU0TXbW8zNRcWLgKXxEQRuuE=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/rrpvLU_xs3VuQuZgrN9dU0TXbW8zNRcWLgKXxEQRuuE=428</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/dDmBAXii0I3OjaDI7pkPOnSvtu_YecCMlqSnHn9YIGM=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/dDmBAXii0I3OjaDI7pkPOnSvtu_YecCMlqSnHn9YIGM=428</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/Qe2cbW5N_3CJec2BXeGrt_5HhCUgnIK-AM5zuzoXj9c=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/Qe2cbW5N_3CJec2BXeGrt_5HhCUgnIK-AM5zuzoXj9c=428</guid>
+    </item>
+    <item>
+      <title>Zip US expands partnership with Stripe</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107669%2Fzip-us-expands-partnership-with-stripe%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/Y8XGsGuJBuzW4MWjFJLHqgkd6zzsqZY6sfDobBxp9QM=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107669%2Fzip-us-expands-partnership-with-stripe%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/Y8XGsGuJBuzW4MWjFJLHqgkd6zzsqZY6sfDobBxp9QM=428</guid>
+    </item>
+    <item>
+      <title>Consumers increasingly concerned about AI scams</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46796%2Fconsumers-increasingly-concerned-about-ai-scams%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/UHsC6y9mNdEnQGGTJf8-3_l6VMK5afYqKcO99ycKp6I=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46796%2Fconsumers-increasingly-concerned-about-ai-scams%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/UHsC6y9mNdEnQGGTJf8-3_l6VMK5afYqKcO99ycKp6I=428</guid>
+    </item>
+    <item>
+      <title>Fintech 100: The most promising fintech startups of 2025 - CB Insights Research</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cbinsights.com%2Fresearch%2Freport%2Ftop-fintech-startups-2025%2F%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/21PjcLXj8qO-uYkUQ3FDUCXcsGKx17UyoeAVJ2zsdKw=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cbinsights.com%2Fresearch%2Freport%2Ftop-fintech-startups-2025%2F%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/21PjcLXj8qO-uYkUQ3FDUCXcsGKx17UyoeAVJ2zsdKw=428</guid>
+    </item>
+    <item>
+      <title>Bank profits face $170bn hit from AI - McKinsey</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46803%2Fbank-profits-face-170bn-hit-from-ai---mckinsey%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/8xNLUs0X41RfZ1M2VeGURLaqYJkHPp3gwhDl7_iHZqY=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46803%2Fbank-profits-face-170bn-hit-from-ai---mckinsey%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/8xNLUs0X41RfZ1M2VeGURLaqYJkHPp3gwhDl7_iHZqY=428</guid>
+    </item>
+    <item>
+      <title>Trump pardons Binance founder Zhao | Banking Dive</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bankingdive.com%2Fnews%2Ftrump-pardons-binance-founder-changpeng-zhao%2F803662%2F%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/0IXlLeuqABmllwfppSrlR6vPLvFt_JTksFZNFvAWXso=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bankingdive.com%2Fnews%2Ftrump-pardons-binance-founder-changpeng-zhao%2F803662%2F%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/0IXlLeuqABmllwfppSrlR6vPLvFt_JTksFZNFvAWXso=428</guid>
+    </item>
+    <item>
+      <title>Zelle parent pursues crypto for international payments | Payments Dive</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Fews-zelle-international-payments-stablecoins-crypto%2F803731%2F%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/kLTR4aT1TscD26Rq871SSLXElQ-G40v7aGiRLYM4W3A=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Fews-zelle-international-payments-stablecoins-crypto%2F803731%2F%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/kLTR4aT1TscD26Rq871SSLXElQ-G40v7aGiRLYM4W3A=428</guid>
+    </item>
+    <item>
+      <title>Coinbase bitcoin rewards credit card gets full release</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46779%2Fcoinbase-bitcoin-rewards-credit-card-gets-full-release%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/UwQ288lJv90JqgxcyzJJbRZhtgm8mDIpfJOk9C2iRXU=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46779%2Fcoinbase-bitcoin-rewards-credit-card-gets-full-release%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/UwQ288lJv90JqgxcyzJJbRZhtgm8mDIpfJOk9C2iRXU=428</guid>
+    </item>
+    <item>
+      <title>Lloyds and Lolly unveil Pay by Bank self-service kiosks</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46778%2Flloyds-and-lolly-unveil-pay-by-bank-self-service-kiosks%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/Ggw1Hw-SBSxJyhVVgPtzIuoGXsoNhhm7f7pWfaVmNTY=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46778%2Flloyds-and-lolly-unveil-pay-by-bank-self-service-kiosks%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/Ggw1Hw-SBSxJyhVVgPtzIuoGXsoNhhm7f7pWfaVmNTY=428</guid>
+    </item>
+    <item>
+      <title>Assess your Customer Success maturity today | Certinia</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.certinia.com%2Flanding%2Fcs-maturity-self-assessment%3Futm_source=tldr-newsletter/3/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/CbFtGhrzHU4YlKbcaPQaqrb9pHlPOt5jHFwiyIg4HIE=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.certinia.com%2Flanding%2Fcs-maturity-self-assessment%3Futm_source=tldr-newsletter/3/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/CbFtGhrzHU4YlKbcaPQaqrb9pHlPOt5jHFwiyIg4HIE=428</guid>
+    </item>
+    <item>
+      <title>Assess your Customer Success maturity today | Certinia</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.certinia.com%2Flanding%2Fcs-maturity-self-assessment%3Futm_source=tldr-newsletter/2/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/lo_auLzqtQwvvB2Qe0lJrrQ0Ul4TTPLL5KqyOp_f-jM=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.certinia.com%2Flanding%2Fcs-maturity-self-assessment%3Futm_source=tldr-newsletter/2/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/lo_auLzqtQwvvB2Qe0lJrrQ0Ul4TTPLL5KqyOp_f-jM=428</guid>
+    </item>
+    <item>
+      <title>Assess your Customer Success maturity today | Certinia</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.certinia.com%2Flanding%2Fcs-maturity-self-assessment%3Futm_source=tldr-newsletter/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/-C37cXesxCNe6T6V-dKS8mJhQrCusJy8Lx_J4-gtPOc=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.certinia.com%2Flanding%2Fcs-maturity-self-assessment%3Futm_source=tldr-newsletter/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/-C37cXesxCNe6T6V-dKS8mJhQrCusJy8Lx_J4-gtPOc=428</guid>
+    </item>
+    <item>
+      <title>Prediction Markets: Understanding Their Impact and Future - OneSafe Blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.onesafe.io%2Fblog%2Fprediction-markets-crypto-payments-fintech%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/913f6XG9G4eoKu2VdHwESXsiG5zT3JXDOsOjPpcVsRM=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.onesafe.io%2Fblog%2Fprediction-markets-crypto-payments-fintech%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/913f6XG9G4eoKu2VdHwESXsiG5zT3JXDOsOjPpcVsRM=428</guid>
+    </item>
+    <item>
+      <title>Fintech Strategy Guide: Banking Partnership &amp; Operations</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.jpmorgan.com%2Finsights%2Fpayments%2Fpayment-trends%2Ffintech-strategy-guide-banking-partnership-and-operations%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/wAcsv_SGT6Cr94REoKQMEoOuSmXMSCx9wFV1bRJWaQE=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.jpmorgan.com%2Finsights%2Fpayments%2Fpayment-trends%2Ffintech-strategy-guide-banking-partnership-and-operations%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/wAcsv_SGT6Cr94REoKQMEoOuSmXMSCx9wFV1bRJWaQE=428</guid>
+    </item>
+    <item>
+      <title>Agentic payments memo | Natural</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.natural.co%2Fblog%2Fagentic-payments-memo%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/nadAvP0s5lKA8_GVWsEd1idUVPhE0a8J7djLGwmym5A=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.natural.co%2Fblog%2Fagentic-payments-memo%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/nadAvP0s5lKA8_GVWsEd1idUVPhE0a8J7djLGwmym5A=428</guid>
+    </item>
+    <item>
+      <title>Unlocking Pay by Bank’s Potential - Fintech Takes</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffintechtakes.com%2Farticles%2F2025-10-23%2Funlocking-pay-by-banks-potential%2F%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/VwWexM1WL3YDnap1V0Hz0jfS1oyFHXRMbPNdbDH_vjs=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffintechtakes.com%2Farticles%2F2025-10-23%2Funlocking-pay-by-banks-potential%2F%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/VwWexM1WL3YDnap1V0Hz0jfS1oyFHXRMbPNdbDH_vjs=428</guid>
+    </item>
+    <item>
+      <title>American Fintech Council calls on CFPB to prohibit open banking data access fees</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46794%2Famerican-fintech-council-calls-on-cfpb-to-prohibit-open-banking-data-access-fees%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/0FG6OA8f7yPvn8QdO7Us7Bm7zg9mhmtjO8SPbYfYxsk=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46794%2Famerican-fintech-council-calls-on-cfpb-to-prohibit-open-banking-data-access-fees%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/0FG6OA8f7yPvn8QdO7Us7Bm7zg9mhmtjO8SPbYfYxsk=428</guid>
+    </item>
+    <item>
+      <title>Stablecoin Use for Payments Jumps 70% Since US Regulation - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FzozJzZ/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/txYQ-JSp6AxbXFOHFd8uXEzEt3mm7vBEaLaZTjidJTA=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FzozJzZ/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/txYQ-JSp6AxbXFOHFd8uXEzEt3mm7vBEaLaZTjidJTA=428</guid>
+    </item>
+    <item>
+      <title>NHL inks deal with prediction markets Kalshi and Polymarket - ESPN</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.espn.com%2Fnhl%2Fstory%2F_%2Fid%2F46683244%2Fnhl-inks-deal-prediction-markets-kalshi-polymarket%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/wPh4A16zghhAs5thwCYmohrhHnbF-jufAHcPzz4g8iQ=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.espn.com%2Fnhl%2Fstory%2F_%2Fid%2F46683244%2Fnhl-inks-deal-prediction-markets-kalshi-polymarket%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/wPh4A16zghhAs5thwCYmohrhHnbF-jufAHcPzz4g8iQ=428</guid>
+    </item>
+    <item>
+      <title>JPMorgan to Allow Bitcoin, Ether as Collateral in Crypto Push - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F655BS3/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/QTjo21PKLSj-2ZNrg9FogrMl2Mjr1BXb9VRKPEGFcnQ=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F655BS3/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/QTjo21PKLSj-2ZNrg9FogrMl2Mjr1BXb9VRKPEGFcnQ=428</guid>
+    </item>
+    <item>
+      <title>Galaxy Trading | Institutional Digital Asset Trading | Galaxy</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhubs.li%2FQ03HYzry0/4/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/CGV2zO5fw07FuA2HMMDyUyXJVzdXyUSLO8f9Kx1LFPk=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhubs.li%2FQ03HYzry0/4/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/CGV2zO5fw07FuA2HMMDyUyXJVzdXyUSLO8f9Kx1LFPk=428</guid>
+    </item>
+    <item>
+      <title>Galaxy Trading | Institutional Digital Asset Trading | Galaxy</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhubs.li%2FQ03HYzry0/3/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/JTCbWuMpSPMPXyg2le1PG-Z7F8EythUMjHS6zGl1BFE=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhubs.li%2FQ03HYzry0/3/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/JTCbWuMpSPMPXyg2le1PG-Z7F8EythUMjHS6zGl1BFE=428</guid>
+    </item>
+    <item>
+      <title>Galaxy Trading | Institutional Digital Asset Trading | Galaxy</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhubs.li%2FQ03HYzry0/2/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/8LsiaMpQM4tWKXe0JdZNtucy5HJASYHO5yJp9ScHETc=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhubs.li%2FQ03HYzry0/2/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/8LsiaMpQM4tWKXe0JdZNtucy5HJASYHO5yJp9ScHETc=428</guid>
+    </item>
+    <item>
+      <title>Galaxy Trading | Institutional Digital Asset Trading | Galaxy</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhubs.li%2FQ03HYzry0/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/YBw5BGFp7gCuSowf-yyjLGDOePkpkvgQrWA7znO7_jY=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhubs.li%2FQ03HYzry0/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/YBw5BGFp7gCuSowf-yyjLGDOePkpkvgQrWA7znO7_jY=428</guid>
+    </item>
+    <item>
+      <title>TLDR Fintech</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=9ea0842a-b312-11f0-bfd3-3bc40e509c6a%26pt=campaign%26t=1761570500%26s=e6845795b6c800f50ae4a3eee2a44e4efade424993e0694b19a9de8fb1baf9af/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/TdksT-I8aX_MCP5KQ8AW_WZwRn7zZGFNvi9RTagVJbU=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=9ea0842a-b312-11f0-bfd3-3bc40e509c6a%26pt=campaign%26t=1761570500%26s=e6845795b6c800f50ae4a3eee2a44e4efade424993e0694b19a9de8fb1baf9af/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/TdksT-I8aX_MCP5KQ8AW_WZwRn7zZGFNvi9RTagVJbU=428</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/szqZixX20YNxflVPp_oZRqFu9OLEjqRF88DqRlL6j6A=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/szqZixX20YNxflVPp_oZRqFu9OLEjqRF88DqRlL6j6A=428</guid>
+    </item>
+    <item>
+      <title>borgrodrick · Kill the Newsletter!</title>
+      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=69d2c8e8-b321-11f0-9ae7-e155e9daa10d%26pt=campaign%26pv=4%26spa=1761570073%26t=1761571477%26s=57f50cb5c0d2b726473497c9a7bb2b341ca0177733bb6898b3431a12c4ab47d2/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/E6UcLeWXoRrnuScKdauwPK4W6PDE_g-ZPGdw-03zwCU=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=69d2c8e8-b321-11f0-9ae7-e155e9daa10d%26pt=campaign%26pv=4%26spa=1761570073%26t=1761571477%26s=57f50cb5c0d2b726473497c9a7bb2b341ca0177733bb6898b3431a12c4ab47d2/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/E6UcLeWXoRrnuScKdauwPK4W6PDE_g-ZPGdw-03zwCU=428</guid>
+    </item>
+    <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/feC2MfMyww5uiLqtm6jb6gsknPt1wdxn5OuHj2WeyWM=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/feC2MfMyww5uiLqtm6jb6gsknPt1wdxn5OuHj2WeyWM=428</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/PCqo3Ztg1DwmZ63tihKSFxqDXrrNjruoke4ouHmTulQ=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/PCqo3Ztg1DwmZ63tihKSFxqDXrrNjruoke4ouHmTulQ=428</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/3BE6hxxz6WM9gUb7A0xOb1faVJNU9MbVNxEhbBZAQi0=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/3BE6hxxz6WM9gUb7A0xOb1faVJNU9MbVNxEhbBZAQi0=428</guid>
+    </item>
+    <item>
+      <title>TLDR AI | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/jFmtRyExifRhQL_ZiK4AGpm51xEJSLQvFWgX3pd4hRo=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/jFmtRyExifRhQL_ZiK4AGpm51xEJSLQvFWgX3pd4hRo=428</guid>
+    </item>
+    <item>
+      <title>allenai/olmOCR-2-7B-1025 · Hugging Face</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhuggingface.co%2Fallenai%2FolmOCR-2-7B-1025%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/IitwZyJsOD5Oy3I37QqNCTArDUBj0zsDh4FJ4ksoFnU=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhuggingface.co%2Fallenai%2FolmOCR-2-7B-1025%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/IitwZyJsOD5Oy3I37QqNCTArDUBj0zsDh4FJ4ksoFnU=428</guid>
+    </item>
+    <item>
+      <title>Introducing vibe coding in Google AI Studio</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.google%2Ftechnology%2Fdevelopers%2Fintroducing-vibe-coding-in-google-ai-studio%2F%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/F6bPhoQ5u4-uzHxTiDvwC8USTW6EnWJFKdI25bnbcWs=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.google%2Ftechnology%2Fdevelopers%2Fintroducing-vibe-coding-in-google-ai-studio%2F%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/F6bPhoQ5u4-uzHxTiDvwC8USTW6EnWJFKdI25bnbcWs=428</guid>
+    </item>
+    <item>
+      <title>Coco Robotics taps UCLA professor to lead new physical AI research lab | TechCrunch</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F14%2Fcoco-robotics-taps-ucla-professor-to-lead-new-physical-ai-research-lab%2F%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/Q034kZPawc7xAdMaWQFhstsw-11Fwvt1APrfeEMLmRE=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F14%2Fcoco-robotics-taps-ucla-professor-to-lead-new-physical-ai-research-lab%2F%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/Q034kZPawc7xAdMaWQFhstsw-11Fwvt1APrfeEMLmRE=428</guid>
+    </item>
+    <item>
+      <title>Jace AI | Your 24/7 Email Assistant That Drafts for You</title>
+      <link>https://jace.ai/?utm_source=tldr\&amp;utm_medium=newsletter\&amp;utm_campaign=tldr-newsletter</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://jace.ai/?utm_source=tldr\&amp;utm_medium=newsletter\&amp;utm_campaign=tldr-newsletter</guid>
+    </item>
+    <item>
+      <title>Intel has cut 35,500 jobs in less than two years — more than 20,000 let go in in recent months as Lip-Bu Tan continues drastic recovery journey | Tom's Hardware</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tomshardware.com%2Fpc-components%2Fcpus%2Fintel-has-cut-35-500-jobs-in-less-than-two-years-more-than-20-000-let-go-in-in-recent-months-as-lip-bu-tan-continues-drastic-recovery-journey%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/OB6La-QMN_sftcEZUhZVakgLTxQClj30dwHZp8ECadU=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tomshardware.com%2Fpc-components%2Fcpus%2Fintel-has-cut-35-500-jobs-in-less-than-two-years-more-than-20-000-let-go-in-in-recent-months-as-lip-bu-tan-continues-drastic-recovery-journey%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/OB6La-QMN_sftcEZUhZVakgLTxQClj30dwHZp8ECadU=428</guid>
+    </item>
+    <item>
+      <title>Code like a surgeon</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.geoffreylitt.com%2F2025%2F10%2F24%2Fcode-like-a-surgeon%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/eP7tQpS6TNhll8sEUPyAxty6sb09SM4dRLelohms3pE=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.geoffreylitt.com%2F2025%2F10%2F24%2Fcode-like-a-surgeon%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/eP7tQpS6TNhll8sEUPyAxty6sb09SM4dRLelohms3pE=428</guid>
+    </item>
+    <item>
+      <title>Introducing FlashPack: Lightning-Fast Model Loading for PyTorch</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.fal.ai%2Fintroducing-flashpack-lightning-fast-model-loading-for-pytorch%2F%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/-qNCIeHKqjKc07ocY5mMtLcI-2CwOJM8y_lIFN__Ilg=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.fal.ai%2Fintroducing-flashpack-lightning-fast-model-loading-for-pytorch%2F%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/-qNCIeHKqjKc07ocY5mMtLcI-2CwOJM8y_lIFN__Ilg=428</guid>
+    </item>
+    <item>
+      <title>Circuits Updates - October 2025</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftransformer-circuits.pub%2F2025%2Foctober-update%2Findex.html%23svg-cross-modal%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/LPxylEMIxzfRkES1K5WjicYBXA6xGoi0jxuIHDFF5r8=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftransformer-circuits.pub%2F2025%2Foctober-update%2Findex.html%23svg-cross-modal%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/LPxylEMIxzfRkES1K5WjicYBXA6xGoi0jxuIHDFF5r8=428</guid>
+    </item>
+    <item>
+      <title>The Building Blocks of Agentic AI: From Kernels to Clusters</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fai.meta.com%2Fblog%2Fintroducing-pytorch-native-agentic-stack%2F%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/dYIKiE099KkiEkA_mMWr3vj7QZBbaG-QxHNsvw0gJWQ=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fai.meta.com%2Fblog%2Fintroducing-pytorch-native-agentic-stack%2F%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/dYIKiE099KkiEkA_mMWr3vj7QZBbaG-QxHNsvw0gJWQ=428</guid>
+    </item>
+    <item>
+      <title>Protegrity Developer Edition: Empowering Developers, Protecting Data, Accelerating AI</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.protegrity.com%2Fdevelopers%3Futm_source=TLDR%26utm_medium=email%26utm_campaign=Developer-AI/4/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/bZXmv4s3m6y4B0plOregFUj1cD4AW94kbSd6W4z9n0c=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.protegrity.com%2Fdevelopers%3Futm_source=TLDR%26utm_medium=email%26utm_campaign=Developer-AI/4/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/bZXmv4s3m6y4B0plOregFUj1cD4AW94kbSd6W4z9n0c=428</guid>
+    </item>
+    <item>
+      <title>Protegrity Developer Edition: Empowering Developers, Protecting Data, Accelerating AI</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.protegrity.com%2Fdevelopers%3Futm_source=TLDR%26utm_medium=email%26utm_campaign=Developer-AI/3/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/heqGg4gF89eaJLtbQwe_87s6mc34awg_1JmoLEdDLNs=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.protegrity.com%2Fdevelopers%3Futm_source=TLDR%26utm_medium=email%26utm_campaign=Developer-AI/3/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/heqGg4gF89eaJLtbQwe_87s6mc34awg_1JmoLEdDLNs=428</guid>
+    </item>
+    <item>
+      <title>Protegrity Developer Edition: Empowering Developers, Protecting Data, Accelerating AI</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.protegrity.com%2Fdevelopers%3Futm_source=TLDR%26utm_medium=email%26utm_campaign=Developer-AI/2/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/e1OcGU6hV-J7B7LWN8D4D6SmBQ-klgdH3WcC4Rj0FvI=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.protegrity.com%2Fdevelopers%3Futm_source=TLDR%26utm_medium=email%26utm_campaign=Developer-AI/2/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/e1OcGU6hV-J7B7LWN8D4D6SmBQ-klgdH3WcC4Rj0FvI=428</guid>
+    </item>
+    <item>
+      <title>Protegrity Developer Edition: Empowering Developers, Protecting Data, Accelerating AI</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.protegrity.com%2Fdevelopers%3Futm_source=TLDR%26utm_medium=email%26utm_campaign=Developer-AI/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/fSfbKEwzp7sTKM7i_4sAcqVeaCeTlxN4_Rue3C4o_no=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.protegrity.com%2Fdevelopers%3Futm_source=TLDR%26utm_medium=email%26utm_campaign=Developer-AI/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/fSfbKEwzp7sTKM7i_4sAcqVeaCeTlxN4_Rue3C4o_no=428</guid>
+    </item>
+    <item>
+      <title>Stress-testing model specs reveals character differences among language models</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Falignment.anthropic.com%2F2025%2Fstress-testing-model-specs%2F%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/QwBduOo59nr2I4MIkmzXyIPsXcPcnvgaUKv47UuQmk0=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Falignment.anthropic.com%2F2025%2Fstress-testing-model-specs%2F%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/QwBduOo59nr2I4MIkmzXyIPsXcPcnvgaUKv47UuQmk0=428</guid>
+    </item>
+    <item>
+      <title>OpenAI might be testing GPT-5.1-mini upgrade for ChatGPT</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fopenai-might-be-testing-gpt-5-1-mini-upgrade-for-chatgpt%2F%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/hUbGzW0Vd3ihT2V6H_R2eW54idCTt8qy36y-1o4AxGk=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fopenai-might-be-testing-gpt-5-1-mini-upgrade-for-chatgpt%2F%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/hUbGzW0Vd3ihT2V6H_R2eW54idCTt8qy36y-1o4AxGk=428</guid>
+    </item>
+    <item>
+      <title>OpenAI reportedly developing new generative music tool | TechCrunch</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F25%2Fopenai-reportedly-developing-new-generative-music-tool%2F%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/kPdXyZ2vfmdnbOCB1K--gYUtovvkUAgnJHbsusR3ew0=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F25%2Fopenai-reportedly-developing-new-generative-music-tool%2F%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/kPdXyZ2vfmdnbOCB1K--gYUtovvkUAgnJHbsusR3ew0=428</guid>
+    </item>
+    <item>
+      <title>Free AI Masterclass | Cut Product Development Time | Miro</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/5/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/TxDgsPLNu35sG-leSiMpegrH_Y0X5NBz9wsuozlKjs4=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/5/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/TxDgsPLNu35sG-leSiMpegrH_Y0X5NBz9wsuozlKjs4=428</guid>
+    </item>
+    <item>
+      <title>Free AI Masterclass | Cut Product Development Time | Miro</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/4/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/K7gxHRgtzznFAG4-EHioaRSqZJN8yO6LStRcE46cpR4=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/4/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/K7gxHRgtzznFAG4-EHioaRSqZJN8yO6LStRcE46cpR4=428</guid>
+    </item>
+    <item>
+      <title>Free AI Masterclass | Cut Product Development Time | Miro</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/3/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/Ny4HC5iwKpZb7XSLCKZ8by_e0tV6eFF_hU61ORfnH5w=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/3/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/Ny4HC5iwKpZb7XSLCKZ8by_e0tV6eFF_hU61ORfnH5w=428</guid>
+    </item>
+    <item>
+      <title>Free AI Masterclass | Cut Product Development Time | Miro</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/2/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/q0IpHM52VD5mt7KHl8Up2ubHFxetx8SW0Hm72Vg6hC4=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/2/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/q0IpHM52VD5mt7KHl8Up2ubHFxetx8SW0Hm72Vg6hC4=428</guid>
+    </item>
+    <item>
+      <title>Free AI Masterclass | Cut Product Development Time | Miro</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/VhKMYbrODMctw_7-eWze0zQwjEXSyZaFIwq2did1zco=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/VhKMYbrODMctw_7-eWze0zQwjEXSyZaFIwq2did1zco=428</guid>
+    </item>
+    <item>
+      <title>TLDR AI</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=69d2c8e8-b321-11f0-9ae7-e155e9daa10d%26pt=campaign%26t=1761571477%26s=c694e0cbc3a88395eab8593306324a50eacd66dc9caa86e3678c63aa5235889c/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/vLmpyIJv-CytBQ2YhTtabimaYeT8qnox9X6-p4oevsw=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=69d2c8e8-b321-11f0-9ae7-e155e9daa10d%26pt=campaign%26t=1761571477%26s=c694e0cbc3a88395eab8593306324a50eacd66dc9caa86e3678c63aa5235889c/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/vLmpyIJv-CytBQ2YhTtabimaYeT8qnox9X6-p4oevsw=428</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/65zGf_KrRIxJnmEy-FqUf5rLvXHfZy86H4xf_k3c4gQ=428</link>
+      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/65zGf_KrRIxJnmEy-FqUf5rLvXHfZy86H4xf_k3c4gQ=428</guid>
     </item>
   </channel>
 </rss>
