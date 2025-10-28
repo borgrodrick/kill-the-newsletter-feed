@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 12:27:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 18:20:50 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=cae2d28a-afe9-11f0-b8ec-ffe3ba284ac3%26pt=campaign%26pv=4%26spa=1761213678%26t=1761215156%26s=d7f35a237d21506bc56b5aec55f9e085027af04b58d13e4aa1faa2b7fd199701/1/0100019a109a9233-21fd5c68-37dd-4b0b-90c4-9b3c05191937-000000/D22BijvyMiDTujKnTVz0iot0GpDkR-BxdTU_xxkbhxs=428</link>
@@ -444,6 +444,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107633%2Fwayfair-expands-affirm-partnership%3Futm_source=tldrfintech/1/0100019a112e98dc-bbfcabd6-0d96-4a2d-984a-6cfa8a580940-000000/JPqVfu7V1HysepTvZX8vmmSDo7mfRAJ-PYRET122020=428</link>
       <description>Link found in newsletter: 'OpenAI hires 100+ ex-bankers 🏦, Wayfair expands Affirm partnership 💰, Visa’s Trusted Agent Protocol 🖥️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107633%2Fwayfair-expands-affirm-partnership%3Futm_source=tldrfintech/1/0100019a112e98dc-bbfcabd6-0d96-4a2d-984a-6cfa8a580940-000000/JPqVfu7V1HysepTvZX8vmmSDo7mfRAJ-PYRET122020=428</guid>
+    </item>
+    <item>
+      <title>OpenAI Looks to Replace the Drudgery of Junior Bankers’ Workload - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FO5rNtU/1/0100019a112e98dc-bbfcabd6-0d96-4a2d-984a-6cfa8a580940-000000/U1JC8TrJc1WW9Bah2sQhvK2KhhCGr2NKygsBfMqKXgU=428</link>
+      <description>Link found in newsletter: 'OpenAI hires 100+ ex-bankers 🏦, Wayfair expands Affirm partnership 💰, Visa’s Trusted Agent Protocol 🖥️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FO5rNtU/1/0100019a112e98dc-bbfcabd6-0d96-4a2d-984a-6cfa8a580940-000000/U1JC8TrJc1WW9Bah2sQhvK2KhhCGr2NKygsBfMqKXgU=428</guid>
     </item>
     <item>
       <title>The Friction Report by Cleverbridge | What’s Stalling SaaS Growth</title>
@@ -1220,6 +1226,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fkr-asia.com%2Fnvidia-is-reportedly-planning-a-robotaxi-project-to-challenge-tesla-waymo%3Futm_source=tldrnewsletter/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/gsea1yVa44eV7v1VADvZJKQxhobNRBKlpw9FMDMAXPY=428</guid>
     </item>
     <item>
+      <title>Amazon's AWS Is Slowed by Bloat as Competitors Clinch AI Deals - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FAZepHN/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/T1lgVoR61oC1zmJ5QOwPgnDcFJv73Iyz6u9gnaKEDhk=428</link>
+      <description>Link found in newsletter: 'AWS struggles 📉, Nvidia robotaxi 🚕, Swift for Android 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FAZepHN/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/T1lgVoR61oC1zmJ5QOwPgnDcFJv73Iyz6u9gnaKEDhk=428</guid>
+    </item>
+    <item>
       <title>Sign Up - Auth0</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fauth0.com%2Fsignup%3Fonboard_app=genai%26ocid=7014z000001NyoxAAC-aPA4z0000008OZeGAM%3Futm_source=tldr%26utm_campaign=global_mult_mult_all_ciam-dev_dg-plg_auth0_native_tldr_newsletter_aud_A4AA-GA-TLDR-Primary-Oct27_utm2%26utm_medium=cpc%26utm_id=aNKKZ00000004uD4AQ/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/V73aEJ4XYWBQB48roGcSfurtZlJ8zhGRtuu3frIGrkk=428</link>
       <description>Link found in newsletter: 'AWS struggles 📉, Nvidia robotaxi 🚕, Swift for Android 👨‍💻'</description>
@@ -1302,12 +1314,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Famit.prasad.me%2Fblog%2Fbefore-main%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/tZXpRzfNyiuMt3nSnXWC1frSOIEo1bQCxVvLsIZUEC4=428</link>
       <description>Link found in newsletter: 'Swift for Android 📱, subtle platform lock-ins 🔒, code like a surgeon 🏥'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Famit.prasad.me%2Fblog%2Fbefore-main%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/tZXpRzfNyiuMt3nSnXWC1frSOIEo1bQCxVvLsIZUEC4=428</guid>
-    </item>
-    <item>
-      <title>How We Saved $500,000 Per Year by Rolling Our Own “S3” | by Miedwar Meshbesher | Oct, 2025 | Nanit Engineering</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.nanit.com%2Fhow-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/9rsWKAb1bqfl7b0H5cv5ZLGSeFB18Lb2k4PXsy5Okg8=428</link>
-      <description>Link found in newsletter: 'Swift for Android 📱, subtle platform lock-ins 🔒, code like a surgeon 🏥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.nanit.com%2Fhow-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/9rsWKAb1bqfl7b0H5cv5ZLGSeFB18Lb2k4PXsy5Okg8=428</guid>
     </item>
     <item>
       <title>ShadCN Themes - Create Beautiful Themes for shadcn/ui | ShadCN Themer</title>
@@ -1542,6 +1548,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46794%2Famerican-fintech-council-calls-on-cfpb-to-prohibit-open-banking-data-access-fees%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/0FG6OA8f7yPvn8QdO7Us7Bm7zg9mhmtjO8SPbYfYxsk=428</link>
       <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46794%2Famerican-fintech-council-calls-on-cfpb-to-prohibit-open-banking-data-access-fees%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/0FG6OA8f7yPvn8QdO7Us7Bm7zg9mhmtjO8SPbYfYxsk=428</guid>
+    </item>
+    <item>
+      <title>Stablecoin Use for Payments Jumps 70% Since US Regulation - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FzozJzZ/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/txYQ-JSp6AxbXFOHFd8uXEzEt3mm7vBEaLaZTjidJTA=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FzozJzZ/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/txYQ-JSp6AxbXFOHFd8uXEzEt3mm7vBEaLaZTjidJTA=428</guid>
     </item>
     <item>
       <title>NHL inks deal with prediction markets Kalshi and Polymarket - ESPN</title>
@@ -1910,12 +1922,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019a2a59e87c-df1e1f0b-e3f6-40b3-bfb2-12fa057a76e5-000000/cpTn07NlUOF87AotJQZd73mRF4SaTRoTcInD4MOm46c=428</guid>
     </item>
     <item>
-      <title>borgrodrick · Kill the Newsletter!</title>
-      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
-      <description>Link found in newsletter: 'Avoid 2 AM cron jobs 🌃, when perfect code fails 📉, AI can code but not build 🛠'</description>
-      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
-    </item>
-    <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=bcf4372c-b3d6-11f0-aef8-1f4399c5a710%26pt=campaign%26pv=4%26spa=1761649265%26t=1761650280%26s=2a7d3fda7287a80c832b49abd362e496ca1c495629790865e1a950a18a28ce29/1/0100019a2a8a0790-11f746c3-8306-43d6-8457-715e939fd977-000000/kFntirZoLAHJkqHmM0dETIYenqmzfdsGvegJeViReY4=429</link>
       <description>Link found in newsletter: 'Avoid 2 AM cron jobs 🌃, when perfect code fails 📉, AI can code but not build 🛠'</description>
@@ -2070,6 +2076,162 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2a8a0790-11f746c3-8306-43d6-8457-715e939fd977-000000/BkLMBu4qddj4G0r4uFmcqA0TgSNt3dnrJ30Fp917yDI=429</link>
       <description>Link found in newsletter: 'Avoid 2 AM cron jobs 🌃, when perfect code fails 📉, AI can code but not build 🛠'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2a8a0790-11f746c3-8306-43d6-8457-715e939fd977-000000/BkLMBu4qddj4G0r4uFmcqA0TgSNt3dnrJ30Fp917yDI=429</guid>
+    </item>
+    <item>
+      <title>borgrodrick · Kill the Newsletter!</title>
+      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=c5daded8-b3e8-11f0-810d-e926eeed3e70%26pt=campaign%26pv=4%26spa=1761656519%26t=1761657678%26s=98eb26c1c6ad697a6c43209772b4bf14e1e5549157bab45ae79e0a5615dbfaea/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/6h4L8L73v8IqAxPye5AIed_TSTbFpcE3RIxdyHriruU=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=c5daded8-b3e8-11f0-810d-e926eeed3e70%26pt=campaign%26pv=4%26spa=1761656519%26t=1761657678%26s=98eb26c1c6ad697a6c43209772b4bf14e1e5549157bab45ae79e0a5615dbfaea/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/6h4L8L73v8IqAxPye5AIed_TSTbFpcE3RIxdyHriruU=428</guid>
+    </item>
+    <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/7mU9VxrmMVrXrb_phGZXmc9RHAEIY3jYLd2wyZ1J-Eo=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/7mU9VxrmMVrXrb_phGZXmc9RHAEIY3jYLd2wyZ1J-Eo=428</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/fMoCcNZByaIXMRQ58NMb_d_fjav_SQqT8Vqd_AUdbKk=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/fMoCcNZByaIXMRQ58NMb_d_fjav_SQqT8Vqd_AUdbKk=428</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/A408lJnBNURGz4TF5L6mX2_SGv8lkA77QNGJ8yp3Jes=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/A408lJnBNURGz4TF5L6mX2_SGv8lkA77QNGJ8yp3Jes=428</guid>
+    </item>
+    <item>
+      <title>TLDR AI | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/lhVAkmcP7BIajRXaTIRXgrs5ExrjiU1nHK_Eg1Kwsjc=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/lhVAkmcP7BIajRXaTIRXgrs5ExrjiU1nHK_Eg1Kwsjc=428</guid>
+    </item>
+    <item>
+      <title>AI-powered search engines rely on “less popular” sources, researchers find - Ars Technica</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fai%2F2025%2F10%2Fai-powered-search-engines-rely-on-less-popular-sources-researchers-find%2F%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/433zrwnjSid0TUokZGgmtARw3HrlLTYpZbCtF7rUiOc=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fai%2F2025%2F10%2Fai-powered-search-engines-rely-on-less-popular-sources-researchers-find%2F%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/433zrwnjSid0TUokZGgmtARw3HrlLTYpZbCtF7rUiOc=428</guid>
+    </item>
+    <item>
+      <title>ChatGPT's mobile app is seeing slowing download growth and daily use, analysis shows | TechCrunch</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F17%2Fchatgpts-mobile-app-is-seeing-slowing-download-growth-and-daily-use-analysis-shows%2F%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/7zBZjyOm6d3nZtVHNJY3cRTxW8sNclHopM3wSaPPfAg=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F17%2Fchatgpts-mobile-app-is-seeing-slowing-download-growth-and-daily-use-analysis-shows%2F%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/7zBZjyOm6d3nZtVHNJY3cRTxW8sNclHopM3wSaPPfAg=428</guid>
+    </item>
+    <item>
+      <title>Snowflake Trial</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsignup.snowflake.com%2F%3Ftemplate=cortex_rest_api%26utm_source=tldr%26utm_medium=paid-email%26utm_campaign=cortex-rest-api-launch/2/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/FYZbqstbQkEIcouD4RMPJLp16djMIroeN-8jVSDkj7M=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsignup.snowflake.com%2F%3Ftemplate=cortex_rest_api%26utm_source=tldr%26utm_medium=paid-email%26utm_campaign=cortex-rest-api-launch/2/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/FYZbqstbQkEIcouD4RMPJLp16djMIroeN-8jVSDkj7M=428</guid>
+    </item>
+    <item>
+      <title>Snowflake Trial</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsignup.snowflake.com%2F%3Ftemplate=cortex_rest_api%26utm_source=tldr%26utm_medium=paid-email%26utm_campaign=cortex-rest-api-launch/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/SVK7mffm7iaAdXRdEgEgNm5WjZfXzoN9oF-sdIxoHyA=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsignup.snowflake.com%2F%3Ftemplate=cortex_rest_api%26utm_source=tldr%26utm_medium=paid-email%26utm_campaign=cortex-rest-api-launch/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/SVK7mffm7iaAdXRdEgEgNm5WjZfXzoN9oF-sdIxoHyA=428</guid>
+    </item>
+    <item>
+      <title>MiniMax M2 &amp; Agent: Ingenious in Simplicity - MiniMax News</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.minimax.io%2Fnews%2Fminimax-m2%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/z80WR4O7wphmH4IBP4SVkY3pav61571Aqc75yYyzIQo=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.minimax.io%2Fnews%2Fminimax-m2%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/z80WR4O7wphmH4IBP4SVkY3pav61571Aqc75yYyzIQo=428</guid>
+    </item>
+    <item>
+      <title>Reasoning with Sampling: Your Base Model is Smarter Than You Think</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faakaran.github.io%2Freasoning_with_sampling%2F%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/SXCbgCC9ZuhtgWCbwaddo7lYJz28qY6phBXzGGC1YAo=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faakaran.github.io%2Freasoning_with_sampling%2F%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/SXCbgCC9ZuhtgWCbwaddo7lYJz28qY6phBXzGGC1YAo=428</guid>
+    </item>
+    <item>
+      <title>On-Policy Distillation - Thinking Machines Lab</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthinkingmachines.ai%2Fblog%2Fon-policy-distillation%2F%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/GCSbVMUSChDo0Al8cAylmWmLztaJr2t_xtzRe4o4YdM=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthinkingmachines.ai%2Fblog%2Fon-policy-distillation%2F%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/GCSbVMUSChDo0Al8cAylmWmLztaJr2t_xtzRe4o4YdM=428</guid>
+    </item>
+    <item>
+      <title>GitHub - johannschopplich/toon: 🎒 Token-Oriented Object Notation – JSON for LLMs at half the token cost</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fjohannschopplich%2Ftoon%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/0lv92yp_Vl_kdaya9G_nvI_dYhSlolMSNr1KFYI9eio=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fjohannschopplich%2Ftoon%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/0lv92yp_Vl_kdaya9G_nvI_dYhSlolMSNr1KFYI9eio=428</guid>
+    </item>
+    <item>
+      <title>AI Use Cases</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fai-use-cases%3Futm_campaign=26221070-TLDR%2520AI%26utm_source=external-newsletter%26utm_medium=email%26utm_term=tldraisecondary1028%26utm_content=tldraisecondary1028/3/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/KET48huVWZfrmxyUQErn2oUZvOMNi-t_A6tBcqrKQJU=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fai-use-cases%3Futm_campaign=26221070-TLDR%2520AI%26utm_source=external-newsletter%26utm_medium=email%26utm_term=tldraisecondary1028%26utm_content=tldraisecondary1028/3/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/KET48huVWZfrmxyUQErn2oUZvOMNi-t_A6tBcqrKQJU=428</guid>
+    </item>
+    <item>
+      <title>AI Use Cases</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fai-use-cases%3Futm_campaign=26221070-TLDR%2520AI%26utm_source=external-newsletter%26utm_medium=email%26utm_term=tldraisecondary1028%26utm_content=tldraisecondary1028/2/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/TxasaD_hjdUjej5LAd8ZpZCLHTn2IKt2MEY4gfrfxso=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fai-use-cases%3Futm_campaign=26221070-TLDR%2520AI%26utm_source=external-newsletter%26utm_medium=email%26utm_term=tldraisecondary1028%26utm_content=tldraisecondary1028/2/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/TxasaD_hjdUjej5LAd8ZpZCLHTn2IKt2MEY4gfrfxso=428</guid>
+    </item>
+    <item>
+      <title>AI Use Cases</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fai-use-cases%3Futm_campaign=26221070-TLDR%2520AI%26utm_source=external-newsletter%26utm_medium=email%26utm_term=tldraisecondary1028%26utm_content=tldraisecondary1028/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/Y4GAzBbQ_MBPhLsokr8mJAX7h1FnuYXtcmktsYKxMCs=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fai-use-cases%3Futm_campaign=26221070-TLDR%2520AI%26utm_source=external-newsletter%26utm_medium=email%26utm_term=tldraisecondary1028%26utm_content=tldraisecondary1028/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/Y4GAzBbQ_MBPhLsokr8mJAX7h1FnuYXtcmktsYKxMCs=428</guid>
+    </item>
+    <item>
+      <title>AI Discovers Novel Cancer Drug, or Did It? - by Dakara</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.mindprison.cc%2Fp%2Fai-discovers-novel-cancer-drug-or-did-it-gemma-27b%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/qR-7TO81-BfsNcBx1xHn5nkUHRxJtY5Q8r9fNqZg1h0=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.mindprison.cc%2Fp%2Fai-discovers-novel-cancer-drug-or-did-it-gemma-27b%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/qR-7TO81-BfsNcBx1xHn5nkUHRxJtY5Q8r9fNqZg1h0=428</guid>
+    </item>
+    <item>
+      <title>Speedrunning an RL environment | sidbin</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsidb.in%2Fposts%2Frl-env-speedrun%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/1-4w4ELAy6KuF0M93orHXw7ygsZWiRbWz9ggqjGqh7c=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsidb.in%2Fposts%2Frl-env-speedrun%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/1-4w4ELAy6KuF0M93orHXw7ygsZWiRbWz9ggqjGqh7c=428</guid>
+    </item>
+    <item>
+      <title>Advancing Claude for Financial Services \ Anthropic</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fadvancing-claude-for-financial-services%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/1qyoZH1zJFd2xJCwzyKiGEtxGlqGxc6qNvP__jflFbo=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fadvancing-claude-for-financial-services%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/1qyoZH1zJFd2xJCwzyKiGEtxGlqGxc6qNvP__jflFbo=428</guid>
+    </item>
+    <item>
+      <title>The Coding Personalities of Leading LLMs | Sonar</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sonarsource.com%2Fsem%2Fthe-coding-personalities-of-leading-llms%2F%3Futm_medium=paid%26utm_source=tldr%26utm_campaign=ss-state-of-llms25%26utm_content=newsletter-ai-primary-expandedllm-251028-x%26utm_term=ww-psp-x%26s_category=Paid%26s_source=Paid%2520Other%26s_origin=tldr/4/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/FfunYqWc-twXV7f2UDfND2yT4Um1gzRgIhNGWjmJiiE=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sonarsource.com%2Fsem%2Fthe-coding-personalities-of-leading-llms%2F%3Futm_medium=paid%26utm_source=tldr%26utm_campaign=ss-state-of-llms25%26utm_content=newsletter-ai-primary-expandedllm-251028-x%26utm_term=ww-psp-x%26s_category=Paid%26s_source=Paid%2520Other%26s_origin=tldr/4/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/FfunYqWc-twXV7f2UDfND2yT4Um1gzRgIhNGWjmJiiE=428</guid>
+    </item>
+    <item>
+      <title>The Coding Personalities of Leading LLMs | Sonar</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sonarsource.com%2Fsem%2Fthe-coding-personalities-of-leading-llms%2F%3Futm_medium=paid%26utm_source=tldr%26utm_campaign=ss-state-of-llms25%26utm_content=newsletter-ai-primary-expandedllm-251028-x%26utm_term=ww-psp-x%26s_category=Paid%26s_source=Paid%2520Other%26s_origin=tldr/3/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/C6ZwYg5Nz7u6kysepXt5Kj-v5SUqoD40DlCTffkm99o=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sonarsource.com%2Fsem%2Fthe-coding-personalities-of-leading-llms%2F%3Futm_medium=paid%26utm_source=tldr%26utm_campaign=ss-state-of-llms25%26utm_content=newsletter-ai-primary-expandedllm-251028-x%26utm_term=ww-psp-x%26s_category=Paid%26s_source=Paid%2520Other%26s_origin=tldr/3/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/C6ZwYg5Nz7u6kysepXt5Kj-v5SUqoD40DlCTffkm99o=428</guid>
+    </item>
+    <item>
+      <title>The Coding Personalities of Leading LLMs | Sonar</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sonarsource.com%2Fsem%2Fthe-coding-personalities-of-leading-llms%2F%3Futm_medium=paid%26utm_source=tldr%26utm_campaign=ss-state-of-llms25%26utm_content=newsletter-ai-primary-expandedllm-251028-x%26utm_term=ww-psp-x%26s_category=Paid%26s_source=Paid%2520Other%26s_origin=tldr/2/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/X33qhq9tdq-ttpi1Uuc98bHves8KpJ3GRbNl5w242lI=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sonarsource.com%2Fsem%2Fthe-coding-personalities-of-leading-llms%2F%3Futm_medium=paid%26utm_source=tldr%26utm_campaign=ss-state-of-llms25%26utm_content=newsletter-ai-primary-expandedllm-251028-x%26utm_term=ww-psp-x%26s_category=Paid%26s_source=Paid%2520Other%26s_origin=tldr/2/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/X33qhq9tdq-ttpi1Uuc98bHves8KpJ3GRbNl5w242lI=428</guid>
+    </item>
+    <item>
+      <title>The Coding Personalities of Leading LLMs | Sonar</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sonarsource.com%2Fsem%2Fthe-coding-personalities-of-leading-llms%2F%3Futm_medium=paid%26utm_source=tldr%26utm_campaign=ss-state-of-llms25%26utm_content=newsletter-ai-primary-expandedllm-251028-x%26utm_term=ww-psp-x%26s_category=Paid%26s_source=Paid%2520Other%26s_origin=tldr/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/OmPjhdVvodmGwsoYUnSlZqH7WEjAQLrAWMiq5cdhKgY=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sonarsource.com%2Fsem%2Fthe-coding-personalities-of-leading-llms%2F%3Futm_medium=paid%26utm_source=tldr%26utm_campaign=ss-state-of-llms25%26utm_content=newsletter-ai-primary-expandedllm-251028-x%26utm_term=ww-psp-x%26s_category=Paid%26s_source=Paid%2520Other%26s_origin=tldr/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/OmPjhdVvodmGwsoYUnSlZqH7WEjAQLrAWMiq5cdhKgY=428</guid>
+    </item>
+    <item>
+      <title>TLDR AI</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=c5daded8-b3e8-11f0-810d-e926eeed3e70%26pt=campaign%26t=1761657678%26s=1d926e2ec0abb5b301b7b1a39871fe901e6274223cbfb20c07d27f74f6188500/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/TMSSI4Gue_FUrSWJJanMpDy0jcu4c52q5L8FpIEOz24=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=c5daded8-b3e8-11f0-810d-e926eeed3e70%26pt=campaign%26t=1761657678%26s=1d926e2ec0abb5b301b7b1a39871fe901e6274223cbfb20c07d27f74f6188500/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/TMSSI4Gue_FUrSWJJanMpDy0jcu4c52q5L8FpIEOz24=428</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/ep4Z69ZOGPSypjSrO5WZlFhiiC-06IUvEp3Pek_YE8k=428</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/ep4Z69ZOGPSypjSrO5WZlFhiiC-06IUvEp3Pek_YE8k=428</guid>
     </item>
   </channel>
 </rss>
