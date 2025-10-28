@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 01:00:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 06:21:14 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=967367bc-af1c-11f0-aec7-7f950638887d%26pt=campaign%26pv=4%26spa=1761130836%26t=1761131954%26s=37f23831b0de84af23b7a65933fa0aa4251b849d7ed000256c8442f8c9b14c91/1/0100019a0ba50004-f8e220a1-460f-44e9-bd0b-6dd3a0de57b6-000000/r93m0tfsgQ4JuR8kSZuYymAxwvf343l2LLUYxuoq4Ss=427</link>
@@ -900,6 +900,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.snowflake.com%2Fen%2Fbuild%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=snowflake-build25/2/0100019a1154423e-421468f0-4119-4d05-99df-c0211b7adb3d-000000/ienkpyqt5z52zZMj7-hOscEhPnYUH5dxx7IDxSqXMw0=428</link>
       <description>Link found in newsletter: 'Meta AI layoffs 💼, ChatGPT retention 📈, AI buildout math 🛠️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.snowflake.com%2Fen%2Fbuild%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=snowflake-build25/2/0100019a1154423e-421468f0-4119-4d05-99df-c0211b7adb3d-000000/ienkpyqt5z52zZMj7-hOscEhPnYUH5dxx7IDxSqXMw0=428</guid>
+    </item>
+    <item>
+      <title>BUILD: The Dev Conference for AI &amp; Apps</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.snowflake.com%2Fen%2Fbuild%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=snowflake-build25/1/0100019a1154423e-421468f0-4119-4d05-99df-c0211b7adb3d-000000/kGnAn72rFwH5wFvxWhzOWyJe99BBpoTOv09ZbejczjA=428</link>
+      <description>Link found in newsletter: 'Meta AI layoffs 💼, ChatGPT retention 📈, AI buildout math 🛠️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.snowflake.com%2Fen%2Fbuild%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=snowflake-build25/1/0100019a1154423e-421468f0-4119-4d05-99df-c0211b7adb3d-000000/kGnAn72rFwH5wFvxWhzOWyJe99BBpoTOv09ZbejczjA=428</guid>
     </item>
     <item>
       <title>TLDR AI</title>
