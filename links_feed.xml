@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 27 Oct 2025 18:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Oct 2025 01:00:55 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=967367bc-af1c-11f0-aec7-7f950638887d%26pt=campaign%26pv=4%26spa=1761130836%26t=1761131954%26s=37f23831b0de84af23b7a65933fa0aa4251b849d7ed000256c8442f8c9b14c91/1/0100019a0ba50004-f8e220a1-460f-44e9-bd0b-6dd3a0de57b6-000000/r93m0tfsgQ4JuR8kSZuYymAxwvf343l2LLUYxuoq4Ss=427</link>
@@ -902,12 +902,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.snowflake.com%2Fen%2Fbuild%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=snowflake-build25/2/0100019a1154423e-421468f0-4119-4d05-99df-c0211b7adb3d-000000/ienkpyqt5z52zZMj7-hOscEhPnYUH5dxx7IDxSqXMw0=428</guid>
     </item>
     <item>
-      <title>BUILD: The Dev Conference for AI &amp; Apps</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.snowflake.com%2Fen%2Fbuild%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=snowflake-build25/1/0100019a1154423e-421468f0-4119-4d05-99df-c0211b7adb3d-000000/kGnAn72rFwH5wFvxWhzOWyJe99BBpoTOv09ZbejczjA=428</link>
-      <description>Link found in newsletter: 'Meta AI layoffs 💼, ChatGPT retention 📈, AI buildout math 🛠️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.snowflake.com%2Fen%2Fbuild%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=snowflake-build25/1/0100019a1154423e-421468f0-4119-4d05-99df-c0211b7adb3d-000000/kGnAn72rFwH5wFvxWhzOWyJe99BBpoTOv09ZbejczjA=428</guid>
-    </item>
-    <item>
       <title>TLDR AI</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=9aefb4cc-b001-11f0-9c0c-33bf675d155c%26pt=campaign%26t=1761227325%26s=80268eae39afebbfa3da7ccbb3e5da37b2bc2437f57cfff1de53ce3564cefe15/1/0100019a1154423e-421468f0-4119-4d05-99df-c0211b7adb3d-000000/tpiuV7h2pjFch1_bJz3MEi-iYKGHyhvDLbx3o3WnR9Y=428</link>
       <description>Link found in newsletter: 'Meta AI layoffs 💼, ChatGPT retention 📈, AI buildout math 🛠️'</description>
@@ -1560,6 +1554,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Famit.prasad.me%2Fblog%2Fbefore-main%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/tZXpRzfNyiuMt3nSnXWC1frSOIEo1bQCxVvLsIZUEC4=428</link>
       <description>Link found in newsletter: 'Swift for Android 📱, subtle platform lock-ins 🔒, code like a surgeon 🏥'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Famit.prasad.me%2Fblog%2Fbefore-main%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/tZXpRzfNyiuMt3nSnXWC1frSOIEo1bQCxVvLsIZUEC4=428</guid>
+    </item>
+    <item>
+      <title>How We Saved $500,000 Per Year by Rolling Our Own “S3” | by Miedwar Meshbesher | Oct, 2025 | Nanit Engineering</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.nanit.com%2Fhow-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/9rsWKAb1bqfl7b0H5cv5ZLGSeFB18Lb2k4PXsy5Okg8=428</link>
+      <description>Link found in newsletter: 'Swift for Android 📱, subtle platform lock-ins 🔒, code like a surgeon 🏥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.nanit.com%2Fhow-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/9rsWKAb1bqfl7b0H5cv5ZLGSeFB18Lb2k4PXsy5Okg8=428</guid>
     </item>
     <item>
       <title>ShadCN Themes - Create Beautiful Themes for shadcn/ui | ShadCN Themer</title>
