@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 28 Oct 2025 18:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 01:05:40 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=cae2d28a-afe9-11f0-b8ec-ffe3ba284ac3%26pt=campaign%26pv=4%26spa=1761213678%26t=1761215156%26s=d7f35a237d21506bc56b5aec55f9e085027af04b58d13e4aa1faa2b7fd199701/1/0100019a109a9233-21fd5c68-37dd-4b0b-90c4-9b3c05191937-000000/D22BijvyMiDTujKnTVz0iot0GpDkR-BxdTU_xxkbhxs=428</link>
@@ -1316,6 +1316,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Famit.prasad.me%2Fblog%2Fbefore-main%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/tZXpRzfNyiuMt3nSnXWC1frSOIEo1bQCxVvLsIZUEC4=428</guid>
     </item>
     <item>
+      <title>How We Saved $500,000 Per Year by Rolling Our Own “S3” | by Miedwar Meshbesher | Oct, 2025 | Nanit Engineering</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.nanit.com%2Fhow-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/9rsWKAb1bqfl7b0H5cv5ZLGSeFB18Lb2k4PXsy5Okg8=428</link>
+      <description>Link found in newsletter: 'Swift for Android 📱, subtle platform lock-ins 🔒, code like a surgeon 🏥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.nanit.com%2Fhow-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/9rsWKAb1bqfl7b0H5cv5ZLGSeFB18Lb2k4PXsy5Okg8=428</guid>
+    </item>
+    <item>
       <title>ShadCN Themes - Create Beautiful Themes for shadcn/ui | ShadCN Themer</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshadcnthemer.com%2F%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/eq7EMx1KgF6pXZr66t_kJ8qGPO2idepzbvrKoTGaAV8=428</link>
       <description>Link found in newsletter: 'Swift for Android 📱, subtle platform lock-ins 🔒, code like a surgeon 🏥'</description>
@@ -2076,12 +2082,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2a8a0790-11f746c3-8306-43d6-8457-715e939fd977-000000/BkLMBu4qddj4G0r4uFmcqA0TgSNt3dnrJ30Fp917yDI=429</link>
       <description>Link found in newsletter: 'Avoid 2 AM cron jobs 🌃, when perfect code fails 📉, AI can code but not build 🛠'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2a8a0790-11f746c3-8306-43d6-8457-715e939fd977-000000/BkLMBu4qddj4G0r4uFmcqA0TgSNt3dnrJ30Fp917yDI=429</guid>
-    </item>
-    <item>
-      <title>borgrodrick · Kill the Newsletter!</title>
-      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
-      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
-      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
     </item>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
