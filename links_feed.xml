@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 01:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Oct 2025 06:21:27 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=cae2d28a-afe9-11f0-b8ec-ffe3ba284ac3%26pt=campaign%26pv=4%26spa=1761213678%26t=1761215156%26s=d7f35a237d21506bc56b5aec55f9e085027af04b58d13e4aa1faa2b7fd199701/1/0100019a109a9233-21fd5c68-37dd-4b0b-90c4-9b3c05191937-000000/D22BijvyMiDTujKnTVz0iot0GpDkR-BxdTU_xxkbhxs=428</link>
@@ -444,12 +444,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107633%2Fwayfair-expands-affirm-partnership%3Futm_source=tldrfintech/1/0100019a112e98dc-bbfcabd6-0d96-4a2d-984a-6cfa8a580940-000000/JPqVfu7V1HysepTvZX8vmmSDo7mfRAJ-PYRET122020=428</link>
       <description>Link found in newsletter: 'OpenAI hires 100+ ex-bankers 🏦, Wayfair expands Affirm partnership 💰, Visa’s Trusted Agent Protocol 🖥️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107633%2Fwayfair-expands-affirm-partnership%3Futm_source=tldrfintech/1/0100019a112e98dc-bbfcabd6-0d96-4a2d-984a-6cfa8a580940-000000/JPqVfu7V1HysepTvZX8vmmSDo7mfRAJ-PYRET122020=428</guid>
-    </item>
-    <item>
-      <title>OpenAI Looks to Replace the Drudgery of Junior Bankers’ Workload - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FO5rNtU/1/0100019a112e98dc-bbfcabd6-0d96-4a2d-984a-6cfa8a580940-000000/U1JC8TrJc1WW9Bah2sQhvK2KhhCGr2NKygsBfMqKXgU=428</link>
-      <description>Link found in newsletter: 'OpenAI hires 100+ ex-bankers 🏦, Wayfair expands Affirm partnership 💰, Visa’s Trusted Agent Protocol 🖥️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FO5rNtU/1/0100019a112e98dc-bbfcabd6-0d96-4a2d-984a-6cfa8a580940-000000/U1JC8TrJc1WW9Bah2sQhvK2KhhCGr2NKygsBfMqKXgU=428</guid>
     </item>
     <item>
       <title>The Friction Report by Cleverbridge | What’s Stalling SaaS Growth</title>
@@ -1226,12 +1220,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fkr-asia.com%2Fnvidia-is-reportedly-planning-a-robotaxi-project-to-challenge-tesla-waymo%3Futm_source=tldrnewsletter/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/gsea1yVa44eV7v1VADvZJKQxhobNRBKlpw9FMDMAXPY=428</guid>
     </item>
     <item>
-      <title>Amazon's AWS Is Slowed by Bloat as Competitors Clinch AI Deals - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FAZepHN/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/T1lgVoR61oC1zmJ5QOwPgnDcFJv73Iyz6u9gnaKEDhk=428</link>
-      <description>Link found in newsletter: 'AWS struggles 📉, Nvidia robotaxi 🚕, Swift for Android 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FAZepHN/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/T1lgVoR61oC1zmJ5QOwPgnDcFJv73Iyz6u9gnaKEDhk=428</guid>
-    </item>
-    <item>
       <title>Sign Up - Auth0</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fauth0.com%2Fsignup%3Fonboard_app=genai%26ocid=7014z000001NyoxAAC-aPA4z0000008OZeGAM%3Futm_source=tldr%26utm_campaign=global_mult_mult_all_ciam-dev_dg-plg_auth0_native_tldr_newsletter_aud_A4AA-GA-TLDR-Primary-Oct27_utm2%26utm_medium=cpc%26utm_id=aNKKZ00000004uD4AQ/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/V73aEJ4XYWBQB48roGcSfurtZlJ8zhGRtuu3frIGrkk=428</link>
       <description>Link found in newsletter: 'AWS struggles 📉, Nvidia robotaxi 🚕, Swift for Android 👨‍💻'</description>
@@ -1554,12 +1542,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46794%2Famerican-fintech-council-calls-on-cfpb-to-prohibit-open-banking-data-access-fees%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/0FG6OA8f7yPvn8QdO7Us7Bm7zg9mhmtjO8SPbYfYxsk=428</link>
       <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46794%2Famerican-fintech-council-calls-on-cfpb-to-prohibit-open-banking-data-access-fees%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/0FG6OA8f7yPvn8QdO7Us7Bm7zg9mhmtjO8SPbYfYxsk=428</guid>
-    </item>
-    <item>
-      <title>Stablecoin Use for Payments Jumps 70% Since US Regulation - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FzozJzZ/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/txYQ-JSp6AxbXFOHFd8uXEzEt3mm7vBEaLaZTjidJTA=428</link>
-      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FzozJzZ/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/txYQ-JSp6AxbXFOHFd8uXEzEt3mm7vBEaLaZTjidJTA=428</guid>
     </item>
     <item>
       <title>NHL inks deal with prediction markets Kalshi and Polymarket - ESPN</title>
@@ -2082,6 +2064,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2a8a0790-11f746c3-8306-43d6-8457-715e939fd977-000000/BkLMBu4qddj4G0r4uFmcqA0TgSNt3dnrJ30Fp917yDI=429</link>
       <description>Link found in newsletter: 'Avoid 2 AM cron jobs 🌃, when perfect code fails 📉, AI can code but not build 🛠'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2a8a0790-11f746c3-8306-43d6-8457-715e939fd977-000000/BkLMBu4qddj4G0r4uFmcqA0TgSNt3dnrJ30Fp917yDI=429</guid>
+    </item>
+    <item>
+      <title>borgrodrick · Kill the Newsletter!</title>
+      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
+      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
+      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
     </item>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
