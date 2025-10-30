@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 29 Oct 2025 18:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 01:04:46 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=3c7011b6-b0b1-11f0-b5e2-a13078326766%26pt=campaign%26pv=4%26spa=1761300054%26t=1761303653%26s=fe5fd324b915be840ccdcd55fe7b333563c950ce156565183b062dceb225487e/1/0100019a15e0ebd3-93ee92dc-e9d1-4042-b44c-6e0322b9a7cc-000000/4xXJ3FRkIAKAfVjmp1M-Ff2p4lS5ujXPGC8aykhj7SM=428</link>
@@ -368,6 +368,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019a16624cc3-465fd0a6-7e23-4968-88bd-d567cde317c9-000000/B8sq3IWttBmieRv3eA7KgbQzC1_3j7PnOThZcGS9WUg=428</guid>
     </item>
     <item>
+      <title>Human-centered AI   | Microsoft Copilot Blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.microsoft.com%2Fen-us%2Fmicrosoft-copilot%2Fblog%2F2025%2F10%2F23%2Fhuman-centered-ai%2F%3Futm_source=tldrai/1/0100019a16624cc3-465fd0a6-7e23-4968-88bd-d567cde317c9-000000/YefxzJDHodnyzU3DApN34qrPDA2vACxiQpNF8J8DXMA=428</link>
+      <description>Link found in newsletter: 'ChatGPT Company Knowledge 💼, Microsoft AI browser 💻, Context via links 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.microsoft.com%2Fen-us%2Fmicrosoft-copilot%2Fblog%2F2025%2F10%2F23%2Fhuman-centered-ai%2F%3Futm_source=tldrai/1/0100019a16624cc3-465fd0a6-7e23-4968-88bd-d567cde317c9-000000/YefxzJDHodnyzU3DApN34qrPDA2vACxiQpNF8J8DXMA=428</guid>
+    </item>
+    <item>
       <title>Google prepares Genie 3 public experiment with AI worlds</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fgoogle-prepares-genie-3-public-experiment-with-ai-generated-worlds%2F%3Futm_source=tldrai/1/0100019a16624cc3-465fd0a6-7e23-4968-88bd-d567cde317c9-000000/iV9hJ4FfepYA61saho9MfU6-zao8SYEOL70LUHfE5kY=428</link>
       <description>Link found in newsletter: 'ChatGPT Company Knowledge 💼, Microsoft AI browser 💻, Context via links 👨‍💻'</description>
@@ -678,6 +684,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.nanit.com%2Fhow-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/9rsWKAb1bqfl7b0H5cv5ZLGSeFB18Lb2k4PXsy5Okg8=428</link>
       <description>Link found in newsletter: 'Swift for Android 📱, subtle platform lock-ins 🔒, code like a surgeon 🏥'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.nanit.com%2Fhow-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/9rsWKAb1bqfl7b0H5cv5ZLGSeFB18Lb2k4PXsy5Okg8=428</guid>
+    </item>
+    <item>
+      <title>ShadCN Themes - Create Beautiful Themes for shadcn/ui | ShadCN Themer</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshadcnthemer.com%2F%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/eq7EMx1KgF6pXZr66t_kJ8qGPO2idepzbvrKoTGaAV8=428</link>
+      <description>Link found in newsletter: 'Swift for Android 📱, subtle platform lock-ins 🔒, code like a surgeon 🏥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fshadcnthemer.com%2F%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/eq7EMx1KgF6pXZr66t_kJ8qGPO2idepzbvrKoTGaAV8=428</guid>
     </item>
     <item>
       <title>GitHub - RohanAdwankar/oxdraw: Diagram as Code Tool Written in Rust with Draggable Editing</title>
