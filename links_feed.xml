@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 30 Oct 2025 01:04:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 06:20:22 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=3c7011b6-b0b1-11f0-b5e2-a13078326766%26pt=campaign%26pv=4%26spa=1761300054%26t=1761303653%26s=fe5fd324b915be840ccdcd55fe7b333563c950ce156565183b062dceb225487e/1/0100019a15e0ebd3-93ee92dc-e9d1-4042-b44c-6e0322b9a7cc-000000/4xXJ3FRkIAKAfVjmp1M-Ff2p4lS5ujXPGC8aykhj7SM=428</link>
@@ -18,12 +18,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a15e0ebd3-93ee92dc-e9d1-4042-b44c-6e0322b9a7cc-000000/xBdjwXP7M2HLqAZPVRoCDOYJk2l7lIEOAGmMv9Glga0=428</link>
       <description>Link found in newsletter: 'Google Anthropic deal 💰, AWS post-mortem 👨‍💻, tech bids for Warner Bros 🎬'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a15e0ebd3-93ee92dc-e9d1-4042-b44c-6e0322b9a7cc-000000/xBdjwXP7M2HLqAZPVRoCDOYJk2l7lIEOAGmMv9Glga0=428</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a15e0ebd3-93ee92dc-e9d1-4042-b44c-6e0322b9a7cc-000000/kXhYh-HCiCDykxMjLoqQewP8XJmllqk2j8F4ahYRMPY=428</link>
-      <description>Link found in newsletter: 'Google Anthropic deal 💰, AWS post-mortem 👨‍💻, tech bids for Warner Bros 🎬'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a15e0ebd3-93ee92dc-e9d1-4042-b44c-6e0322b9a7cc-000000/kXhYh-HCiCDykxMjLoqQewP8XJmllqk2j8F4ahYRMPY=428</guid>
     </item>
     <item>
       <title>TLDR Newsletter | Referral Hub</title>
@@ -158,12 +152,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=3c7011b6-b0b1-11f0-b5e2-a13078326766%26pt=campaign%26t=1761303653%26s=b4f51df680694c9747c8b0d46dd442c44f53abe440faf24c1b69197c2128887e/1/0100019a15e0ebd3-93ee92dc-e9d1-4042-b44c-6e0322b9a7cc-000000/7mcfgqcm-B5LULfgFSPlfbZx2lgaH9k9uGOGNyd1sYA=428</guid>
     </item>
     <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a15e0ebd3-93ee92dc-e9d1-4042-b44c-6e0322b9a7cc-000000/hlWPntF9SCwR-_O7thxbeFS_-LJFiw21S9-L4vHDsfc=428</link>
-      <description>Link found in newsletter: 'Google Anthropic deal 💰, AWS post-mortem 👨‍💻, tech bids for Warner Bros 🎬'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a15e0ebd3-93ee92dc-e9d1-4042-b44c-6e0322b9a7cc-000000/hlWPntF9SCwR-_O7thxbeFS_-LJFiw21S9-L4vHDsfc=428</guid>
-    </item>
-    <item>
       <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019a15e0ebd3-93ee92dc-e9d1-4042-b44c-6e0322b9a7cc-000000/s6GVE71F-SVavpbZUwd2zP2ZrlGFUs_PUMJcHB0gdxU=428</link>
       <description>Link found in newsletter: 'Google Anthropic deal 💰, AWS post-mortem 👨‍💻, tech bids for Warner Bros 🎬'</description>
@@ -186,12 +174,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a15f97f4d-6105d33c-d7c3-49ff-bfb7-badc6a60f27f-000000/AV8oPzR_BWI2KkJ50lRpnzjhA7D9qb8QXMwcaNFYze8=428</link>
       <description>Link found in newsletter: 'Hacking Formula 1 🏎, living dangerously with Claude 🦈, non-mandatory code reviews ⛓️‍💥'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a15f97f4d-6105d33c-d7c3-49ff-bfb7-badc6a60f27f-000000/AV8oPzR_BWI2KkJ50lRpnzjhA7D9qb8QXMwcaNFYze8=428</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a15f97f4d-6105d33c-d7c3-49ff-bfb7-badc6a60f27f-000000/B329Q42zhTlPWIHy4ATkip7HSBAb-A9umgry5ajLOqI=428</link>
-      <description>Link found in newsletter: 'Hacking Formula 1 🏎, living dangerously with Claude 🦈, non-mandatory code reviews ⛓️‍💥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a15f97f4d-6105d33c-d7c3-49ff-bfb7-badc6a60f27f-000000/B329Q42zhTlPWIHy4ATkip7HSBAb-A9umgry5ajLOqI=428</guid>
     </item>
     <item>
       <title>TLDR Web Dev | Referral Hub</title>
@@ -332,12 +314,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=bfd72b64-b0b3-11f0-ad33-8fae2d32b46f%26pt=campaign%26t=1761305263%26s=64797110f2d1bf63b82cdf43129f68be91681b27e0d9a54f0cfe13191f4d6a4b/1/0100019a15f97f4d-6105d33c-d7c3-49ff-bfb7-badc6a60f27f-000000/_SGy-Wb3M0clN1kQd636KRObebaURMzAZF1Jex_prCo=428</guid>
     </item>
     <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a15f97f4d-6105d33c-d7c3-49ff-bfb7-badc6a60f27f-000000/Y3nRYmvJ_1TAL6FrfDJkwglEYcqS08teUYuMxzw0gas=428</link>
-      <description>Link found in newsletter: 'Hacking Formula 1 🏎, living dangerously with Claude 🦈, non-mandatory code reviews ⛓️‍💥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a15f97f4d-6105d33c-d7c3-49ff-bfb7-badc6a60f27f-000000/Y3nRYmvJ_1TAL6FrfDJkwglEYcqS08teUYuMxzw0gas=428</guid>
-    </item>
-    <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=3f21b888-b0c5-11f0-b033-fdaa66d341fb%26pt=campaign%26pv=4%26spa=1761310859%26t=1761312132%26s=f67beda3555d06e45a1e93bd8f6c2f9dbe6ff7a6490457bd35c478722bc37c55/1/0100019a16624cc3-465fd0a6-7e23-4968-88bd-d567cde317c9-000000/pCSzk13i5XelNC5sWmHfHlgIkp1FvNYXXILGF6xxL8I=428</link>
       <description>Link found in newsletter: 'ChatGPT Company Knowledge 💼, Microsoft AI browser 💻, Context via links 👨‍💻'</description>
@@ -354,12 +330,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a16624cc3-465fd0a6-7e23-4968-88bd-d567cde317c9-000000/EQO7HvqJIqQ0IzDmrsZDca3d9HiA-2W6Cw_RAmJTbpg=428</link>
       <description>Link found in newsletter: 'ChatGPT Company Knowledge 💼, Microsoft AI browser 💻, Context via links 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a16624cc3-465fd0a6-7e23-4968-88bd-d567cde317c9-000000/EQO7HvqJIqQ0IzDmrsZDca3d9HiA-2W6Cw_RAmJTbpg=428</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a16624cc3-465fd0a6-7e23-4968-88bd-d567cde317c9-000000/-D5Voy5FJE0RlGY2B9zwpYjnnkpvt45yyGzJwYDxOcE=428</link>
-      <description>Link found in newsletter: 'ChatGPT Company Knowledge 💼, Microsoft AI browser 💻, Context via links 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a16624cc3-465fd0a6-7e23-4968-88bd-d567cde317c9-000000/-D5Voy5FJE0RlGY2B9zwpYjnnkpvt45yyGzJwYDxOcE=428</guid>
     </item>
     <item>
       <title>TLDR AI | Referral Hub</title>
@@ -464,12 +434,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=3f21b888-b0c5-11f0-b033-fdaa66d341fb%26pt=campaign%26t=1761312132%26s=67337022709d0c3023b2a040e3765de126cd9c37ff329e631357f0f31d70a3e6/1/0100019a16624cc3-465fd0a6-7e23-4968-88bd-d567cde317c9-000000/jXugk_drxW1SHYi0q8_UDyorC_giFnoWYK9ckxGDpKM=428</guid>
     </item>
     <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a16624cc3-465fd0a6-7e23-4968-88bd-d567cde317c9-000000/rwzg5Lo5i14f89AYpH9I0kVLS5XzgsmV1Lng8pMopso=428</link>
-      <description>Link found in newsletter: 'ChatGPT Company Knowledge 💼, Microsoft AI browser 💻, Context via links 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a16624cc3-465fd0a6-7e23-4968-88bd-d567cde317c9-000000/rwzg5Lo5i14f89AYpH9I0kVLS5XzgsmV1Lng8pMopso=428</guid>
-    </item>
-    <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=01d494c2-b30a-11f0-ba75-833efd24c2db%26pt=campaign%26pv=4%26spa=1761559251%26t=1761560714%26s=646f6f88a79026f0ca00dfbc82d38a790a943306a8b8ac2cad8d647ebaa435aa/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/wGR6Ek1Kk9jr_WlYf23sdn35V8b03vx4t5I5tfRZC4M=428</link>
       <description>Link found in newsletter: 'AWS struggles 📉, Nvidia robotaxi 🚕, Swift for Android 👨‍💻'</description>
@@ -480,12 +444,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/UCQkNAlQN5YYnkb0JkF7_7b94wfH8Qp5AP8-SQmvEvQ=428</link>
       <description>Link found in newsletter: 'AWS struggles 📉, Nvidia robotaxi 🚕, Swift for Android 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/UCQkNAlQN5YYnkb0JkF7_7b94wfH8Qp5AP8-SQmvEvQ=428</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/rX-FttemImhFmAUN42VRaNOTyym5_FMAW-4VJ7MNZLk=428</link>
-      <description>Link found in newsletter: 'AWS struggles 📉, Nvidia robotaxi 🚕, Swift for Android 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/rX-FttemImhFmAUN42VRaNOTyym5_FMAW-4VJ7MNZLk=428</guid>
     </item>
     <item>
       <title>TLDR Newsletter | Referral Hub</title>
@@ -554,24 +512,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.swift.org%2Fblog%2Fnightly-swift-sdk-for-android%2F%3Futm_source=tldrnewsletter/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/86OxVJjHTTajiqkogVslE8ih_FcNqs-YkSAggVaDFx0=428</guid>
     </item>
     <item>
-      <title>Code like a surgeon</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.geoffreylitt.com%2F2025%2F10%2F24%2Fcode-like-a-surgeon%3Futm_source=tldrnewsletter/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/Lk1ziCTNglHJ19HjTyO329pp571dlgvwd4EY77DB-vc=428</link>
-      <description>Link found in newsletter: 'AWS struggles 📉, Nvidia robotaxi 🚕, Swift for Android 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.geoffreylitt.com%2F2025%2F10%2F24%2Fcode-like-a-surgeon%3Futm_source=tldrnewsletter/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/Lk1ziCTNglHJ19HjTyO329pp571dlgvwd4EY77DB-vc=428</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=secondary10272025/2/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/7nf6UyXnH8OIzPM8TL97TE1gogv0CvqiAikloyZebHM=428</link>
-      <description>Link found in newsletter: 'AWS struggles 📉, Nvidia robotaxi 🚕, Swift for Android 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=secondary10272025/2/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/7nf6UyXnH8OIzPM8TL97TE1gogv0CvqiAikloyZebHM=428</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=secondary10272025/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/xYK5zUFECfonBj_JuiTCc65krlkKoRMoAyM4zEdF2Q0=428</link>
-      <description>Link found in newsletter: 'AWS struggles 📉, Nvidia robotaxi 🚕, Swift for Android 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=secondary10272025/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/xYK5zUFECfonBj_JuiTCc65krlkKoRMoAyM4zEdF2Q0=428</guid>
-    </item>
-    <item>
       <title>In a first, a data center is using a big battery to… | Canary Media</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.canarymedia.com%2Farticles%2Fbatteries%2Faligned-data-center-get-online-faster%3Futm_source=tldrnewsletter/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/YRIvSR72VxGkPRTg_r9vuGa8UO9kd1K-taa-LJ6uBJ0=428</link>
       <description>Link found in newsletter: 'AWS struggles 📉, Nvidia robotaxi 🚕, Swift for Android 👨‍💻'</description>
@@ -608,12 +548,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=01d494c2-b30a-11f0-ba75-833efd24c2db%26pt=campaign%26t=1761560714%26s=fa6cc23727512418e4fb12b9e81d8b01d7f1f544362ee283de3d82b3bd15f648/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/ioNmKMYWdNEvsBncF3uvrgo90qviim8MI3T2aL90hwg=428</guid>
     </item>
     <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/twf7FVEQWja4gziP9MGifUVux26AdQkmbg-7JHKzIpA=428</link>
-      <description>Link found in newsletter: 'AWS struggles 📉, Nvidia robotaxi 🚕, Swift for Android 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/twf7FVEQWja4gziP9MGifUVux26AdQkmbg-7JHKzIpA=428</guid>
-    </item>
-    <item>
       <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/BJH02X4zGe2Dipy_CZUvxjhKIuNN0D4exTXCAeH5wsY=428</link>
       <description>Link found in newsletter: 'AWS struggles 📉, Nvidia robotaxi 🚕, Swift for Android 👨‍💻'</description>
@@ -636,12 +570,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/kvJSBHOy_swFQ2j8jAq-JFjF1PkFGXPesbbnR2a3xCc=428</link>
       <description>Link found in newsletter: 'Swift for Android 📱, subtle platform lock-ins 🔒, code like a surgeon 🏥'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/kvJSBHOy_swFQ2j8jAq-JFjF1PkFGXPesbbnR2a3xCc=428</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/v2AvmCS264WsDNxaCmIJlczSbbpDv-Azlb57Yyo0UpE=428</link>
-      <description>Link found in newsletter: 'Swift for Android 📱, subtle platform lock-ins 🔒, code like a surgeon 🏥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/v2AvmCS264WsDNxaCmIJlczSbbpDv-Azlb57Yyo0UpE=428</guid>
     </item>
     <item>
       <title>TLDR Web Dev | Referral Hub</title>
@@ -678,12 +606,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Famit.prasad.me%2Fblog%2Fbefore-main%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/tZXpRzfNyiuMt3nSnXWC1frSOIEo1bQCxVvLsIZUEC4=428</link>
       <description>Link found in newsletter: 'Swift for Android 📱, subtle platform lock-ins 🔒, code like a surgeon 🏥'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Famit.prasad.me%2Fblog%2Fbefore-main%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/tZXpRzfNyiuMt3nSnXWC1frSOIEo1bQCxVvLsIZUEC4=428</guid>
-    </item>
-    <item>
-      <title>How We Saved $500,000 Per Year by Rolling Our Own “S3” | by Miedwar Meshbesher | Oct, 2025 | Nanit Engineering</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.nanit.com%2Fhow-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/9rsWKAb1bqfl7b0H5cv5ZLGSeFB18Lb2k4PXsy5Okg8=428</link>
-      <description>Link found in newsletter: 'Swift for Android 📱, subtle platform lock-ins 🔒, code like a surgeon 🏥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.nanit.com%2Fhow-we-saved-500-000-per-year-by-rolling-our-own-s3-6caec1ee1143%3Futm_source=tldrwebdev/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/9rsWKAb1bqfl7b0H5cv5ZLGSeFB18Lb2k4PXsy5Okg8=428</guid>
     </item>
     <item>
       <title>ShadCN Themes - Create Beautiful Themes for shadcn/ui | ShadCN Themer</title>
@@ -782,12 +704,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=6398af6e-b304-11f0-bf36-c5a59121b364%26pt=campaign%26t=1761563953%26s=9141c21f5cf64f63349bfc36311cae45ea0b8d404a726cbcf8fcd313ecbdef91/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/j_DILUD1mSYpByMj9CMOnN0MGbqx2OL519eTMYzcH2E=428</guid>
     </item>
     <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/ysSg-kKS59TiWJUUw6Ch7QRCbaDz6AJd8-WdEowpm_A=428</link>
-      <description>Link found in newsletter: 'Swift for Android 📱, subtle platform lock-ins 🔒, code like a surgeon 🏥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2564c9f5-f528779c-9459-47d8-9258-89fa4fad4135-000000/ysSg-kKS59TiWJUUw6Ch7QRCbaDz6AJd8-WdEowpm_A=428</guid>
-    </item>
-    <item>
       <title>Email Disclaimer  | Galaxy</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.galaxy.com%2Femail-disclaimer-2025/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/T8wCGKd0MnBHVuqt2DXzKKZAV396iKebst53qQ-WHxs=428</link>
       <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
@@ -816,12 +732,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/dDmBAXii0I3OjaDI7pkPOnSvtu_YecCMlqSnHn9YIGM=428</link>
       <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/dDmBAXii0I3OjaDI7pkPOnSvtu_YecCMlqSnHn9YIGM=428</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/Qe2cbW5N_3CJec2BXeGrt_5HhCUgnIK-AM5zuzoXj9c=428</link>
-      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/Qe2cbW5N_3CJec2BXeGrt_5HhCUgnIK-AM5zuzoXj9c=428</guid>
     </item>
     <item>
       <title>Zip US expands partnership with Stripe</title>
@@ -968,12 +878,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=9ea0842a-b312-11f0-bfd3-3bc40e509c6a%26pt=campaign%26t=1761570500%26s=e6845795b6c800f50ae4a3eee2a44e4efade424993e0694b19a9de8fb1baf9af/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/TdksT-I8aX_MCP5KQ8AW_WZwRn7zZGFNvi9RTagVJbU=428</guid>
     </item>
     <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/szqZixX20YNxflVPp_oZRqFu9OLEjqRF88DqRlL6j6A=428</link>
-      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/szqZixX20YNxflVPp_oZRqFu9OLEjqRF88DqRlL6j6A=428</guid>
-    </item>
-    <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=69d2c8e8-b321-11f0-9ae7-e155e9daa10d%26pt=campaign%26pv=4%26spa=1761570073%26t=1761571477%26s=57f50cb5c0d2b726473497c9a7bb2b341ca0177733bb6898b3431a12c4ab47d2/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/E6UcLeWXoRrnuScKdauwPK4W6PDE_g-ZPGdw-03zwCU=428</link>
       <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
@@ -990,12 +894,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/PCqo3Ztg1DwmZ63tihKSFxqDXrrNjruoke4ouHmTulQ=428</link>
       <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/PCqo3Ztg1DwmZ63tihKSFxqDXrrNjruoke4ouHmTulQ=428</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/3BE6hxxz6WM9gUb7A0xOb1faVJNU9MbVNxEhbBZAQi0=428</link>
-      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/3BE6hxxz6WM9gUb7A0xOb1faVJNU9MbVNxEhbBZAQi0=428</guid>
     </item>
     <item>
       <title>TLDR AI | Referral Hub</title>
@@ -1100,46 +998,10 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F10%2F25%2Fopenai-reportedly-developing-new-generative-music-tool%2F%3Futm_source=tldrai/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/kPdXyZ2vfmdnbOCB1K--gYUtovvkUAgnJHbsusR3ew0=428</guid>
     </item>
     <item>
-      <title>Free AI Masterclass | Cut Product Development Time | Miro</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/5/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/TxDgsPLNu35sG-leSiMpegrH_Y0X5NBz9wsuozlKjs4=428</link>
-      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/5/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/TxDgsPLNu35sG-leSiMpegrH_Y0X5NBz9wsuozlKjs4=428</guid>
-    </item>
-    <item>
-      <title>Free AI Masterclass | Cut Product Development Time | Miro</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/4/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/K7gxHRgtzznFAG4-EHioaRSqZJN8yO6LStRcE46cpR4=428</link>
-      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/4/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/K7gxHRgtzznFAG4-EHioaRSqZJN8yO6LStRcE46cpR4=428</guid>
-    </item>
-    <item>
-      <title>Free AI Masterclass | Cut Product Development Time | Miro</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/3/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/Ny4HC5iwKpZb7XSLCKZ8by_e0tV6eFF_hU61ORfnH5w=428</link>
-      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/3/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/Ny4HC5iwKpZb7XSLCKZ8by_e0tV6eFF_hU61ORfnH5w=428</guid>
-    </item>
-    <item>
-      <title>Free AI Masterclass | Cut Product Development Time | Miro</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/2/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/q0IpHM52VD5mt7KHl8Up2ubHFxetx8SW0Hm72Vg6hC4=428</link>
-      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/2/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/q0IpHM52VD5mt7KHl8Up2ubHFxetx8SW0Hm72Vg6hC4=428</guid>
-    </item>
-    <item>
-      <title>Free AI Masterclass | Cut Product Development Time | Miro</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/VhKMYbrODMctw_7-eWze0zQwjEXSyZaFIwq2did1zco=428</link>
-      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fwebinars%2Fproduct-masterclass-2025%2F%3Futm_campaign=glb-26q4-nsp-wb-hi-c3_o2-fy26_product_masterclass_webinars%26utm_source=tldr%26utm_medium=email%26utm_content=webinar%2520-%2520high%2520intent%26src=-tldr_glb/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/VhKMYbrODMctw_7-eWze0zQwjEXSyZaFIwq2did1zco=428</guid>
-    </item>
-    <item>
       <title>TLDR AI</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=69d2c8e8-b321-11f0-9ae7-e155e9daa10d%26pt=campaign%26t=1761571477%26s=c694e0cbc3a88395eab8593306324a50eacd66dc9caa86e3678c63aa5235889c/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/vLmpyIJv-CytBQ2YhTtabimaYeT8qnox9X6-p4oevsw=428</link>
       <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=69d2c8e8-b321-11f0-9ae7-e155e9daa10d%26pt=campaign%26t=1761571477%26s=c694e0cbc3a88395eab8593306324a50eacd66dc9caa86e3678c63aa5235889c/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/vLmpyIJv-CytBQ2YhTtabimaYeT8qnox9X6-p4oevsw=428</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/65zGf_KrRIxJnmEy-FqUf5rLvXHfZy86H4xf_k3c4gQ=428</link>
-      <description>Link found in newsletter: 'SoftBank + OpenAI $22.5B 💰, OpenAI genAI music 🎵, mitigating prompt injections 💉'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/65zGf_KrRIxJnmEy-FqUf5rLvXHfZy86H4xf_k3c4gQ=428</guid>
     </item>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
@@ -1152,12 +1014,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a2a59e87c-df1e1f0b-e3f6-40b3-bfb2-12fa057a76e5-000000/9_tj1mRYKDr-KPp9X_rgkhrhEO21iRN39hqJtRr4PsY=428</link>
       <description>Link found in newsletter: 'Amazon 30k layoffs 💼, Anthropic vs OpenAI 📈, IP anonymization 🕵️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a2a59e87c-df1e1f0b-e3f6-40b3-bfb2-12fa057a76e5-000000/9_tj1mRYKDr-KPp9X_rgkhrhEO21iRN39hqJtRr4PsY=428</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a2a59e87c-df1e1f0b-e3f6-40b3-bfb2-12fa057a76e5-000000/d3bjgsvKRnYogfroZPtcJ1CmiMdDgaHkn8miFVwTWFE=428</link>
-      <description>Link found in newsletter: 'Amazon 30k layoffs 💼, Anthropic vs OpenAI 📈, IP anonymization 🕵️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a2a59e87c-df1e1f0b-e3f6-40b3-bfb2-12fa057a76e5-000000/d3bjgsvKRnYogfroZPtcJ1CmiMdDgaHkn8miFVwTWFE=428</guid>
     </item>
     <item>
       <title>TLDR Newsletter | Referral Hub</title>
@@ -1280,12 +1136,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=0d7ae5c4-b3d2-11f0-9e74-1f4399c5a710%26pt=campaign%26t=1761647126%26s=803b20b912a4b26e54c2e2be694cfa3fa8eea30e2d881daab9e063f955f46527/1/0100019a2a59e87c-df1e1f0b-e3f6-40b3-bfb2-12fa057a76e5-000000/Nw8fm8xuuhApVsO561DGqzX0tJrz7G9a2uJNh0wZe_M=428</guid>
     </item>
     <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2a59e87c-df1e1f0b-e3f6-40b3-bfb2-12fa057a76e5-000000/jNwngqNe94iWppeKmIla4bI3BGzdEUWGDmzd_zF-Ry8=428</link>
-      <description>Link found in newsletter: 'Amazon 30k layoffs 💼, Anthropic vs OpenAI 📈, IP anonymization 🕵️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2a59e87c-df1e1f0b-e3f6-40b3-bfb2-12fa057a76e5-000000/jNwngqNe94iWppeKmIla4bI3BGzdEUWGDmzd_zF-Ry8=428</guid>
-    </item>
-    <item>
       <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019a2a59e87c-df1e1f0b-e3f6-40b3-bfb2-12fa057a76e5-000000/cpTn07NlUOF87AotJQZd73mRF4SaTRoTcInD4MOm46c=428</link>
       <description>Link found in newsletter: 'Amazon 30k layoffs 💼, Anthropic vs OpenAI 📈, IP anonymization 🕵️'</description>
@@ -1308,12 +1158,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a2a8a0790-11f746c3-8306-43d6-8457-715e939fd977-000000/v55Y5-JD2SBq1tgOn_feNQq7IQUwMkLBUSVdUNL9U8Q=429</link>
       <description>Link found in newsletter: 'Avoid 2 AM cron jobs 🌃, when perfect code fails 📉, AI can code but not build 🛠'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a2a8a0790-11f746c3-8306-43d6-8457-715e939fd977-000000/v55Y5-JD2SBq1tgOn_feNQq7IQUwMkLBUSVdUNL9U8Q=429</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a2a8a0790-11f746c3-8306-43d6-8457-715e939fd977-000000/P15r1AfTS8GQeQfsNjmmUUxdOPVm3mRsUcIdAS66vFI=429</link>
-      <description>Link found in newsletter: 'Avoid 2 AM cron jobs 🌃, when perfect code fails 📉, AI can code but not build 🛠'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a2a8a0790-11f746c3-8306-43d6-8457-715e939fd977-000000/P15r1AfTS8GQeQfsNjmmUUxdOPVm3mRsUcIdAS66vFI=429</guid>
     </item>
     <item>
       <title>TLDR Web Dev | Referral Hub</title>
@@ -1442,12 +1286,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=bcf4372c-b3d6-11f0-aef8-1f4399c5a710%26pt=campaign%26t=1761650280%26s=5b8d36f8f33a92965af7fa8ec33ea954b22b6ded6ab1e83cde072c6d4b719560/1/0100019a2a8a0790-11f746c3-8306-43d6-8457-715e939fd977-000000/wNj0D_OXqV22W3XSMBBrN4KbFKK_nh_vegRYmecPHok=429</guid>
     </item>
     <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2a8a0790-11f746c3-8306-43d6-8457-715e939fd977-000000/BkLMBu4qddj4G0r4uFmcqA0TgSNt3dnrJ30Fp917yDI=429</link>
-      <description>Link found in newsletter: 'Avoid 2 AM cron jobs 🌃, when perfect code fails 📉, AI can code but not build 🛠'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2a8a0790-11f746c3-8306-43d6-8457-715e939fd977-000000/BkLMBu4qddj4G0r4uFmcqA0TgSNt3dnrJ30Fp917yDI=429</guid>
-    </item>
-    <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=c5daded8-b3e8-11f0-810d-e926eeed3e70%26pt=campaign%26pv=4%26spa=1761656519%26t=1761657678%26s=98eb26c1c6ad697a6c43209772b4bf14e1e5549157bab45ae79e0a5615dbfaea/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/6h4L8L73v8IqAxPye5AIed_TSTbFpcE3RIxdyHriruU=428</link>
       <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
@@ -1464,12 +1302,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/fMoCcNZByaIXMRQ58NMb_d_fjav_SQqT8Vqd_AUdbKk=428</link>
       <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/fMoCcNZByaIXMRQ58NMb_d_fjav_SQqT8Vqd_AUdbKk=428</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/A408lJnBNURGz4TF5L6mX2_SGv8lkA77QNGJ8yp3Jes=428</link>
-      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/A408lJnBNURGz4TF5L6mX2_SGv8lkA77QNGJ8yp3Jes=428</guid>
     </item>
     <item>
       <title>TLDR AI | Referral Hub</title>
@@ -1592,12 +1424,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=c5daded8-b3e8-11f0-810d-e926eeed3e70%26pt=campaign%26t=1761657678%26s=1d926e2ec0abb5b301b7b1a39871fe901e6274223cbfb20c07d27f74f6188500/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/TMSSI4Gue_FUrSWJJanMpDy0jcu4c52q5L8FpIEOz24=428</guid>
     </item>
     <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/ep4Z69ZOGPSypjSrO5WZlFhiiC-06IUvEp3Pek_YE8k=428</link>
-      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/ep4Z69ZOGPSypjSrO5WZlFhiiC-06IUvEp3Pek_YE8k=428</guid>
-    </item>
-    <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=261165dc-b499-11f0-986d-6bdeff87c307%26pt=campaign%26pv=4%26spa=1761732054%26t=1761735601%26s=956a0e776b4908827df06709b4f3ff6f2baf30c780f3dff5534b5c9168ebf994/1/0100019a2f9feee8-1329ca9f-71c3-4448-aed2-51b2b4b32dfe-000000/ZmlgjAAxpTfymxozICie6Z_La98m_lGEZ6bfBRK4qK8=429</link>
       <description>Link found in newsletter: 'OpenAI is for profit 💰, Tesla's backup CEOs 💼, Uber's 100k robotaxis 🚕'</description>
@@ -1608,12 +1434,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a2f9feee8-1329ca9f-71c3-4448-aed2-51b2b4b32dfe-000000/c_xt0p6275jnJPFFS6dVcAG_FcFyP8nDlFCrIGcoibI=429</link>
       <description>Link found in newsletter: 'OpenAI is for profit 💰, Tesla's backup CEOs 💼, Uber's 100k robotaxis 🚕'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a2f9feee8-1329ca9f-71c3-4448-aed2-51b2b4b32dfe-000000/c_xt0p6275jnJPFFS6dVcAG_FcFyP8nDlFCrIGcoibI=429</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a2f9feee8-1329ca9f-71c3-4448-aed2-51b2b4b32dfe-000000/giQ2LLkY_KA1BUW23kEdcg2TdpyvIrlVOyPjI8osins=429</link>
-      <description>Link found in newsletter: 'OpenAI is for profit 💰, Tesla's backup CEOs 💼, Uber's 100k robotaxis 🚕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a2f9feee8-1329ca9f-71c3-4448-aed2-51b2b4b32dfe-000000/giQ2LLkY_KA1BUW23kEdcg2TdpyvIrlVOyPjI8osins=429</guid>
     </item>
     <item>
       <title>TLDR Newsletter | Referral Hub</title>
@@ -1754,12 +1574,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=261165dc-b499-11f0-986d-6bdeff87c307%26pt=campaign%26t=1761735601%26s=a75a5c11091bc7021fea91dd8fa040ffcdde96995275980dc9f96456fb77a342/1/0100019a2f9feee8-1329ca9f-71c3-4448-aed2-51b2b4b32dfe-000000/kcNKPeQWuN2Hkpj8XHvEgxahB467o2g-BgLpsfQSUUs=429</guid>
     </item>
     <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2f9feee8-1329ca9f-71c3-4448-aed2-51b2b4b32dfe-000000/C-jjoZuJWox4XxbxxF0FoopYdwblNB4h-PYEInaKMFg=429</link>
-      <description>Link found in newsletter: 'OpenAI is for profit 💰, Tesla's backup CEOs 💼, Uber's 100k robotaxis 🚕'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2f9feee8-1329ca9f-71c3-4448-aed2-51b2b4b32dfe-000000/C-jjoZuJWox4XxbxxF0FoopYdwblNB4h-PYEInaKMFg=429</guid>
-    </item>
-    <item>
       <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019a2f9feee8-1329ca9f-71c3-4448-aed2-51b2b4b32dfe-000000/kFMQGkAC-qMDzR9haFWZ9h9hum5-WOWl05yE7O8mBtY=429</link>
       <description>Link found in newsletter: 'OpenAI is for profit 💰, Tesla's backup CEOs 💼, Uber's 100k robotaxis 🚕'</description>
@@ -1782,12 +1596,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a2fb11167-09b32fb7-a688-4a0b-9ba2-2e7b68dbd462-000000/EM-pxhHXlt2HthJ3hgJIq6FGxbXHYCpv85IHYHOm2is=429</link>
       <description>Link found in newsletter: 'Amazon’s 14K layoff 📉, Microsoft-OpenAI partnership updates 🤝, high agency 📈'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a2fb11167-09b32fb7-a688-4a0b-9ba2-2e7b68dbd462-000000/EM-pxhHXlt2HthJ3hgJIq6FGxbXHYCpv85IHYHOm2is=429</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a2fb11167-09b32fb7-a688-4a0b-9ba2-2e7b68dbd462-000000/lnjO_Xjx-nCjsJqQlwUMvY55ewwcCIQGFvhfHmkEp6M=429</link>
-      <description>Link found in newsletter: 'Amazon’s 14K layoff 📉, Microsoft-OpenAI partnership updates 🤝, high agency 📈'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a2fb11167-09b32fb7-a688-4a0b-9ba2-2e7b68dbd462-000000/lnjO_Xjx-nCjsJqQlwUMvY55ewwcCIQGFvhfHmkEp6M=429</guid>
     </item>
     <item>
       <title>TLDR Web Dev | Referral Hub</title>
@@ -1886,12 +1694,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=c3bd6354-b484-11f0-89a4-6bdeff87c307%26pt=campaign%26t=1761736724%26s=e7fda6e6529552d479107c1b95108178e37d2cc223501c0188e18cda277a1f4b/1/0100019a2fb11167-09b32fb7-a688-4a0b-9ba2-2e7b68dbd462-000000/HtUGLQtnTTf3FQ620sr2KDL5SuSv-UtdY0VrUSCTtoE=429</guid>
     </item>
     <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2fb11167-09b32fb7-a688-4a0b-9ba2-2e7b68dbd462-000000/sUrnEHLGo5FJHVycdIuxB-hLtYRdyBOKvp40iTRVmP4=429</link>
-      <description>Link found in newsletter: 'Amazon’s 14K layoff 📉, Microsoft-OpenAI partnership updates 🤝, high agency 📈'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a2fb11167-09b32fb7-a688-4a0b-9ba2-2e7b68dbd462-000000/sUrnEHLGo5FJHVycdIuxB-hLtYRdyBOKvp40iTRVmP4=429</guid>
-    </item>
-    <item>
       <title>borgrodrick · Kill the Newsletter!</title>
       <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
       <description>Link found in newsletter: 'OpenAI recapitalization 💼, ChatGPT PayPal checkout 🛒, GitHub Agent HQ 🤖'</description>
@@ -1914,12 +1716,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a30347e92-55608105-37ff-4868-b715-334ee6502363-000000/ijbxyXhevc0HpWkSxCD7eU3P2cx8u2GO-K78E-ZJyCc=429</link>
       <description>Link found in newsletter: 'OpenAI recapitalization 💼, ChatGPT PayPal checkout 🛒, GitHub Agent HQ 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a30347e92-55608105-37ff-4868-b715-334ee6502363-000000/ijbxyXhevc0HpWkSxCD7eU3P2cx8u2GO-K78E-ZJyCc=429</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a30347e92-55608105-37ff-4868-b715-334ee6502363-000000/uN5Wq48wbktx912Rp9Mls2H2swFkPVdO6pN4LSRwvbo=429</link>
-      <description>Link found in newsletter: 'OpenAI recapitalization 💼, ChatGPT PayPal checkout 🛒, GitHub Agent HQ 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a30347e92-55608105-37ff-4868-b715-334ee6502363-000000/uN5Wq48wbktx912Rp9Mls2H2swFkPVdO6pN4LSRwvbo=429</guid>
     </item>
     <item>
       <title>TLDR AI | Referral Hub</title>
@@ -2058,12 +1854,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=eb3760e8-b4b5-11f0-a02b-631063bae119%26pt=campaign%26t=1761745337%26s=846bcd2760bb5fbef6bed0697cfe6c27fd0740384e6d7e34199d3752eeac503b/1/0100019a30347e92-55608105-37ff-4868-b715-334ee6502363-000000/Br-gBhMBNqXQTcF_khLP_YZR3oOm0dmXGu1wHdZ9Jhw=429</link>
       <description>Link found in newsletter: 'OpenAI recapitalization 💼, ChatGPT PayPal checkout 🛒, GitHub Agent HQ 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=eb3760e8-b4b5-11f0-a02b-631063bae119%26pt=campaign%26t=1761745337%26s=846bcd2760bb5fbef6bed0697cfe6c27fd0740384e6d7e34199d3752eeac503b/1/0100019a30347e92-55608105-37ff-4868-b715-334ee6502363-000000/Br-gBhMBNqXQTcF_khLP_YZR3oOm0dmXGu1wHdZ9Jhw=429</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a30347e92-55608105-37ff-4868-b715-334ee6502363-000000/sYt55vWX2-BakGWKrX6i_g0MuqkYv9u870AGFqFnDa4=429</link>
-      <description>Link found in newsletter: 'OpenAI recapitalization 💼, ChatGPT PayPal checkout 🛒, GitHub Agent HQ 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a30347e92-55608105-37ff-4868-b715-334ee6502363-000000/sYt55vWX2-BakGWKrX6i_g0MuqkYv9u870AGFqFnDa4=429</guid>
     </item>
   </channel>
 </rss>
