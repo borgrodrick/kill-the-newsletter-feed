@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 31 Oct 2025 01:02:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Oct 2025 06:20:41 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=01d494c2-b30a-11f0-ba75-833efd24c2db%26pt=campaign%26pv=4%26spa=1761559251%26t=1761560714%26s=646f6f88a79026f0ca00dfbc82d38a790a943306a8b8ac2cad8d647ebaa435aa/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/wGR6Ek1Kk9jr_WlYf23sdn35V8b03vx4t5I5tfRZC4M=428</link>
@@ -92,12 +92,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.swift.org%2Fblog%2Fnightly-swift-sdk-for-android%2F%3Futm_source=tldrnewsletter/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/86OxVJjHTTajiqkogVslE8ih_FcNqs-YkSAggVaDFx0=428</guid>
     </item>
     <item>
-      <title>Code like a surgeon</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.geoffreylitt.com%2F2025%2F10%2F24%2Fcode-like-a-surgeon%3Futm_source=tldrnewsletter/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/Lk1ziCTNglHJ19HjTyO329pp571dlgvwd4EY77DB-vc=428</link>
-      <description>Link found in newsletter: 'AWS struggles 📉, Nvidia robotaxi 🚕, Swift for Android 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.geoffreylitt.com%2F2025%2F10%2F24%2Fcode-like-a-surgeon%3Futm_source=tldrnewsletter/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/Lk1ziCTNglHJ19HjTyO329pp571dlgvwd4EY77DB-vc=428</guid>
-    </item>
-    <item>
       <title>TLDR | Sponsorship Opportunities</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=secondary10272025/2/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/7nf6UyXnH8OIzPM8TL97TE1gogv0CvqiAikloyZebHM=428</link>
       <description>Link found in newsletter: 'AWS struggles 📉, Nvidia robotaxi 🚕, Swift for Android 👨‍💻'</description>
@@ -126,6 +120,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fkr-asia.com%2Fnvidia-is-reportedly-planning-a-robotaxi-project-to-challenge-tesla-waymo%3Futm_source=tldrnewsletter/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/gsea1yVa44eV7v1VADvZJKQxhobNRBKlpw9FMDMAXPY=428</link>
       <description>Link found in newsletter: 'AWS struggles 📉, Nvidia robotaxi 🚕, Swift for Android 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fkr-asia.com%2Fnvidia-is-reportedly-planning-a-robotaxi-project-to-challenge-tesla-waymo%3Futm_source=tldrnewsletter/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/gsea1yVa44eV7v1VADvZJKQxhobNRBKlpw9FMDMAXPY=428</guid>
+    </item>
+    <item>
+      <title>Amazon's AWS Is Slowed by Bloat as Competitors Clinch AI Deals - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FAZepHN/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/T1lgVoR61oC1zmJ5QOwPgnDcFJv73Iyz6u9gnaKEDhk=428</link>
+      <description>Link found in newsletter: 'AWS struggles 📉, Nvidia robotaxi 🚕, Swift for Android 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FAZepHN/1/0100019a25335c12-f2f01617-39a3-4d30-888a-9e0301bc425a-000000/T1lgVoR61oC1zmJ5QOwPgnDcFJv73Iyz6u9gnaKEDhk=428</guid>
     </item>
     <item>
       <title>Sign Up - Auth0</title>
@@ -450,6 +450,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46794%2Famerican-fintech-council-calls-on-cfpb-to-prohibit-open-banking-data-access-fees%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/0FG6OA8f7yPvn8QdO7Us7Bm7zg9mhmtjO8SPbYfYxsk=428</link>
       <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46794%2Famerican-fintech-council-calls-on-cfpb-to-prohibit-open-banking-data-access-fees%3Futm_source=tldrfintech/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/0FG6OA8f7yPvn8QdO7Us7Bm7zg9mhmtjO8SPbYfYxsk=428</guid>
+    </item>
+    <item>
+      <title>Stablecoin Use for Payments Jumps 70% Since US Regulation - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FzozJzZ/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/txYQ-JSp6AxbXFOHFd8uXEzEt3mm7vBEaLaZTjidJTA=428</link>
+      <description>Link found in newsletter: 'JPMorgan to accept BTC and ETH as loan collateral 🏦, NHL + prediction markets 🪙, Pay by Bank’s Potential 💰'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FzozJzZ/1/0100019a25c8af19-b99311e3-c6e9-4838-b26f-4fb8f16a7aa8-000000/txYQ-JSp6AxbXFOHFd8uXEzEt3mm7vBEaLaZTjidJTA=428</guid>
     </item>
     <item>
       <title>NHL inks deal with prediction markets Kalshi and Polymarket - ESPN</title>
@@ -1028,12 +1034,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsignup.snowflake.com%2F%3Ftemplate=cortex_rest_api%26utm_source=tldr%26utm_medium=paid-email%26utm_campaign=cortex-rest-api-launch/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/SVK7mffm7iaAdXRdEgEgNm5WjZfXzoN9oF-sdIxoHyA=428</guid>
     </item>
     <item>
-      <title>MiniMax M2 &amp; Agent: Ingenious in Simplicity - MiniMax News</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.minimax.io%2Fnews%2Fminimax-m2%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/z80WR4O7wphmH4IBP4SVkY3pav61571Aqc75yYyzIQo=428</link>
-      <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.minimax.io%2Fnews%2Fminimax-m2%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/z80WR4O7wphmH4IBP4SVkY3pav61571Aqc75yYyzIQo=428</guid>
-    </item>
-    <item>
       <title>Reasoning with Sampling: Your Base Model is Smarter Than You Think</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faakaran.github.io%2Freasoning_with_sampling%2F%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/SXCbgCC9ZuhtgWCbwaddo7lYJz28qY6phBXzGGC1YAo=428</link>
       <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
@@ -1236,6 +1236,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgizmodo.com%2Fnvidia-and-uber-say-theyre-building-a-100000-vehicle-robotaxi-network-2000677945%3Futm_source=tldrnewsletter/1/0100019a2f9feee8-1329ca9f-71c3-4448-aed2-51b2b4b32dfe-000000/98seOv_sIyn6RClXOjUBNLuoWwMikT8wa6K3SI7AFZU=429</link>
       <description>Link found in newsletter: 'OpenAI is for profit 💰, Tesla's backup CEOs 💼, Uber's 100k robotaxis 🚕'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgizmodo.com%2Fnvidia-and-uber-say-theyre-building-a-100000-vehicle-robotaxi-network-2000677945%3Futm_source=tldrnewsletter/1/0100019a2f9feee8-1329ca9f-71c3-4448-aed2-51b2b4b32dfe-000000/98seOv_sIyn6RClXOjUBNLuoWwMikT8wa6K3SI7AFZU=429</guid>
+    </item>
+    <item>
+      <title>Tesla Chair Says Musk’s $1 Trillion Pay Package Still Uncertain Before Vote - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FHxhkUb/1/0100019a2f9feee8-1329ca9f-71c3-4448-aed2-51b2b4b32dfe-000000/ZYkEQkzvdnYQVggqUnazUaqhsq4pJCPVdELGyp-d16s=429</link>
+      <description>Link found in newsletter: 'OpenAI is for profit 💰, Tesla's backup CEOs 💼, Uber's 100k robotaxis 🚕'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FHxhkUb/1/0100019a2f9feee8-1329ca9f-71c3-4448-aed2-51b2b4b32dfe-000000/ZYkEQkzvdnYQVggqUnazUaqhsq4pJCPVdELGyp-d16s=429</guid>
     </item>
     <item>
       <title>With Marqeta, you won't have to compromise</title>
@@ -2040,6 +2046,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.forbes.com%2Fsites%2Frobertolsen-1%2F2025%2F10%2F28%2Fbarclays-800-million-fintech-gamble-marks-a-pivot-from-wall-street-to-main-street%2F%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/OeEw5zHGVb2Tr-LIlbiKM9CF_gn75OE0Xx6g7wAXSVQ=429</link>
       <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.forbes.com%2Fsites%2Frobertolsen-1%2F2025%2F10%2F28%2Fbarclays-800-million-fintech-gamble-marks-a-pivot-from-wall-street-to-main-street%2F%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/OeEw5zHGVb2Tr-LIlbiKM9CF_gn75OE0Xx6g7wAXSVQ=429</guid>
+    </item>
+    <item>
+      <title>Sequoia Capital Invests in AI Tool That Could Replace Junior Bankers - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FrTg7k9/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/LUFW6OAtL_YVcUutHBvG0hue_sm2B1C4WGuBJWzx1fU=429</link>
+      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FrTg7k9/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/LUFW6OAtL_YVcUutHBvG0hue_sm2B1C4WGuBJWzx1fU=429</guid>
     </item>
     <item>
       <title>PayPal, OpenAI sign ChatGPT payments deal</title>
