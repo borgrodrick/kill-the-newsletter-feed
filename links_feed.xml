@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 01 Nov 2025 06:18:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Nov 2025 12:23:32 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=69d2c8e8-b321-11f0-9ae7-e155e9daa10d%26pt=campaign%26pv=4%26spa=1761570073%26t=1761571477%26s=57f50cb5c0d2b726473497c9a7bb2b341ca0177733bb6898b3431a12c4ab47d2/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/E6UcLeWXoRrnuScKdauwPK4W6PDE_g-ZPGdw-03zwCU=428</link>
@@ -216,6 +216,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fjsonquerylang%2Fjsonquery%3Futm_source=tldrnewsletter/1/0100019a2a59e87c-df1e1f0b-e3f6-40b3-bfb2-12fa057a76e5-000000/kTAqtyBzbZHthKuZ8isu7AfVVRQZJzg4krmdd4RH1Xw=428</link>
       <description>Link found in newsletter: 'Amazon 30k layoffs 💼, Anthropic vs OpenAI 📈, IP anonymization 🕵️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fjsonquerylang%2Fjsonquery%3Futm_source=tldrnewsletter/1/0100019a2a59e87c-df1e1f0b-e3f6-40b3-bfb2-12fa057a76e5-000000/kTAqtyBzbZHthKuZ8isu7AfVVRQZJzg4krmdd4RH1Xw=428</guid>
+    </item>
+    <item>
+      <title>Let the little guys in: Towards a context sharing runtime for the personalised web | Arjun Khoosal</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farjun.md%2Flittle-guys%3Futm_source=tldrnewsletter/1/0100019a2a59e87c-df1e1f0b-e3f6-40b3-bfb2-12fa057a76e5-000000/kiAHSya41ZNZ-9djXeQKU9lmZOSV-06d7BPAFVmBDjE=428</link>
+      <description>Link found in newsletter: 'Amazon 30k layoffs 💼, Anthropic vs OpenAI 📈, IP anonymization 🕵️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farjun.md%2Flittle-guys%3Futm_source=tldrnewsletter/1/0100019a2a59e87c-df1e1f0b-e3f6-40b3-bfb2-12fa057a76e5-000000/kiAHSya41ZNZ-9djXeQKU9lmZOSV-06d7BPAFVmBDjE=428</guid>
     </item>
     <item>
       <title>The renaissance of written coding conventions: Because AI reads manuals, too</title>
@@ -548,7 +554,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthinkingmachines.ai%2Fblog%2Fon-policy-distillation%2F%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/GCSbVMUSChDo0Al8cAylmWmLztaJr2t_xtzRe4o4YdM=428</guid>
     </item>
     <item>
-      <title>GitHub - johannschopplich/toon: 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Official spec &amp; reference implementation.</title>
+      <title>GitHub - johannschopplich/toon: 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Official spec &amp; TypeScript implementation.</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fjohannschopplich%2Ftoon%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/0lv92yp_Vl_kdaya9G_nvI_dYhSlolMSNr1KFYI9eio=428</link>
       <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fjohannschopplich%2Ftoon%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/0lv92yp_Vl_kdaya9G_nvI_dYhSlolMSNr1KFYI9eio=428</guid>
@@ -2184,12 +2190,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.snowflake.com%2Fen%2Fbuild%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=snowflake-build25/2/0100019a3a6d24d2-665c9dd0-41a6-4fd7-8125-87a1b1335dce-000000/6sMwyCDPrJgOBNIk-PEHjWAhsEqtxPJIOpHIz2wwLAw=429</link>
       <description>Link found in newsletter: 'OpenAI security agent 🤖, ChatGPT browser architecture 🌐, Claude Code secrets 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.snowflake.com%2Fen%2Fbuild%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=snowflake-build25/2/0100019a3a6d24d2-665c9dd0-41a6-4fd7-8125-87a1b1335dce-000000/6sMwyCDPrJgOBNIk-PEHjWAhsEqtxPJIOpHIz2wwLAw=429</guid>
-    </item>
-    <item>
-      <title>BUILD: The Dev Conference for AI &amp; Apps</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.snowflake.com%2Fen%2Fbuild%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=snowflake-build25/1/0100019a3a6d24d2-665c9dd0-41a6-4fd7-8125-87a1b1335dce-000000/rN4VyX3sw88SGWtDL_21J_8xYeSbfPK_8mcwtTWaNKk=429</link>
-      <description>Link found in newsletter: 'OpenAI security agent 🤖, ChatGPT browser architecture 🌐, Claude Code secrets 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.snowflake.com%2Fen%2Fbuild%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=snowflake-build25/1/0100019a3a6d24d2-665c9dd0-41a6-4fd7-8125-87a1b1335dce-000000/rN4VyX3sw88SGWtDL_21J_8xYeSbfPK_8mcwtTWaNKk=429</guid>
     </item>
     <item>
       <title>TLDR AI</title>
