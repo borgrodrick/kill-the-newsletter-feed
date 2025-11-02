@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 02 Nov 2025 12:23:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 18:15:57 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=69d2c8e8-b321-11f0-9ae7-e155e9daa10d%26pt=campaign%26pv=4%26spa=1761570073%26t=1761571477%26s=57f50cb5c0d2b726473497c9a7bb2b341ca0177733bb6898b3431a12c4ab47d2/1/0100019a25d79794-7d93a6e9-a5ea-42a4-b8c6-c8d09605e08c-000000/E6UcLeWXoRrnuScKdauwPK4W6PDE_g-ZPGdw-03zwCU=428</link>
@@ -554,7 +554,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthinkingmachines.ai%2Fblog%2Fon-policy-distillation%2F%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/GCSbVMUSChDo0Al8cAylmWmLztaJr2t_xtzRe4o4YdM=428</guid>
     </item>
     <item>
-      <title>GitHub - johannschopplich/toon: 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Official spec &amp; TypeScript implementation.</title>
+      <title>GitHub - toon-format/toon: 🎒 Token-Oriented Object Notation (TOON) – JSON for LLM prompts at half the tokens. Spec, benchmarks &amp; reference implementation.</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fjohannschopplich%2Ftoon%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/0lv92yp_Vl_kdaya9G_nvI_dYhSlolMSNr1KFYI9eio=428</link>
       <description>Link found in newsletter: 'Claude for Excel 📊, Mercor hits $10B 💰, Qualcomm AI chips 💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fjohannschopplich%2Ftoon%3Futm_source=tldrai/1/0100019a2afaec8b-ca98bc48-96d7-4a27-bdc1-d398b260b2d1-000000/0lv92yp_Vl_kdaya9G_nvI_dYhSlolMSNr1KFYI9eio=428</guid>
@@ -744,6 +744,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgizmodo.com%2Fnvidia-and-uber-say-theyre-building-a-100000-vehicle-robotaxi-network-2000677945%3Futm_source=tldrnewsletter/1/0100019a2f9feee8-1329ca9f-71c3-4448-aed2-51b2b4b32dfe-000000/98seOv_sIyn6RClXOjUBNLuoWwMikT8wa6K3SI7AFZU=429</link>
       <description>Link found in newsletter: 'OpenAI is for profit 💰, Tesla's backup CEOs 💼, Uber's 100k robotaxis 🚕'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgizmodo.com%2Fnvidia-and-uber-say-theyre-building-a-100000-vehicle-robotaxi-network-2000677945%3Futm_source=tldrnewsletter/1/0100019a2f9feee8-1329ca9f-71c3-4448-aed2-51b2b4b32dfe-000000/98seOv_sIyn6RClXOjUBNLuoWwMikT8wa6K3SI7AFZU=429</guid>
+    </item>
+    <item>
+      <title>Tesla Chair Says Musk’s $1 Trillion Pay Package Still Uncertain Before Vote - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FHxhkUb/1/0100019a2f9feee8-1329ca9f-71c3-4448-aed2-51b2b4b32dfe-000000/ZYkEQkzvdnYQVggqUnazUaqhsq4pJCPVdELGyp-d16s=429</link>
+      <description>Link found in newsletter: 'OpenAI is for profit 💰, Tesla's backup CEOs 💼, Uber's 100k robotaxis 🚕'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FHxhkUb/1/0100019a2f9feee8-1329ca9f-71c3-4448-aed2-51b2b4b32dfe-000000/ZYkEQkzvdnYQVggqUnazUaqhsq4pJCPVdELGyp-d16s=429</guid>
     </item>
     <item>
       <title>With Marqeta, you won't have to compromise</title>
@@ -1548,6 +1554,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.forbes.com%2Fsites%2Frobertolsen-1%2F2025%2F10%2F28%2Fbarclays-800-million-fintech-gamble-marks-a-pivot-from-wall-street-to-main-street%2F%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/OeEw5zHGVb2Tr-LIlbiKM9CF_gn75OE0Xx6g7wAXSVQ=429</link>
       <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.forbes.com%2Fsites%2Frobertolsen-1%2F2025%2F10%2F28%2Fbarclays-800-million-fintech-gamble-marks-a-pivot-from-wall-street-to-main-street%2F%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/OeEw5zHGVb2Tr-LIlbiKM9CF_gn75OE0Xx6g7wAXSVQ=429</guid>
+    </item>
+    <item>
+      <title>Sequoia Capital Invests in AI Tool That Could Replace Junior Bankers - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FrTg7k9/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/LUFW6OAtL_YVcUutHBvG0hue_sm2B1C4WGuBJWzx1fU=429</link>
+      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FrTg7k9/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/LUFW6OAtL_YVcUutHBvG0hue_sm2B1C4WGuBJWzx1fU=429</guid>
     </item>
     <item>
       <title>PayPal, OpenAI sign ChatGPT payments deal</title>
