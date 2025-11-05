@@ -6,523 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 05 Nov 2025 06:21:03 +0000</lastBuildDate>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=edcf2918-b563-11f0-a84a-61aa5b47ea29%26pt=campaign%26pv=4%26spa=1761818496%26t=1761819995%26s=c82d98b508b89f3e8ab9de96195ddcc5781251c77e6569a84101fc222bae23b0/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/WrkhK-IVGgiuMOX8Vh1g5K4i9S9QbwGU6F-67JYFAk8=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=edcf2918-b563-11f0-a84a-61aa5b47ea29%26pt=campaign%26pv=4%26spa=1761818496%26t=1761819995%26s=c82d98b508b89f3e8ab9de96195ddcc5781251c77e6569a84101fc222bae23b0/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/WrkhK-IVGgiuMOX8Vh1g5K4i9S9QbwGU6F-67JYFAk8=429</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/F_g-TqaTdjzWs1kg84t-T9cevBLp-1HKP9Saj0Zj0jY=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/F_g-TqaTdjzWs1kg84t-T9cevBLp-1HKP9Saj0Zj0jY=429</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/bCPpzZb8-NylR546ECpr1_c2r6IsXJRcTCQ4XyKlFGo=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/bCPpzZb8-NylR546ECpr1_c2r6IsXJRcTCQ4XyKlFGo=429</guid>
-    </item>
-    <item>
-      <title>TLDR Newsletter | Referral Hub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/L7RfOlOrKnTORxgMcvOPu5WJJlm2y5dmRyA02Adx0xQ=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/L7RfOlOrKnTORxgMcvOPu5WJJlm2y5dmRyA02Adx0xQ=429</guid>
-    </item>
-    <item>
-      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/hgRsM7J5ilWhoz_1yeV7QKxEccJ-MEFW_iAVBcMFVZU=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/hgRsM7J5ilWhoz_1yeV7QKxEccJ-MEFW_iAVBcMFVZU=429</guid>
-    </item>
-    <item>
-      <title>Uber to deploy Lucid-powered robotaxi fleet in San Francisco | AP News</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fapnews.com%2Farticle%2Fuber-robotaxi-autonomous-lucid-nvidia-nuro-55aa85f5b5f492c3dfa393afe5233b9a%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/tdhZCY6FzGsbzHqPOOhZiVdq3ltdKg4NAUyLGk1_m3M=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fapnews.com%2Farticle%2Fuber-robotaxi-autonomous-lucid-nvidia-nuro-55aa85f5b5f492c3dfa393afe5233b9a%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/tdhZCY6FzGsbzHqPOOhZiVdq3ltdKg4NAUyLGk1_m3M=429</guid>
-    </item>
-    <item>
-      <title>YouTube Employee Buyouts and Restructuring Launch Citing AI Disruption</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.hollywoodreporter.com%2Fbusiness%2Fdigital%2Fyoutube-employee-buyout-severance-program-restructuring-1236413484%2F%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/BmTyBwbIBNIf7rY9GFY33SBuCYleZxyDHrU9Tk29h2k=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.hollywoodreporter.com%2Fbusiness%2Fdigital%2Fyoutube-employee-buyout-severance-program-restructuring-1236413484%2F%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/BmTyBwbIBNIf7rY9GFY33SBuCYleZxyDHrU9Tk29h2k=429</guid>
-    </item>
-    <item>
-      <title>ChatGPT Scrapes Google and Leaks Your Prompts - Quantable Analytics</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.quantable.com%2Fai%2Fthe-old-rules-are-dead%2F%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/t469Vyq4zYbuz3ucp2zm4WXxtc8j7w-Djqt09qm0_0U=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.quantable.com%2Fai%2Fthe-old-rules-are-dead%2F%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/t469Vyq4zYbuz3ucp2zm4WXxtc8j7w-Djqt09qm0_0U=429</guid>
-    </item>
-    <item>
-      <title>More Than DNS: The 14 hour AWS us-east-1 outage – Jonathon Belotti [thundergolfer]</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthundergolfer.com%2Fblog%2Faws-us-east-1-outage-oct20%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/nR-EJnsUlCbbjO7ssjoWheS4rN5yB5yk1m7px-KT2Wk=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthundergolfer.com%2Fblog%2Faws-us-east-1-outage-oct20%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/nR-EJnsUlCbbjO7ssjoWheS4rN5yB5yk1m7px-KT2Wk=429</guid>
-    </item>
-    <item>
-      <title>New physical attacks are quickly diluting secure enclave defenses from Nvidia, AMD, and Intel - Ars Technica</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fsecurity%2F2025%2F10%2Fnew-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel%2F%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/oVg0iYj_YNQlS6bnZj-YPQCO8WT7A2RaKeW2w77-Vm4=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fsecurity%2F2025%2F10%2Fnew-physical-attacks-are-quickly-diluting-secure-enclave-defenses-from-nvidia-amd-and-intel%2F%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/oVg0iYj_YNQlS6bnZj-YPQCO8WT7A2RaKeW2w77-Vm4=429</guid>
-    </item>
-    <item>
-      <title>The Fintech Effect 2025: Fintech industry report | Plaid</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fplaid.com%2Fthe-fintech-effect-report-2025%2F%3Futm_source=TLDR%26utm_medium=PaidNewsletter%26utm_campaign=TLDR_Paid_Newsletter_Ad_Buy%26utm_content=FintechEffect2025_quicklinks/2/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/gTG68L37clxAsvNH80Lf8do1JBAgAxRXNa4DPvEDD_c=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fplaid.com%2Fthe-fintech-effect-report-2025%2F%3Futm_source=TLDR%26utm_medium=PaidNewsletter%26utm_campaign=TLDR_Paid_Newsletter_Ad_Buy%26utm_content=FintechEffect2025_quicklinks/2/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/gTG68L37clxAsvNH80Lf8do1JBAgAxRXNa4DPvEDD_c=429</guid>
-    </item>
-    <item>
-      <title>The Fintech Effect 2025: Fintech industry report | Plaid</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fplaid.com%2Fthe-fintech-effect-report-2025%2F%3Futm_source=TLDR%26utm_medium=PaidNewsletter%26utm_campaign=TLDR_Paid_Newsletter_Ad_Buy%26utm_content=FintechEffect2025_quicklinks/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/TAHF_KkMNPG_dpjxMZv6STM6vmxq08I9OiyuCK36FPE=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fplaid.com%2Fthe-fintech-effect-report-2025%2F%3Futm_source=TLDR%26utm_medium=PaidNewsletter%26utm_campaign=TLDR_Paid_Newsletter_Ad_Buy%26utm_content=FintechEffect2025_quicklinks/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/TAHF_KkMNPG_dpjxMZv6STM6vmxq08I9OiyuCK36FPE=429</guid>
-    </item>
-    <item>
-      <title>Amazon opens $11 billion AI data center Project Rainier in Indiana</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F29%2Famazon-opens-11-billion-ai-data-center-project-rainier-in-indiana.html%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/Sa8wkRJu1IetoAttHf5944AZpKVa_BnpC7Ay_Xabpfs=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F29%2Famazon-opens-11-billion-ai-data-center-project-rainier-in-indiana.html%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/Sa8wkRJu1IetoAttHf5944AZpKVa_BnpC7Ay_Xabpfs=429</guid>
-    </item>
-    <item>
-      <title>uv is the best thing to happen to the Python ecosystem in a decade - Blog - Dr. Emily L. Hunt</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Femily.space%2Fposts%2F251023-uv%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/85PhsAXLIX-9RmHVQmvtej6xKR8bBZKqYjxfYrFqazo=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Femily.space%2Fposts%2F251023-uv%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/85PhsAXLIX-9RmHVQmvtej6xKR8bBZKqYjxfYrFqazo=429</guid>
-    </item>
-    <item>
-      <title>Writer API  |  AI on Chrome  |  Chrome for Developers</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdeveloper.chrome.com%2Fdocs%2Fai%2Fwriter-api%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/dJgGIX-kkjVyvI02D4eUUeGuWNz3BHpoBolLdFvlsdU=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdeveloper.chrome.com%2Fdocs%2Fai%2Fwriter-api%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/dJgGIX-kkjVyvI02D4eUUeGuWNz3BHpoBolLdFvlsdU=429</guid>
-    </item>
-    <item>
-      <title>Enterprise AI Governance Kit</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fenterprise-ai-governance-kit%3Futm_campaign=26337115-TLDR%2520tech%2520Q4%26utm_source=external-newsletter%26utm_medium=email%26utm_term=tldrtechsecondary1030%26utm_content=tldrtechsecondary1030/3/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/NFrtPGsBAVkVi8RIfQDE7YXW6qi0dqnYRQXoccAPnc8=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fenterprise-ai-governance-kit%3Futm_campaign=26337115-TLDR%2520tech%2520Q4%26utm_source=external-newsletter%26utm_medium=email%26utm_term=tldrtechsecondary1030%26utm_content=tldrtechsecondary1030/3/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/NFrtPGsBAVkVi8RIfQDE7YXW6qi0dqnYRQXoccAPnc8=429</guid>
-    </item>
-    <item>
-      <title>Enterprise AI Governance Kit</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fenterprise-ai-governance-kit%3Futm_campaign=26337115-TLDR%2520tech%2520Q4%26utm_source=external-newsletter%26utm_medium=email%26utm_term=tldrtechsecondary1030%26utm_content=tldrtechsecondary1030/2/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/9WOPE5ED3-CCpMG5GcisDWtvzfeAZHAcOJEbIhHeBUY=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fenterprise-ai-governance-kit%3Futm_campaign=26337115-TLDR%2520tech%2520Q4%26utm_source=external-newsletter%26utm_medium=email%26utm_term=tldrtechsecondary1030%26utm_content=tldrtechsecondary1030/2/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/9WOPE5ED3-CCpMG5GcisDWtvzfeAZHAcOJEbIhHeBUY=429</guid>
-    </item>
-    <item>
-      <title>Enterprise AI Governance Kit</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fenterprise-ai-governance-kit%3Futm_campaign=26337115-TLDR%2520tech%2520Q4%26utm_source=external-newsletter%26utm_medium=email%26utm_term=tldrtechsecondary1030%26utm_content=tldrtechsecondary1030/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/TyX_h4fVNYGjIXQt57Etw2kX8atJ_pga2PeMsnHxqIE=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabout.you.com%2Fenterprise-ai-governance-kit%3Futm_campaign=26337115-TLDR%2520tech%2520Q4%26utm_source=external-newsletter%26utm_medium=email%26utm_term=tldrtechsecondary1030%26utm_content=tldrtechsecondary1030/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/TyX_h4fVNYGjIXQt57Etw2kX8atJ_pga2PeMsnHxqIE=429</guid>
-    </item>
-    <item>
-      <title>An Alzheimer’s pill appears to protect some in a high-risk population : Shots - Health News : NPR</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.npr.org%2Fsections%2Fshots-health-news%2F2025%2F10%2F29%2Fnx-s1-5575561%2Falzheimers-pill-apoe4-high-risk-lecanemab-donanemab%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/o13ZPHxWLC0horoyJ9sB6W95cmAtmUQ5MIQW1y0OjCQ=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.npr.org%2Fsections%2Fshots-health-news%2F2025%2F10%2F29%2Fnx-s1-5575561%2Falzheimers-pill-apoe4-high-risk-lecanemab-donanemab%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/o13ZPHxWLC0horoyJ9sB6W95cmAtmUQ5MIQW1y0OjCQ=429</guid>
-    </item>
-    <item>
-      <title>Eye prosthesis is the first to restore sight lost to macular degeneration</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmed.stanford.edu%2Fnews%2Fall-news%2F2025%2F10%2Feye-prosthesis.html%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/WdxFIwTv7Fr-Nyn6HtfUu63k59nIkOH9YuEXF_F85Sw=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmed.stanford.edu%2Fnews%2Fall-news%2F2025%2F10%2Feye-prosthesis.html%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/WdxFIwTv7Fr-Nyn6HtfUu63k59nIkOH9YuEXF_F85Sw=429</guid>
-    </item>
-    <item>
-      <title>Exclusive-OpenAI lays groundwork for juggernaut IPO at up to $1 trillion valuation</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffinance.yahoo.com%2Fnews%2Fexclusive-openai-lays-groundwork-juggernaut-232125990.html%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/kKsVztwYIwru9D4fPSpqSYW5cs2VsPFeiI8ft8OXuuc=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffinance.yahoo.com%2Fnews%2Fexclusive-openai-lays-groundwork-juggernaut-232125990.html%3Futm_source=tldrnewsletter/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/kKsVztwYIwru9D4fPSpqSYW5cs2VsPFeiI8ft8OXuuc=429</guid>
-    </item>
-    <item>
-      <title>QA Wolf | 80% automated test coverage in 4 months</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251030-None_Experiment-FALSE%26utm_term=cta-ScheduleADemoToLearnMore%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251030_v1_/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/T9HcJKT-ewQ0EQy1UEkgd4DeOX6tzBRkv4FK9zieji8=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251030-None_Experiment-FALSE%26utm_term=cta-ScheduleADemoToLearnMore%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251030_v1_/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/T9HcJKT-ewQ0EQy1UEkgd4DeOX6tzBRkv4FK9zieji8=429</guid>
-    </item>
-    <item>
-      <title>Drata secured 86% faster QA cycles | QA Wolf</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fcase-studies%2Fdrata%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251030-None_Experiment-FALSE%26utm_term=body-DratasTeamOfEngineers%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251030_v1_/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/y7i9jGk3oJs1NjqEduaO24A36ySv9S8cfY9slyC9PJI=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fcase-studies%2Fdrata%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251030-None_Experiment-FALSE%26utm_term=body-DratasTeamOfEngineers%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251030_v1_/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/y7i9jGk3oJs1NjqEduaO24A36ySv9S8cfY9slyC9PJI=429</guid>
-    </item>
-    <item>
-      <title>How it works</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fhow-it-works%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251030-None_Experiment-FALSE%26utm_term=body-UnlimitedParallelTestRuns%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251030_v1_/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/_MVDpiGPfLi2EjckVBaUB1kWhDKaQFWuIByQiwlm1Q0=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fhow-it-works%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251030-None_Experiment-FALSE%26utm_term=body-UnlimitedParallelTestRuns%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251030_v1_/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/_MVDpiGPfLi2EjckVBaUB1kWhDKaQFWuIByQiwlm1Q0=429</guid>
-    </item>
-    <item>
-      <title>How it works</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fhow-it-works%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251030-None_Experiment-FALSE%26utm_term=body-80PercentAutomatedE2ETestCoverageInWeeks%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251030_v1_/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/u_y1r6yyL2TQbuTZLPkgGyE6RLyyQWion7XmV8BO8bs=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fhow-it-works%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251030-None_Experiment-FALSE%26utm_term=body-80PercentAutomatedE2ETestCoverageInWeeks%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251030_v1_/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/u_y1r6yyL2TQbuTZLPkgGyE6RLyyQWion7XmV8BO8bs=429</guid>
-    </item>
-    <item>
-      <title>QA Wolf | 80% automated test coverage in 4 months</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251030-None_Experiment-FALSE%26utm_term=body-QAWolf%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251030_v1_/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/0CnwR64mV_jHvVYytHuGPh0YDJOZ7392-9uo-hZ5voY=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251030-None_Experiment-FALSE%26utm_term=body-QAWolf%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251030_v1_/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/0CnwR64mV_jHvVYytHuGPh0YDJOZ7392-9uo-hZ5voY=429</guid>
-    </item>
-    <item>
-      <title>QA Wolf | 80% automated test coverage in 4 months</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251030-None_Experiment-FALSE%26utm_term=headline-GoodbyeLowTestCoverageAndSlowQACycles%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251030_v1_/2/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/UGOH4ger1lA_oDBKyH7AkSC6fLBPHYKo4tko-QA3t0U=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251030-None_Experiment-FALSE%26utm_term=headline-GoodbyeLowTestCoverageAndSlowQACycles%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251030_v1_/2/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/UGOH4ger1lA_oDBKyH7AkSC6fLBPHYKo4tko-QA3t0U=429</guid>
-    </item>
-    <item>
-      <title>QA Wolf | 80% automated test coverage in 4 months</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251030-None_Experiment-FALSE%26utm_term=headline-GoodbyeLowTestCoverageAndSlowQACycles%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251030_v1_/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/UsK9Pm3qZICkAk708bRBSe4M1rLAoUDJPdGDq89fU3o=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251030-None_Experiment-FALSE%26utm_term=headline-GoodbyeLowTestCoverageAndSlowQACycles%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251030_v1_/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/UsK9Pm3qZICkAk708bRBSe4M1rLAoUDJPdGDq89fU3o=429</guid>
-    </item>
-    <item>
-      <title>TLDR</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=edcf2918-b563-11f0-a84a-61aa5b47ea29%26pt=campaign%26t=1761819995%26s=df7f06e42271288112c0bbeffb7a4014f53e451e35903f41bd36a67e1f1819fb/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/ek2HTrDaKzn4xgIzmS54Bsue2O3p1S8XZPo93_ewPyM=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=edcf2918-b563-11f0-a84a-61aa5b47ea29%26pt=campaign%26t=1761819995%26s=df7f06e42271288112c0bbeffb7a4014f53e451e35903f41bd36a67e1f1819fb/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/ek2HTrDaKzn4xgIzmS54Bsue2O3p1S8XZPo93_ewPyM=429</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/5xgadYP-dryqwalT51wCLiEzCab-B0N6WkWs_2LMRFw=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/5xgadYP-dryqwalT51wCLiEzCab-B0N6WkWs_2LMRFw=429</guid>
-    </item>
-    <item>
-      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/6UfxQBPq8NIf8HwOEbzHYgqovAiwCPjCj5Y-5RvKORs=429</link>
-      <description>Link found in newsletter: 'OpenAI explores $1T IPO 💰, Nvidia hits $5T 📈, Chrome Writer API 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019a34a7ac4e-3efcc097-1eab-4402-b105-6dff2a14b0f2-000000/6UfxQBPq8NIf8HwOEbzHYgqovAiwCPjCj5Y-5RvKORs=429</guid>
-    </item>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=be37f5e4-b54b-11f0-9781-01a19788eda0%26pt=campaign%26pv=4%26spa=1761822070%26t=1761822974%26s=770cc0b358bc5228acc1143a8035f1e8d6d199c8915553df534fbc70b4dd108d/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/p1I-y97DdNi7zM2nDGAOiwoztEc9eJs1VxAfLDO3-bI=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=be37f5e4-b54b-11f0-9781-01a19788eda0%26pt=campaign%26pv=4%26spa=1761822070%26t=1761822974%26s=770cc0b358bc5228acc1143a8035f1e8d6d199c8915553df534fbc70b4dd108d/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/p1I-y97DdNi7zM2nDGAOiwoztEc9eJs1VxAfLDO3-bI=429</guid>
-    </item>
-    <item>
-      <title>Jenny X. - Meta | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/j_ceE7PjfbggoINVva9KlkYrVQP42I7bRPoPGHKpQnQ=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/j_ceE7PjfbggoINVva9KlkYrVQP42I7bRPoPGHKpQnQ=429</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/Bs6yyN3pqyplt_VIeprTfYl8-aEdqjucANNY96loS7E=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/Bs6yyN3pqyplt_VIeprTfYl8-aEdqjucANNY96loS7E=429</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/pkAHjhC0p6tKjPZHI-1sk6-pAn7lHiv67yVe12zrSkA=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/pkAHjhC0p6tKjPZHI-1sk6-pAn7lHiv67yVe12zrSkA=429</guid>
-    </item>
-    <item>
-      <title>TLDR Web Dev | Referral Hub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/_803ho-_TEu_hWk2ReIEr_u_ajOYc2VhAywYVBIjKbc=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/_803ho-_TEu_hWk2ReIEr_u_ajOYc2VhAywYVBIjKbc=429</guid>
-    </item>
-    <item>
-      <title>Tips for stroke-surviving software engineers  - by James Padolsey</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.j11y.io%2F2025-10-29_stroke_tips_for_engineers%2F%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/2qSEIffeHowpBhItteKaF40iS9JFPYwtnG6LLcYD8_M=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.j11y.io%2F2025-10-29_stroke_tips_for_engineers%2F%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/2qSEIffeHowpBhItteKaF40iS9JFPYwtnG6LLcYD8_M=429</guid>
-    </item>
-    <item>
-      <title>Keep Android Open | Fighting against Google’s 2025 developer verification mandate</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fkeepandroidopen.org%2F%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/S8apdEh8LLVckzE021wbGh53CJRKNiWhi9JG0bxkF8E=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fkeepandroidopen.org%2F%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/S8apdEh8LLVckzE021wbGh53CJRKNiWhi9JG0bxkF8E=429</guid>
-    </item>
-    <item>
-      <title>Removing obfuscation in Java Edition | Minecraft</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.minecraft.net%2Fen-us%2Farticle%2Fremoving-obfuscation-in-java-edition%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/ZymcEk4dzkAHEpQYiJIPU--YQQkuErHGt9jKYtJNtOM=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.minecraft.net%2Fen-us%2Farticle%2Fremoving-obfuscation-in-java-edition%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/ZymcEk4dzkAHEpQYiJIPU--YQQkuErHGt9jKYtJNtOM=429</guid>
-    </item>
-    <item>
-      <title>Microsoft says it’s recovering after Azure outage took down 365, Xbox, and Starbucks | The Verge</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2Fnews%2F809142%2Fmicrosoft-azure-xbox-365-is-down-outage%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/UQqTz3_81EPcXxSfKpjvhAPs7Rd5WDBZT8wEtEZfH1E=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theverge.com%2Fnews%2F809142%2Fmicrosoft-azure-xbox-365-is-down-outage%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/UQqTz3_81EPcXxSfKpjvhAPs7Rd5WDBZT8wEtEZfH1E=429</guid>
-    </item>
-    <item>
-      <title>Is Llama really as bad as people say? I put Meta’s AI to the test - LogRocket Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.logrocket.com%2Fllama-meta-ai%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/dQzWbOnb8fiTkd_fqkdvNFOyUOuok83Jetiy1QH7k1A=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.logrocket.com%2Fllama-meta-ai%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/dQzWbOnb8fiTkd_fqkdvNFOyUOuok83Jetiy1QH7k1A=429</guid>
-    </item>
-    <item>
-      <title>Disasters I've seen in a microservices world, part II</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworld.hey.com%2Fjoaoqalves%2Fdisasters-i-ve-seen-in-a-microservices-world-part-ii-9e6826bf%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/6w7LMN_d85svu_5nL81sxiWMTTgCqLuCey9EVO4yVDc=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworld.hey.com%2Fjoaoqalves%2Fdisasters-i-ve-seen-in-a-microservices-world-part-ii-9e6826bf%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/6w7LMN_d85svu_5nL81sxiWMTTgCqLuCey9EVO4yVDc=429</guid>
-    </item>
-    <item>
-      <title>Dot Com Press</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.dotcom.press%2Fhistory-of-domains%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/GX76V-HyZnMfURErix3IS9I_XsBr0TK92q7PLDX1L7c=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.dotcom.press%2Fhistory-of-domains%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/GX76V-HyZnMfURErix3IS9I_XsBr0TK92q7PLDX1L7c=429</guid>
-    </item>
-    <item>
-      <title>GitHub - mathiasbynens/emoji-regex: A regular expression to match all Emoji-only symbols as per the Unicode Standard.</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fmathiasbynens%2Femoji-regex%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/82137IzDpE-AXyZgUUEydj-SduSmVQLApYTMXFzmJJY=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fmathiasbynens%2Femoji-regex%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/82137IzDpE-AXyZgUUEydj-SduSmVQLApYTMXFzmJJY=429</guid>
-    </item>
-    <item>
-      <title>Composer: Building a fast frontier model with RL · Cursor</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcursor.com%2Fblog%2Fcomposer%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/bD7J9IM3flI2CVkfm9Im9-DWFBI0bs2bjXBgkBaO0_8=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcursor.com%2Fblog%2Fcomposer%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/bD7J9IM3flI2CVkfm9Im9-DWFBI0bs2bjXBgkBaO0_8=429</guid>
-    </item>
-    <item>
-      <title>eBook | Distributed SQL Databases For Dummies</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fna2.hubs.ly%2FH01R0LC0/2/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/g-sBU14mU2LldPDwL_me0QDViD_6HUCx7G7WgTG5KyY=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fna2.hubs.ly%2FH01R0LC0/2/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/g-sBU14mU2LldPDwL_me0QDViD_6HUCx7G7WgTG5KyY=429</guid>
-    </item>
-    <item>
-      <title>eBook | Distributed SQL Databases For Dummies</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fna2.hubs.ly%2FH01R0LC0/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/5dQFsjhu2ME8D1f9LVtkFKCroNHaVQXqbcKLAq-dKFc=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fna2.hubs.ly%2FH01R0LC0/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/5dQFsjhu2ME8D1f9LVtkFKCroNHaVQXqbcKLAq-dKFc=429</guid>
-    </item>
-    <item>
-      <title>eBook | Distributed SQL Databases For Dummies</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fna2.hubs.ly%2FH01R0LC0%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/2GmGRVTLALnHm6wAJYO6BcGWYd0MfmPQNkDdOVU0RwQ=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fna2.hubs.ly%2FH01R0LC0%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/2GmGRVTLALnHm6wAJYO6BcGWYd0MfmPQNkDdOVU0RwQ=429</guid>
-    </item>
-    <item>
-      <title>Why developers are leaving Next.js for TanStack Start, and loving it - Appwrite</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fappwrite.io%2Fblog%2Fpost%2Fwhy-developers-leaving-nextjs-tanstack-start%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/_LSSGhpJxH8-RNnaFTjqj92ZjWM-gwHGGNdPpWU98xo=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fappwrite.io%2Fblog%2Fpost%2Fwhy-developers-leaving-nextjs-tanstack-start%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/_LSSGhpJxH8-RNnaFTjqj92ZjWM-gwHGGNdPpWU98xo=429</guid>
-    </item>
-    <item>
-      <title>uv is the best thing to happen to the Python ecosystem in a decade - Blog - Dr. Emily L. Hunt</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Femily.space%2Fposts%2F251023-uv%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/1roCd806ww8l3K6_bzNtvWVOsnq14OhSBNB2TWGKBDw=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Femily.space%2Fposts%2F251023-uv%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/1roCd806ww8l3K6_bzNtvWVOsnq14OhSBNB2TWGKBDw=429</guid>
-    </item>
-    <item>
-      <title>AWS to Bare Metal Two Years Later: Answering Your Toughest Questions About Leaving AWS</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Foneuptime.com%2Fblog%2Fpost%2F2025-10-29-aws-to-bare-metal-two-years-later%2Fview%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/IXxpD7qSSHrMzECFyGM7Rr4aWvVT5psScuTAlusT888=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Foneuptime.com%2Fblog%2Fpost%2F2025-10-29-aws-to-bare-metal-two-years-later%2Fview%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/IXxpD7qSSHrMzECFyGM7Rr4aWvVT5psScuTAlusT888=429</guid>
-    </item>
-    <item>
-      <title>I Built the Same App 10 Times: Evaluating Frameworks for Mobile Performance | Loren Stewart</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.lorenstew.art%2Fblog%2F10-kanban-boards%2F%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/HkAgdR-6RFiYUomHuw-lkbVJELdGiam4G0gPuMUe24U=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.lorenstew.art%2Fblog%2F10-kanban-boards%2F%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/HkAgdR-6RFiYUomHuw-lkbVJELdGiam4G0gPuMUe24U=429</guid>
-    </item>
-    <item>
-      <title>Kafka is fast -- I'll use Postgres</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftopicpartition.io%2Fblog%2Fpostgres-pubsub-queue-benchmarks%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/yJX3ZIFNzGHjMAKzLcGxn85K3CrpgE6I7C64DpG28hE=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftopicpartition.io%2Fblog%2Fpostgres-pubsub-queue-benchmarks%3Futm_source=tldrwebdev/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/yJX3ZIFNzGHjMAKzLcGxn85K3CrpgE6I7C64DpG28hE=429</guid>
-    </item>
-    <item>
-      <title>The modern tech leader’s playbook for AI-powered teamwork | Atlassian</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.atlassian.com%2Fwebinars%2Fenterprise-cloud%2Fthe-modern-tech-leaders-playbook-for-ai-powered-teamwork%3Futm_source=tldr%26utm_medium=email%26utm_campaign=P:twc*O:clm*F:awareness*C:webinar*H:fy26q2*I:tldr-webdev-oct30*%26utm_sfdc-campaign_id=701QB00000YINAjYAP/5/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/SWBvjJv6Ds17IEwL0HolEuQYMLJMZDwc--U7F_vC_nI=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.atlassian.com%2Fwebinars%2Fenterprise-cloud%2Fthe-modern-tech-leaders-playbook-for-ai-powered-teamwork%3Futm_source=tldr%26utm_medium=email%26utm_campaign=P:twc*O:clm*F:awareness*C:webinar*H:fy26q2*I:tldr-webdev-oct30*%26utm_sfdc-campaign_id=701QB00000YINAjYAP/5/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/SWBvjJv6Ds17IEwL0HolEuQYMLJMZDwc--U7F_vC_nI=429</guid>
-    </item>
-    <item>
-      <title>The modern tech leader’s playbook for AI-powered teamwork | Atlassian</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.atlassian.com%2Fwebinars%2Fenterprise-cloud%2Fthe-modern-tech-leaders-playbook-for-ai-powered-teamwork%3Futm_source=tldr%26utm_medium=email%26utm_campaign=P:twc*O:clm*F:awareness*C:webinar*H:fy26q2*I:tldr-webdev-oct30*%26utm_sfdc-campaign_id=701QB00000YINAjYAP/4/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/T1XiQAyDc5kh8pVCb8HQN8hLbktommU-vXOC4HeCD34=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.atlassian.com%2Fwebinars%2Fenterprise-cloud%2Fthe-modern-tech-leaders-playbook-for-ai-powered-teamwork%3Futm_source=tldr%26utm_medium=email%26utm_campaign=P:twc*O:clm*F:awareness*C:webinar*H:fy26q2*I:tldr-webdev-oct30*%26utm_sfdc-campaign_id=701QB00000YINAjYAP/4/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/T1XiQAyDc5kh8pVCb8HQN8hLbktommU-vXOC4HeCD34=429</guid>
-    </item>
-    <item>
-      <title>The modern tech leader’s playbook for AI-powered teamwork | Atlassian</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.atlassian.com%2Fwebinars%2Fenterprise-cloud%2Fthe-modern-tech-leaders-playbook-for-ai-powered-teamwork%3Futm_source=tldr%26utm_medium=email%26utm_campaign=P:twc*O:clm*F:awareness*C:webinar*H:fy26q2*I:tldr-webdev-oct30*%26utm_sfdc-campaign_id=701QB00000YINAjYAP/3/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/0y3qGW66ZmyWbTouBom-roCgSoNMC4iQJ2rDwT4dcQY=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.atlassian.com%2Fwebinars%2Fenterprise-cloud%2Fthe-modern-tech-leaders-playbook-for-ai-powered-teamwork%3Futm_source=tldr%26utm_medium=email%26utm_campaign=P:twc*O:clm*F:awareness*C:webinar*H:fy26q2*I:tldr-webdev-oct30*%26utm_sfdc-campaign_id=701QB00000YINAjYAP/3/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/0y3qGW66ZmyWbTouBom-roCgSoNMC4iQJ2rDwT4dcQY=429</guid>
-    </item>
-    <item>
-      <title>The modern tech leader’s playbook for AI-powered teamwork | Atlassian</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.atlassian.com%2Fwebinars%2Fenterprise-cloud%2Fthe-modern-tech-leaders-playbook-for-ai-powered-teamwork%3Futm_source=tldr%26utm_medium=email%26utm_campaign=P:twc*O:clm*F:awareness*C:webinar*H:fy26q2*I:tldr-webdev-oct30*%26utm_sfdc-campaign_id=701QB00000YINAjYAP/2/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/EMSCFm6_YF35wPbMmAEcR1arA4Ox3q6tU1C5nvqGKI8=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.atlassian.com%2Fwebinars%2Fenterprise-cloud%2Fthe-modern-tech-leaders-playbook-for-ai-powered-teamwork%3Futm_source=tldr%26utm_medium=email%26utm_campaign=P:twc*O:clm*F:awareness*C:webinar*H:fy26q2*I:tldr-webdev-oct30*%26utm_sfdc-campaign_id=701QB00000YINAjYAP/2/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/EMSCFm6_YF35wPbMmAEcR1arA4Ox3q6tU1C5nvqGKI8=429</guid>
-    </item>
-    <item>
-      <title>The modern tech leader’s playbook for AI-powered teamwork | Atlassian</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.atlassian.com%2Fwebinars%2Fenterprise-cloud%2Fthe-modern-tech-leaders-playbook-for-ai-powered-teamwork%3Futm_source=tldr%26utm_medium=email%26utm_campaign=P:twc*O:clm*F:awareness*C:webinar*H:fy26q2*I:tldr-webdev-oct30*%26utm_sfdc-campaign_id=701QB00000YINAjYAP/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/iPhYulMZlKJWwSSUwpIsUi34HUzgmlnea-WascKSQLM=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.atlassian.com%2Fwebinars%2Fenterprise-cloud%2Fthe-modern-tech-leaders-playbook-for-ai-powered-teamwork%3Futm_source=tldr%26utm_medium=email%26utm_campaign=P:twc*O:clm*F:awareness*C:webinar*H:fy26q2*I:tldr-webdev-oct30*%26utm_sfdc-campaign_id=701QB00000YINAjYAP/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/iPhYulMZlKJWwSSUwpIsUi34HUzgmlnea-WascKSQLM=429</guid>
-    </item>
-    <item>
-      <title>TLDR Dev</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=be37f5e4-b54b-11f0-9781-01a19788eda0%26pt=campaign%26t=1761822974%26s=5ae240819f2a7bdb3c2808ad68e8a1984dbfd4acbf748353091170175c0b8fa5/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/Z_8zskZEyP6nKAWTvlfEGsb2LVEecK9uhBfGD9PQT38=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=be37f5e4-b54b-11f0-9781-01a19788eda0%26pt=campaign%26t=1761822974%26s=5ae240819f2a7bdb3c2808ad68e8a1984dbfd4acbf748353091170175c0b8fa5/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/Z_8zskZEyP6nKAWTvlfEGsb2LVEecK9uhBfGD9PQT38=429</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/9KT4UFYMPqX92NIsvAOa8Q8-Yxm1Sa6rZ5b-gncgS_Y=429</link>
-      <description>Link found in newsletter: 'Microsoft Azure outage ✖️, Cursor Composer model ⚡️, Minecraft deobfuscation 👀'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a34d523b2-8c3998fb-4e37-4e2f-abaf-67be21570e38-000000/9KT4UFYMPqX92NIsvAOa8Q8-Yxm1Sa6rZ5b-gncgS_Y=429</guid>
-    </item>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=948d5d04-b57a-11f0-b18a-0d9dc238ed06%26pt=campaign%26pv=4%26spa=1761829288%26t=1761830680%26s=543afe62d82789eb11b7adfeef1e24c9d07b3a286677cb4184073e7b73627944/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/5-PgvFPQrc4oiTwG0Wv1PHfBwtyNNe1Pp9TIfZ-ppTk=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=948d5d04-b57a-11f0-b18a-0d9dc238ed06%26pt=campaign%26pv=4%26spa=1761829288%26t=1761830680%26s=543afe62d82789eb11b7adfeef1e24c9d07b3a286677cb4184073e7b73627944/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/5-PgvFPQrc4oiTwG0Wv1PHfBwtyNNe1Pp9TIfZ-ppTk=429</guid>
-    </item>
-    <item>
-      <title>Gabriel Sundaram - attain | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/_s6x6RvQcQCqgIf0trBFr-4GJjWtQUwH-HZHqr2qBck=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/_s6x6RvQcQCqgIf0trBFr-4GJjWtQUwH-HZHqr2qBck=429</guid>
-    </item>
-    <item>
-      <title>Matt Cheung - Ceviche | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/Xgc3K0K4ex2atowzVum2yI6tXwe69o0IaTYi8Na7fCM=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/Xgc3K0K4ex2atowzVum2yI6tXwe69o0IaTYi8Na7fCM=429</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/-jOVS1XwoMf5v_iD90_rCgOVfmR2vlX98lzusoGGU8Q=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/-jOVS1XwoMf5v_iD90_rCgOVfmR2vlX98lzusoGGU8Q=429</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/TEPZqw5HoA_yYuHYvlBF4kOByu9l1kZ0bGzIV8o7-Ds=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/TEPZqw5HoA_yYuHYvlBF4kOByu9l1kZ0bGzIV8o7-Ds=429</guid>
-    </item>
-    <item>
-      <title>Western Union plots stablecoin; corporates adopt BofA's AI | PaymentsSource | American Banker</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.americanbanker.com%2Fpayments%2Fnews%2Fwestern-union-plots-stablecoin-corporates-adopt-bofas-ai%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/g3pbTiFpaZsv2T_irLzrcxCMXy21roeE1BSa_qSx4GA=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.americanbanker.com%2Fpayments%2Fnews%2Fwestern-union-plots-stablecoin-corporates-adopt-bofas-ai%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/g3pbTiFpaZsv2T_irLzrcxCMXy21roeE1BSa_qSx4GA=429</guid>
-    </item>
-    <item>
-      <title>Revolut eyes bank charter to have ‘seat at the table,’ says US CEO | Banking Dive</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bankingdive.com%2Fnews%2Frevolut-eyes-bank-charter-us-ceo-sid-jajodia-seat-table%2F804029%2F%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/kebbsXo6Jvp4JDS0RPw56qM-EoNNyRtmgObTJXrhHRk=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bankingdive.com%2Fnews%2Frevolut-eyes-bank-charter-us-ceo-sid-jajodia-seat-table%2F804029%2F%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/kebbsXo6Jvp4JDS0RPw56qM-EoNNyRtmgObTJXrhHRk=429</guid>
-    </item>
-    <item>
-      <title>Morgan Stanley Acquires Private Company Trading Platform EquityZen - Finovate</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffinovate.com%2Fmorgan-stanley-acquires-private-company-trading-platform-equityzen%2F%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/5HhPbeRLb_5HfaPr-k8-Ux5vDTEDSsSK0F7IS_H1OK0=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffinovate.com%2Fmorgan-stanley-acquires-private-company-trading-platform-equityzen%2F%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/5HhPbeRLb_5HfaPr-k8-Ux5vDTEDSsSK0F7IS_H1OK0=429</guid>
-    </item>
-    <item>
-      <title>Shoppers to tap BNPL for holidays | Payments Dive</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Fshoppers-to-tap-bnpl-for-holidays%2F803926%2F%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/MaFBr1CWGh5HzoBolUFUF_XAIA73qgeSeRyjN3aIe5Y=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Fshoppers-to-tap-bnpl-for-holidays%2F803926%2F%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/MaFBr1CWGh5HzoBolUFUF_XAIA73qgeSeRyjN3aIe5Y=429</guid>
-    </item>
-    <item>
-      <title>Venmo and Bilt team on rent and mortgage payments</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107726%2Fvenmo-and-bilt-team-on-rent-and-mortgage-payments%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/LT-QNoKSPiWAvkEmsRnB8EKXWxdpeRyknaNvprvstIQ=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107726%2Fvenmo-and-bilt-team-on-rent-and-mortgage-payments%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/LT-QNoKSPiWAvkEmsRnB8EKXWxdpeRyknaNvprvstIQ=429</guid>
-    </item>
-    <item>
-      <title>Worldpay backs Agentic Commerce Protocol</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107757%2Fworldpay-backs-agentic-commerce-protocol%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/59Z_p-PAwS6Ux0vj2DCaxUbXPDXTbv_8T7aoTZYubXw=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107757%2Fworldpay-backs-agentic-commerce-protocol%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/59Z_p-PAwS6Ux0vj2DCaxUbXPDXTbv_8T7aoTZYubXw=429</guid>
-    </item>
-    <item>
-      <title>Klarna touts perks to take on banks | Payments Dive</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Fklarna-touts-new-perks-to-take-on-banks-premium-cards-debit%2F803904%2F%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/VFtwZvE9P0qR2qE-72biWO-RjtkqG000CfQFQryarqU=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Fklarna-touts-new-perks-to-take-on-banks-premium-cards-debit%2F803904%2F%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/VFtwZvE9P0qR2qE-72biWO-RjtkqG000CfQFQryarqU=429</guid>
-    </item>
-    <item>
-      <title>With Marqeta, you won't have to compromise</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_secondary_cta2/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/wLgdF9I_Ee7BlaY8p91bgq1HqNxJcz9Bs-fKfqfY7z0=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_secondary_cta2/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/wLgdF9I_Ee7BlaY8p91bgq1HqNxJcz9Bs-fKfqfY7z0=429</guid>
-    </item>
-    <item>
-      <title>With Marqeta, you won't have to compromise</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_secondary_cta1/2/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/xRP6GJJwvah9le-0-NoQimbdFJ45XewuJrzxDBCeF6k=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_secondary_cta1/2/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/xRP6GJJwvah9le-0-NoQimbdFJ45XewuJrzxDBCeF6k=429</guid>
-    </item>
-    <item>
-      <title>With Marqeta, you won't have to compromise</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_secondary_cta1/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/6K3to2mt_h2aFKN8xnHxADtAdBWG5fxAtObtx7OLArA=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_secondary_cta1/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/6K3to2mt_h2aFKN8xnHxADtAdBWG5fxAtObtx7OLArA=429</guid>
-    </item>
-    <item>
-      <title>Navigating the Future of Payments: A Guide for Key Players: By Stanley Epstein</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fblogposting%2F29676%2Fnavigating-the-future-of-payments-a-guide-for-key-players%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/vkifxCtdOoK9TU8Nbd4hoULQ6LpB4r39Jr539XwKt0E=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fblogposting%2F29676%2Fnavigating-the-future-of-payments-a-guide-for-key-players%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/vkifxCtdOoK9TU8Nbd4hoULQ6LpB4r39Jr539XwKt0E=429</guid>
-    </item>
-    <item>
-      <title>Barclays’ $800 Million Fintech Gamble Marks A Pivot From Wall Street To Main Street</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.forbes.com%2Fsites%2Frobertolsen-1%2F2025%2F10%2F28%2Fbarclays-800-million-fintech-gamble-marks-a-pivot-from-wall-street-to-main-street%2F%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/OeEw5zHGVb2Tr-LIlbiKM9CF_gn75OE0Xx6g7wAXSVQ=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.forbes.com%2Fsites%2Frobertolsen-1%2F2025%2F10%2F28%2Fbarclays-800-million-fintech-gamble-marks-a-pivot-from-wall-street-to-main-street%2F%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/OeEw5zHGVb2Tr-LIlbiKM9CF_gn75OE0Xx6g7wAXSVQ=429</guid>
-    </item>
-    <item>
-      <title>Sequoia Capital Invests in AI Tool That Could Replace Junior Bankers - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FrTg7k9/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/LUFW6OAtL_YVcUutHBvG0hue_sm2B1C4WGuBJWzx1fU=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FrTg7k9/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/LUFW6OAtL_YVcUutHBvG0hue_sm2B1C4WGuBJWzx1fU=429</guid>
-    </item>
-    <item>
-      <title>PayPal, OpenAI sign ChatGPT payments deal</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F28%2Fpaypal-openai-chatgpt-payments-deal.html%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/dnL9DaNpT-yNgKeUKLhkJVeYM5XwrxgETw9tXNFF9iI=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F10%2F28%2Fpaypal-openai-chatgpt-payments-deal.html%3Futm_source=tldrfintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/dnL9DaNpT-yNgKeUKLhkJVeYM5XwrxgETw9tXNFF9iI=429</guid>
-    </item>
-    <item>
-      <title>ROI Calculator | Your Outsourcing Cost-Savings Estimator</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ubiquity.com%2Froi-calculator%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter8%26utm_term=fintech/5/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/wmlZNBC2OLI2MRR-cb4WnFjQiBmFqQBPm-DH1DhBrmU=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ubiquity.com%2Froi-calculator%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter8%26utm_term=fintech/5/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/wmlZNBC2OLI2MRR-cb4WnFjQiBmFqQBPm-DH1DhBrmU=429</guid>
-    </item>
-    <item>
-      <title>ROI Calculator | Your Outsourcing Cost-Savings Estimator</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ubiquity.com%2Froi-calculator%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter8%26utm_term=fintech/4/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/COy-0h-ZolPDdB3NionIvGTNEUPLDbHvGCEoPDLThZA=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ubiquity.com%2Froi-calculator%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter8%26utm_term=fintech/4/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/COy-0h-ZolPDdB3NionIvGTNEUPLDbHvGCEoPDLThZA=429</guid>
-    </item>
-    <item>
-      <title>ROI Calculator | Your Outsourcing Cost-Savings Estimator</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ubiquity.com%2Froi-calculator%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter8%26utm_term=fintech/3/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/QCIRHP722k1_Jam1m7gCp5LRRhd4_wv8T8L8zr9pFo0=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ubiquity.com%2Froi-calculator%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter8%26utm_term=fintech/3/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/QCIRHP722k1_Jam1m7gCp5LRRhd4_wv8T8L8zr9pFo0=429</guid>
-    </item>
-    <item>
-      <title>ROI Calculator | Your Outsourcing Cost-Savings Estimator</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ubiquity.com%2Froi-calculator%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter8%26utm_term=fintech/2/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/SMJ6B4jSFrBOyseHPMQKA-_urDwbKIWb5ETk0ElKSJk=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ubiquity.com%2Froi-calculator%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter8%26utm_term=fintech/2/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/SMJ6B4jSFrBOyseHPMQKA-_urDwbKIWb5ETk0ElKSJk=429</guid>
-    </item>
-    <item>
-      <title>ROI Calculator | Your Outsourcing Cost-Savings Estimator</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ubiquity.com%2Froi-calculator%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter8%26utm_term=fintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/wJlgas2iwtOmID5aK2cYsur5f9ok9zTBn0y10Wx9ZUw=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ubiquity.com%2Froi-calculator%3Futm_campaign=21657859-2025-AlwaysOn%2520-%2520Clone%26utm_source=tldr%26utm_medium=newsletter8%26utm_term=fintech/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/wJlgas2iwtOmID5aK2cYsur5f9ok9zTBn0y10Wx9ZUw=429</guid>
-    </item>
-    <item>
-      <title>TLDR Fintech</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=948d5d04-b57a-11f0-b18a-0d9dc238ed06%26pt=campaign%26t=1761830680%26s=b299449d91b80bf3d2a7339853dc4da7ff269e7f5e3a5e0b4e64cb0cc38921ec/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/NWW0sXwUyl9IKQEAT4j7P81jzex8VOWIBpUFQWcr9Y8=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=948d5d04-b57a-11f0-b18a-0d9dc238ed06%26pt=campaign%26t=1761830680%26s=b299449d91b80bf3d2a7339853dc4da7ff269e7f5e3a5e0b4e64cb0cc38921ec/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/NWW0sXwUyl9IKQEAT4j7P81jzex8VOWIBpUFQWcr9Y8=429</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/Qss7dndRtXs601JCfgPCWWeTMSEbggHH1N-4KvgMFLU=429</link>
-      <description>Link found in newsletter: 'PayPal + OpenAI 💰, Claude AI for finance 🧑‍💻, Citi + Coinbase 🪙'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a354ab83e-439d6d29-4ff7-4c8e-9089-62cc96b39b4b-000000/Qss7dndRtXs601JCfgPCWWeTMSEbggHH1N-4KvgMFLU=429</guid>
-    </item>
+    <lastBuildDate>Wed, 05 Nov 2025 12:27:57 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=7f82966a-b582-11f0-bc55-414ba148cba8%26pt=campaign%26pv=4%26spa=1761829280%26t=1761830712%26s=f80183561db71f886c424b531fbf232030a255ad490c2fc6f6e4299373cf1231/1/0100019a354b36a2-e88c9630-2f4d-4797-958c-28ce96e8c062-000000/MBbUrVkWecCB8AzL2bD-R-_DK_hEeHdomqd2UNGVWXU=429</link>
@@ -1092,6 +576,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.snowflake.com%2Fen%2Fbuild%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=snowflake-build25/2/0100019a3a6d24d2-665c9dd0-41a6-4fd7-8125-87a1b1335dce-000000/6sMwyCDPrJgOBNIk-PEHjWAhsEqtxPJIOpHIz2wwLAw=429</link>
       <description>Link found in newsletter: 'OpenAI security agent 🤖, ChatGPT browser architecture 🌐, Claude Code secrets 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.snowflake.com%2Fen%2Fbuild%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=snowflake-build25/2/0100019a3a6d24d2-665c9dd0-41a6-4fd7-8125-87a1b1335dce-000000/6sMwyCDPrJgOBNIk-PEHjWAhsEqtxPJIOpHIz2wwLAw=429</guid>
+    </item>
+    <item>
+      <title>BUILD: The Dev Conference for AI &amp; Apps</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.snowflake.com%2Fen%2Fbuild%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=snowflake-build25/1/0100019a3a6d24d2-665c9dd0-41a6-4fd7-8125-87a1b1335dce-000000/rN4VyX3sw88SGWtDL_21J_8xYeSbfPK_8mcwtTWaNKk=429</link>
+      <description>Link found in newsletter: 'OpenAI security agent 🤖, ChatGPT browser architecture 🌐, Claude Code secrets 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.snowflake.com%2Fen%2Fbuild%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=snowflake-build25/1/0100019a3a6d24d2-665c9dd0-41a6-4fd7-8125-87a1b1335dce-000000/rN4VyX3sw88SGWtDL_21J_8xYeSbfPK_8mcwtTWaNKk=429</guid>
     </item>
     <item>
       <title>TLDR AI</title>
@@ -2060,22 +1550,10 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a4ecc6598-718cba58-f6f1-44d3-9e35-1360cd0fd4dd-000000/eNtt06-ZKD8p1ULOHDVUfKTqGs_xD7agHX7QPstUSo4=428</guid>
     </item>
     <item>
-      <title>borgrodrick · Kill the Newsletter!</title>
-      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
-      <description>Link found in newsletter: 'Anthropic’s AGI timeline ⏳, AWS + OpenAI 🤝, Qwen3-Max-Thinking 🤖'</description>
-      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
-    </item>
-    <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=60970964-b967-11f0-9097-57eb39cc9aa4%26pt=campaign%26pv=4%26spa=1762264864%26t=1762265775%26s=6f579af7b7b7fd1e96f6de39aff43cd4fe94c3283dc6fdf2355e6c96e149d258/1/0100019a4f39be11-9708affa-706e-4104-a24e-161ccb14f5ab-000000/eax-2OvyckCMdCDmV8G68z7641SPk8WY0ZksVmuW4Wo=429</link>
       <description>Link found in newsletter: 'Anthropic’s AGI timeline ⏳, AWS + OpenAI 🤝, Qwen3-Max-Thinking 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=60970964-b967-11f0-9097-57eb39cc9aa4%26pt=campaign%26pv=4%26spa=1762264864%26t=1762265775%26s=6f579af7b7b7fd1e96f6de39aff43cd4fe94c3283dc6fdf2355e6c96e149d258/1/0100019a4f39be11-9708affa-706e-4104-a24e-161ccb14f5ab-000000/eax-2OvyckCMdCDmV8G68z7641SPk8WY0ZksVmuW4Wo=429</guid>
-    </item>
-    <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019a4f39be11-9708affa-706e-4104-a24e-161ccb14f5ab-000000/9ZQLITBpSptvTvWGdRq_4p1ZS89clAsVhmzpVQfisjo=429</link>
-      <description>Link found in newsletter: 'Anthropic’s AGI timeline ⏳, AWS + OpenAI 🤝, Qwen3-Max-Thinking 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019a4f39be11-9708affa-706e-4104-a24e-161ccb14f5ab-000000/9ZQLITBpSptvTvWGdRq_4p1ZS89clAsVhmzpVQfisjo=429</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
@@ -2226,6 +1704,366 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a4f39be11-9708affa-706e-4104-a24e-161ccb14f5ab-000000/QTj-bDeC4j9KBRuu6vS7C3NAigsseKUi-OYt8zA7rEc=429</link>
       <description>Link found in newsletter: 'Anthropic’s AGI timeline ⏳, AWS + OpenAI 🤝, Qwen3-Max-Thinking 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a4f39be11-9708affa-706e-4104-a24e-161ccb14f5ab-000000/QTj-bDeC4j9KBRuu6vS7C3NAigsseKUi-OYt8zA7rEc=429</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=c693900c-ba25-11f0-bedc-87638a4b9d3f%26pt=campaign%26pv=4%26spa=1762340474%26t=1762341935%26s=a27e2080f192ce74b653f743566a7cf2bf0ca2f5e52a1144bd229392e3843ecc/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/BbprIaJACYwsVUvylkuq0dIa8JlcrRdq9fOT9rWe7GU=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=c693900c-ba25-11f0-bedc-87638a4b9d3f%26pt=campaign%26pv=4%26spa=1762340474%26t=1762341935%26s=a27e2080f192ce74b653f743566a7cf2bf0ca2f5e52a1144bd229392e3843ecc/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/BbprIaJACYwsVUvylkuq0dIa8JlcrRdq9fOT9rWe7GU=430</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/PTAN3urgY_YlXD01rdBdvm-j3eMDxpHKKwomw10PXP4=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/PTAN3urgY_YlXD01rdBdvm-j3eMDxpHKKwomw10PXP4=430</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/ik5Mq2gkkKR0uPpy4tfM9dXskwjZ1m4VKLflOPYVjCg=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/ik5Mq2gkkKR0uPpy4tfM9dXskwjZ1m4VKLflOPYVjCg=430</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/f4GvBijuKfGMYLiHYwJcnr1YEg5EN4BMyN1OfrYBC-U=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/f4GvBijuKfGMYLiHYwJcnr1YEg5EN4BMyN1OfrYBC-U=430</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/7_AHwz0dtjRbOTcXIfquk3yrKRJ1Ga4Di-ak4e8vGZU=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/7_AHwz0dtjRbOTcXIfquk3yrKRJ1Ga4Di-ak4e8vGZU=430</guid>
+    </item>
+    <item>
+      <title>GitHub - deepnote/deepnote: Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps. https://deepnote.com/</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fdeepnote%2Fdeepnote%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/YipCMri_cE-CdeT85tWPg08NDX-UJSWuWBLlLsn7Maw=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fdeepnote%2Fdeepnote%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/YipCMri_cE-CdeT85tWPg08NDX-UJSWuWBLlLsn7Maw=430</guid>
+    </item>
+    <item>
+      <title>In a stunning comeback, Jared Isaacman is renominated to lead NASA - Ars Technica</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fspace%2F2025%2F11%2Fin-a-stunning-comeback-jared-isaacman-is-renominated-to-lead-nasa%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/FJSuUeBvE3LXkmhYwQNqpfavR5qj9wWjNvl73ireZB0=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fspace%2F2025%2F11%2Fin-a-stunning-comeback-jared-isaacman-is-renominated-to-lead-nasa%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/FJSuUeBvE3LXkmhYwQNqpfavR5qj9wWjNvl73ireZB0=430</guid>
+    </item>
+    <item>
+      <title>On AI Slop vs OSS Security | devansh</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevansh.bearblog.dev%2Fai-slop%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/YI-gON-yj9gF9zulwRppTLdfmb00QD4ba1YwDwQzLz0=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevansh.bearblog.dev%2Fai-slop%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/YI-gON-yj9gF9zulwRppTLdfmb00QD4ba1YwDwQzLz0=430</guid>
+    </item>
+    <item>
+      <title>How AWS is losing the younger generation with complexity • The Register</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2025%2F11%2F04%2Faws_genz_misery_nope%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/wiRLbEH2WzYrM5TMImaRk0SdbnDTzMT2CGSzd5zSTgw=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2025%2F11%2F04%2Faws_genz_misery_nope%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/wiRLbEH2WzYrM5TMImaRk0SdbnDTzMT2CGSzd5zSTgw=430</guid>
+    </item>
+    <item>
+      <title>EU Tech Regulation Is Failing: Apple Proves It</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcupertinolens.com%2F2025%2F11%2F03%2Feu-tech-regulation-apple%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/s6b5v15iUSwRgXckex0UbKRZJuDK_9mZYdYen4-EWYA=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcupertinolens.com%2F2025%2F11%2F03%2Feu-tech-regulation-apple%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/s6b5v15iUSwRgXckex0UbKRZJuDK_9mZYdYen4-EWYA=430</guid>
+    </item>
+    <item>
+      <title>Architectural debt is not just technical debt</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffrederickvanbrabant.com%2Fblog%2F2025-10-31-architectural-debt-is-not-just-technical-debt%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/wFsbu8eeuDJeirlChR7AAIYPkOQztrMY0hWrtghCeww=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffrederickvanbrabant.com%2Fblog%2F2025-10-31-architectural-debt-is-not-just-technical-debt%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/wFsbu8eeuDJeirlChR7AAIYPkOQztrMY0hWrtghCeww=430</guid>
+    </item>
+    <item>
+      <title>Adaptive Security Awareness Training</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.adaptivesecurity.com%2Fdemo%2Fadaptive-security-awareness-training%3Futm_medium=newsletter%26utm_source=tldr-infosec%26utm_campaign=20250917/2/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/Z8ZOWEvuHsCsqbQ9eLPcwmH1SFNHZETaSwCMFLGi838=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.adaptivesecurity.com%2Fdemo%2Fadaptive-security-awareness-training%3Futm_medium=newsletter%26utm_source=tldr-infosec%26utm_campaign=20250917/2/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/Z8ZOWEvuHsCsqbQ9eLPcwmH1SFNHZETaSwCMFLGi838=430</guid>
+    </item>
+    <item>
+      <title>Adaptive Security Awareness Training</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.adaptivesecurity.com%2Fdemo%2Fadaptive-security-awareness-training%3Futm_medium=newsletter%26utm_source=tldr-infosec%26utm_campaign=20250917/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/Whl7eueaFocdRNu6ACHc28xr2SJ_eSSRbWlRHMdr8Z4=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.adaptivesecurity.com%2Fdemo%2Fadaptive-security-awareness-training%3Futm_medium=newsletter%26utm_source=tldr-infosec%26utm_campaign=20250917/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/Whl7eueaFocdRNu6ACHc28xr2SJ_eSSRbWlRHMdr8Z4=430</guid>
+    </item>
+    <item>
+      <title>How I use AI (Oct 2025) - Ben Stolovitz</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fben.stolovitz.com%2Fposts%2Fhow_use_ai_oct_2025%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/Xo9Inj_Trbyv39trwAtDuOlhJbK_yE9dAh8YvlzAY9g=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fben.stolovitz.com%2Fposts%2Fhow_use_ai_oct_2025%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/Xo9Inj_Trbyv39trwAtDuOlhJbK_yE9dAh8YvlzAY9g=430</guid>
+    </item>
+    <item>
+      <title>High-Performance Syntax Highlighting with CSS Highlights API</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fpavi2410.com%2Fblog%2Fhigh-performance-syntax-highlighting-with-css-highlights-api%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/uLUvODGNDEqoYCHmWZrWma9Mz38be2pTRfFLvd0jM3Y=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fpavi2410.com%2Fblog%2Fhigh-performance-syntax-highlighting-with-css-highlights-api%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/uLUvODGNDEqoYCHmWZrWma9Mz38be2pTRfFLvd0jM3Y=430</guid>
+    </item>
+    <item>
+      <title>GitHub - Snowflake-Labs/pg_lake: pg_lake: Postgres with Iceberg and data lake access</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FSnowflake-Labs%2Fpg_lake%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/BrSn39QqLHH-KNTISm9uJd9JFXBM9ESVc4Po_gD7LRk=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FSnowflake-Labs%2Fpg_lake%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/BrSn39QqLHH-KNTISm9uJd9JFXBM9ESVc4Po_gD7LRk=430</guid>
+    </item>
+    <item>
+      <title>Nebius Token Factory</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnebius.com%2Fservices%2Ftoken-factory%3Futm_medium=newsletters%26utm_source=tldr%26utm_campaign=token-factory-launch/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/wcn13TpmWZwGP9N6508gOhBZeXbEM8yolbhcMBd4B8o=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnebius.com%2Fservices%2Ftoken-factory%3Futm_medium=newsletters%26utm_source=tldr%26utm_campaign=token-factory-launch/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/wcn13TpmWZwGP9N6508gOhBZeXbEM8yolbhcMBd4B8o=430</guid>
+    </item>
+    <item>
+      <title>Nebius Token Factory</title>
+      <link>http://tracking.tldrnewsletter.com/CL0/http:%2F%2Ftokenfactory.nebius.com%3Futm_medium=newsletters%26utm_source=tldr%26utm_campaign=token-factory-launch/2/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/m_XYFwMyXkaltlLb6ZW9CXeFDyM-WdWLo4fMIXn7oFM=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">http://tracking.tldrnewsletter.com/CL0/http:%2F%2Ftokenfactory.nebius.com%3Futm_medium=newsletters%26utm_source=tldr%26utm_campaign=token-factory-launch/2/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/m_XYFwMyXkaltlLb6ZW9CXeFDyM-WdWLo4fMIXn7oFM=430</guid>
+    </item>
+    <item>
+      <title>Nebius Token Factory</title>
+      <link>http://tracking.tldrnewsletter.com/CL0/http:%2F%2Ftokenfactory.nebius.com%3Futm_medium=newsletters%26utm_source=tldr%26utm_campaign=token-factory-launch/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/zMiPLg4505seyYVMRJdkuRCnY6jVUjR0G_uYdkrxwLI=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">http://tracking.tldrnewsletter.com/CL0/http:%2F%2Ftokenfactory.nebius.com%3Futm_medium=newsletters%26utm_source=tldr%26utm_campaign=token-factory-launch/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/zMiPLg4505seyYVMRJdkuRCnY6jVUjR0G_uYdkrxwLI=430</guid>
+    </item>
+    <item>
+      <title>Amazon Equips Next Underwater Cable With 'Robust Armoring' to Prevent Cuts | PCMag</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fh9DhcN/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/CggMx3bQ9uGJDBzShuNHh0etd4iFNJnXcvGBHBiVGtk=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fh9DhcN/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/CggMx3bQ9uGJDBzShuNHh0etd4iFNJnXcvGBHBiVGtk=430</guid>
+    </item>
+    <item>
+      <title>Meet Project Suncatcher, Google’s plan to put AI data centers in space - Ars Technica</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fgoogle%2F2025%2F11%2Fmeet-project-suncatcher-googles-plan-to-put-ai-data-centers-in-space%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/vCWH5WHKZgtih2-QtygD543XG_VpntZ15KnQcn-F1SQ=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fgoogle%2F2025%2F11%2Fmeet-project-suncatcher-googles-plan-to-put-ai-data-centers-in-space%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/vCWH5WHKZgtih2-QtygD543XG_VpntZ15KnQcn-F1SQ=430</guid>
+    </item>
+    <item>
+      <title>Apple (AAPL) Preps Low-Cost Laptop to Rival Chromebooks and Windows PCs - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FpQkS95/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/qlcPM4Fcp4BpjNvmrNQJkqy8ny0VzYSTMtetTEKVXxw=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FpQkS95/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/qlcPM4Fcp4BpjNvmrNQJkqy8ny0VzYSTMtetTEKVXxw=430</guid>
+    </item>
+    <item>
+      <title>QA Wolf | 80% automated test coverage in 4 months</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251105-None_Experiment-FALSE%26utm_term=cta-ScheduleADemoToLearnMore%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251105_v1_/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/MkxlHA5PX3d16JVnEvFUww6itDnVJb5_3sQObwHlyQM=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251105-None_Experiment-FALSE%26utm_term=cta-ScheduleADemoToLearnMore%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251105_v1_/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/MkxlHA5PX3d16JVnEvFUww6itDnVJb5_3sQObwHlyQM=430</guid>
+    </item>
+    <item>
+      <title>Drata secured 86% faster QA cycles | QA Wolf</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fcase-studies%2Fdrata%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251105-None_Experiment-FALSE%26utm_term=body-DratasTeamOfEngineers%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251105_v1_/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/oEzEVTxKwnt_0mfd7IjCRDvIdgE0uuwrOx_e8yGtipQ=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fcase-studies%2Fdrata%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251105-None_Experiment-FALSE%26utm_term=body-DratasTeamOfEngineers%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251105_v1_/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/oEzEVTxKwnt_0mfd7IjCRDvIdgE0uuwrOx_e8yGtipQ=430</guid>
+    </item>
+    <item>
+      <title>How it works</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fhow-it-works%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251105-None_Experiment-FALSE%26utm_term=body-UnlimitedParallelTestRuns%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251105_v1_/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/hPwYr6pSKsUX5Sb0H0Rl71Sluqn-H7Du6Q_wa_g_JX8=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fhow-it-works%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251105-None_Experiment-FALSE%26utm_term=body-UnlimitedParallelTestRuns%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251105_v1_/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/hPwYr6pSKsUX5Sb0H0Rl71Sluqn-H7Du6Q_wa_g_JX8=430</guid>
+    </item>
+    <item>
+      <title>How it works</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fhow-it-works%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251105-None_Experiment-FALSE%26utm_term=body-80PercentAutomatedE2ETestCoverageInWeeks%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251105_v1_/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/DimHAlJP6Of3BkMboWJVzMdfemKyebsLfh_KQ0Mjd4M=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fhow-it-works%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251105-None_Experiment-FALSE%26utm_term=body-80PercentAutomatedE2ETestCoverageInWeeks%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251105_v1_/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/DimHAlJP6Of3BkMboWJVzMdfemKyebsLfh_KQ0Mjd4M=430</guid>
+    </item>
+    <item>
+      <title>QA Wolf | 80% automated test coverage in 4 months</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251105-None_Experiment-FALSE%26utm_term=body-QAWolf%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251105_v1_/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/d9L0082TkPUnsmyON8QMyr4SIBJqF5SU3dDQCa0jXfY=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251105-None_Experiment-FALSE%26utm_term=body-QAWolf%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251105_v1_/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/d9L0082TkPUnsmyON8QMyr4SIBJqF5SU3dDQCa0jXfY=430</guid>
+    </item>
+    <item>
+      <title>QA Wolf | 80% automated test coverage in 4 months</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251105-None_Experiment-FALSE%26utm_term=headline-GoodbyeLowTestCoverageAndSlowQACycles%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251105_v1_/2/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/akK3U_eYw0D6l94YcsVpkotWR3fsq1JAvbc7b1FoNsM=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251105-None_Experiment-FALSE%26utm_term=headline-GoodbyeLowTestCoverageAndSlowQACycles%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251105_v1_/2/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/akK3U_eYw0D6l94YcsVpkotWR3fsq1JAvbc7b1FoNsM=430</guid>
+    </item>
+    <item>
+      <title>QA Wolf | 80% automated test coverage in 4 months</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251105-None_Experiment-FALSE%26utm_term=headline-GoodbyeLowTestCoverageAndSlowQACycles%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251105_v1_/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/RNrjhckA0gg4XbFNgNWPio_Pbcv6q1oYFM4rsFjxBeA=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251105-None_Experiment-FALSE%26utm_term=headline-GoodbyeLowTestCoverageAndSlowQACycles%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251105_v1_/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/RNrjhckA0gg4XbFNgNWPio_Pbcv6q1oYFM4rsFjxBeA=430</guid>
+    </item>
+    <item>
+      <title>TLDR</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=c693900c-ba25-11f0-bedc-87638a4b9d3f%26pt=campaign%26t=1762341935%26s=9fc511165511ffa6077479f57b859d1ddf64fd8ac4875361c8d71010d037d6a5/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/l5qV4SgYdkGEeOa1w4Qh7ED5rjIPEy0lzYg7aoomcnU=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=c693900c-ba25-11f0-bedc-87638a4b9d3f%26pt=campaign%26t=1762341935%26s=9fc511165511ffa6077479f57b859d1ddf64fd8ac4875361c8d71010d037d6a5/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/l5qV4SgYdkGEeOa1w4Qh7ED5rjIPEy0lzYg7aoomcnU=430</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/36RpHE367S4I0ce4H2BDIQphlMLyb1c1xuAypmnrDJE=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/36RpHE367S4I0ce4H2BDIQphlMLyb1c1xuAypmnrDJE=430</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/c-Ih1IGt6tqx9u8VfHgPksW-mOUTcvt3GSKeYBpm3go=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/c-Ih1IGt6tqx9u8VfHgPksW-mOUTcvt3GSKeYBpm3go=430</guid>
+    </item>
+    <item>
+      <title>borgrodrick · Kill the Newsletter!</title>
+      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=527ed000-ba2a-11f0-ab94-83dcd7092104%26pt=campaign%26pv=4%26spa=1762344062%26t=1762345236%26s=61144b0e711a6caf082ece2dd1add15e85366d4721995a3fd72fc4a2e2102a6a/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/LPxyfpD_wm4R46RhWv5c-pyj-FYxhLeHOCWApZixTs4=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=527ed000-ba2a-11f0-ab94-83dcd7092104%26pt=campaign%26pv=4%26spa=1762344062%26t=1762345236%26s=61144b0e711a6caf082ece2dd1add15e85366d4721995a3fd72fc4a2e2102a6a/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/LPxyfpD_wm4R46RhWv5c-pyj-FYxhLeHOCWApZixTs4=430</guid>
+    </item>
+    <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/F6Zoi4n4EOqHNSbpJ2VSlJ5zEGwqUsPQoqAj5ps3Vys=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/F6Zoi4n4EOqHNSbpJ2VSlJ5zEGwqUsPQoqAj5ps3Vys=430</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/sTAdO4JjiDvuR9ITvgLfdBTck8B_eYpSaofqbFRGQ8A=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/sTAdO4JjiDvuR9ITvgLfdBTck8B_eYpSaofqbFRGQ8A=430</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/oy1a8W1fPFXqVMEA_C2_lZ1rqpSk5hXkWk3eutjcUPY=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/oy1a8W1fPFXqVMEA_C2_lZ1rqpSk5hXkWk3eutjcUPY=430</guid>
+    </item>
+    <item>
+      <title>TLDR Web Dev | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/kRYTBFlWJRrHJXb9_zAeRwh-PF1jWLIxpwGSdy-Xjd0=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/kRYTBFlWJRrHJXb9_zAeRwh-PF1jWLIxpwGSdy-Xjd0=430</guid>
+    </item>
+    <item>
+      <title>Full Text Search Shenanigans</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnotpeerreviewed.com%2Fblog%2Fbloom-filters%2F%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/t0ih8bC0IZPsgz1yEL5uQbM1DETXZMDR2bDEfmrihiQ=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnotpeerreviewed.com%2Fblog%2Fbloom-filters%2F%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/t0ih8bC0IZPsgz1yEL5uQbM1DETXZMDR2bDEfmrihiQ=430</guid>
+    </item>
+    <item>
+      <title>100X.Bot | 100x All-in-One AI Agent Platform</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F100x.bot%2Fa%2Fchaining-ffmpeg-with-browser-agent%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/vHPeN4l0GbfFmXkn5rKHH_Nm_SgR1tFOYjI9x9nZB3M=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F100x.bot%2Fa%2Fchaining-ffmpeg-with-browser-agent%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/vHPeN4l0GbfFmXkn5rKHH_Nm_SgR1tFOYjI9x9nZB3M=430</guid>
+    </item>
+    <item>
+      <title>By the power of grayscale!</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fzserge.com%2Fposts%2Fgrayskull%2F%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/W3P4SzBGlPEZhdwEMrfqyAPvcqJBsQ6hwy7__BDN4HA=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fzserge.com%2Fposts%2Fgrayskull%2F%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/W3P4SzBGlPEZhdwEMrfqyAPvcqJBsQ6hwy7__BDN4HA=430</guid>
+    </item>
+    <item>
+      <title>Apple Vision Pro's Persona Avatars Are Evolving Fast - CNET</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnet.com%2Ftech%2Fcomputing%2Fapple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed%2F%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/iPeydq5dSvWPWq1uLHBTCSYrE329yIQ1DbsG1Vke0rs=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnet.com%2Ftech%2Fcomputing%2Fapple-talks-to-me-about-vision-pro-personas-where-is-our-virtual-presence-headed%2F%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/iPeydq5dSvWPWq1uLHBTCSYrE329yIQ1DbsG1Vke0rs=430</guid>
+    </item>
+    <item>
+      <title>What Is a Manifold? | Quanta Magazine</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.quantamagazine.org%2Fwhat-is-a-manifold-20251103%2F%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/mVsjENao-UGWiKNVtimWjOFfkgAD9WQImIfCz6gS-4s=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.quantamagazine.org%2Fwhat-is-a-manifold-20251103%2F%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/mVsjENao-UGWiKNVtimWjOFfkgAD9WQImIfCz6gS-4s=430</guid>
+    </item>
+    <item>
+      <title>Frozen String Literals: Past, Present, Future? | byroot’s blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbyroot.github.io%2Fruby%2Fperformance%2F2025%2F10%2F28%2Fstring-literals.html%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/fg4VRW5eECBgTDk3wVq5Lt9dAgvw4Mnn2NZXr09AM-c=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbyroot.github.io%2Fruby%2Fperformance%2F2025%2F10%2F28%2Fstring-literals.html%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/fg4VRW5eECBgTDk3wVq5Lt9dAgvw4Mnn2NZXr09AM-c=430</guid>
+    </item>
+    <item>
+      <title>Exploring a space-based, scalable AI infrastructure system design</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fresearch.google%2Fblog%2Fexploring-a-space-based-scalable-ai-infrastructure-system-design%2F%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/_kYDhx_aPX0I4gcsaVqhkiePNjZV26-7Ts7mk_rg_qg=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fresearch.google%2Fblog%2Fexploring-a-space-based-scalable-ai-infrastructure-system-design%2F%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/_kYDhx_aPX0I4gcsaVqhkiePNjZV26-7Ts7mk_rg_qg=430</guid>
+    </item>
+    <item>
+      <title>GitHub - Snowflake-Labs/pg_lake: pg_lake: Postgres with Iceberg and data lake access</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FSnowflake-Labs%2Fpg_lake%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/4MqLb7V6D4NQCfsNeuSx1fYZD79MVHIxzFll8utMjeU=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FSnowflake-Labs%2Fpg_lake%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/4MqLb7V6D4NQCfsNeuSx1fYZD79MVHIxzFll8utMjeU=430</guid>
+    </item>
+    <item>
+      <title>Cognition | Windsurf Codemaps: Understand Code, Before You Vibe It</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcognition.ai%2Fblog%2Fcodemaps%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/dQzkfRlmEuVlle-sxikjWiFMSmoky3QZVVRamSl7Juw=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcognition.ai%2Fblog%2Fcodemaps%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/dQzkfRlmEuVlle-sxikjWiFMSmoky3QZVVRamSl7Juw=430</guid>
+    </item>
+    <item>
+      <title>15 Kubernetes Metrics Every DevOps Team Should Track | Datadog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.datadoghq.com%2Fresources%2F15-kubernetes-metrics-ebook%2F%3Futm_source=tldrnewsletter%26utm_medium=newsletter%26utm_campaign=dg-infra-ww-k8-metrics-ebook-dev/3/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/ubDuHRUWp8uGqIZjs4_IEfKS17fD_RLi2_taAJdVaEQ=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.datadoghq.com%2Fresources%2F15-kubernetes-metrics-ebook%2F%3Futm_source=tldrnewsletter%26utm_medium=newsletter%26utm_campaign=dg-infra-ww-k8-metrics-ebook-dev/3/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/ubDuHRUWp8uGqIZjs4_IEfKS17fD_RLi2_taAJdVaEQ=430</guid>
+    </item>
+    <item>
+      <title>15 Kubernetes Metrics Every DevOps Team Should Track | Datadog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.datadoghq.com%2Fresources%2F15-kubernetes-metrics-ebook%2F%3Futm_source=tldrnewsletter%26utm_medium=newsletter%26utm_campaign=dg-infra-ww-k8-metrics-ebook-dev/2/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/wmMtjKhkcSZOFmi9Pyir6qHsAzBmJwfKn664ewT3S2Q=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.datadoghq.com%2Fresources%2F15-kubernetes-metrics-ebook%2F%3Futm_source=tldrnewsletter%26utm_medium=newsletter%26utm_campaign=dg-infra-ww-k8-metrics-ebook-dev/2/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/wmMtjKhkcSZOFmi9Pyir6qHsAzBmJwfKn664ewT3S2Q=430</guid>
+    </item>
+    <item>
+      <title>15 Kubernetes Metrics Every DevOps Team Should Track | Datadog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.datadoghq.com%2Fresources%2F15-kubernetes-metrics-ebook%2F%3Futm_source=tldrnewsletter%26utm_medium=newsletter%26utm_campaign=dg-infra-ww-k8-metrics-ebook-dev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/5HZUgHegqFhXRU9ScOdXXCGfFGLVUzPMhkvGOvVSi5s=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.datadoghq.com%2Fresources%2F15-kubernetes-metrics-ebook%2F%3Futm_source=tldrnewsletter%26utm_medium=newsletter%26utm_campaign=dg-infra-ww-k8-metrics-ebook-dev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/5HZUgHegqFhXRU9ScOdXXCGfFGLVUzPMhkvGOvVSi5s=430</guid>
+    </item>
+    <item>
+      <title>Some software bloat is OK | WaspDev Blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwaspdev.com%2Farticles%2F2025-11-04%2Fsome-software-bloat-is-ok%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/JgPxnzBu3Bz5mSFhKbK5stj-pLN_yn-eSgubX6SH7ms=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwaspdev.com%2Farticles%2F2025-11-04%2Fsome-software-bloat-is-ok%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/JgPxnzBu3Bz5mSFhKbK5stj-pLN_yn-eSgubX6SH7ms=430</guid>
+    </item>
+    <item>
+      <title>The Inner Workings of JavaScript Source Maps</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.polarsignals.com%2Fblog%2Fposts%2F2025%2F11%2F04%2Fjavascript-source-maps-internals%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/lYXSMOe1rJRtXV00qVyV4NS7pXxh0zCHA-KoJ0DWYoQ=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.polarsignals.com%2Fblog%2Fposts%2F2025%2F11%2F04%2Fjavascript-source-maps-internals%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/lYXSMOe1rJRtXV00qVyV4NS7pXxh0zCHA-KoJ0DWYoQ=430</guid>
+    </item>
+    <item>
+      <title>Why NaN !== NaN in JavaScript (and the IEEE 754 story behind it) | Piotr Zarycki - Programming Blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fpzarycki.com%2Fen%2Fposts%2Fjs-nan%2F%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/hkihhucmbOs-09L42JThg74pIh4mdwBc_P7Jfr4drZI=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fpzarycki.com%2Fen%2Fposts%2Fjs-nan%2F%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/hkihhucmbOs-09L42JThg74pIh4mdwBc_P7Jfr4drZI=430</guid>
+    </item>
+    <item>
+      <title>2x Performance, $300k Savings: A Case Study in Rewriting a Critical Service in Rust</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwxiaoyun.com%2Fblog%2Frust-rewrite-case-study%2F%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/FBRDLQWXpDjDUITshreWc36dC6APGK-1g-HVOjwhE08=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwxiaoyun.com%2Fblog%2Frust-rewrite-case-study%2F%3Futm_source=tldrwebdev/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/FBRDLQWXpDjDUITshreWc36dC6APGK-1g-HVOjwhE08=430</guid>
+    </item>
+    <item>
+      <title>7 habits of highly effective AI coding | Sonar</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sonarsource.com%2Fsem%2F7-habits-of-highly-effective-ai-coding-ebook%2F%3Futm_medium=paid%26utm_source=tldr%26utm_campaign=ss-7-habits-ebook25%26utm_content=newsletter-primary-tldr-dev-251105-x%26utm_term=ww-psp-x%26s_category=Paid%26s_source=Paid%2520Other%26s_origin=tldr/3/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/-FT4xLjR9sfva7fuF6bE-CjsHUeEw2sW5_sIkIAzH-s=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sonarsource.com%2Fsem%2F7-habits-of-highly-effective-ai-coding-ebook%2F%3Futm_medium=paid%26utm_source=tldr%26utm_campaign=ss-7-habits-ebook25%26utm_content=newsletter-primary-tldr-dev-251105-x%26utm_term=ww-psp-x%26s_category=Paid%26s_source=Paid%2520Other%26s_origin=tldr/3/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/-FT4xLjR9sfva7fuF6bE-CjsHUeEw2sW5_sIkIAzH-s=430</guid>
+    </item>
+    <item>
+      <title>Get Started SonarQube Cloud  | Sonar</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sonarsource.com%2Fget-started%2Fcloud%2F%3Futm_medium=paid%26utm_source=tldr%26utm_campaign=ss-7-habits-ebook25%26utm_content=newsletter-primary-tldr-dev-251105-x%26utm_term=ww-psp-x%26s_category=Paid%26s_source=Paid%2520Other%26s_origin=tldr/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/QTMLMqt-_VhkXFP4DW2NpZPOgPP4K6G9yXp1oIt0ZxA=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sonarsource.com%2Fget-started%2Fcloud%2F%3Futm_medium=paid%26utm_source=tldr%26utm_campaign=ss-7-habits-ebook25%26utm_content=newsletter-primary-tldr-dev-251105-x%26utm_term=ww-psp-x%26s_category=Paid%26s_source=Paid%2520Other%26s_origin=tldr/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/QTMLMqt-_VhkXFP4DW2NpZPOgPP4K6G9yXp1oIt0ZxA=430</guid>
+    </item>
+    <item>
+      <title>7 habits of highly effective AI coding | Sonar</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sonarsource.com%2Fsem%2F7-habits-of-highly-effective-ai-coding-ebook%2F%3Futm_medium=paid%26utm_source=tldr%26utm_campaign=ss-7-habits-ebook25%26utm_content=newsletter-primary-tldr-dev-251105-x%26utm_term=ww-psp-x%26s_category=Paid%26s_source=Paid%2520Other%26s_origin=tldr/2/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/E9FO_QzZmm_Cd-WsieLU15SpvTRxKqh1NFTgmhA4dTE=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sonarsource.com%2Fsem%2F7-habits-of-highly-effective-ai-coding-ebook%2F%3Futm_medium=paid%26utm_source=tldr%26utm_campaign=ss-7-habits-ebook25%26utm_content=newsletter-primary-tldr-dev-251105-x%26utm_term=ww-psp-x%26s_category=Paid%26s_source=Paid%2520Other%26s_origin=tldr/2/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/E9FO_QzZmm_Cd-WsieLU15SpvTRxKqh1NFTgmhA4dTE=430</guid>
+    </item>
+    <item>
+      <title>7 habits of highly effective AI coding | Sonar</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sonarsource.com%2Fsem%2F7-habits-of-highly-effective-ai-coding-ebook%2F%3Futm_medium=paid%26utm_source=tldr%26utm_campaign=ss-7-habits-ebook25%26utm_content=newsletter-primary-tldr-dev-251105-x%26utm_term=ww-psp-x%26s_category=Paid%26s_source=Paid%2520Other%26s_origin=tldr/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/BsCA6jpV8VKY10crAEPSYHsKBzYWmxmhETTuLGhPUV0=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.sonarsource.com%2Fsem%2F7-habits-of-highly-effective-ai-coding-ebook%2F%3Futm_medium=paid%26utm_source=tldr%26utm_campaign=ss-7-habits-ebook25%26utm_content=newsletter-primary-tldr-dev-251105-x%26utm_term=ww-psp-x%26s_category=Paid%26s_source=Paid%2520Other%26s_origin=tldr/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/BsCA6jpV8VKY10crAEPSYHsKBzYWmxmhETTuLGhPUV0=430</guid>
+    </item>
+    <item>
+      <title>TLDR Dev</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=527ed000-ba2a-11f0-ab94-83dcd7092104%26pt=campaign%26t=1762345236%26s=5447fdefbdd7d33a6f38c9d648d048348913d9086845b91675fe3507c5568b5d/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/519ggfFmvXhBou4cvsK1Tl5wQCJ1DJ5bF_-Jp8XHDts=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=527ed000-ba2a-11f0-ab94-83dcd7092104%26pt=campaign%26t=1762345236%26s=5447fdefbdd7d33a6f38c9d648d048348913d9086845b91675fe3507c5568b5d/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/519ggfFmvXhBou4cvsK1Tl5wQCJ1DJ5bF_-Jp8XHDts=430</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/eZ-k--pWh8T1XsEazenStWQ74fmW2ASQV4KyY73zE0w=430</link>
+      <description>Link found in newsletter: 'Windsurf Codemaps 🧠, TPUs in space 🛰, Rust saves TikTok $300k 💵'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/eZ-k--pWh8T1XsEazenStWQ74fmW2ASQV4KyY73zE0w=430</guid>
     </item>
   </channel>
 </rss>
