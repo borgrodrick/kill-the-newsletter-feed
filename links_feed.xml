@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 06 Nov 2025 01:04:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 06:21:15 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=12d11a6c-b638-11f0-a988-7d0f4daca846%26pt=campaign%26pv=4%26spa=1761904854%26t=1761906347%26s=e6a333fb81f5aeaa9d42878445c8e055ee0319c5f50bbb65ba067d787b4e9438/1/0100019a39cd4ec6-43ce1196-e522-4725-b70d-3176fb6d4f29-000000/dFEorlIuo6nJxkv2TZ-WMYl0cExtmFCkSS5d4ZRYovY=429</link>
@@ -114,12 +114,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.harness.io%2Fevent%2Fsecurity-software-summit%3Fcampaign_id=701Uw00000XOYe4IAH%26utm_source=tldr%26utm_medium=email-paid/1/0100019a39cd4ec6-43ce1196-e522-4725-b70d-3176fb6d4f29-000000/V8YqbN_ysF7oo-HijqFu6On5G77vrwRftS6LY24XLo0=429</link>
       <description>Link found in newsletter: 'SpaceX vs Blue Origin 🚀, Android always-on apps 📱, design tokens 🎨'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.harness.io%2Fevent%2Fsecurity-software-summit%3Fcampaign_id=701Uw00000XOYe4IAH%26utm_source=tldr%26utm_medium=email-paid/1/0100019a39cd4ec6-43ce1196-e522-4725-b70d-3176fb6d4f29-000000/V8YqbN_ysF7oo-HijqFu6On5G77vrwRftS6LY24XLo0=429</guid>
-    </item>
-    <item>
-      <title>World's 1st underwater habitat in decades to unlock secrets of oceans</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Finterestingengineering.com%2Fscience%2Fworlds-first-underwater-habitat%3Futm_source=tldrnewsletter/1/0100019a39cd4ec6-43ce1196-e522-4725-b70d-3176fb6d4f29-000000/TdKhomGBmQaLS3ItzVVbKdvPdJvjJ_URT4meA3WIwgU=429</link>
-      <description>Link found in newsletter: 'SpaceX vs Blue Origin 🚀, Android always-on apps 📱, design tokens 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Finterestingengineering.com%2Fscience%2Fworlds-first-underwater-habitat%3Futm_source=tldrnewsletter/1/0100019a39cd4ec6-43ce1196-e522-4725-b70d-3176fb6d4f29-000000/TdKhomGBmQaLS3ItzVVbKdvPdJvjJ_URT4meA3WIwgU=429</guid>
     </item>
     <item>
       <title>NASA says SpaceX, Blue Origin submitted new Moon mission plans</title>
@@ -812,6 +806,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.pathlight.vc%2Ftheses%2F2026-pathlight-rfs%3Futm_source=tldrfintech/1/0100019a4a1b8d1c-345bd8d7-4255-4eea-b15f-1ef9da4507f1-000000/IyrelJoLQvJDnh5tkMcKjRwgileecyhSgDh7WB6ZL8o=429</guid>
     </item>
     <item>
+      <title>Jack Ma-Backed Ant International Invests in Latin America Fintech R2 - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FqsfaEV/1/0100019a4a1b8d1c-345bd8d7-4255-4eea-b15f-1ef9da4507f1-000000/0LTdYjggwxhMVGRL0U5aCT1imFOiE8BzQmsFg39g_yM=429</link>
+      <description>Link found in newsletter: 'Coinbase targets $2B BVNK deal 💰, Affirm expands with New York Life 🤝, Wealthsimple hits $10B 🚀'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FqsfaEV/1/0100019a4a1b8d1c-345bd8d7-4255-4eea-b15f-1ef9da4507f1-000000/0LTdYjggwxhMVGRL0U5aCT1imFOiE8BzQmsFg39g_yM=429</guid>
+    </item>
+    <item>
       <title>Berkshire Hathaway BRK earnings Q3 2025</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F11%2F01%2Fberkshire-hathaway-brk-earnings-q3-2025.html%3Futm_campaign=trueanthem%26utm_content=main%26utm_medium=social%26utm_source=linkedin/1/0100019a4a1b8d1c-345bd8d7-4255-4eea-b15f-1ef9da4507f1-000000/IQ2egf1tRwvl7RPd6Qbrfp-lrM1h6PvW_8kWOncKBhM=429</link>
       <description>Link found in newsletter: 'Coinbase targets $2B BVNK deal 💰, Affirm expands with New York Life 🤝, Wealthsimple hits $10B 🚀'</description>
@@ -852,6 +852,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbetter-tomorrow-ventures.ghost.io%2Fon-the-heels-of-fund-iii-fintechs-next-chapter%2F%3Futm_source=tldrfintech/1/0100019a4a1b8d1c-345bd8d7-4255-4eea-b15f-1ef9da4507f1-000000/OqZexViOCQ3aJGFXgU9XsD93DMSbgRF02BsagMxwzTs=429</link>
       <description>Link found in newsletter: 'Coinbase targets $2B BVNK deal 💰, Affirm expands with New York Life 🤝, Wealthsimple hits $10B 🚀'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbetter-tomorrow-ventures.ghost.io%2Fon-the-heels-of-fund-iii-fintechs-next-chapter%2F%3Futm_source=tldrfintech/1/0100019a4a1b8d1c-345bd8d7-4255-4eea-b15f-1ef9da4507f1-000000/OqZexViOCQ3aJGFXgU9XsD93DMSbgRF02BsagMxwzTs=429</guid>
+    </item>
+    <item>
+      <title>Fed Weighs Giving Fintechs Like Circle, Stripe Access to Payment System - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FCK3pbv/1/0100019a4a1b8d1c-345bd8d7-4255-4eea-b15f-1ef9da4507f1-000000/kSyK9baQC91ln0cmsaSjUBmUZ8NgCq5jiutL4tdXHVo=429</link>
+      <description>Link found in newsletter: 'Coinbase targets $2B BVNK deal 💰, Affirm expands with New York Life 🤝, Wealthsimple hits $10B 🚀'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FCK3pbv/1/0100019a4a1b8d1c-345bd8d7-4255-4eea-b15f-1ef9da4507f1-000000/kSyK9baQC91ln0cmsaSjUBmUZ8NgCq5jiutL4tdXHVo=429</guid>
     </item>
     <item>
       <title>Wealthsimple hits $10-billion valuation in new round backed by Dragoneer, GIC, CPP Investments | BetaKit</title>
@@ -944,7 +950,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=quicklinks11032025/1/0100019a4a1cb1ba-aa7556f3-16bf-49b3-9d7a-b75cf39c5a35-000000/XcmaztriXdcEL0j_T7vT-6h9JF0I2Z4fPNaokerb9d8=429</guid>
     </item>
     <item>
-      <title>AI-Generated Billboard-Charting 'Artist' Xania Monet Creator Defends Music From Backlash</title>
+      <title>These AI ‘Singers’ Charting On Billboard Are Actually AI Generated</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.forbes.com%2Fsites%2Fconormurray%2F2025%2F10%2F29%2Fbillboard-says-ai-powered-artists-are-increasingly-hitting-the-charts%2F%3Futm_source=tldrai/1/0100019a4a1cb1ba-aa7556f3-16bf-49b3-9d7a-b75cf39c5a35-000000/Efbj8Ij9KdTr80bluKMjdadtEfGWPz0pUoOoY4LlQI8=429</link>
       <description>Link found in newsletter: 'Anthropic $300B rumor 💰, Siri’s private Gemini model 📱, Ilya’s deposition 🧑‍⚖️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.forbes.com%2Fsites%2Fconormurray%2F2025%2F10%2F29%2Fbillboard-says-ai-powered-artists-are-increasingly-hitting-the-charts%2F%3Futm_source=tldrai/1/0100019a4a1cb1ba-aa7556f3-16bf-49b3-9d7a-b75cf39c5a35-000000/Efbj8Ij9KdTr80bluKMjdadtEfGWPz0pUoOoY4LlQI8=429</guid>
@@ -1898,6 +1904,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a53f6395b-4c095d0a-aa7b-4447-aa45-b7ed7af1b02c-000000/eZ-k--pWh8T1XsEazenStWQ74fmW2ASQV4KyY73zE0w=430</guid>
     </item>
     <item>
+      <title>borgrodrick · Kill the Newsletter!</title>
+      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
+      <description>Link found in newsletter: 'Anthropic $70B projection 💰, Nano Banana 2 🍌, beyond standard LLMs 🧠'</description>
+      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
+    </item>
+    <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=d74a4d64-ba3e-11f0-b3eb-b7b11b8f0a27%26pt=campaign%26pv=4%26spa=1762351335%26t=1762352517%26s=68b5beac2ad4fae7824f043a3b3fa88d132116bf2cc7d1cdb6c3edea4157d72c/1/0100019a5465526f-46be9b9e-bae1-4e49-827f-86e38f9c72d9-000000/sw8yfCXaPgmiTMjaP62s3tbHMeqQsB9UmV5mljjweS8=430</link>
       <description>Link found in newsletter: 'Anthropic $70B projection 💰, Nano Banana 2 🍌, beyond standard LLMs 🧠'</description>
@@ -1976,7 +1988,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theatlantic.com%2Ftechnology%2F2025%2F11%2Fcommon-crawl-ai-training-data%2F684567%2F%3Fgift=iWa_iB9lkw4UuiWbIbrWGQv84IP0_-K67yuVC013Fx4%26utm_source=tldrai/1/0100019a5465526f-46be9b9e-bae1-4e49-827f-86e38f9c72d9-000000/krDs6gPzyf7axXXEJ0K_3KbBfViFbTZLUk9TN5yvc_c=430</guid>
     </item>
     <item>
-      <title>Amazon Sends Perplexity a Cease and Desist Over Its AI Agents Shopping for You | PCMag</title>
+      <title>Amazon Sues Perplexity As AI Browser War Escalates | PCMag</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F8Gtqc5/1/0100019a5465526f-46be9b9e-bae1-4e49-827f-86e38f9c72d9-000000/0PmK1GawJtI7E3V2ZRt4Z8-hcsuQHvUQjNu4kat3O8s=430</link>
       <description>Link found in newsletter: 'Anthropic $70B projection 💰, Nano Banana 2 🍌, beyond standard LLMs 🧠'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F8Gtqc5/1/0100019a5465526f-46be9b9e-bae1-4e49-827f-86e38f9c72d9-000000/0PmK1GawJtI7E3V2ZRt4Z8-hcsuQHvUQjNu4kat3O8s=430</guid>
