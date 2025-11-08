@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 08 Nov 2025 01:00:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Nov 2025 06:18:22 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=65f2ba52-b962-11f0-8527-61201a4f431a%26pt=campaign%26pv=4%26spa=1762254052%26t=1762255559%26s=c6016858adc98c4d9536c9ecf2631d2240f99f9046ea2d2ebf4da25263f05811/1/0100019a4e9dda9b-b34ca9c8-ea86-418c-9a88-fa1cc95170a8-000000/nuMPfdqOneaFGeyafxZZa154nUWU-ZfAbmUa-HVtj1A=429</link>
@@ -624,6 +624,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fgoogle%2F2025%2F11%2Fmeet-project-suncatcher-googles-plan-to-put-ai-data-centers-in-space%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/vCWH5WHKZgtih2-QtygD543XG_VpntZ15KnQcn-F1SQ=430</link>
       <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fgoogle%2F2025%2F11%2Fmeet-project-suncatcher-googles-plan-to-put-ai-data-centers-in-space%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/vCWH5WHKZgtih2-QtygD543XG_VpntZ15KnQcn-F1SQ=430</guid>
+    </item>
+    <item>
+      <title>Apple (AAPL) Preps Low-Cost Laptop to Rival Chromebooks and Windows PCs - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FpQkS95/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/qlcPM4Fcp4BpjNvmrNQJkqy8ny0VzYSTMtetTEKVXxw=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FpQkS95/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/qlcPM4Fcp4BpjNvmrNQJkqy8ny0VzYSTMtetTEKVXxw=430</guid>
     </item>
     <item>
       <title>QA Wolf | 80% automated test coverage in 4 months</title>
@@ -1784,6 +1790,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fevents%2Fget-high-performance-it-right-free-forrester-report%2F%3Futm_campaign=glb-26-glb-wp-tc_dsp-forrester_it_report%26utm_source=newsletter%26utm_medium=email%26utm_content=Forrester%2520Report%26utm_term=TLDR%26src=-newsletter_glb/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/6d7Jop6yMQ4gWE9LoUcIb67sPOWCNZhP5oYYrAz89cY=430</guid>
     </item>
     <item>
+      <title>The UAE Is Winning the Race to Sequence an Entire Country’s DNA - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FykS5ig/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/6txUoLO-eWTDhq3ucbAgv1MJ8iLn-p_YccdfOp4krNg=430</link>
+      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FykS5ig/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/6txUoLO-eWTDhq3ucbAgv1MJ8iLn-p_YccdfOp4krNg=430</guid>
+    </item>
+    <item>
       <title>TPU v7, Google's answer to Nvidia's Blackwell is nearly here • The Register</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2025%2F11%2F06%2Fgoogles_ironwood_tpus_ai%2F%3Futm_source=tldrnewsletter/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/MW6WIiBT8_NNUwR6OsF_IPuF3jOTeaFjlWWPeqi_MoU=430</link>
       <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
@@ -2034,6 +2046,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.businessinsider.com%2Fresearcher-raising-1-billion-to-build-ai-models-with-eq-2025-10%3Futm_source=tldrai/1/0100019a5eb0db9b-262707d6-fb41-450a-a5df-5c5d6bbd3f6a-000000/07IcsP5vXG-5Bi24AL-ENdyqSxXY1LkmiyWqcUt7EQ0=430</link>
       <description>Link found in newsletter: 'Sam on OpenAI finances 💰, GPT-5.1 🤖, Anthropic $350B valuation 📈'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.businessinsider.com%2Fresearcher-raising-1-billion-to-build-ai-models-with-eq-2025-10%3Futm_source=tldrai/1/0100019a5eb0db9b-262707d6-fb41-450a-a5df-5c5d6bbd3f6a-000000/07IcsP5vXG-5Bi24AL-ENdyqSxXY1LkmiyWqcUt7EQ0=430</guid>
+    </item>
+    <item>
+      <title>Microsoft forms superintelligence team under AI head Mustafa Suleyman</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F11%2F06%2Fmicrosoft-forms-superintelligence-team-under-ai-head-mustafa-suleyman-.html%3Futm_source=tldrai/1/0100019a5eb0db9b-262707d6-fb41-450a-a5df-5c5d6bbd3f6a-000000/1vVuvBWnF98icId5GOHUaZs1244gHkll4X5Qf6lxB0g=430</link>
+      <description>Link found in newsletter: 'Sam on OpenAI finances 💰, GPT-5.1 🤖, Anthropic $350B valuation 📈'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F11%2F06%2Fmicrosoft-forms-superintelligence-team-under-ai-head-mustafa-suleyman-.html%3Futm_source=tldrai/1/0100019a5eb0db9b-262707d6-fb41-450a-a5df-5c5d6bbd3f6a-000000/1vVuvBWnF98icId5GOHUaZs1244gHkll4X5Qf6lxB0g=430</guid>
     </item>
     <item>
       <title>Introducing the Parallel Search API | Parallel Web Systems | Build the world wide web for AIs</title>
