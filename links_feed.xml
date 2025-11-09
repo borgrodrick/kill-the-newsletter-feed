@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 09 Nov 2025 12:23:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Nov 2025 18:17:03 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=65f2ba52-b962-11f0-8527-61201a4f431a%26pt=campaign%26pv=4%26spa=1762254052%26t=1762255559%26s=c6016858adc98c4d9536c9ecf2631d2240f99f9046ea2d2ebf4da25263f05811/1/0100019a4e9dda9b-b34ca9c8-ea86-418c-9a88-fa1cc95170a8-000000/nuMPfdqOneaFGeyafxZZa154nUWU-ZfAbmUa-HVtj1A=429</link>
@@ -48,6 +48,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.seangoedecke.com%2Fwhy-do-ai-enterprise-projects-fail%2F%3Futm_source=tldrnewsletter/1/0100019a4e9dda9b-b34ca9c8-ea86-418c-9a88-fa1cc95170a8-000000/ArzXEWQ0wIg6gHKJqCg3Op0dB4u6g6LG6OcEexQzGKc=429</link>
       <description>Link found in newsletter: 'OpenAI AWS $38B deal 💰, Facebook Dating ❤️, htmx 4 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.seangoedecke.com%2Fwhy-do-ai-enterprise-projects-fail%2F%3Futm_source=tldrnewsletter/1/0100019a4e9dda9b-b34ca9c8-ea86-418c-9a88-fa1cc95170a8-000000/ArzXEWQ0wIg6gHKJqCg3Op0dB4u6g6LG6OcEexQzGKc=429</guid>
+    </item>
+    <item>
+      <title>Chrome can now autofill driver’s license, vehicle info, and more</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5google.com%2F2025%2F11%2F03%2Fchrome-autofill-license%2F%3Futm_source=tldrnewsletter/1/0100019a4e9dda9b-b34ca9c8-ea86-418c-9a88-fa1cc95170a8-000000/Z5q2p03eWHDrLTKmXs_pzlHWeYTttHtFO-i9Ok4jXCo=429</link>
+      <description>Link found in newsletter: 'OpenAI AWS $38B deal 💰, Facebook Dating ❤️, htmx 4 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5google.com%2F2025%2F11%2F03%2Fchrome-autofill-license%2F%3Futm_source=tldrnewsletter/1/0100019a4e9dda9b-b34ca9c8-ea86-418c-9a88-fa1cc95170a8-000000/Z5q2p03eWHDrLTKmXs_pzlHWeYTttHtFO-i9Ok4jXCo=429</guid>
     </item>
     <item>
       <title>Introducing Generalized Consensus: An Alternate Approach to Distributed Durability | Multigres</title>
@@ -1256,12 +1262,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstackoverflow.blog%2F2025%2F11%2F05%2Fthe-ai-ick%2F%3Futm_source=tldrwebdev/1/0100019a5918b0ab-6bbc9605-6dd2-4e3b-8b7e-4e5c3a8a275b-000000/4Llqn0T3V7RSDsMWfCxPaMgokurfLrZtOANklHgRtsk=430</guid>
     </item>
     <item>
-      <title>Learning from Failure to Tackle Extremely Hard Problems – Machine Learning Blog | ML@CMU | Carnegie Mellon University</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.ml.cmu.edu%2F2025%2F10%2F27%2Flearning-from-failure-to-tackle-extremely-hard-problems%2F%3Futm_source=tldrwebdev/1/0100019a5918b0ab-6bbc9605-6dd2-4e3b-8b7e-4e5c3a8a275b-000000/vtITL5g-xC7N15ccv3nWBare-9CsT8DJb218ec13XJU=430</link>
-      <description>Link found in newsletter: 'Debugging SteamOS crashes 🛠, Tailwind on React Native ✨, Godot on mobile 🎮'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.ml.cmu.edu%2F2025%2F10%2F27%2Flearning-from-failure-to-tackle-extremely-hard-problems%2F%3Futm_source=tldrwebdev/1/0100019a5918b0ab-6bbc9605-6dd2-4e3b-8b7e-4e5c3a8a275b-000000/vtITL5g-xC7N15ccv3nWBare-9CsT8DJb218ec13XJU=430</guid>
-    </item>
-    <item>
       <title>Octoverse: A new developer joins GitHub every second as AI leads TypeScript to #1 - The GitHub Blog</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.blog%2Fnews-insights%2Foctoverse%2Foctoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1%3Futm_source=tldrwebdev/1/0100019a5918b0ab-6bbc9605-6dd2-4e3b-8b7e-4e5c3a8a275b-000000/rAtYtik57O0nVMfhn2iXidaw09IfAVqltUxA7pp-Ums=430</link>
       <description>Link found in newsletter: 'Debugging SteamOS crashes 🛠, Tailwind on React Native ✨, Godot on mobile 🎮'</description>
@@ -1440,6 +1440,18 @@
       <link>http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fhumanity.org%3Futm_medium=newsletter%26utm_source=tldr-fintech%26utm_campaign=2025116/3/0100019a597e6e23-f4b8fb68-b9c1-40a9-8712-6ffbbe0b307b-000000/efIbkRZ68Q4B3eLJB_8ES8rB42fenUK0DvPUxKXtV7s=430</link>
       <description>Link found in newsletter: 'AI transforms online shopping 🛍️, Pine Labs goes public 🚀, Klarna debit card expansion 🌏'</description>
       <guid isPermaLink="false">http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fhumanity.org%3Futm_medium=newsletter%26utm_source=tldr-fintech%26utm_campaign=2025116/3/0100019a597e6e23-f4b8fb68-b9c1-40a9-8712-6ffbbe0b307b-000000/efIbkRZ68Q4B3eLJB_8ES8rB42fenUK0DvPUxKXtV7s=430</guid>
+    </item>
+    <item>
+      <title>The Decentralized Identity Blockchain | Humanity Protocol</title>
+      <link>http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fhumanity.org%3Futm_medium=newsletter%26utm_source=tldr-fintech%26utm_campaign=2025116/2/0100019a597e6e23-f4b8fb68-b9c1-40a9-8712-6ffbbe0b307b-000000/7NWkfvb4WcHTPU9vkS-sjZQqnqsdosS8ZH9hNzIPECI=430</link>
+      <description>Link found in newsletter: 'AI transforms online shopping 🛍️, Pine Labs goes public 🚀, Klarna debit card expansion 🌏'</description>
+      <guid isPermaLink="false">http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fhumanity.org%3Futm_medium=newsletter%26utm_source=tldr-fintech%26utm_campaign=2025116/2/0100019a597e6e23-f4b8fb68-b9c1-40a9-8712-6ffbbe0b307b-000000/7NWkfvb4WcHTPU9vkS-sjZQqnqsdosS8ZH9hNzIPECI=430</guid>
+    </item>
+    <item>
+      <title>The Decentralized Identity Blockchain | Humanity Protocol</title>
+      <link>http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fhumanity.org%3Futm_medium=newsletter%26utm_source=tldr-fintech%26utm_campaign=2025116/1/0100019a597e6e23-f4b8fb68-b9c1-40a9-8712-6ffbbe0b307b-000000/6EO-1gKGF1rUQGBE9_-5Y7d2YexSN9RkQP7wrsTd2So=430</link>
+      <description>Link found in newsletter: 'AI transforms online shopping 🛍️, Pine Labs goes public 🚀, Klarna debit card expansion 🌏'</description>
+      <guid isPermaLink="false">http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fhumanity.org%3Futm_medium=newsletter%26utm_source=tldr-fintech%26utm_campaign=2025116/1/0100019a597e6e23-f4b8fb68-b9c1-40a9-8712-6ffbbe0b307b-000000/6EO-1gKGF1rUQGBE9_-5Y7d2YexSN9RkQP7wrsTd2So=430</guid>
     </item>
     <item>
       <title>Apple Pay Comes to India’s Cross-Border Payments: The Quiet Rewiring of Trust and Trade: By Dr Ritesh Jain</title>
