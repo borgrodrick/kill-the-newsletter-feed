@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 10 Nov 2025 18:19:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 01:04:41 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=c693900c-ba25-11f0-bedc-87638a4b9d3f%26pt=campaign%26pv=4%26spa=1762340474%26t=1762341935%26s=a27e2080f192ce74b653f743566a7cf2bf0ca2f5e52a1144bd229392e3843ecc/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/BbprIaJACYwsVUvylkuq0dIa8JlcrRdq9fOT9rWe7GU=430</link>
@@ -126,6 +126,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fgoogle%2F2025%2F11%2Fmeet-project-suncatcher-googles-plan-to-put-ai-data-centers-in-space%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/vCWH5WHKZgtih2-QtygD543XG_VpntZ15KnQcn-F1SQ=430</link>
       <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fgoogle%2F2025%2F11%2Fmeet-project-suncatcher-googles-plan-to-put-ai-data-centers-in-space%2F%3Futm_source=tldrnewsletter/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/vCWH5WHKZgtih2-QtygD543XG_VpntZ15KnQcn-F1SQ=430</guid>
+    </item>
+    <item>
+      <title>Apple (AAPL) Preps Low-Cost Laptop to Rival Chromebooks and Windows PCs - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FpQkS95/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/qlcPM4Fcp4BpjNvmrNQJkqy8ny0VzYSTMtetTEKVXxw=430</link>
+      <description>Link found in newsletter: 'Low cost MacBook 💻, Google AI data centers 🛰️, inside xAI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FpQkS95/1/0100019a53c3d7ea-4c9013f1-8478-4e03-81d2-f5d6319f3ab1-000000/qlcPM4Fcp4BpjNvmrNQJkqy8ny0VzYSTMtetTEKVXxw=430</guid>
     </item>
     <item>
       <title>QA Wolf | 80% automated test coverage in 4 months</title>
@@ -656,6 +662,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgizmodo.com%2Fblue-origins-big-boy-is-back-3-things-to-know-about-new-glenns-second-launch-2000681616%3Futm_source=tldrnewsletter/1/0100019a58eaaf2e-8b78d37d-6229-4f4b-b26e-243f48a6657d-000000/480GRBFPKomnhckRNc4EXEZieN9pZeTlTzwpPAiGMeI=430</guid>
     </item>
     <item>
+      <title>Apple Plans to Use 1.2 Trillion Parameter Google Gemini Model to Power New Siri - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FQSnOGP/1/0100019a58eaaf2e-8b78d37d-6229-4f4b-b26e-243f48a6657d-000000/9-7cASUgGcQrfwwEbpm1Y-R5fJj3twQyC-iS19VqJE8=430</link>
+      <description>Link found in newsletter: 'Apple Gemini deal terms 💰, Amazon layoff turmoil 💼, compiler targets 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FQSnOGP/1/0100019a58eaaf2e-8b78d37d-6229-4f4b-b26e-243f48a6657d-000000/9-7cASUgGcQrfwwEbpm1Y-R5fJj3twQyC-iS19VqJE8=430</guid>
+    </item>
+    <item>
       <title>WorkOS — Your app, Enterprise Ready.</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q42025/4/0100019a58eaaf2e-8b78d37d-6229-4f4b-b26e-243f48a6657d-000000/jElAyB4G9sFO0RRa5aej0-Vhlm1HBQgSrEW9G1exBz8=430</link>
       <description>Link found in newsletter: 'Apple Gemini deal terms 💰, Amazon layoff turmoil 💼, compiler targets 👨‍💻'</description>
@@ -927,15 +939,15 @@
     </item>
     <item>
       <title>The Decentralized Identity Blockchain | Humanity Protocol</title>
-      <link>http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fhumanity.org%3Futm_medium=newsletter%26utm_source=tldr-fintech%26utm_campaign=2025116/2/0100019a597e6e23-f4b8fb68-b9c1-40a9-8712-6ffbbe0b307b-000000/7NWkfvb4WcHTPU9vkS-sjZQqnqsdosS8ZH9hNzIPECI=430</link>
+      <link>http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fhumanity.org%3Futm_medium=newsletter%26utm_source=tldr-fintech%26utm_campaign=2025116/3/0100019a597e6e23-f4b8fb68-b9c1-40a9-8712-6ffbbe0b307b-000000/efIbkRZ68Q4B3eLJB_8ES8rB42fenUK0DvPUxKXtV7s=430</link>
       <description>Link found in newsletter: 'AI transforms online shopping 🛍️, Pine Labs goes public 🚀, Klarna debit card expansion 🌏'</description>
-      <guid isPermaLink="false">http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fhumanity.org%3Futm_medium=newsletter%26utm_source=tldr-fintech%26utm_campaign=2025116/2/0100019a597e6e23-f4b8fb68-b9c1-40a9-8712-6ffbbe0b307b-000000/7NWkfvb4WcHTPU9vkS-sjZQqnqsdosS8ZH9hNzIPECI=430</guid>
+      <guid isPermaLink="false">http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fhumanity.org%3Futm_medium=newsletter%26utm_source=tldr-fintech%26utm_campaign=2025116/3/0100019a597e6e23-f4b8fb68-b9c1-40a9-8712-6ffbbe0b307b-000000/efIbkRZ68Q4B3eLJB_8ES8rB42fenUK0DvPUxKXtV7s=430</guid>
     </item>
     <item>
       <title>The Decentralized Identity Blockchain | Humanity Protocol</title>
-      <link>http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fhumanity.org%3Futm_medium=newsletter%26utm_source=tldr-fintech%26utm_campaign=2025116/1/0100019a597e6e23-f4b8fb68-b9c1-40a9-8712-6ffbbe0b307b-000000/6EO-1gKGF1rUQGBE9_-5Y7d2YexSN9RkQP7wrsTd2So=430</link>
+      <link>http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fhumanity.org%3Futm_medium=newsletter%26utm_source=tldr-fintech%26utm_campaign=2025116/2/0100019a597e6e23-f4b8fb68-b9c1-40a9-8712-6ffbbe0b307b-000000/7NWkfvb4WcHTPU9vkS-sjZQqnqsdosS8ZH9hNzIPECI=430</link>
       <description>Link found in newsletter: 'AI transforms online shopping 🛍️, Pine Labs goes public 🚀, Klarna debit card expansion 🌏'</description>
-      <guid isPermaLink="false">http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fhumanity.org%3Futm_medium=newsletter%26utm_source=tldr-fintech%26utm_campaign=2025116/1/0100019a597e6e23-f4b8fb68-b9c1-40a9-8712-6ffbbe0b307b-000000/6EO-1gKGF1rUQGBE9_-5Y7d2YexSN9RkQP7wrsTd2So=430</guid>
+      <guid isPermaLink="false">http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fhumanity.org%3Futm_medium=newsletter%26utm_source=tldr-fintech%26utm_campaign=2025116/2/0100019a597e6e23-f4b8fb68-b9c1-40a9-8712-6ffbbe0b307b-000000/7NWkfvb4WcHTPU9vkS-sjZQqnqsdosS8ZH9hNzIPECI=430</guid>
     </item>
     <item>
       <title>Apple Pay Comes to India’s Cross-Border Payments: The Quiet Rewiring of Trust and Trade: By Dr Ritesh Jain</title>
@@ -1644,12 +1656,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a5eb0db9b-262707d6-fb41-450a-a5df-5c5d6bbd3f6a-000000/M0XGj1adoTDF_wtipjeiiu8I7HUBswAVAnuPPpz0Jpc=430</link>
       <description>Link found in newsletter: 'Sam on OpenAI finances 💰, GPT-5.1 🤖, Anthropic $350B valuation 📈'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a5eb0db9b-262707d6-fb41-450a-a5df-5c5d6bbd3f6a-000000/M0XGj1adoTDF_wtipjeiiu8I7HUBswAVAnuPPpz0Jpc=430</guid>
-    </item>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=35791af0-be13-11f0-8765-231fbc49e383%26pt=campaign%26pv=4%26spa=1762772452%26t=1762773907%26s=0261c5d3bb6066d6fb0636c2f520e9e84938471546f0f029819cff47e49c6749/1/0100019a6d833a05-d2e75017-c1f9-4970-baf9-7844a4658cc8-000000/mOYvZvGaw0-uvSWFHeosxkGu-MlxDoMwuCgZjptCN0c=430</link>
-      <description>Link found in newsletter: 'Apple satellite features 🛰️, inside Cursor 👨‍💻, becoming full stack 💼'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=35791af0-be13-11f0-8765-231fbc49e383%26pt=campaign%26pv=4%26spa=1762772452%26t=1762773907%26s=0261c5d3bb6066d6fb0636c2f520e9e84938471546f0f029819cff47e49c6749/1/0100019a6d833a05-d2e75017-c1f9-4970-baf9-7844a4658cc8-000000/mOYvZvGaw0-uvSWFHeosxkGu-MlxDoMwuCgZjptCN0c=430</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
