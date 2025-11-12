@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 11 Nov 2025 18:19:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Nov 2025 01:04:03 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=a45ed89e-baf1-11f0-8dc1-a5f04405dd3f%26pt=campaign%26pv=4%26spa=1762426891%26t=1762428366%26s=c940ae24eaad96d7ea5ce58a37b3957dc722f70a0d32cfec295cb11ad8af627e/1/0100019a58eaaf2e-8b78d37d-6229-4f4b-b26e-243f48a6657d-000000/1LHJ-aCw1Q3YejA4c2E71G9WXLudI1MDzUnUOrCoIU0=430</link>
@@ -396,6 +396,12 @@
       <link>http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fhumanity.org%3Futm_medium=newsletter%26utm_source=tldr-fintech%26utm_campaign=2025116/3/0100019a597e6e23-f4b8fb68-b9c1-40a9-8712-6ffbbe0b307b-000000/efIbkRZ68Q4B3eLJB_8ES8rB42fenUK0DvPUxKXtV7s=430</link>
       <description>Link found in newsletter: 'AI transforms online shopping 🛍️, Pine Labs goes public 🚀, Klarna debit card expansion 🌏'</description>
       <guid isPermaLink="false">http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fhumanity.org%3Futm_medium=newsletter%26utm_source=tldr-fintech%26utm_campaign=2025116/3/0100019a597e6e23-f4b8fb68-b9c1-40a9-8712-6ffbbe0b307b-000000/efIbkRZ68Q4B3eLJB_8ES8rB42fenUK0DvPUxKXtV7s=430</guid>
+    </item>
+    <item>
+      <title>The Decentralized Identity Blockchain | Humanity Protocol</title>
+      <link>http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fhumanity.org%3Futm_medium=newsletter%26utm_source=tldr-fintech%26utm_campaign=2025116/2/0100019a597e6e23-f4b8fb68-b9c1-40a9-8712-6ffbbe0b307b-000000/7NWkfvb4WcHTPU9vkS-sjZQqnqsdosS8ZH9hNzIPECI=430</link>
+      <description>Link found in newsletter: 'AI transforms online shopping 🛍️, Pine Labs goes public 🚀, Klarna debit card expansion 🌏'</description>
+      <guid isPermaLink="false">http://tracking.tldrnewsletter.com/CL0/http:%2F%2Fhumanity.org%3Futm_medium=newsletter%26utm_source=tldr-fintech%26utm_campaign=2025116/2/0100019a597e6e23-f4b8fb68-b9c1-40a9-8712-6ffbbe0b307b-000000/7NWkfvb4WcHTPU9vkS-sjZQqnqsdosS8ZH9hNzIPECI=430</guid>
     </item>
     <item>
       <title>The Decentralized Identity Blockchain | Humanity Protocol</title>
@@ -1968,12 +1974,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.withwoz.com%2Ffrom-demos-to-durability%2F%3Futm_source=tldrwebdev/1/0100019a72d87acd-afbd4f9c-73ed-43b5-bece-12394ba820d6-000000/HRt_b6ZMial6aoiiTNKoT9WZb-sAfmSAJQ4mZnprNVU=430</link>
       <description>Link found in newsletter: 'Don’t send text screenshots 🙅, AI’s next frontier 🌍, memory safety for skeptics ⚡️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.withwoz.com%2Ffrom-demos-to-durability%2F%3Futm_source=tldrwebdev/1/0100019a72d87acd-afbd4f9c-73ed-43b5-bece-12394ba820d6-000000/HRt_b6ZMial6aoiiTNKoT9WZb-sAfmSAJQ4mZnprNVU=430</guid>
-    </item>
-    <item>
-      <title>Memory Safety for Skeptics - ACM Queue</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fqueue.acm.org%2Fdetail.cfm%3Fid=3773095%26utm_source=tldrwebdev/1/0100019a72d87acd-afbd4f9c-73ed-43b5-bece-12394ba820d6-000000/5VgA1BetK9UNNnWEljMuvpCy2UArZPr5b0gL9I3Fg6Q=430</link>
-      <description>Link found in newsletter: 'Don’t send text screenshots 🙅, AI’s next frontier 🌍, memory safety for skeptics ⚡️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fqueue.acm.org%2Fdetail.cfm%3Fid=3773095%26utm_source=tldrwebdev/1/0100019a72d87acd-afbd4f9c-73ed-43b5-bece-12394ba820d6-000000/5VgA1BetK9UNNnWEljMuvpCy2UArZPr5b0gL9I3Fg6Q=430</guid>
     </item>
     <item>
       <title>are-dependent-types-actually-erased?utm_source=tldrwebdev - Chad Nauseam Home</title>
