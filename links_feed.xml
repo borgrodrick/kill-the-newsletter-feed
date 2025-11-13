@@ -6,337 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 13 Nov 2025 06:21:35 +0000</lastBuildDate>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=84c5e47a-bbbc-11f0-8862-cd15a38dd90c%26pt=campaign%26pv=4%26spa=1762513268%26t=1762514744%26s=1b00acaef403fa773739b13d0f36610cfea6dd5284a6ff985d7d2269ff58bc92/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/fBBRYZZuM4uE_3yrT_MpE37AWveQ5CAWBZbv9je1pAo=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=84c5e47a-bbbc-11f0-8862-cd15a38dd90c%26pt=campaign%26pv=4%26spa=1762513268%26t=1762514744%26s=1b00acaef403fa773739b13d0f36610cfea6dd5284a6ff985d7d2269ff58bc92/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/fBBRYZZuM4uE_3yrT_MpE37AWveQ5CAWBZbv9je1pAo=430</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/oRUPJlGI9hiOh_rZMAt-dL7f3SRJIfu8QffB-3jT0s4=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/oRUPJlGI9hiOh_rZMAt-dL7f3SRJIfu8QffB-3jT0s4=430</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/2_z4dbA7jkqkxdPokCWB__bPJywAQJFslV3PtG6tdCQ=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/2_z4dbA7jkqkxdPokCWB__bPJywAQJFslV3PtG6tdCQ=430</guid>
-    </item>
-    <item>
-      <title>TLDR Newsletter | Referral Hub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/9IUnbSnnBPRKXTxpvvZYmGZA-421X6p_NlApSTlfaAw=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/9IUnbSnnBPRKXTxpvvZYmGZA-421X6p_NlApSTlfaAw=430</guid>
-    </item>
-    <item>
-      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/SH-OBwLZkLpbCsNLmJa50o7xTqAZGQWJTHSbhSWVwYg=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/SH-OBwLZkLpbCsNLmJa50o7xTqAZGQWJTHSbhSWVwYg=430</guid>
-    </item>
-    <item>
-      <title>WhatsApp finally lets you message people on other apps</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.androidpolice.com%2Fwhatsapp-support-for-third-party-apps%2F%3Futm_source=tldrnewsletter/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/UeFElV9Wxks5Hxy781ZQECeQVFuxQDll2o5aLQIR50M=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.androidpolice.com%2Fwhatsapp-support-for-third-party-apps%2F%3Futm_source=tldrnewsletter/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/UeFElV9Wxks5Hxy781ZQECeQVFuxQDll2o5aLQIR50M=430</guid>
-    </item>
-    <item>
-      <title>Tesla to begin Cybercab production in April, Musk claims | TechCrunch</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F11%2F06%2Ftesla-to-begin-cybercab-production-in-april-musk-claims%2F%3Futm_source=tldrnewsletter/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/YcDCMrn0ACDunkkaeGmSj_5yNkZOomlgQbtpZ8pff_Y=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F11%2F06%2Ftesla-to-begin-cybercab-production-in-april-musk-claims%2F%3Futm_source=tldrnewsletter/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/YcDCMrn0ACDunkkaeGmSj_5yNkZOomlgQbtpZ8pff_Y=430</guid>
-    </item>
-    <item>
-      <title>Android Notifications Reliability Guide - Alarms &amp; Doze Mode | nek12.dev</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FcqorxX/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/J21Brj4ngPhIaL8vskBN6OAtIyIXJqoJjUwL6Y0qgtU=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FcqorxX/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/J21Brj4ngPhIaL8vskBN6OAtIyIXJqoJjUwL6Y0qgtU=430</guid>
-    </item>
-    <item>
-      <title>With Marqeta, you won't have to compromise</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_secondary_cta1/2/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/PbH2y2dn3fdUmN-_t8ngCSd4UT-DxMzd4zPVgiqYgHI=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_secondary_cta1/2/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/PbH2y2dn3fdUmN-_t8ngCSd4UT-DxMzd4zPVgiqYgHI=430</guid>
-    </item>
-    <item>
-      <title>With Marqeta, you won't have to compromise</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_secondary_cta1/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/VyI4O61TpYxK8r2_H_B6XQylOL2J1mFy3tH0qYvoz8M=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech_secondary_cta1/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/VyI4O61TpYxK8r2_H_B6XQylOL2J1mFy3tH0qYvoz8M=430</guid>
-    </item>
-    <item>
-      <title>Meta reportedly projected 10% of 2024 sales came from scam, fraud ads</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F11%2F06%2Fmeta-reportedly-projected-10percent-of-2024-sales-came-from-scam-fraud-ads.html%3Futm_source=tldrnewsletter/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/MUvCztNWhMrhx4Jo55XFcMu9KyMWQickd9JKNJwUniM=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F11%2F06%2Fmeta-reportedly-projected-10percent-of-2024-sales-came-from-scam-fraud-ads.html%3Futm_source=tldrnewsletter/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/MUvCztNWhMrhx4Jo55XFcMu9KyMWQickd9JKNJwUniM=430</guid>
-    </item>
-    <item>
-      <title>How I stopped worrying and learned to love the easy fix</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftn1ck.com%2Fblog%2Fhow-i-stopped-worrying-and-learned-to-love-the-easy-fix%3Futm_source=tldrnewsletter/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/QcuD4yV9Rcy9P6JX4szZax0SK4HqLbC5c06pUXXQygo=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftn1ck.com%2Fblog%2Fhow-i-stopped-worrying-and-learned-to-love-the-easy-fix%3Futm_source=tldrnewsletter/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/QcuD4yV9Rcy9P6JX4szZax0SK4HqLbC5c06pUXXQygo=430</guid>
-    </item>
-    <item>
-      <title>Forbes Council: Why Agents and AI Need Each Other to Drive Better CX</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhubs.la%2FQ03S6tWQ0/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/0QBNCuxHSjmPdiRczQZ0dnyZ3rvJ2b6hYBIr8cj0oeE=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhubs.la%2FQ03S6tWQ0/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/0QBNCuxHSjmPdiRczQZ0dnyZ3rvJ2b6hYBIr8cj0oeE=430</guid>
-    </item>
-    <item>
-      <title>Forbes Council: Why Agents and AI Need Each Other to Drive Better CX</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhubs.la%2FQ03S6tWQ0%3Futm_source=tldrnewsletter/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/CaDlF9zWz6vE_e1S4H1ARQS9tko59xG2bGSHe_-_2jE=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhubs.la%2FQ03S6tWQ0%3Futm_source=tldrnewsletter/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/CaDlF9zWz6vE_e1S4H1ARQS9tko59xG2bGSHe_-_2jE=430</guid>
-    </item>
-    <item>
-      <title>Game design is simple, actually – Raph Koster</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.raphkoster.com%2F2025%2F11%2F03%2Fgame-design-is-simple-actually%2F%3Futm_source=tldrnewsletter/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/yftpSuyseHpC4O4uGLlDFfxalgnCOUNC7Q_eUuTXh2Y=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.raphkoster.com%2F2025%2F11%2F03%2Fgame-design-is-simple-actually%2F%3Futm_source=tldrnewsletter/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/yftpSuyseHpC4O4uGLlDFfxalgnCOUNC7Q_eUuTXh2Y=430</guid>
-    </item>
-    <item>
-      <title>dead framework theory | AI Focus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faifoc.us%2Fdead-framework-theory%2F%3Futm_source=tldrnewsletter/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/b2IkLyJUAmc7XlYhDNDfgG8OdXP9106IofZ_pcgjBwI=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faifoc.us%2Fdead-framework-theory%2F%3Futm_source=tldrnewsletter/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/b2IkLyJUAmc7XlYhDNDfgG8OdXP9106IofZ_pcgjBwI=430</guid>
-    </item>
-    <item>
-      <title>You Should Write An Agent · The Fly Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffly.io%2Fblog%2Feveryone-write-an-agent%2F%3Futm_source=tldrnewsletter/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/3xKoBxHgMfHR5PtSHz4EUzjQoLdo53tNrTTKeeymQpI=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffly.io%2Fblog%2Feveryone-write-an-agent%2F%3Futm_source=tldrnewsletter/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/3xKoBxHgMfHR5PtSHz4EUzjQoLdo53tNrTTKeeymQpI=430</guid>
-    </item>
-    <item>
-      <title>Get high-performance IT right with a free Forrester report - Miro | The Innovation Workspace</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fevents%2Fget-high-performance-it-right-free-forrester-report%2F%3Futm_campaign=glb-26-glb-wp-tc_dsp-forrester_it_report%26utm_source=newsletter%26utm_medium=email%26utm_content=Forrester%2520Report%26utm_term=TLDR%26src=-newsletter_glb/3/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/TWtG9LQt1jZ94ZwRiwOP2L2nAbGxJlKk-ABUEULzH7o=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fevents%2Fget-high-performance-it-right-free-forrester-report%2F%3Futm_campaign=glb-26-glb-wp-tc_dsp-forrester_it_report%26utm_source=newsletter%26utm_medium=email%26utm_content=Forrester%2520Report%26utm_term=TLDR%26src=-newsletter_glb/3/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/TWtG9LQt1jZ94ZwRiwOP2L2nAbGxJlKk-ABUEULzH7o=430</guid>
-    </item>
-    <item>
-      <title>Get high-performance IT right with a free Forrester report - Miro | The Innovation Workspace</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fevents%2Fget-high-performance-it-right-free-forrester-report%2F%3Futm_campaign=glb-26-glb-wp-tc_dsp-forrester_it_report%26utm_source=newsletter%26utm_medium=email%26utm_content=Forrester%2520Report%26utm_term=TLDR%26src=-newsletter_glb/2/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/1Iq2cEVSnhdQ4zFFEV8Zl5ameShfgWedw0RbwOQYfrM=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fevents%2Fget-high-performance-it-right-free-forrester-report%2F%3Futm_campaign=glb-26-glb-wp-tc_dsp-forrester_it_report%26utm_source=newsletter%26utm_medium=email%26utm_content=Forrester%2520Report%26utm_term=TLDR%26src=-newsletter_glb/2/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/1Iq2cEVSnhdQ4zFFEV8Zl5ameShfgWedw0RbwOQYfrM=430</guid>
-    </item>
-    <item>
-      <title>Get high-performance IT right with a free Forrester report - Miro | The Innovation Workspace</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fevents%2Fget-high-performance-it-right-free-forrester-report%2F%3Futm_campaign=glb-26-glb-wp-tc_dsp-forrester_it_report%26utm_source=newsletter%26utm_medium=email%26utm_content=Forrester%2520Report%26utm_term=TLDR%26src=-newsletter_glb/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/6d7Jop6yMQ4gWE9LoUcIb67sPOWCNZhP5oYYrAz89cY=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmiro.com%2Fevents%2Fget-high-performance-it-right-free-forrester-report%2F%3Futm_campaign=glb-26-glb-wp-tc_dsp-forrester_it_report%26utm_source=newsletter%26utm_medium=email%26utm_content=Forrester%2520Report%26utm_term=TLDR%26src=-newsletter_glb/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/6d7Jop6yMQ4gWE9LoUcIb67sPOWCNZhP5oYYrAz89cY=430</guid>
-    </item>
-    <item>
-      <title>TPU v7, Google's answer to Nvidia's Blackwell is nearly here • The Register</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2025%2F11%2F06%2Fgoogles_ironwood_tpus_ai%2F%3Futm_source=tldrnewsletter/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/MW6WIiBT8_NNUwR6OsF_IPuF3jOTeaFjlWWPeqi_MoU=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2025%2F11%2F06%2Fgoogles_ironwood_tpus_ai%2F%3Futm_source=tldrnewsletter/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/MW6WIiBT8_NNUwR6OsF_IPuF3jOTeaFjlWWPeqi_MoU=430</guid>
-    </item>
-    <item>
-      <title>Plans &amp; Pricing | Google Developer Program  |  Google for Developers</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevelopers.google.com%2Fprogram%2Fplans-and-pricing%2F%3Futm_source=tldr%26utm_medium=cpc%26utm_campaign=FY25-Q4-NORAM-GDPpremium-TLDR%26utm_content=gdppremium%26utm_term=primary/6/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/dnNfnL5-2xQ4LmtAgmyhiSPh4KlvNYVysS95o5ZU7cw=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevelopers.google.com%2Fprogram%2Fplans-and-pricing%2F%3Futm_source=tldr%26utm_medium=cpc%26utm_campaign=FY25-Q4-NORAM-GDPpremium-TLDR%26utm_content=gdppremium%26utm_term=primary/6/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/dnNfnL5-2xQ4LmtAgmyhiSPh4KlvNYVysS95o5ZU7cw=430</guid>
-    </item>
-    <item>
-      <title>Plans &amp; Pricing | Google Developer Program  |  Google for Developers</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevelopers.google.com%2Fprogram%2Fplans-and-pricing%2F%3Futm_source=tldr%26utm_medium=cpc%26utm_campaign=FY25-Q4-NORAM-GDPpremium-TLDR%26utm_content=gdppremium%26utm_term=primary/5/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/Uq6FizPRqDxsj1no76wtgwQA97rDqTmy-HGWh3MTAmo=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevelopers.google.com%2Fprogram%2Fplans-and-pricing%2F%3Futm_source=tldr%26utm_medium=cpc%26utm_campaign=FY25-Q4-NORAM-GDPpremium-TLDR%26utm_content=gdppremium%26utm_term=primary/5/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/Uq6FizPRqDxsj1no76wtgwQA97rDqTmy-HGWh3MTAmo=430</guid>
-    </item>
-    <item>
-      <title>Plans &amp; Pricing | Google Developer Program  |  Google for Developers</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevelopers.google.com%2Fprogram%2Fplans-and-pricing%2F%3Futm_source=tldr%26utm_medium=cpc%26utm_campaign=FY25-Q4-NORAM-GDPpremium-TLDR%26utm_content=gdppremium%26utm_term=primary/4/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/iXLBCjljjHmxYIQ9vpcBpxhgwxj3Hc9JZUxkycMvRW0=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevelopers.google.com%2Fprogram%2Fplans-and-pricing%2F%3Futm_source=tldr%26utm_medium=cpc%26utm_campaign=FY25-Q4-NORAM-GDPpremium-TLDR%26utm_content=gdppremium%26utm_term=primary/4/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/iXLBCjljjHmxYIQ9vpcBpxhgwxj3Hc9JZUxkycMvRW0=430</guid>
-    </item>
-    <item>
-      <title>Plans &amp; Pricing | Google Developer Program  |  Google for Developers</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevelopers.google.com%2Fprogram%2Fplans-and-pricing%2F%3Futm_source=tldr%26utm_medium=cpc%26utm_campaign=FY25-Q4-NORAM-GDPpremium-TLDR%26utm_content=gdppremium%26utm_term=primary/3/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/n95G3eTQMcFl5fiKi1X86P3weQNDhgnOew1-txaOpPI=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevelopers.google.com%2Fprogram%2Fplans-and-pricing%2F%3Futm_source=tldr%26utm_medium=cpc%26utm_campaign=FY25-Q4-NORAM-GDPpremium-TLDR%26utm_content=gdppremium%26utm_term=primary/3/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/n95G3eTQMcFl5fiKi1X86P3weQNDhgnOew1-txaOpPI=430</guid>
-    </item>
-    <item>
-      <title>Plans &amp; Pricing | Google Developer Program  |  Google for Developers</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevelopers.google.com%2Fprogram%2Fplans-and-pricing%2F%3Futm_source=tldr%26utm_medium=cpc%26utm_campaign=FY25-Q4-NORAM-GDPpremium-TLDR%26utm_content=gdppremium%26utm_term=primary/2/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/lWoL3IR2ib8YoZDucGEIJw4mPHg3ZlebHoKdONP8TPI=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevelopers.google.com%2Fprogram%2Fplans-and-pricing%2F%3Futm_source=tldr%26utm_medium=cpc%26utm_campaign=FY25-Q4-NORAM-GDPpremium-TLDR%26utm_content=gdppremium%26utm_term=primary/2/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/lWoL3IR2ib8YoZDucGEIJw4mPHg3ZlebHoKdONP8TPI=430</guid>
-    </item>
-    <item>
-      <title>Plans &amp; Pricing | Google Developer Program  |  Google for Developers</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevelopers.google.com%2Fprogram%2Fplans-and-pricing%2F%3Futm_source=tldr%26utm_medium=cpc%26utm_campaign=FY25-Q4-NORAM-GDPpremium-TLDR%26utm_content=gdppremium%26utm_term=primary/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/hvQM-bJRiu9F_tfafrfA878jn0kFmSwIyV_jMuRbby4=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevelopers.google.com%2Fprogram%2Fplans-and-pricing%2F%3Futm_source=tldr%26utm_medium=cpc%26utm_campaign=FY25-Q4-NORAM-GDPpremium-TLDR%26utm_content=gdppremium%26utm_term=primary/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/hvQM-bJRiu9F_tfafrfA878jn0kFmSwIyV_jMuRbby4=430</guid>
-    </item>
-    <item>
-      <title>TLDR</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=84c5e47a-bbbc-11f0-8862-cd15a38dd90c%26pt=campaign%26t=1762514744%26s=2431c3ab4a4cc3b4a8453eecca42da45b61687c9be16d487df80f0f13c74d4d0/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/HDvatPGadjceop1XNJPQM1Hs60kiyH73iR2ymZGH-KQ=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=84c5e47a-bbbc-11f0-8862-cd15a38dd90c%26pt=campaign%26t=1762514744%26s=2431c3ab4a4cc3b4a8453eecca42da45b61687c9be16d487df80f0f13c74d4d0/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/HDvatPGadjceop1XNJPQM1Hs60kiyH73iR2ymZGH-KQ=430</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/aRj1pZGVKIYWVxiGoe-7mqCzaykmB1CRVieWFyeep0Q=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/aRj1pZGVKIYWVxiGoe-7mqCzaykmB1CRVieWFyeep0Q=430</guid>
-    </item>
-    <item>
-      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/-2fOY4NxYW3DFR4AxOOzmaQa2mLo20XwQ7smhTWuXjQ=430</link>
-      <description>Link found in newsletter: 'Elon $1T comp approved 💰, Google TPUs threaten Nvidia ⚡, agents from scratch 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019a5e10b355-0a1f99c9-10c5-4062-a800-6e80f23d9ae2-000000/-2fOY4NxYW3DFR4AxOOzmaQa2mLo20XwQ7smhTWuXjQ=430</guid>
-    </item>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=db42b15c-bb9e-11f0-901a-cd15a38dd90c%26pt=campaign%26pv=4%26spa=1762516883%26t=1762518755%26s=628ab84b491d49ca53dacb27f7238730cbc8901691fd19772e83d298a0063f3e/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/tLEE6IOZ8WPCp6Nurbqz2_E3iCLgKPpAcQEIJbiOS_s=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=db42b15c-bb9e-11f0-901a-cd15a38dd90c%26pt=campaign%26pv=4%26spa=1762516883%26t=1762518755%26s=628ab84b491d49ca53dacb27f7238730cbc8901691fd19772e83d298a0063f3e/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/tLEE6IOZ8WPCp6Nurbqz2_E3iCLgKPpAcQEIJbiOS_s=430</guid>
-    </item>
-    <item>
-      <title>Jenny X. - Meta | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/8n-hbfyVZ9y4XSDhIivSEMhQROjktEeHRpcnpb8M3Zo=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/8n-hbfyVZ9y4XSDhIivSEMhQROjktEeHRpcnpb8M3Zo=430</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/QeRh2JOmEFDotw8pW8T4naMbtV96LRUdI2up5N9LGAg=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/QeRh2JOmEFDotw8pW8T4naMbtV96LRUdI2up5N9LGAg=430</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/xxU8Vi3gUz2O1ExNlArewRmgd6o8HTtRxPnHevO325I=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/xxU8Vi3gUz2O1ExNlArewRmgd6o8HTtRxPnHevO325I=430</guid>
-    </item>
-    <item>
-      <title>TLDR Web Dev | Referral Hub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/hmfVyWcIea1twp8r9uwExG_ZFqXwnkSvqx1Pp3PM0BE=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/hmfVyWcIea1twp8r9uwExG_ZFqXwnkSvqx1Pp3PM0BE=430</guid>
-    </item>
-    <item>
-      <title>GitHub - homarr-labs/homarr: A modern and easy to use dashboard. 30+ integrations. 10K+ icons built in. Authentication out of the box. No YAML, drag and drop configuration.</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fhomarr-labs%2Fhomarr%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/zDtxZfM6ladzkbZS7O-mrnNwxxzNo4Rkev39pCTnkDI=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fhomarr-labs%2Fhomarr%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/zDtxZfM6ladzkbZS7O-mrnNwxxzNo4Rkev39pCTnkDI=430</guid>
-    </item>
-    <item>
-      <title>GitHub - microsoft/SandDance: Visually explore, understand, and present your data.</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fmicrosoft%2FSandDance%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/2zHNez4mq__xX0r8-oZAWtzVHrzYKLY1gOH9ByBMgvI=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fmicrosoft%2FSandDance%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/2zHNez4mq__xX0r8-oZAWtzVHrzYKLY1gOH9ByBMgvI=430</guid>
-    </item>
-    <item>
-      <title>GitHub - openpcc/openpcc: An open-source framework for verifiably private AI inference</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fopenpcc%2Fopenpcc%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/JUXuf5tdwEC39ZaH8ihdjZ_QaQLkzWL1RgPLoWeVOBg=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fopenpcc%2Fopenpcc%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/JUXuf5tdwEC39ZaH8ihdjZ_QaQLkzWL1RgPLoWeVOBg=430</guid>
-    </item>
-    <item>
-      <title>Titanic - Machine Learning from Disaster | Kaggle</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.kaggle.com%2Fcompetitions%2Ftitanic%2Fdiscussion%2F614836%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/ZxalbOkt4Ywesw-JfdNxX59vAggaDckrbKvg1is4yMs=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.kaggle.com%2Fcompetitions%2Ftitanic%2Fdiscussion%2F614836%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/ZxalbOkt4Ywesw-JfdNxX59vAggaDckrbKvg1is4yMs=430</guid>
-    </item>
-    <item>
-      <title>1,500+ PRs Later: Spotify’s Journey with Our Background Coding Agent (Part 1) | Spotify Engineering</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.atspotify.com%2F2025%2F11%2Fspotifys-background-coding-agent-part-1%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/NCZ3Xql1O6YidsCA4tXGbyaQ5FB7H9yeayVu81dgOWs=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.atspotify.com%2F2025%2F11%2Fspotifys-background-coding-agent-part-1%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/NCZ3Xql1O6YidsCA4tXGbyaQ5FB7H9yeayVu81dgOWs=430</guid>
-    </item>
-    <item>
-      <title>GitHub - truffle-ai/dexto: The Intelligence Layer for AI agents. Connect your models, tools, and data to create agentic apps that can think, act and talk to you.</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Ftruffle-ai%2Fdexto%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/gaj1dl4PsuoShcVA8fI90BG2FODffUOrzmgMfNdkR-4=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Ftruffle-ai%2Fdexto%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/gaj1dl4PsuoShcVA8fI90BG2FODffUOrzmgMfNdkR-4=430</guid>
-    </item>
-    <item>
-      <title>GitHub - iagooar/qqqa: Fast, stateless LLM for your shell: qq answers; qa runs commands</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fiagooar%2Fqqqa%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/pCQMFzC_pnAW0foSsbUNk0lBsjtWiYdrK1e1rWnGqRA=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fiagooar%2Fqqqa%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/pCQMFzC_pnAW0foSsbUNk0lBsjtWiYdrK1e1rWnGqRA=430</guid>
-    </item>
-    <item>
-      <title>GitHub - shajidhasan/spoilerjs: A framework-agnostic web component for creating beautiful spoiler effects with Telegram-inspired particle animations.</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fshajidhasan%2Fspoilerjs%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/jdWHUEfGkzGAj2E9M84CYgcfwWWzA4rFrtYkvASx-H8=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fshajidhasan%2Fspoilerjs%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/jdWHUEfGkzGAj2E9M84CYgcfwWWzA4rFrtYkvASx-H8=430</guid>
-    </item>
-    <item>
-      <title>You Should Write An Agent · The Fly Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffly.io%2Fblog%2Feveryone-write-an-agent%2F%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/5bms5uGjUW8gfLpjjZwDAMaABhDOL6okQmqx-KoIYvI=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffly.io%2Fblog%2Feveryone-write-an-agent%2F%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/5bms5uGjUW8gfLpjjZwDAMaABhDOL6okQmqx-KoIYvI=430</guid>
-    </item>
-    <item>
-      <title>Game design is simple, actually – Raph Koster</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.raphkoster.com%2F2025%2F11%2F03%2Fgame-design-is-simple-actually%2F%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/B0pQNBPiUmWn0wzYuMdneRWq6PJEvVEVhmQtMDGbgSM=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.raphkoster.com%2F2025%2F11%2F03%2Fgame-design-is-simple-actually%2F%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/B0pQNBPiUmWn0wzYuMdneRWq6PJEvVEVhmQtMDGbgSM=430</guid>
-    </item>
-    <item>
-      <title>How often does Python allocate?</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fzackoverflow.dev%2Fwriting%2Fhow-often-does-python-allocate%2F%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/_XMfuo2DX1mEJs9cO5ECA9GUg8W__Bj4apu4_pMX4bw=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fzackoverflow.dev%2Fwriting%2Fhow-often-does-python-allocate%2F%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/_XMfuo2DX1mEJs9cO5ECA9GUg8W__Bj4apu4_pMX4bw=430</guid>
-    </item>
-    <item>
-      <title>When Your Hash Becomes a String: Hunting Ruby's Million-to-One Memory Bug</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmensfeld.pl%2F2025%2F11%2Fruby-ffi-gc-bug-hash-becomes-string%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/7UTh1R14_aRUNuHDAZbbGMPS2u4W-IU2hFBrFv8Khsk=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmensfeld.pl%2F2025%2F11%2Fruby-ffi-gc-bug-hash-becomes-string%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/7UTh1R14_aRUNuHDAZbbGMPS2u4W-IU2hFBrFv8Khsk=430</guid>
-    </item>
-    <item>
-      <title>Build better software to build software better |  Engineering at Slack</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fslack.engineering%2Fbuild-better-software-to-build-software-better%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/Qs8YPaCALl-6nQqYn5OBg266M_WpMNoNnztRiqvwHKk=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fslack.engineering%2Fbuild-better-software-to-build-software-better%3Futm_source=tldrwebdev/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/Qs8YPaCALl-6nQqYn5OBg266M_WpMNoNnztRiqvwHKk=430</guid>
-    </item>
-    <item>
-      <title>Beyond Autocomplete: How Agentic AI Is Rewriting Enterprise Software - Tabnine</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tabnine.com%2Fwebinar%2Fbeyond-autocomplete-how-agentic-ai-is-rewriting-enterprise-software%2F%3Futm_campaign=219047143-Agentic%2520Launch%26utm_source=tldr%26utm_medium=quicklinks/5/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/O5tb0lKn-n2VCMh9yiTpWZqj8lE4VGBK2xNYTeZ12oY=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tabnine.com%2Fwebinar%2Fbeyond-autocomplete-how-agentic-ai-is-rewriting-enterprise-software%2F%3Futm_campaign=219047143-Agentic%2520Launch%26utm_source=tldr%26utm_medium=quicklinks/5/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/O5tb0lKn-n2VCMh9yiTpWZqj8lE4VGBK2xNYTeZ12oY=430</guid>
-    </item>
-    <item>
-      <title>Beyond Autocomplete: How Agentic AI Is Rewriting Enterprise Software - Tabnine</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tabnine.com%2Fwebinar%2Fbeyond-autocomplete-how-agentic-ai-is-rewriting-enterprise-software%2F%3Futm_campaign=219047143-Agentic%2520Launch%26utm_source=tldr%26utm_medium=quicklinks/4/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/9_hmflXRTYgf02u7GGBvNPVBeslvFnKt8-9VaMR7KKo=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tabnine.com%2Fwebinar%2Fbeyond-autocomplete-how-agentic-ai-is-rewriting-enterprise-software%2F%3Futm_campaign=219047143-Agentic%2520Launch%26utm_source=tldr%26utm_medium=quicklinks/4/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/9_hmflXRTYgf02u7GGBvNPVBeslvFnKt8-9VaMR7KKo=430</guid>
-    </item>
-    <item>
-      <title>Beyond Autocomplete: How Agentic AI Is Rewriting Enterprise Software - Tabnine</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tabnine.com%2Fwebinar%2Fbeyond-autocomplete-how-agentic-ai-is-rewriting-enterprise-software%2F%3Futm_campaign=219047143-Agentic%2520Launch%26utm_source=tldr%26utm_medium=quicklinks/3/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/mj4EW7pfBrJo4Y8KhtFnUPYwXfHWklqG8UzfoV4M_LY=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tabnine.com%2Fwebinar%2Fbeyond-autocomplete-how-agentic-ai-is-rewriting-enterprise-software%2F%3Futm_campaign=219047143-Agentic%2520Launch%26utm_source=tldr%26utm_medium=quicklinks/3/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/mj4EW7pfBrJo4Y8KhtFnUPYwXfHWklqG8UzfoV4M_LY=430</guid>
-    </item>
-    <item>
-      <title>Beyond Autocomplete: How Agentic AI Is Rewriting Enterprise Software - Tabnine</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tabnine.com%2Fwebinar%2Fbeyond-autocomplete-how-agentic-ai-is-rewriting-enterprise-software%2F%3Futm_campaign=219047143-Agentic%2520Launch%26utm_source=tldr%26utm_medium=quicklinks/2/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/oKx2GfA3MWcc6O4l7P5qxuIFdrFSPsNFEEOj8Lgu_Ws=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tabnine.com%2Fwebinar%2Fbeyond-autocomplete-how-agentic-ai-is-rewriting-enterprise-software%2F%3Futm_campaign=219047143-Agentic%2520Launch%26utm_source=tldr%26utm_medium=quicklinks/2/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/oKx2GfA3MWcc6O4l7P5qxuIFdrFSPsNFEEOj8Lgu_Ws=430</guid>
-    </item>
-    <item>
-      <title>Beyond Autocomplete: How Agentic AI Is Rewriting Enterprise Software - Tabnine</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tabnine.com%2Fwebinar%2Fbeyond-autocomplete-how-agentic-ai-is-rewriting-enterprise-software%2F%3Futm_campaign=219047143-Agentic%2520Launch%26utm_source=tldr%26utm_medium=quicklinks/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/p4hUeCTR6B6auQKGh3UbFlX9zboBOp3TJTNmtzXIH0A=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tabnine.com%2Fwebinar%2Fbeyond-autocomplete-how-agentic-ai-is-rewriting-enterprise-software%2F%3Futm_campaign=219047143-Agentic%2520Launch%26utm_source=tldr%26utm_medium=quicklinks/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/p4hUeCTR6B6auQKGh3UbFlX9zboBOp3TJTNmtzXIH0A=430</guid>
-    </item>
-    <item>
-      <title>TLDR Dev</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=db42b15c-bb9e-11f0-901a-cd15a38dd90c%26pt=campaign%26t=1762518755%26s=964d4ac8b5ca633adef432ab5c55b9db848c3a46f594f2aac5f50a61ac757ac6/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/9ATpVW65yTBErmIeyvhJakW-PC96L4XDec18cGN9I0s=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=db42b15c-bb9e-11f0-901a-cd15a38dd90c%26pt=campaign%26t=1762518755%26s=964d4ac8b5ca633adef432ab5c55b9db848c3a46f594f2aac5f50a61ac757ac6/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/9ATpVW65yTBErmIeyvhJakW-PC96L4XDec18cGN9I0s=430</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/URFyOBqgrW_XtAXxs0SigT-vBQqHPxKE_PrbZvkphig=430</link>
-      <description>Link found in newsletter: 'Simple game design 🎮, you should write an AI agent 🤖, teaching the wrong lessons 🎓'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a5e4de8d5-f974b8ee-1dff-4e5a-9013-985f0aed52eb-000000/URFyOBqgrW_XtAXxs0SigT-vBQqHPxKE_PrbZvkphig=430</guid>
-    </item>
+    <lastBuildDate>Thu, 13 Nov 2025 12:29:10 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=7dcb6c26-bbd0-11f0-8626-d5230d651a1b%26pt=campaign%26pv=4%26spa=1762524090%26t=1762525240%26s=1d1ce30dd8b18717d5fe5d2f37927835e20618908de7cd91e6564e09c92e374f/1/0100019a5eb0db9b-262707d6-fb41-450a-a5df-5c5d6bbd3f6a-000000/vsl7DRe9kEMo1RvwUaQ2-H51G3eu2R4gIoyAH_bxhpQ=430</link>
@@ -1928,12 +1598,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a7802acdc-17e4500f-f31f-4947-8641-8624295dbb1b-000000/9NwZPg27ws5culKfZi6zUjaf8iXgQjT27m3gRM7C9so=431</guid>
     </item>
     <item>
-      <title>borgrodrick · Kill the Newsletter!</title>
-      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
-      <description>Link found in newsletter: 'ChatGPT Group Chats 💬, growing an RL environment 🌍, ElevenLabs Scribe v2 🗣'</description>
-      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
-    </item>
-    <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=2dc6a6ac-bfc0-11f0-8404-2746cf1a1fd5%26pt=campaign%26pv=4%26spa=1762956062%26t=1762957306%26s=f10ae614f4bd608a0ecc3aba66d7b4fbd96fa1571cb44ba33b23425fcae2ba30/1/0100019a7871a9c4-daef0884-d1d0-4c51-be78-f90fd3fcb1bb-000000/vfpdL_rybwMeDrpLCXMZ6P2dgT6nApLaiVotcVMv_CU=431</link>
       <description>Link found in newsletter: 'ChatGPT Group Chats 💬, growing an RL environment 🌍, ElevenLabs Scribe v2 🗣'</description>
@@ -2106,6 +1770,349 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a7871a9c4-daef0884-d1d0-4c51-be78-f90fd3fcb1bb-000000/DZwsDiEF1_PjBuOu4hFxMA0k4u1tZZbb_KfCsX-fT5g=431</link>
       <description>Link found in newsletter: 'ChatGPT Group Chats 💬, growing an RL environment 🌍, ElevenLabs Scribe v2 🗣'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a7871a9c4-daef0884-d1d0-4c51-be78-f90fd3fcb1bb-000000/DZwsDiEF1_PjBuOu4hFxMA0k4u1tZZbb_KfCsX-fT5g=431</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=89540f6a-c069-11f0-b013-2bf927bfc666%26pt=campaign%26pv=4%26spa=1763031668%26t=1763033170%26s=741ce1f42f9b92175331039f0e4ecc3a6a7d15a90e7def958a67cfe98f1f2a45/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/gj_ZpGPKl2mMVdB8SsAkyNMuRnJmpMvfyP2-k0DpyYg=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=89540f6a-c069-11f0-b013-2bf927bfc666%26pt=campaign%26pv=4%26spa=1763031668%26t=1763033170%26s=741ce1f42f9b92175331039f0e4ecc3a6a7d15a90e7def958a67cfe98f1f2a45/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/gj_ZpGPKl2mMVdB8SsAkyNMuRnJmpMvfyP2-k0DpyYg=431</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/tvQgFuDUBo55fjFb_gM0MY9cKGETlmNUs1-G3DAiYiU=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/tvQgFuDUBo55fjFb_gM0MY9cKGETlmNUs1-G3DAiYiU=431</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/OjxfKgxHkxvgXq9xY5_9piFcVrtYQjNcqySOH36l758=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/OjxfKgxHkxvgXq9xY5_9piFcVrtYQjNcqySOH36l758=431</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/GbcQiS5dUCES09GPavjbTvot-vG6T-fRTgWH-IbqGOE=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/GbcQiS5dUCES09GPavjbTvot-vG6T-fRTgWH-IbqGOE=431</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/yoLEOfYUFnAIJ9HSjCsxvX_i6wbbN3BUPgQcbkurD-s=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/yoLEOfYUFnAIJ9HSjCsxvX_i6wbbN3BUPgQcbkurD-s=431</guid>
+    </item>
+    <item>
+      <title>Visual Studio 2026 is here: faster, smarter, and a hit with early adopters - Visual Studio Blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevblogs.microsoft.com%2Fvisualstudio%2Fvisual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters%2F%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/7thVdNMdPtpxBsZ2x2_WcchG-QK8HXTaAxNXlxa81F8=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevblogs.microsoft.com%2Fvisualstudio%2Fvisual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters%2F%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/7thVdNMdPtpxBsZ2x2_WcchG-QK8HXTaAxNXlxa81F8=431</guid>
+    </item>
+    <item>
+      <title>How to Make a Living as an Artist</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fessays.fnnch.com%2Fmake-a-living%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/OCMU-ONMxZPGDaiQP8-zs-ijj3F-3KsSkFt8QWFBpI4=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fessays.fnnch.com%2Fmake-a-living%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/OCMU-ONMxZPGDaiQP8-zs-ijj3F-3KsSkFt8QWFBpI4=431</guid>
+    </item>
+    <item>
+      <title>OpenAI has spent $12B on inference with Microsoft: Report • The Register</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2025%2F11%2F12%2Fopenai_spending_report%2F%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/MtBssZb2K75v8je5WhvyF6qn_U6osfqkz1GemwhnIxI=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2025%2F11%2F12%2Fopenai_spending_report%2F%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/MtBssZb2K75v8je5WhvyF6qn_U6osfqkz1GemwhnIxI=431</guid>
+    </item>
+    <item>
+      <title>The Forty-Year Programmer</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcodefol.io%2Fposts%2Fthe-forty-year-programmer%2F%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/HvBqhTbGeHBxEuimdTA24qoj8qcf6vHfS9ZZC4wwIVk=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcodefol.io%2Fposts%2Fthe-forty-year-programmer%2F%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/HvBqhTbGeHBxEuimdTA24qoj8qcf6vHfS9ZZC4wwIVk=431</guid>
+    </item>
+    <item>
+      <title>Template Interpreters</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fzackoverflow.dev%2Fwriting%2Ftemplate-interpreters%2F%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/1wpLl3IHzZJlHCwfQlv1j4OFafkmoDmNjl7PLNtEIWg=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fzackoverflow.dev%2Fwriting%2Ftemplate-interpreters%2F%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/1wpLl3IHzZJlHCwfQlv1j4OFafkmoDmNjl7PLNtEIWg=431</guid>
+    </item>
+    <item>
+      <title>How to be creative (without taking drugs) - by George Mack</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fessays.highagency.com%2Fp%2Fhow-to-be-creative-without-taking%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/dyurtg-qxEzxLF5TOew2lO3biv02hRcFZZS_XCfZLvE=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fessays.highagency.com%2Fp%2Fhow-to-be-creative-without-taking%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/dyurtg-qxEzxLF5TOew2lO3biv02hRcFZZS_XCfZLvE=431</guid>
+    </item>
+    <item>
+      <title>GitHub - stripe/ai: One-stop shop for building AI-powered products and businesses with Stripe.</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fstripe%2Fai%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/bBUEQEFjrOLtVXQyVBtAazw4FIbNIVK6OCCWi2VHRV4=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fstripe%2Fai%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/bBUEQEFjrOLtVXQyVBtAazw4FIbNIVK6OCCWi2VHRV4=431</guid>
+    </item>
+    <item>
+      <title>5.0.0 — Homebrew</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbrew.sh%2F2025%2F11%2F12%2Fhomebrew-5.0.0%2F%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/DT_e8c47gV_oUjSD1CuLjZrCYhjjCbCUzOBRCMi3FgE=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbrew.sh%2F2025%2F11%2F12%2Fhomebrew-5.0.0%2F%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/DT_e8c47gV_oUjSD1CuLjZrCYhjjCbCUzOBRCMi3FgE=431</guid>
+    </item>
+    <item>
+      <title>MCP Security Best Practices Cheat Sheet | Wiz</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.wiz.io%2Flp%2Fmodel-context-protocol-mcp-security-best-practices-cheat-sheet%3Futm_source=tldrtech%26utm_medium=paid-email%26utm_campaign=FY26Q3_INB_FORM_MCP-Best%2520Practices-Cheat-Sheet%26sfcid=701Py00000TCZuBIAX%26utm_term=FY26Q4-tldr-tech-nl-2nd%26utm_content=MCP-Best-Practices/3/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/BZoZG21M97NnxjHX6u2uJsJgSLRY01z58hwUVA7piXU=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.wiz.io%2Flp%2Fmodel-context-protocol-mcp-security-best-practices-cheat-sheet%3Futm_source=tldrtech%26utm_medium=paid-email%26utm_campaign=FY26Q3_INB_FORM_MCP-Best%2520Practices-Cheat-Sheet%26sfcid=701Py00000TCZuBIAX%26utm_term=FY26Q4-tldr-tech-nl-2nd%26utm_content=MCP-Best-Practices/3/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/BZoZG21M97NnxjHX6u2uJsJgSLRY01z58hwUVA7piXU=431</guid>
+    </item>
+    <item>
+      <title>MCP Security Best Practices Cheat Sheet | Wiz</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.wiz.io%2Flp%2Fmodel-context-protocol-mcp-security-best-practices-cheat-sheet%3Futm_source=tldrtech%26utm_medium=paid-email%26utm_campaign=FY26Q3_INB_FORM_MCP-Best%2520Practices-Cheat-Sheet%26sfcid=701Py00000TCZuBIAX%26utm_term=FY26Q4-tldr-tech-nl-2nd%26utm_content=MCP-Best-Practices/2/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/V-4RLlj0k9yEJXfHO9hpGWgT4JND-1Jkj8LnHaS-Cec=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.wiz.io%2Flp%2Fmodel-context-protocol-mcp-security-best-practices-cheat-sheet%3Futm_source=tldrtech%26utm_medium=paid-email%26utm_campaign=FY26Q3_INB_FORM_MCP-Best%2520Practices-Cheat-Sheet%26sfcid=701Py00000TCZuBIAX%26utm_term=FY26Q4-tldr-tech-nl-2nd%26utm_content=MCP-Best-Practices/2/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/V-4RLlj0k9yEJXfHO9hpGWgT4JND-1Jkj8LnHaS-Cec=431</guid>
+    </item>
+    <item>
+      <title>MCP Security Best Practices Cheat Sheet | Wiz</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.wiz.io%2Flp%2Fmodel-context-protocol-mcp-security-best-practices-cheat-sheet%3Futm_source=tldrtech%26utm_medium=paid-email%26utm_campaign=FY26Q3_INB_FORM_MCP-Best%2520Practices-Cheat-Sheet%26sfcid=701Py00000TCZuBIAX%26utm_term=FY26Q4-tldr-tech-nl-2nd%26utm_content=MCP-Best-Practices/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/_ULSsmIUdJh9iKhc2ZPwGnQKBBNYvLe21yaTCv7okqk=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.wiz.io%2Flp%2Fmodel-context-protocol-mcp-security-best-practices-cheat-sheet%3Futm_source=tldrtech%26utm_medium=paid-email%26utm_campaign=FY26Q3_INB_FORM_MCP-Best%2520Practices-Cheat-Sheet%26sfcid=701Py00000TCZuBIAX%26utm_term=FY26Q4-tldr-tech-nl-2nd%26utm_content=MCP-Best-Practices/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/_ULSsmIUdJh9iKhc2ZPwGnQKBBNYvLe21yaTCv7okqk=431</guid>
+    </item>
+    <item>
+      <title>Scientists make dark excitons 300,000x brighter for quantum tech</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Finterestingengineering.com%2Fscience%2Fdark-excitons-shine-quantum-control%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/vE-mrtHu6f43jedB1UKbrQVtzdBr6tlDiN1QOUpgZoo=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Finterestingengineering.com%2Fscience%2Fdark-excitons-shine-quantum-control%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/vE-mrtHu6f43jedB1UKbrQVtzdBr6tlDiN1QOUpgZoo=431</guid>
+    </item>
+    <item>
+      <title>Waymo says self-driving taxis will drive customers on freeways</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.nbcnews.com%2Ftech%2Finnovation%2Fwaymo-says-self-driving-taxis-will-drive-customers-freeways-rcna242426%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/z7bF7Ppcxq7kdgdf1v_M8_WejrLD38bEEHO-VF3L97o=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.nbcnews.com%2Ftech%2Finnovation%2Fwaymo-says-self-driving-taxis-will-drive-customers-freeways-rcna242426%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/z7bF7Ppcxq7kdgdf1v_M8_WejrLD38bEEHO-VF3L97o=431</guid>
+    </item>
+    <item>
+      <title>Valve announces three new products: the Steam Frame, Steam Machine and Steam Controller | PC Gamer</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.pcgamer.com%2Fhardware%2Fvalve-announces-steam-machine-frame-controller%2F%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/C9IYYQI3ny08KkY4JN7io91VgCR559VOSqvEHCgPyek=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.pcgamer.com%2Fhardware%2Fvalve-announces-steam-machine-frame-controller%2F%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/C9IYYQI3ny08KkY4JN7io91VgCR559VOSqvEHCgPyek=431</guid>
+    </item>
+    <item>
+      <title>OpenAI releases GPT-5.1 to all ChatGPT users</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fopenai-releases-gpt-5-1-to-all-chatgpt-users%2F%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/BWNkqrPtj_6wO_Q2wYY02n8w6VuNPQpZMdCnujUCAHg=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fopenai-releases-gpt-5-1-to-all-chatgpt-users%2F%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/BWNkqrPtj_6wO_Q2wYY02n8w6VuNPQpZMdCnujUCAHg=431</guid>
+    </item>
+    <item>
+      <title>Gram: The MCP Cloud | Speakeasy</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.speakeasy.com%2Fproduct%2Fgram%3Futm_source=tldr%26utm_medium=email%26utm_campaign=gram_functions/5/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/EAve89SD5PoSGRKvCtl0pK-2YUH_ZvnCZ7pIDbLt87U=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.speakeasy.com%2Fproduct%2Fgram%3Futm_source=tldr%26utm_medium=email%26utm_campaign=gram_functions/5/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/EAve89SD5PoSGRKvCtl0pK-2YUH_ZvnCZ7pIDbLt87U=431</guid>
+    </item>
+    <item>
+      <title>Gram: The MCP Cloud | Speakeasy</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.speakeasy.com%2Fproduct%2Fgram%3Futm_source=tldr%26utm_medium=email%26utm_campaign=gram_functions/4/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/p41smR_Byc-czk4QaOP8qJbSih7fyAoCA-ludpfi3Gs=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.speakeasy.com%2Fproduct%2Fgram%3Futm_source=tldr%26utm_medium=email%26utm_campaign=gram_functions/4/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/p41smR_Byc-czk4QaOP8qJbSih7fyAoCA-ludpfi3Gs=431</guid>
+    </item>
+    <item>
+      <title>Gram: The MCP Cloud | Speakeasy</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.speakeasy.com%2Fproduct%2Fgram%3Futm_source=tldr%26utm_medium=email%26utm_campaign=gram_functions/3/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/3BJyrD1pPYetv0AT1t59hUDDRVP-8EbfvuimxTVaYqk=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.speakeasy.com%2Fproduct%2Fgram%3Futm_source=tldr%26utm_medium=email%26utm_campaign=gram_functions/3/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/3BJyrD1pPYetv0AT1t59hUDDRVP-8EbfvuimxTVaYqk=431</guid>
+    </item>
+    <item>
+      <title>Gram: The MCP Cloud | Speakeasy</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.speakeasy.com%2Fproduct%2Fgram%3Futm_source=tldr%26utm_medium=email%26utm_campaign=gram_functions/2/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/WJgROw5D7BAWXxNVfqrf3KAUdt7wGTvopTBa_uchHnA=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.speakeasy.com%2Fproduct%2Fgram%3Futm_source=tldr%26utm_medium=email%26utm_campaign=gram_functions/2/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/WJgROw5D7BAWXxNVfqrf3KAUdt7wGTvopTBa_uchHnA=431</guid>
+    </item>
+    <item>
+      <title>Gram: The MCP Cloud | Speakeasy</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.speakeasy.com%2Fproduct%2Fgram%3Futm_source=tldr%26utm_medium=email%26utm_campaign=gram_functions/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/5suvTkz20b3mBVPDECtmwkG6mZjw1xQ2RqZtg6iDzW4=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.speakeasy.com%2Fproduct%2Fgram%3Futm_source=tldr%26utm_medium=email%26utm_campaign=gram_functions/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/5suvTkz20b3mBVPDECtmwkG6mZjw1xQ2RqZtg6iDzW4=431</guid>
+    </item>
+    <item>
+      <title>TLDR</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=89540f6a-c069-11f0-b013-2bf927bfc666%26pt=campaign%26t=1763033170%26s=6d6b881eec22a235183acb95e3d31b39439c6af783f109ec396e15401bd9399d/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/fSzDLz-5Tp9ohHnvCYfqyYF_NfY1D6RoXsYQmtqXwIs=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=89540f6a-c069-11f0-b013-2bf927bfc666%26pt=campaign%26t=1763033170%26s=6d6b881eec22a235183acb95e3d31b39439c6af783f109ec396e15401bd9399d/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/fSzDLz-5Tp9ohHnvCYfqyYF_NfY1D6RoXsYQmtqXwIs=431</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/Uah6uF7Uh4Q1fKuJ2pdQBE1yZXBDS5zOoNQHsFGGg4A=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/Uah6uF7Uh4Q1fKuJ2pdQBE1yZXBDS5zOoNQHsFGGg4A=431</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/fzt7wLV-S-mRqtDZZZRBofpI7p6eXgq_Qy7cBllqsjw=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/fzt7wLV-S-mRqtDZZZRBofpI7p6eXgq_Qy7cBllqsjw=431</guid>
+    </item>
+    <item>
+      <title>borgrodrick · Kill the Newsletter!</title>
+      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=9b8cf018-c06c-11f0-9ee2-f1855f5a7561%26pt=campaign%26pv=4%26spa=1763035287%26t=1763036214%26s=17063dfae13a73414bbcf8be84e20ea70205c8dc260348dae1faa9e10b72c9f6/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/ye7nJ1zJqi9a3FBOLkIoDNfr2IeObVMgujvzbUCFf-g=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=9b8cf018-c06c-11f0-9ee2-f1855f5a7561%26pt=campaign%26pv=4%26spa=1763035287%26t=1763036214%26s=17063dfae13a73414bbcf8be84e20ea70205c8dc260348dae1faa9e10b72c9f6/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/ye7nJ1zJqi9a3FBOLkIoDNfr2IeObVMgujvzbUCFf-g=431</guid>
+    </item>
+    <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/WhpSs68CCr3da-UbRKOJNEntM52U-MCg8uzBWfjcsm4=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/WhpSs68CCr3da-UbRKOJNEntM52U-MCg8uzBWfjcsm4=431</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/FhSj7AarMwyF6g5ObsxRyU6lriMdDvYNEP_h1sVto7U=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/FhSj7AarMwyF6g5ObsxRyU6lriMdDvYNEP_h1sVto7U=431</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/KyfnCKs0nkicp9rH4BtNCCwmqiYZrH5hfQ5DGKZ_47E=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/KyfnCKs0nkicp9rH4BtNCCwmqiYZrH5hfQ5DGKZ_47E=431</guid>
+    </item>
+    <item>
+      <title>TLDR Web Dev | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/oNBrREK10ipcL9DMR5oeFR9IbwbXCni05F1DBve3rKU=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/oNBrREK10ipcL9DMR5oeFR9IbwbXCni05F1DBve3rKU=431</guid>
+    </item>
+    <item>
+      <title>GitHub - lone-cloud/gerbil: A desktop app for running Large Language Models locally.</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Flone-cloud%2Fgerbil%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/IEebgTW4ubhrm2PNkShXVzU1XR5NgCVgnluEU3nyXcY=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Flone-cloud%2Fgerbil%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/IEebgTW4ubhrm2PNkShXVzU1XR5NgCVgnluEU3nyXcY=431</guid>
+    </item>
+    <item>
+      <title>Marble: A Multimodal World Model | World Labs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.worldlabs.ai%2Fblog%2Fmarble-world-model%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/-sgmjX1RfQ6XyxfBMkJS5SPjfkYm5XSqRHtvUpN6EgM=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.worldlabs.ai%2Fblog%2Fmarble-world-model%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/-sgmjX1RfQ6XyxfBMkJS5SPjfkYm5XSqRHtvUpN6EgM=431</guid>
+    </item>
+    <item>
+      <title>Perkeep</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fperkeep.org%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/18UhNAZJXbg05SQJV0mDaJz-QFRapUAPrtwNf8xEpxs=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fperkeep.org%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/18UhNAZJXbg05SQJV0mDaJz-QFRapUAPrtwNf8xEpxs=431</guid>
+    </item>
+    <item>
+      <title>Tahoe’s Terrible Icons: The B-Sides - Jim Nielsen’s Blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.jim-nielsen.com%2F2025%2Ftahoes-terrible-icons-b-sides%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/26fQmE1NAQvzRcd7iUz_9LjWYxuJyR-vuMCx545LF68=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.jim-nielsen.com%2F2025%2Ftahoes-terrible-icons-b-sides%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/26fQmE1NAQvzRcd7iUz_9LjWYxuJyR-vuMCx545LF68=431</guid>
+    </item>
+    <item>
+      <title>Testing out Crush, a TUI based coding agent (in neovim btw)</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgrahamhelton.com%2Fblog%2Fcrushing-it%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/-fi0gYeulSULMYdoarUSFdpk6-YQ6YCMCTCVm1GIL6k=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgrahamhelton.com%2Fblog%2Fcrushing-it%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/-fi0gYeulSULMYdoarUSFdpk6-YQ6YCMCTCVm1GIL6k=431</guid>
+    </item>
+    <item>
+      <title>Android Developers Blog: Android developer verification: Early access starts now as we continue to build with your feedback</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fandroid-developers.googleblog.com%2F2025%2F11%2Fandroid-developer-verification-early.html%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/z4GiJu2Y8zKxsswn3lAVKJ2F7pbYD2Qz_gMCJxDPe6c=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fandroid-developers.googleblog.com%2F2025%2F11%2Fandroid-developer-verification-early.html%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/z4GiJu2Y8zKxsswn3lAVKJ2F7pbYD2Qz_gMCJxDPe6c=431</guid>
+    </item>
+    <item>
+      <title>JSX Tool - React Dev Tools for Styling</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjsxtool.com%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/k-83wt2-N2IHtJw1yhFdVivmaKBRixfhJbEY7Tcwak4=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjsxtool.com%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/k-83wt2-N2IHtJw1yhFdVivmaKBRixfhJbEY7Tcwak4=431</guid>
+    </item>
+    <item>
+      <title>Visual Studio 2026 is here: faster, smarter, and a hit with early adopters - Visual Studio Blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevblogs.microsoft.com%2Fvisualstudio%2Fvisual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/FfK-l4hj_r5U8VshNmV5lqyhbQmDv13_moAfnuSB3ig=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevblogs.microsoft.com%2Fvisualstudio%2Fvisual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/FfK-l4hj_r5U8VshNmV5lqyhbQmDv13_moAfnuSB3ig=431</guid>
+    </item>
+    <item>
+      <title>Steam Hardware</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstore.steampowered.com%2Fsale%2Fhardware%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/1ilkOOiRbOv2vsv80hWdtwR5wxnPPhmJhuJvQGhyUWI=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstore.steampowered.com%2Fsale%2Fhardware%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/1ilkOOiRbOv2vsv80hWdtwR5wxnPPhmJhuJvQGhyUWI=431</guid>
+    </item>
+    <item>
+      <title>E-Commerce Holiday Readiness Checklist: A Developer’s Survival Guide | Sentry</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsentry.io%2Fresources%2Fholiday-e-commerce-checklist%2F%3Futm_source=tldr%26utm_medium=paid-community%26utm_campaign=general-fy26q4-ecommerceguide%26utm_content=newsletter-ecomm-holiday-learnmore/3/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/5QDpwh5dJbYtFwV3NrWln76ELr8G_ry3Jtilida7who=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsentry.io%2Fresources%2Fholiday-e-commerce-checklist%2F%3Futm_source=tldr%26utm_medium=paid-community%26utm_campaign=general-fy26q4-ecommerceguide%26utm_content=newsletter-ecomm-holiday-learnmore/3/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/5QDpwh5dJbYtFwV3NrWln76ELr8G_ry3Jtilida7who=431</guid>
+    </item>
+    <item>
+      <title>E-Commerce Holiday Readiness Checklist: A Developer’s Survival Guide | Sentry</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsentry.io%2Fresources%2Fholiday-e-commerce-checklist%2F%3Futm_source=tldr%26utm_medium=paid-community%26utm_campaign=general-fy26q4-ecommerceguide%26utm_content=newsletter-ecomm-holiday-learnmore/2/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/spz-9C8QOUItjbMpJF0I6Jrm2ZHLr4VAR4xTFhsFPqE=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsentry.io%2Fresources%2Fholiday-e-commerce-checklist%2F%3Futm_source=tldr%26utm_medium=paid-community%26utm_campaign=general-fy26q4-ecommerceguide%26utm_content=newsletter-ecomm-holiday-learnmore/2/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/spz-9C8QOUItjbMpJF0I6Jrm2ZHLr4VAR4xTFhsFPqE=431</guid>
+    </item>
+    <item>
+      <title>E-Commerce Holiday Readiness Checklist: A Developer’s Survival Guide | Sentry</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsentry.io%2Fresources%2Fholiday-e-commerce-checklist%2F%3Futm_source=tldr%26utm_medium=paid-community%26utm_campaign=general-fy26q4-ecommerceguide%26utm_content=newsletter-ecomm-holiday-learnmore/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/6Hae0n-yJLtrlbwDz9qIxU4lXJCRXPXH2WcCSjvY8hE=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsentry.io%2Fresources%2Fholiday-e-commerce-checklist%2F%3Futm_source=tldr%26utm_medium=paid-community%26utm_campaign=general-fy26q4-ecommerceguide%26utm_content=newsletter-ecomm-holiday-learnmore/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/6Hae0n-yJLtrlbwDz9qIxU4lXJCRXPXH2WcCSjvY8hE=431</guid>
+    </item>
+    <item>
+      <title>How I Fell in Love with Erlang
+     · Bora Gönül</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fboragonul.com%2Fpost%2Ffalling-in-love-with-erlang%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/KUCLKnVMrtKxgY6AZvio1c4rFxydG3wxFh247FPSL78=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fboragonul.com%2Fpost%2Ffalling-in-love-with-erlang%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/KUCLKnVMrtKxgY6AZvio1c4rFxydG3wxFh247FPSL78=431</guid>
+    </item>
+    <item>
+      <title>Zig / C++ Interop · Tuple</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftuple.app%2Fblog%2Fzig-cpp-interop%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/P6eDmikxF4tK6eAxIuMoRJPoga333-VOt-Nq0xkqQ6g=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftuple.app%2Fblog%2Fzig-cpp-interop%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/P6eDmikxF4tK6eAxIuMoRJPoga333-VOt-Nq0xkqQ6g=431</guid>
+    </item>
+    <item>
+      <title>StyleX: A Styling Library for CSS at Scale - Engineering at Meta</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.fb.com%2F2025%2F11%2F11%2Fweb%2Fstylex-a-styling-library-for-css-at-scale%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/9funZg3W8yVkvwPQQm69hjHncStjhOdBvO9alKMW3zM=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.fb.com%2F2025%2F11%2F11%2Fweb%2Fstylex-a-styling-library-for-css-at-scale%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/9funZg3W8yVkvwPQQm69hjHncStjhOdBvO9alKMW3zM=431</guid>
+    </item>
+    <item>
+      <title>The Write Last, Read First Rule</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftigerbeetle.com%2Fblog%2F2025-11-06-the-write-last-read-first-rule%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/Q7B7BqCajTCqOqVqjYGJa1h5dljWEroRP9nHbLnqH0g=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftigerbeetle.com%2Fblog%2F2025-11-06-the-write-last-read-first-rule%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/Q7B7BqCajTCqOqVqjYGJa1h5dljWEroRP9nHbLnqH0g=431</guid>
+    </item>
+    <item>
+      <title>Book a Demo</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2Fbook-a-demo%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/caOy92_ppo_fBg8F3aRhiwOZyYQuSpPXyX7mVW5bGEA=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2Fbook-a-demo%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/caOy92_ppo_fBg8F3aRhiwOZyYQuSpPXyX7mVW5bGEA=431</guid>
+    </item>
+    <item>
+      <title>Meticulous AI - Automated Frontend Testing Without Writing Tests</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/4/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/hVI6jCVPX4CeOhYyliYGiI-TWPNKAVBNfM9RKDCOspQ=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/4/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/hVI6jCVPX4CeOhYyliYGiI-TWPNKAVBNfM9RKDCOspQ=431</guid>
+    </item>
+    <item>
+      <title>Meticulous AI - Automated Frontend Testing Without Writing Tests</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/3/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/AKg2vRLUQKub5iNp0U8kTn9j2QBpjaOmXEGlMuwxeAw=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/3/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/AKg2vRLUQKub5iNp0U8kTn9j2QBpjaOmXEGlMuwxeAw=431</guid>
+    </item>
+    <item>
+      <title>Meticulous AI - Automated Frontend Testing Without Writing Tests</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/2/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/LzoPPwCQHbAHhG_VRmbnxXbkP-RBFyPh6PPxkavJD3g=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/2/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/LzoPPwCQHbAHhG_VRmbnxXbkP-RBFyPh6PPxkavJD3g=431</guid>
+    </item>
+    <item>
+      <title>Meticulous AI - Automated Frontend Testing Without Writing Tests</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/CCg_J97RVzBnqNrGSeg7y3c1MqfFKsr5u49hpUcGMXM=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/CCg_J97RVzBnqNrGSeg7y3c1MqfFKsr5u49hpUcGMXM=431</guid>
+    </item>
+    <item>
+      <title>TLDR Dev</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=9b8cf018-c06c-11f0-9ee2-f1855f5a7561%26pt=campaign%26t=1763036214%26s=c5ce5169bece6ee05707af1ac8623ed138ccb6f7501f58d2760dd726aea47832/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/6ZkbMSspNw39L82d5MwcLZx4jErKLh-6cAOCYq3DZbo=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=9b8cf018-c06c-11f0-9ee2-f1855f5a7561%26pt=campaign%26t=1763036214%26s=c5ce5169bece6ee05707af1ac8623ed138ccb6f7501f58d2760dd726aea47832/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/6ZkbMSspNw39L82d5MwcLZx4jErKLh-6cAOCYq3DZbo=431</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/_Dd6CEFtFxc3pVrLNKqCIXaajUihTKjWD-ortr1Qh2A=431</link>
+      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/_Dd6CEFtFxc3pVrLNKqCIXaajUihTKjWD-ortr1Qh2A=431</guid>
     </item>
   </channel>
 </rss>
