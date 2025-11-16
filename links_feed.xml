@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 16 Nov 2025 01:08:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Nov 2025 06:19:13 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=a224fcb0-bedf-11f0-be5d-df5a06dd4ff7%26pt=campaign%26pv=4%26spa=1762858883%26t=1762860357%26s=3772076ca45682b60abb33231396eb7390128dd259e9ed212e44706e0a68d926/1/0100019a72aa5914-8ba4c38c-4657-4007-afea-819bf5c4dd1e-000000/bWVztrtJAHZnHnGCS3g0cgsoa_tstyc4wfjkRcrxFFQ=430</link>
@@ -890,12 +890,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019a7871a9c4-daef0884-d1d0-4c51-be78-f90fd3fcb1bb-000000/J9dHwwUbrftlm7vOjxEE92j5RbG2CXrDLlAk_O5xTjg=431</guid>
     </item>
     <item>
-      <title>The Technium: Emotional Agents</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fkk.org%2Fthetechnium%2Femotional-agents%2F%3Futm_source=tldrai/1/0100019a7871a9c4-daef0884-d1d0-4c51-be78-f90fd3fcb1bb-000000/rRGpkwlP2Qf4c4WCe-zGfSGOYfIDNKuuEApgl6sY-z8=431</link>
-      <description>Link found in newsletter: 'ChatGPT Group Chats 💬, growing an RL environment 🌍, ElevenLabs Scribe v2 🗣'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fkk.org%2Fthetechnium%2Femotional-agents%2F%3Futm_source=tldrai/1/0100019a7871a9c4-daef0884-d1d0-4c51-be78-f90fd3fcb1bb-000000/rRGpkwlP2Qf4c4WCe-zGfSGOYfIDNKuuEApgl6sY-z8=431</guid>
-    </item>
-    <item>
       <title>AMD reveals new roadmap for its Ryzen CPUs, teasing Zen 7 as the true "next-generation" leap with 2nm — Lineup confirms 2026 release for Zen 6, coming with expanded AI features | Tom's Hardware</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tomshardware.com%2Fpc-components%2Fcpus%2Famd-reveals-new-roadmap-for-its-ryzen-cpus-teasing-zen-7-as-the-true-next-generation-leap-with-2nm-lineup-confirms-2026-release-for-zen-6-coming-with-expanded-ai-features%3Futm_source=tldrai/1/0100019a7871a9c4-daef0884-d1d0-4c51-be78-f90fd3fcb1bb-000000/LnGXu1iXRI-AjMm8Cv50OwWIWvkIxKn4X8qj7b7HhcM=431</link>
       <description>Link found in newsletter: 'ChatGPT Group Chats 💬, growing an RL environment 🌍, ElevenLabs Scribe v2 🗣'</description>
@@ -1092,6 +1086,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fzackoverflow.dev%2Fwriting%2Ftemplate-interpreters%2F%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/1wpLl3IHzZJlHCwfQlv1j4OFafkmoDmNjl7PLNtEIWg=431</link>
       <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fzackoverflow.dev%2Fwriting%2Ftemplate-interpreters%2F%3Futm_source=tldrnewsletter/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/1wpLl3IHzZJlHCwfQlv1j4OFafkmoDmNjl7PLNtEIWg=431</guid>
+    </item>
+    <item>
+      <title>Microsoft to Use OpenAI’s Chip Work to Aid In-House Effort - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fo7R9dw/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/U6IdrsS4DW5hj4BBqB42gPlSDKoYevR3ZjN9gNl30sw=431</link>
+      <description>Link found in newsletter: 'GPT-5.1 🤖, Waymo hits highways 🚗, Homebrew 5 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fo7R9dw/1/0100019a7cf7418a-25fa1f57-bdd8-402f-af45-4c6e3ad8663d-000000/U6IdrsS4DW5hj4BBqB42gPlSDKoYevR3ZjN9gNl30sw=431</guid>
     </item>
     <item>
       <title>How to be creative (without taking drugs) - by George Mack</title>
@@ -1503,12 +1503,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=dd567696-c07f-11f0-87c9-257c3072afaf%26pt=campaign%26pv=4%26spa=1763042506%26t=1763045346%26s=cb3bc3abc7444e7b2df248214ed1a5f0ae749913b5733e6deec7c5ae864c4262/1/0100019a7db10ecf-9f2cfb0a-3d6b-4f19-a1ef-291d791853b9-000000/rPwRqHNraKL42izw-g9OVsgQ3l81ti-2X1Gd-nXGG3c=431</guid>
     </item>
     <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019a7db10ecf-9f2cfb0a-3d6b-4f19-a1ef-291d791853b9-000000/Q_u7c4mVfwjz0_yWj91Y7anIywCIeUQckY2SLbEy2LY=431</link>
-      <description>Link found in newsletter: 'MSFT OpenAI docs leak 📄, GPT-5.1 🤖, Anthropic’s $50B Bet 💰'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019a7db10ecf-9f2cfb0a-3d6b-4f19-a1ef-291d791853b9-000000/Q_u7c4mVfwjz0_yWj91Y7anIywCIeUQckY2SLbEy2LY=431</guid>
-    </item>
-    <item>
       <title>TLDR Jobs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a7db10ecf-9f2cfb0a-3d6b-4f19-a1ef-291d791853b9-000000/woSuri8GZYLdNXqdfrUb6pgnnevQLq1k5fL-fOXwpBA=431</link>
       <description>Link found in newsletter: 'MSFT OpenAI docs leak 📄, GPT-5.1 🤖, Anthropic’s $50B Bet 💰'</description>
@@ -1753,6 +1747,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fandroid-dreams.ai%2F%3Futm_source=tldrnewsletter/1/0100019a821d1071-6314a511-c359-4293-83dd-3b373174c314-000000/MSYyIiAX9koy3rI0iuVx25aOpJp-DwI8r4Qglsl4rb4=431</link>
       <description>Link found in newsletter: 'Apple Mini Apps 📱, Blue Origin lands rocket 🚀, GPT-5.1 for devs 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fandroid-dreams.ai%2F%3Futm_source=tldrnewsletter/1/0100019a821d1071-6314a511-c359-4293-83dd-3b373174c314-000000/MSYyIiAX9koy3rI0iuVx25aOpJp-DwI8r4Qglsl4rb4=431</guid>
+    </item>
+    <item>
+      <title>Apple Aims to Capitalize on Mini App Trend With New Program - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FDxXGP8/1/0100019a821d1071-6314a511-c359-4293-83dd-3b373174c314-000000/UsMYf6FLkgX5ROeX3-1FTeqgfqk_3FjaICQGeNQYAS0=431</link>
+      <description>Link found in newsletter: 'Apple Mini Apps 📱, Blue Origin lands rocket 🚀, GPT-5.1 for devs 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FDxXGP8/1/0100019a821d1071-6314a511-c359-4293-83dd-3b373174c314-000000/UsMYf6FLkgX5ROeX3-1FTeqgfqk_3FjaICQGeNQYAS0=431</guid>
     </item>
     <item>
       <title>With Marqeta, you won't have to compromise</title>
@@ -2069,6 +2069,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.google%2Ftechnology%2Fgoogle-labs%2Fnotebooklm-deep-research-file-types%2F%3Futm_source=tldrai/1/0100019a82bcba4d-a2ccf779-312b-4435-bf89-579a0f352b92-000000/fjcqAyXaHsmdmjHYwM5FFbPAN_53SXKQp4ffcrL9Xuw=431</link>
       <description>Link found in newsletter: 'Cursor $29B valuation 💰, Google Code Wiki 👨‍💻, advanced Nano Banana tips 🍌'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.google%2Ftechnology%2Fgoogle-labs%2Fnotebooklm-deep-research-file-types%2F%3Futm_source=tldrai/1/0100019a82bcba4d-a2ccf779-312b-4435-bf89-579a0f352b92-000000/fjcqAyXaHsmdmjHYwM5FFbPAN_53SXKQp4ffcrL9Xuw=431</guid>
+    </item>
+    <item>
+      <title>Murati’s Thinking Machines in Funding Talks at $50 Billion Value - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fyz0IRf/1/0100019a82bcba4d-a2ccf779-312b-4435-bf89-579a0f352b92-000000/VJB-ChqNFiVgtRIZTtrs1q9l3HvWhFgrtACdEHX09ss=431</link>
+      <description>Link found in newsletter: 'Cursor $29B valuation 💰, Google Code Wiki 👨‍💻, advanced Nano Banana tips 🍌'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fyz0IRf/1/0100019a82bcba4d-a2ccf779-312b-4435-bf89-579a0f352b92-000000/VJB-ChqNFiVgtRIZTtrs1q9l3HvWhFgrtACdEHX09ss=431</guid>
     </item>
     <item>
       <title>AI startup Cursor raises $2.3 billion round at $29.3 billion valuation</title>
