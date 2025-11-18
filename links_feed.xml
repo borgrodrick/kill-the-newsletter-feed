@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 17 Nov 2025 18:19:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Nov 2025 01:03:55 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=a76cf9f6-bfa3-11f0-b2a2-af16709489f2%26pt=campaign%26pv=4%26spa=1762945279%26t=1762946752%26s=dfc0e0687399d6f9bdaab5ed077cb8cb1e4d2e8d9c198c0a12039d65fec478ab/1/0100019a77d0a03c-7d3f5c3a-c774-4551-b5fc-8a23f51100ca-000000/OTB3zSpRTL_27OHCPz7XYEWadzBKnrYpxE_ttpn9DH4=431</link>
@@ -402,6 +402,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019a7871a9c4-daef0884-d1d0-4c51-be78-f90fd3fcb1bb-000000/J9dHwwUbrftlm7vOjxEE92j5RbG2CXrDLlAk_O5xTjg=431</link>
       <description>Link found in newsletter: 'ChatGPT Group Chats 💬, growing an RL environment 🌍, ElevenLabs Scribe v2 🗣'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019a7871a9c4-daef0884-d1d0-4c51-be78-f90fd3fcb1bb-000000/J9dHwwUbrftlm7vOjxEE92j5RbG2CXrDLlAk_O5xTjg=431</guid>
+    </item>
+    <item>
+      <title>The Technium: Emotional Agents</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fkk.org%2Fthetechnium%2Femotional-agents%2F%3Futm_source=tldrai/1/0100019a7871a9c4-daef0884-d1d0-4c51-be78-f90fd3fcb1bb-000000/rRGpkwlP2Qf4c4WCe-zGfSGOYfIDNKuuEApgl6sY-z8=431</link>
+      <description>Link found in newsletter: 'ChatGPT Group Chats 💬, growing an RL environment 🌍, ElevenLabs Scribe v2 🗣'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fkk.org%2Fthetechnium%2Femotional-agents%2F%3Futm_source=tldrai/1/0100019a7871a9c4-daef0884-d1d0-4c51-be78-f90fd3fcb1bb-000000/rRGpkwlP2Qf4c4WCe-zGfSGOYfIDNKuuEApgl6sY-z8=431</guid>
     </item>
     <item>
       <title>AMD reveals new roadmap for its Ryzen CPUs, teasing Zen 7 as the true "next-generation" leap with 2nm — Lineup confirms 2026 release for Zen 6, coming with expanded AI features | Tom's Hardware</title>
