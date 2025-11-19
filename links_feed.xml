@@ -6,260 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 06:20:36 +0000</lastBuildDate>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=9b8cf018-c06c-11f0-9ee2-f1855f5a7561%26pt=campaign%26pv=4%26spa=1763035287%26t=1763036214%26s=17063dfae13a73414bbcf8be84e20ea70205c8dc260348dae1faa9e10b72c9f6/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/ye7nJ1zJqi9a3FBOLkIoDNfr2IeObVMgujvzbUCFf-g=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=9b8cf018-c06c-11f0-9ee2-f1855f5a7561%26pt=campaign%26pv=4%26spa=1763035287%26t=1763036214%26s=17063dfae13a73414bbcf8be84e20ea70205c8dc260348dae1faa9e10b72c9f6/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/ye7nJ1zJqi9a3FBOLkIoDNfr2IeObVMgujvzbUCFf-g=431</guid>
-    </item>
-    <item>
-      <title>Jenny X. - Meta | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/WhpSs68CCr3da-UbRKOJNEntM52U-MCg8uzBWfjcsm4=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/WhpSs68CCr3da-UbRKOJNEntM52U-MCg8uzBWfjcsm4=431</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/FhSj7AarMwyF6g5ObsxRyU6lriMdDvYNEP_h1sVto7U=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/FhSj7AarMwyF6g5ObsxRyU6lriMdDvYNEP_h1sVto7U=431</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/KyfnCKs0nkicp9rH4BtNCCwmqiYZrH5hfQ5DGKZ_47E=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/KyfnCKs0nkicp9rH4BtNCCwmqiYZrH5hfQ5DGKZ_47E=431</guid>
-    </item>
-    <item>
-      <title>TLDR Web Dev | Referral Hub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/oNBrREK10ipcL9DMR5oeFR9IbwbXCni05F1DBve3rKU=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/oNBrREK10ipcL9DMR5oeFR9IbwbXCni05F1DBve3rKU=431</guid>
-    </item>
-    <item>
-      <title>GitHub - lone-cloud/gerbil: A desktop app for running Large Language Models locally.</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Flone-cloud%2Fgerbil%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/IEebgTW4ubhrm2PNkShXVzU1XR5NgCVgnluEU3nyXcY=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Flone-cloud%2Fgerbil%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/IEebgTW4ubhrm2PNkShXVzU1XR5NgCVgnluEU3nyXcY=431</guid>
-    </item>
-    <item>
-      <title>Marble: A Multimodal World Model | World Labs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.worldlabs.ai%2Fblog%2Fmarble-world-model%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/-sgmjX1RfQ6XyxfBMkJS5SPjfkYm5XSqRHtvUpN6EgM=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.worldlabs.ai%2Fblog%2Fmarble-world-model%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/-sgmjX1RfQ6XyxfBMkJS5SPjfkYm5XSqRHtvUpN6EgM=431</guid>
-    </item>
-    <item>
-      <title>Perkeep</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fperkeep.org%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/18UhNAZJXbg05SQJV0mDaJz-QFRapUAPrtwNf8xEpxs=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fperkeep.org%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/18UhNAZJXbg05SQJV0mDaJz-QFRapUAPrtwNf8xEpxs=431</guid>
-    </item>
-    <item>
-      <title>Tahoe’s Terrible Icons: The B-Sides - Jim Nielsen’s Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.jim-nielsen.com%2F2025%2Ftahoes-terrible-icons-b-sides%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/26fQmE1NAQvzRcd7iUz_9LjWYxuJyR-vuMCx545LF68=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.jim-nielsen.com%2F2025%2Ftahoes-terrible-icons-b-sides%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/26fQmE1NAQvzRcd7iUz_9LjWYxuJyR-vuMCx545LF68=431</guid>
-    </item>
-    <item>
-      <title>Testing out Crush, a TUI based coding agent (in neovim btw)</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgrahamhelton.com%2Fblog%2Fcrushing-it%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/-fi0gYeulSULMYdoarUSFdpk6-YQ6YCMCTCVm1GIL6k=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgrahamhelton.com%2Fblog%2Fcrushing-it%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/-fi0gYeulSULMYdoarUSFdpk6-YQ6YCMCTCVm1GIL6k=431</guid>
-    </item>
-    <item>
-      <title>Android Developers Blog: Android developer verification: Early access starts now as we continue to build with your feedback</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fandroid-developers.googleblog.com%2F2025%2F11%2Fandroid-developer-verification-early.html%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/z4GiJu2Y8zKxsswn3lAVKJ2F7pbYD2Qz_gMCJxDPe6c=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fandroid-developers.googleblog.com%2F2025%2F11%2Fandroid-developer-verification-early.html%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/z4GiJu2Y8zKxsswn3lAVKJ2F7pbYD2Qz_gMCJxDPe6c=431</guid>
-    </item>
-    <item>
-      <title>JSX Tool - React Dev Tools for Styling</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjsxtool.com%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/k-83wt2-N2IHtJw1yhFdVivmaKBRixfhJbEY7Tcwak4=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjsxtool.com%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/k-83wt2-N2IHtJw1yhFdVivmaKBRixfhJbEY7Tcwak4=431</guid>
-    </item>
-    <item>
-      <title>Visual Studio 2026 is here: faster, smarter, and a hit with early adopters - Visual Studio Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevblogs.microsoft.com%2Fvisualstudio%2Fvisual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/FfK-l4hj_r5U8VshNmV5lqyhbQmDv13_moAfnuSB3ig=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdevblogs.microsoft.com%2Fvisualstudio%2Fvisual-studio-2026-is-here-faster-smarter-and-a-hit-with-early-adopters%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/FfK-l4hj_r5U8VshNmV5lqyhbQmDv13_moAfnuSB3ig=431</guid>
-    </item>
-    <item>
-      <title>Steam Hardware</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstore.steampowered.com%2Fsale%2Fhardware%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/1ilkOOiRbOv2vsv80hWdtwR5wxnPPhmJhuJvQGhyUWI=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstore.steampowered.com%2Fsale%2Fhardware%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/1ilkOOiRbOv2vsv80hWdtwR5wxnPPhmJhuJvQGhyUWI=431</guid>
-    </item>
-    <item>
-      <title>E-Commerce Holiday Readiness Checklist: A Developer’s Survival Guide | Sentry</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsentry.io%2Fresources%2Fholiday-e-commerce-checklist%2F%3Futm_source=tldr%26utm_medium=paid-community%26utm_campaign=general-fy26q4-ecommerceguide%26utm_content=newsletter-ecomm-holiday-learnmore/3/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/5QDpwh5dJbYtFwV3NrWln76ELr8G_ry3Jtilida7who=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsentry.io%2Fresources%2Fholiday-e-commerce-checklist%2F%3Futm_source=tldr%26utm_medium=paid-community%26utm_campaign=general-fy26q4-ecommerceguide%26utm_content=newsletter-ecomm-holiday-learnmore/3/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/5QDpwh5dJbYtFwV3NrWln76ELr8G_ry3Jtilida7who=431</guid>
-    </item>
-    <item>
-      <title>E-Commerce Holiday Readiness Checklist: A Developer’s Survival Guide | Sentry</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsentry.io%2Fresources%2Fholiday-e-commerce-checklist%2F%3Futm_source=tldr%26utm_medium=paid-community%26utm_campaign=general-fy26q4-ecommerceguide%26utm_content=newsletter-ecomm-holiday-learnmore/2/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/spz-9C8QOUItjbMpJF0I6Jrm2ZHLr4VAR4xTFhsFPqE=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsentry.io%2Fresources%2Fholiday-e-commerce-checklist%2F%3Futm_source=tldr%26utm_medium=paid-community%26utm_campaign=general-fy26q4-ecommerceguide%26utm_content=newsletter-ecomm-holiday-learnmore/2/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/spz-9C8QOUItjbMpJF0I6Jrm2ZHLr4VAR4xTFhsFPqE=431</guid>
-    </item>
-    <item>
-      <title>E-Commerce Holiday Readiness Checklist: A Developer’s Survival Guide | Sentry</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsentry.io%2Fresources%2Fholiday-e-commerce-checklist%2F%3Futm_source=tldr%26utm_medium=paid-community%26utm_campaign=general-fy26q4-ecommerceguide%26utm_content=newsletter-ecomm-holiday-learnmore/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/6Hae0n-yJLtrlbwDz9qIxU4lXJCRXPXH2WcCSjvY8hE=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsentry.io%2Fresources%2Fholiday-e-commerce-checklist%2F%3Futm_source=tldr%26utm_medium=paid-community%26utm_campaign=general-fy26q4-ecommerceguide%26utm_content=newsletter-ecomm-holiday-learnmore/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/6Hae0n-yJLtrlbwDz9qIxU4lXJCRXPXH2WcCSjvY8hE=431</guid>
-    </item>
-    <item>
-      <title>How I Fell in Love with Erlang
-     · Bora Gönül</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fboragonul.com%2Fpost%2Ffalling-in-love-with-erlang%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/KUCLKnVMrtKxgY6AZvio1c4rFxydG3wxFh247FPSL78=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fboragonul.com%2Fpost%2Ffalling-in-love-with-erlang%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/KUCLKnVMrtKxgY6AZvio1c4rFxydG3wxFh247FPSL78=431</guid>
-    </item>
-    <item>
-      <title>Zig / C++ Interop · Tuple</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftuple.app%2Fblog%2Fzig-cpp-interop%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/P6eDmikxF4tK6eAxIuMoRJPoga333-VOt-Nq0xkqQ6g=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftuple.app%2Fblog%2Fzig-cpp-interop%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/P6eDmikxF4tK6eAxIuMoRJPoga333-VOt-Nq0xkqQ6g=431</guid>
-    </item>
-    <item>
-      <title>StyleX: A Styling Library for CSS at Scale - Engineering at Meta</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.fb.com%2F2025%2F11%2F11%2Fweb%2Fstylex-a-styling-library-for-css-at-scale%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/9funZg3W8yVkvwPQQm69hjHncStjhOdBvO9alKMW3zM=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fengineering.fb.com%2F2025%2F11%2F11%2Fweb%2Fstylex-a-styling-library-for-css-at-scale%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/9funZg3W8yVkvwPQQm69hjHncStjhOdBvO9alKMW3zM=431</guid>
-    </item>
-    <item>
-      <title>The Write Last, Read First Rule</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftigerbeetle.com%2Fblog%2F2025-11-06-the-write-last-read-first-rule%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/Q7B7BqCajTCqOqVqjYGJa1h5dljWEroRP9nHbLnqH0g=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftigerbeetle.com%2Fblog%2F2025-11-06-the-write-last-read-first-rule%2F%3Futm_source=tldrwebdev/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/Q7B7BqCajTCqOqVqjYGJa1h5dljWEroRP9nHbLnqH0g=431</guid>
-    </item>
-    <item>
-      <title>Book a Demo</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2Fbook-a-demo%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/caOy92_ppo_fBg8F3aRhiwOZyYQuSpPXyX7mVW5bGEA=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2Fbook-a-demo%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/caOy92_ppo_fBg8F3aRhiwOZyYQuSpPXyX7mVW5bGEA=431</guid>
-    </item>
-    <item>
-      <title>Meticulous AI - Automated Frontend Testing Without Writing Tests</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/4/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/hVI6jCVPX4CeOhYyliYGiI-TWPNKAVBNfM9RKDCOspQ=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/4/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/hVI6jCVPX4CeOhYyliYGiI-TWPNKAVBNfM9RKDCOspQ=431</guid>
-    </item>
-    <item>
-      <title>Meticulous AI - Automated Frontend Testing Without Writing Tests</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/3/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/AKg2vRLUQKub5iNp0U8kTn9j2QBpjaOmXEGlMuwxeAw=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/3/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/AKg2vRLUQKub5iNp0U8kTn9j2QBpjaOmXEGlMuwxeAw=431</guid>
-    </item>
-    <item>
-      <title>Meticulous AI - Automated Frontend Testing Without Writing Tests</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/2/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/LzoPPwCQHbAHhG_VRmbnxXbkP-RBFyPh6PPxkavJD3g=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/2/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/LzoPPwCQHbAHhG_VRmbnxXbkP-RBFyPh6PPxkavJD3g=431</guid>
-    </item>
-    <item>
-      <title>Meticulous AI - Automated Frontend Testing Without Writing Tests</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/CCg_J97RVzBnqNrGSeg7y3c1MqfFKsr5u49hpUcGMXM=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.meticulous.ai%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=q4%26utm_content=dev-primary/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/CCg_J97RVzBnqNrGSeg7y3c1MqfFKsr5u49hpUcGMXM=431</guid>
-    </item>
-    <item>
-      <title>TLDR Dev</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=9b8cf018-c06c-11f0-9ee2-f1855f5a7561%26pt=campaign%26t=1763036214%26s=c5ce5169bece6ee05707af1ac8623ed138ccb6f7501f58d2760dd726aea47832/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/6ZkbMSspNw39L82d5MwcLZx4jErKLh-6cAOCYq3DZbo=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=9b8cf018-c06c-11f0-9ee2-f1855f5a7561%26pt=campaign%26t=1763036214%26s=c5ce5169bece6ee05707af1ac8623ed138ccb6f7501f58d2760dd726aea47832/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/6ZkbMSspNw39L82d5MwcLZx4jErKLh-6cAOCYq3DZbo=431</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/_Dd6CEFtFxc3pVrLNKqCIXaajUihTKjWD-ortr1Qh2A=431</link>
-      <description>Link found in newsletter: 'Steam Hardware 🚀, Visual Studio 2026 💻, Meta’s styling library 🎨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/_Dd6CEFtFxc3pVrLNKqCIXaajUihTKjWD-ortr1Qh2A=431</guid>
-    </item>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=b2055b80-c078-11f0-bf5a-257c3072afaf%26pt=campaign%26pv=4%26spa=1763042482%26t=1763042919%26s=f238adc643199433bd7cb154218b769d0c3e994a1d77de239f1ff74f50ee6435/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/F9kLWHFwhFIRdlnUaGiwA2-9bvg1hAas2arxBW7lAj8=431</link>
-      <description>Link found in newsletter: 'Bitcoin lightning for remittances 💰, Settlement over interchange fees 🤝 x402 Payments Protocol 💲'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=b2055b80-c078-11f0-bf5a-257c3072afaf%26pt=campaign%26pv=4%26spa=1763042482%26t=1763042919%26s=f238adc643199433bd7cb154218b769d0c3e994a1d77de239f1ff74f50ee6435/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/F9kLWHFwhFIRdlnUaGiwA2-9bvg1hAas2arxBW7lAj8=431</guid>
-    </item>
-    <item>
-      <title>Gabriel Sundaram - attain | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/U48V-3YTp-mefQxx3l0QKN_ZFRDQ0iCE64A4Gbre6XA=431</link>
-      <description>Link found in newsletter: 'Bitcoin lightning for remittances 💰, Settlement over interchange fees 🤝 x402 Payments Protocol 💲'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/U48V-3YTp-mefQxx3l0QKN_ZFRDQ0iCE64A4Gbre6XA=431</guid>
-    </item>
-    <item>
-      <title>Matt Cheung - Ceviche | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/XP76ZgznfcVu-_kwRg5XDq8cIOKMFQMLB_BfcS-A5qU=431</link>
-      <description>Link found in newsletter: 'Bitcoin lightning for remittances 💰, Settlement over interchange fees 🤝 x402 Payments Protocol 💲'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/XP76ZgznfcVu-_kwRg5XDq8cIOKMFQMLB_BfcS-A5qU=431</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/giUcniRKYPpuSU6v63o7tarQIjZ8mbULkxp_boxRles=431</link>
-      <description>Link found in newsletter: 'Bitcoin lightning for remittances 💰, Settlement over interchange fees 🤝 x402 Payments Protocol 💲'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/giUcniRKYPpuSU6v63o7tarQIjZ8mbULkxp_boxRles=431</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/qkxBzhdyoqOj_knTr85hd0rxSWwsHfqNdJenKpTxG8g=431</link>
-      <description>Link found in newsletter: 'Bitcoin lightning for remittances 💰, Settlement over interchange fees 🤝 x402 Payments Protocol 💲'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/qkxBzhdyoqOj_knTr85hd0rxSWwsHfqNdJenKpTxG8g=431</guid>
-    </item>
-    <item>
-      <title>The End of the Back Office - Fintech Takes</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffintechtakes.com%2Farticles%2F2025-11-12%2Fthe-end-of-the-back-office%2F%3Futm_source=tldrfintech/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/slEITSajaSSKyPPkgRm_EXSc7I8OkO2Onn3sM4P2kIA=431</link>
-      <description>Link found in newsletter: 'Bitcoin lightning for remittances 💰, Settlement over interchange fees 🤝 x402 Payments Protocol 💲'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffintechtakes.com%2Farticles%2F2025-11-12%2Fthe-end-of-the-back-office%2F%3Futm_source=tldrfintech/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/slEITSajaSSKyPPkgRm_EXSc7I8OkO2Onn3sM4P2kIA=431</guid>
-    </item>
-    <item>
-      <title>Bank Veteran Says One Part of the Sector Will Be Hurt Least by AI - Business Insider</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.businessinsider.com%2Fbanking-jobs-affected-by-ai-front-middle-back-office-2025-11%3Futm_source=tldrfintech/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/hwR6DV1ufSAQQuNqREWBtgb7jtGMFqCuq5uKS8Yhveg=431</link>
-      <description>Link found in newsletter: 'Bitcoin lightning for remittances 💰, Settlement over interchange fees 🤝 x402 Payments Protocol 💲'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.businessinsider.com%2Fbanking-jobs-affected-by-ai-front-middle-back-office-2025-11%3Futm_source=tldrfintech/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/hwR6DV1ufSAQQuNqREWBtgb7jtGMFqCuq5uKS8Yhveg=431</guid>
-    </item>
-    <item>
-      <title>SoFi Bank first in US to use Bitcoin Lightning for remittances</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblockchaintechnology-news.com%2Fnews%2Fsofi-becomes-first-us-bank-to-use-bitcoin-lightning-for-remittances%2F%3Futm_source=tldrfintech/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/GzPx9uyfDFmbPuKWlg8oRlKEqRs1FpgcM4apJy0rL-4=431</link>
-      <description>Link found in newsletter: 'Bitcoin lightning for remittances 💰, Settlement over interchange fees 🤝 x402 Payments Protocol 💲'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblockchaintechnology-news.com%2Fnews%2Fsofi-becomes-first-us-bank-to-use-bitcoin-lightning-for-remittances%2F%3Futm_source=tldrfintech/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/GzPx9uyfDFmbPuKWlg8oRlKEqRs1FpgcM4apJy0rL-4=431</guid>
-    </item>
-    <item>
-      <title>Improve Customer Centricity and Unlock Lifecycle Visibility with PSA Solutions - A Forrester thought leadership paper</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.certinia.com%2Flanding%2Fforrester-report%2F%3Futm_source=tldr-newsletter/4/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/SDgNMrVuMlJG4oKAPfGkKvx6EKJj-vsI-xA9wHl0Ldw=431</link>
-      <description>Link found in newsletter: 'Bitcoin lightning for remittances 💰, Settlement over interchange fees 🤝 x402 Payments Protocol 💲'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.certinia.com%2Flanding%2Fforrester-report%2F%3Futm_source=tldr-newsletter/4/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/SDgNMrVuMlJG4oKAPfGkKvx6EKJj-vsI-xA9wHl0Ldw=431</guid>
-    </item>
-    <item>
-      <title>Improve Customer Centricity and Unlock Lifecycle Visibility with PSA Solutions - A Forrester thought leadership paper</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.certinia.com%2Flanding%2Fforrester-report%2F%3Futm_source=tldr-newsletter/3/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/RTvp6huWmiivy4nK6tWNvV_SjvkJstmHC35JFMkSmeo=431</link>
-      <description>Link found in newsletter: 'Bitcoin lightning for remittances 💰, Settlement over interchange fees 🤝 x402 Payments Protocol 💲'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.certinia.com%2Flanding%2Fforrester-report%2F%3Futm_source=tldr-newsletter/3/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/RTvp6huWmiivy4nK6tWNvV_SjvkJstmHC35JFMkSmeo=431</guid>
-    </item>
-    <item>
-      <title>Improve Customer Centricity and Unlock Lifecycle Visibility with PSA Solutions - A Forrester thought leadership paper</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.certinia.com%2Flanding%2Fforrester-report%2F%3Futm_source=tldr-newsletter/2/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/jBLArBvLEcqn5sBpSchikBJd7JXmawvf-Zymqtps8Ok=431</link>
-      <description>Link found in newsletter: 'Bitcoin lightning for remittances 💰, Settlement over interchange fees 🤝 x402 Payments Protocol 💲'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.certinia.com%2Flanding%2Fforrester-report%2F%3Futm_source=tldr-newsletter/2/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/jBLArBvLEcqn5sBpSchikBJd7JXmawvf-Zymqtps8Ok=431</guid>
-    </item>
-    <item>
-      <title>Improve Customer Centricity and Unlock Lifecycle Visibility with PSA Solutions - A Forrester thought leadership paper</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.certinia.com%2Flanding%2Fforrester-report%2F%3Futm_source=tldr-newsletter/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/XAL2OjVIZDo674Naa--ZpPJJzo52nM3NITldYvxYReM=431</link>
-      <description>Link found in newsletter: 'Bitcoin lightning for remittances 💰, Settlement over interchange fees 🤝 x402 Payments Protocol 💲'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.certinia.com%2Flanding%2Fforrester-report%2F%3Futm_source=tldr-newsletter/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/XAL2OjVIZDo674Naa--ZpPJJzo52nM3NITldYvxYReM=431</guid>
-    </item>
-    <item>
-      <title>TLDR Fintech</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=b2055b80-c078-11f0-bf5a-257c3072afaf%26pt=campaign%26t=1763042919%26s=c28eac99087c3a617227210611aa46e7f7769b7011a292bb9b4b6e0ae64b5e3c/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/OPR0jDyGeDe__xfGom5hhIG_-kUvZW9NKfxAKYqWqUY=431</link>
-      <description>Link found in newsletter: 'Bitcoin lightning for remittances 💰, Settlement over interchange fees 🤝 x402 Payments Protocol 💲'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=b2055b80-c078-11f0-bf5a-257c3072afaf%26pt=campaign%26t=1763042919%26s=c28eac99087c3a617227210611aa46e7f7769b7011a292bb9b4b6e0ae64b5e3c/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/OPR0jDyGeDe__xfGom5hhIG_-kUvZW9NKfxAKYqWqUY=431</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/lG8g4PL7ZzLV1jC1cEDOp_oV7s0k_u1nwFEXTMNVfvA=431</link>
-      <description>Link found in newsletter: 'Bitcoin lightning for remittances 💰, Settlement over interchange fees 🤝 x402 Payments Protocol 💲'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/lG8g4PL7ZzLV1jC1cEDOp_oV7s0k_u1nwFEXTMNVfvA=431</guid>
-    </item>
+    <lastBuildDate>Wed, 19 Nov 2025 12:28:24 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=dd567696-c07f-11f0-87c9-257c3072afaf%26pt=campaign%26pv=4%26spa=1763042506%26t=1763045346%26s=cb3bc3abc7444e7b2df248214ed1a5f0ae749913b5733e6deec7c5ae864c4262/1/0100019a7db10ecf-9f2cfb0a-3d6b-4f19-a1ef-291d791853b9-000000/rPwRqHNraKL42izw-g9OVsgQ3l81ti-2X1Gd-nXGG3c=431</link>
@@ -517,12 +264,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fandroid-dreams.ai%2F%3Futm_source=tldrnewsletter/1/0100019a821d1071-6314a511-c359-4293-83dd-3b373174c314-000000/MSYyIiAX9koy3rI0iuVx25aOpJp-DwI8r4Qglsl4rb4=431</link>
       <description>Link found in newsletter: 'Apple Mini Apps 📱, Blue Origin lands rocket 🚀, GPT-5.1 for devs 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fandroid-dreams.ai%2F%3Futm_source=tldrnewsletter/1/0100019a821d1071-6314a511-c359-4293-83dd-3b373174c314-000000/MSYyIiAX9koy3rI0iuVx25aOpJp-DwI8r4Qglsl4rb4=431</guid>
-    </item>
-    <item>
-      <title>Apple Aims to Capitalize on Mini App Trend With New Program - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FDxXGP8/1/0100019a821d1071-6314a511-c359-4293-83dd-3b373174c314-000000/UsMYf6FLkgX5ROeX3-1FTeqgfqk_3FjaICQGeNQYAS0=431</link>
-      <description>Link found in newsletter: 'Apple Mini Apps 📱, Blue Origin lands rocket 🚀, GPT-5.1 for devs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FDxXGP8/1/0100019a821d1071-6314a511-c359-4293-83dd-3b373174c314-000000/UsMYf6FLkgX5ROeX3-1FTeqgfqk_3FjaICQGeNQYAS0=431</guid>
     </item>
     <item>
       <title>With Marqeta, you won't have to compromise</title>
@@ -1261,12 +1002,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/Aj_hceqbxRNzM8vrjBYym_svrnj4PjoPg-aDQcHewaM=431</guid>
     </item>
     <item>
-      <title>FDIC Considers Guidance Over Tokenized Deposit Insurance - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FuoX9TX/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/22D92ZTznsMtpbBX5FdhGyF45z5UR3RcQPSML6o6mdQ=431</link>
-      <description>Link found in newsletter: 'JPM Coin 🪙, PayPal UK rewards 🎁, Intuit's AI agents 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FuoX9TX/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/22D92ZTznsMtpbBX5FdhGyF45z5UR3RcQPSML6o6mdQ=431</guid>
-    </item>
-    <item>
       <title>Thread by @pitdesi on Thread Reader App – Thread Reader App</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F1981381724702724256.html%3Futm_source=tldrfintech/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/fL4xski9LbWQ97UHBPAwnbX90Tmpl7Xw0kzhh9BVhFg=431</link>
       <description>Link found in newsletter: 'JPM Coin 🪙, PayPal UK rewards 🎁, Intuit's AI agents 🤖'</description>
@@ -1291,6 +1026,18 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.thebanker.com%2Fcontent%2F65320ef3-335f-4fbc-b55d-33878fa12425%3Futm_source=tldrfintech/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/jmBCFqvCceujHB3Vw_bfBRx0Zsu-ZJDqKBcaohVre2s=431</guid>
     </item>
     <item>
+      <title>Cash App rolls out 11 product updates</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107932%2Fcash-app-rolls-out-11-product-updates%3Futm_source=tldrfintech/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/YhhUKoIP28dqRBGGn9AHoyfGHrxgNg2R9nP13gNZF7s=431</link>
+      <description>Link found in newsletter: 'JPM Coin 🪙, PayPal UK rewards 🎁, Intuit's AI agents 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107932%2Fcash-app-rolls-out-11-product-updates%3Futm_source=tldrfintech/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/YhhUKoIP28dqRBGGn9AHoyfGHrxgNg2R9nP13gNZF7s=431</guid>
+    </item>
+    <item>
+      <title>How do APIs help launch new wallet features quickly?: By Nikunj Gundaniya</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fblogposting%2F29805%2Fhow-do-apis-help-launch-new-wallet-features-quickly%3Futm_source=tldrfintech/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/fM6_ntCpQqYEXz3KpoAbafpi9fHXXRzVP7xnBDvdCYc=431</link>
+      <description>Link found in newsletter: 'JPM Coin 🪙, PayPal UK rewards 🎁, Intuit's AI agents 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fblogposting%2F29805%2Fhow-do-apis-help-launch-new-wallet-features-quickly%3Futm_source=tldrfintech/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/fM6_ntCpQqYEXz3KpoAbafpi9fHXXRzVP7xnBDvdCYc=431</guid>
+    </item>
+    <item>
       <title>The CFO Dashboard; Ramp, Brex or Mercury - 18 Months Later</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.fintechbrainfood.com%2Fp%2Fthe-cfo-dashboard%3Futm_source=tldrfintech/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/8iYfUlDJDHJCD5zN97TS0-FbZa8hNL8iCvNEu5EvLr8=431</link>
       <description>Link found in newsletter: 'JPM Coin 🪙, PayPal UK rewards 🎁, Intuit's AI agents 🤖'</description>
@@ -1307,6 +1054,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F11%2F14%2Fpine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim%2F%3Futm_source=tldrfintech/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/SZoMAOaHI0IMcdosYJWHxebLB_yty8-DpddPEyINLlI=431</link>
       <description>Link found in newsletter: 'JPM Coin 🪙, PayPal UK rewards 🎁, Intuit's AI agents 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F11%2F14%2Fpine-labs-gets-warm-market-welcome-on-440m-india-ipo-despite-a-valuation-trim%2F%3Futm_source=tldrfintech/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/SZoMAOaHI0IMcdosYJWHxebLB_yty8-DpddPEyINLlI=431</guid>
+    </item>
+    <item>
+      <title>PayPal relaunches in the UK with debit and credit cards plus rewards</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107936%2Fpaypal-relaunches-in-the-uk-with-debit-and-credit-cards-plus-rewards%3Futm_source=tldrfintech/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/l0jQPtZcPl2P6m9FuhbTNjVSqYYMBdz7B5LkjTNBI5s=431</link>
+      <description>Link found in newsletter: 'JPM Coin 🪙, PayPal UK rewards 🎁, Intuit's AI agents 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107936%2Fpaypal-relaunches-in-the-uk-with-debit-and-credit-cards-plus-rewards%3Futm_source=tldrfintech/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/l0jQPtZcPl2P6m9FuhbTNjVSqYYMBdz7B5LkjTNBI5s=431</guid>
     </item>
     <item>
       <title>Custom Agent Builder</title>
@@ -1867,12 +1620,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/LdbBV6V5uO4Ga-rtYLxfmLj1yGjgMyQRomsui8ICwiU=431</guid>
     </item>
     <item>
-      <title>borgrodrick · Kill the Newsletter!</title>
-      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
-      <description>Link found in newsletter: 'Grok 4.1 👋, Agent Labs 🤖, RL shortcomings 🧠'</description>
-      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
-    </item>
-    <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=74da6f6c-c46e-11f0-a36f-11b5f264909b%26pt=campaign%26pv=4%26spa=1763481756%26t=1763484157%26s=f283a67a5856b05cf41a6cfa59af408cf25e195e40e307784ca56cca4dd9944d/1/0100019a97d8c586-6d603ae6-7de0-43fb-9aff-3ff20dfea470-000000/ogu6NOVQ4yWrEXkXV9qWYbPCOo5-c__gQhErQFmag_w=431</link>
       <description>Link found in newsletter: 'Grok 4.1 👋, Agent Labs 🤖, RL shortcomings 🧠'</description>
@@ -2057,6 +1804,372 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a97d8c586-6d603ae6-7de0-43fb-9aff-3ff20dfea470-000000/fSjuAXOrO7sZbEedXMflzDE6JJg8Z_MeIkKkUr6uqpc=431</link>
       <description>Link found in newsletter: 'Grok 4.1 👋, Agent Labs 🤖, RL shortcomings 🧠'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a97d8c586-6d603ae6-7de0-43fb-9aff-3ff20dfea470-000000/fSjuAXOrO7sZbEedXMflzDE6JJg8Z_MeIkKkUr6uqpc=431</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=ed06a6e6-c51c-11f0-bee0-b960bb3f78c1%26pt=campaign%26pv=4%26spa=1763550092%26t=1763551553%26s=3ed6512978e1cb664c55beeeae2c0a5f5b139529ebdf729e790b7921fd82a9d0/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/cbbksWZezkv4zOKg4OvGPgD-c6UURKSg5NKrM36h0Ec=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=ed06a6e6-c51c-11f0-bee0-b960bb3f78c1%26pt=campaign%26pv=4%26spa=1763550092%26t=1763551553%26s=3ed6512978e1cb664c55beeeae2c0a5f5b139529ebdf729e790b7921fd82a9d0/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/cbbksWZezkv4zOKg4OvGPgD-c6UURKSg5NKrM36h0Ec=432</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/iwoeiw4gGG8vTV5R3sGdgSpxfcRX6T61AzgySlHRVQU=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/iwoeiw4gGG8vTV5R3sGdgSpxfcRX6T61AzgySlHRVQU=432</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/LPlG_YSXuYkXhedR54Uz0TsxnS_1blk7GqdO4AOrKBg=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/LPlG_YSXuYkXhedR54Uz0TsxnS_1blk7GqdO4AOrKBg=432</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/3UOnpx85Eujd_B19SCm5QPunP7lvUN_dfrgAlq0zhAc=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/3UOnpx85Eujd_B19SCm5QPunP7lvUN_dfrgAlq0zhAc=432</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/waSP85HfZbJz4BUYb9axgxM6aFt8VTvTmOgYuFe4Bpg=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/waSP85HfZbJz4BUYb9axgxM6aFt8VTvTmOgYuFe4Bpg=432</guid>
+    </item>
+    <item>
+      <title>Google boss says trillion-dollar AI investment boom has 'elements of irrationality'</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bbc.com%2Fnews%2Farticles%2Fcwy7vrd8k4eo%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/xNKMifiMrK7Eqt560SZbbzydt88jSe33zXv1rgoIwx8=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bbc.com%2Fnews%2Farticles%2Fcwy7vrd8k4eo%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/xNKMifiMrK7Eqt560SZbbzydt88jSe33zXv1rgoIwx8=432</guid>
+    </item>
+    <item>
+      <title>What Good Execution Looks Like - Yusuf Aytas</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fyusufaytas.com%2Fwhat-good-execution-looks-like%2F%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/HleFvokPCeWt-Pi-WLnAjkB5QOYppw98fqylclXlY20=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fyusufaytas.com%2Fwhat-good-execution-looks-like%2F%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/HleFvokPCeWt-Pi-WLnAjkB5QOYppw98fqylclXlY20=432</guid>
+    </item>
+    <item>
+      <title>My next chapter with Mastodon - Mastodon Blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.joinmastodon.org%2F2025%2F11%2Fmy-next-chapter-with-mastodon%2F%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/LHSTZ84Jcl3CVtr5ce1n5q-hY5qvY_tN0NRP8mas49M=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.joinmastodon.org%2F2025%2F11%2Fmy-next-chapter-with-mastodon%2F%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/LHSTZ84Jcl3CVtr5ce1n5q-hY5qvY_tN0NRP8mas49M=432</guid>
+    </item>
+    <item>
+      <title>Elf Labs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.elflabs.com%2F%3Futm_source=dmrelflabslandingpage%26utm_medium=partnership001057_%26utm_campaign=partnership001057_%26tnames=partnership00001057__15668664012/2/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/E3BxrVN9N1_-HumYcojXO36SsZXX4xmLQ5AJvG42JBs=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.elflabs.com%2F%3Futm_source=dmrelflabslandingpage%26utm_medium=partnership001057_%26utm_campaign=partnership001057_%26tnames=partnership00001057__15668664012/2/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/E3BxrVN9N1_-HumYcojXO36SsZXX4xmLQ5AJvG42JBs=432</guid>
+    </item>
+    <item>
+      <title>Elf Labs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.elflabs.com%2F%3Futm_source=dmrelflabslandingpage%26utm_medium=partnership001057_%26utm_campaign=partnership001057_%26tnames=partnership00001057__15668664012/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/1PNQH6zmViUSulLSHmphDAxJA97GAsSaJF_lQlR4CYU=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.elflabs.com%2F%3Futm_source=dmrelflabslandingpage%26utm_medium=partnership001057_%26utm_campaign=partnership001057_%26tnames=partnership00001057__15668664012/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/1PNQH6zmViUSulLSHmphDAxJA97GAsSaJF_lQlR4CYU=432</guid>
+    </item>
+    <item>
+      <title>Cloudflare outage causes error messages across the internet | Internet | The Guardian</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theguardian.com%2Ftechnology%2F2025%2Fnov%2F18%2Fcloudflare-outage-causes-error-messages-across-the-internet%3Futm_source=chatgpt.com/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/A3lbTvxa11nIyCyncQ2SNbz5Ne0Pi2kq9kB7iAyDNH4=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theguardian.com%2Ftechnology%2F2025%2Fnov%2F18%2Fcloudflare-outage-causes-error-messages-across-the-internet%3Futm_source=chatgpt.com/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/A3lbTvxa11nIyCyncQ2SNbz5Ne0Pi2kq9kB7iAyDNH4=432</guid>
+    </item>
+    <item>
+      <title>Introducing flat-rate pricing plans with no overages | Networking &amp; Content Delivery</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faws.amazon.com%2Fblogs%2Fnetworking-and-content-delivery%2Fintroducing-flat-rate-pricing-plans-with-no-overages%2F%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/oOHzOH6izuYE1LIVjCVZI-t_ej-QABTc0iwLUXhqbKA=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faws.amazon.com%2Fblogs%2Fnetworking-and-content-delivery%2Fintroducing-flat-rate-pricing-plans-with-no-overages%2F%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/oOHzOH6izuYE1LIVjCVZI-t_ej-QABTc0iwLUXhqbKA=432</guid>
+    </item>
+    <item>
+      <title>GitHub - runmedev/runme: DevOps Notebooks Built with Markdown</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Frunmedev%2Frunme%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/C9RuXtG2tBLCcOhu2Wv7iYUNri6r9jo3sWpuYD_-AwY=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Frunmedev%2Frunme%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/C9RuXtG2tBLCcOhu2Wv7iYUNri6r9jo3sWpuYD_-AwY=432</guid>
+    </item>
+    <item>
+      <title>Spine AI - More than just a chat</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.getspine.ai%2F%3Futm_source=newsletter%26utm_campaign=tldr/2/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/asRz33P-AW0kVriJxoRc1AIJYCeHud8TZS8knN_pqbk=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.getspine.ai%2F%3Futm_source=newsletter%26utm_campaign=tldr/2/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/asRz33P-AW0kVriJxoRc1AIJYCeHud8TZS8knN_pqbk=432</guid>
+    </item>
+    <item>
+      <title>Spine AI - More than just a chat</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.getspine.ai%2F%3Futm_source=newsletter%26utm_campaign=tldr/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/FFUFd61hgkvn9m4AkcgnPsgz55PH7o4SxdwF8KVvQPE=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.getspine.ai%2F%3Futm_source=newsletter%26utm_campaign=tldr/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/FFUFd61hgkvn9m4AkcgnPsgz55PH7o4SxdwF8KVvQPE=432</guid>
+    </item>
+    <item>
+      <title>Two-thirds of companies will slow entry-level hiring due to AI</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fqz.com%2Fentry-level-hiring-slowing-ai-report%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/1Kd8VLJsqbzP8JiNAmBY9I-Wfv0Nbp36FlXOJx7EjsU=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fqz.com%2Fentry-level-hiring-slowing-ai-report%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/1Kd8VLJsqbzP8JiNAmBY9I-Wfv0Nbp36FlXOJx7EjsU=432</guid>
+    </item>
+    <item>
+      <title>Thread by @ryolu_ on Thread Reader App – Thread Reader App</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F1990057444253241545.html%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/HmIQ_Qu_u3sGwChKifueNQ0oUt9zLk9lQbVu0ct7mcc=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F1990057444253241545.html%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/HmIQ_Qu_u3sGwChKifueNQ0oUt9zLk9lQbVu0ct7mcc=432</guid>
+    </item>
+    <item>
+      <title>Gemini 3 Developer Guide  |  Gemini API  |  Google AI for Developers</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fai.google.dev%2Fgemini-api%2Fdocs%2Fgemini-3%3Fthinking=high%26utm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/wCRUBaMwFIrZZELCrTJjNSdJOK4fPxEqZG7Su1xtc9E=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fai.google.dev%2Fgemini-api%2Fdocs%2Fgemini-3%3Fthinking=high%26utm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/wCRUBaMwFIrZZELCrTJjNSdJOK4fPxEqZG7Su1xtc9E=432</guid>
+    </item>
+    <item>
+      <title>QA Wolf | 80% automated test coverage in 4 months</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F/2/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/cbJudWCy2ZPLJgKHvDwzYdM1L6nJqvakczdc7UZp48o=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F/2/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/cbJudWCy2ZPLJgKHvDwzYdM1L6nJqvakczdc7UZp48o=432</guid>
+    </item>
+    <item>
+      <title>QA Wolf | 80% automated test coverage in 4 months</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/yaPPz1cnmzuDo5NGzGSCkmM9BwDxmyTFO_N4z6RnRpE=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/yaPPz1cnmzuDo5NGzGSCkmM9BwDxmyTFO_N4z6RnRpE=432</guid>
+    </item>
+    <item>
+      <title>QA Wolf | 80% automated test coverage in 4 months</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/AUmKZZ2Ikhmsr5lNgHqY3Cnfyu4sJnrLW1Z8ml4etqw=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2F%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/AUmKZZ2Ikhmsr5lNgHqY3Cnfyu4sJnrLW1Z8ml4etqw=432</guid>
+    </item>
+    <item>
+      <title>Robotaxis and Suburbia – Stratechery by Ben Thompson</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstratechery.com%2F2025%2Frobotaxis-and-suburbia%2F%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/r_cr15QBvhrvbcgtj3GMqbQAjx3o6oRwkhe8Jn6XSgQ=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fstratechery.com%2F2025%2Frobotaxis-and-suburbia%2F%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/r_cr15QBvhrvbcgtj3GMqbQAjx3o6oRwkhe8Jn6XSgQ=432</guid>
+    </item>
+    <item>
+      <title>Photon teleportation achieved between two independent quantum dots</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Finterestingengineering.com%2Fscience%2Fphoton-teleportation-quantum-dots%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/SSg3x57KUDF2reuJPv0E7rx7jDYzFHBSO0qVeBA1kFA=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Finterestingengineering.com%2Fscience%2Fphoton-teleportation-quantum-dots%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/SSg3x57KUDF2reuJPv0E7rx7jDYzFHBSO0qVeBA1kFA=432</guid>
+    </item>
+    <item>
+      <title>Anthropic valued in range of $350 billion following investment deal with Microsoft, Nvidia</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F11%2F18%2Fanthropic-ai-azure-microsoft-nvidia.html%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/MllM8NXLvBiRUPjIdce28_ndOGiV7XQ4HQPFf8aFeN8=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F11%2F18%2Fanthropic-ai-azure-microsoft-nvidia.html%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/MllM8NXLvBiRUPjIdce28_ndOGiV7XQ4HQPFf8aFeN8=432</guid>
+    </item>
+    <item>
+      <title>Google announces Gemini 3 as battle with OpenAI intensifies</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F11%2F18%2Fgoogle-announces-gemini-3-as-battle-with-openai-intensifies.html%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/82iPTrpkNVz8MmjxxsChKvDILhB55xKgNHLS9sAXeNQ=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F11%2F18%2Fgoogle-announces-gemini-3-as-battle-with-openai-intensifies.html%3Futm_source=tldrnewsletter/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/82iPTrpkNVz8MmjxxsChKvDILhB55xKgNHLS9sAXeNQ=432</guid>
+    </item>
+    <item>
+      <title>Workshop: Build an MCP-powered ChatGPT app with OpenAI &amp; Render</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fforms.gle%2F37APVEwtphgqUZmv8/4/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/8l2UuoR9fRghVKaw4JQ3rNJ0SYf0nbUH1RW1XQaK8-U=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fforms.gle%2F37APVEwtphgqUZmv8/4/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/8l2UuoR9fRghVKaw4JQ3rNJ0SYf0nbUH1RW1XQaK8-U=432</guid>
+    </item>
+    <item>
+      <title>Workshop: Build an MCP-powered ChatGPT app with OpenAI &amp; Render</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fforms.gle%2F37APVEwtphgqUZmv8/3/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/lOWdgfdSEWrQ4_J1YKvjsXOXsw8cjQdfKJJ_v-978DA=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fforms.gle%2F37APVEwtphgqUZmv8/3/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/lOWdgfdSEWrQ4_J1YKvjsXOXsw8cjQdfKJJ_v-978DA=432</guid>
+    </item>
+    <item>
+      <title>Workshop: Build an MCP-powered ChatGPT app with OpenAI &amp; Render</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fforms.gle%2F37APVEwtphgqUZmv8/2/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/NI6mvq0m8KgoL5Diai6qeXmDJMxZPg5Ny7Qk8VEsXlY=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fforms.gle%2F37APVEwtphgqUZmv8/2/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/NI6mvq0m8KgoL5Diai6qeXmDJMxZPg5Ny7Qk8VEsXlY=432</guid>
+    </item>
+    <item>
+      <title>Workshop: Build an MCP-powered ChatGPT app with OpenAI &amp; Render</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fforms.gle%2F37APVEwtphgqUZmv8/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/R-0g-xF_QCT8hQJtHU2J9Ec_Zit0nE0E2gWNjkzwCNw=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fforms.gle%2F37APVEwtphgqUZmv8/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/R-0g-xF_QCT8hQJtHU2J9Ec_Zit0nE0E2gWNjkzwCNw=432</guid>
+    </item>
+    <item>
+      <title>TLDR</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=ed06a6e6-c51c-11f0-bee0-b960bb3f78c1%26pt=campaign%26t=1763551553%26s=378875ecfc9ebd245462c76eefbdf74b4e9f56b863ed343b578d11f4373019b0/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/qaH8h4CTch4xQUgo1D9tF9OYb9OzTUi-UuobdLB8Slc=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=ed06a6e6-c51c-11f0-bee0-b960bb3f78c1%26pt=campaign%26t=1763551553%26s=378875ecfc9ebd245462c76eefbdf74b4e9f56b863ed343b578d11f4373019b0/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/qaH8h4CTch4xQUgo1D9tF9OYb9OzTUi-UuobdLB8Slc=432</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/KFTqvwlxvdICIpqQ01R_1dRkY3bPrl47rr7LA5kTLXc=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/KFTqvwlxvdICIpqQ01R_1dRkY3bPrl47rr7LA5kTLXc=432</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/R41csZ3TXzCo2FQDBPhcahMih8EZLfBWs4QCo7v0nQM=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🤖, AWS flat rate plans 👨‍💻, entry-level hiring slows 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/R41csZ3TXzCo2FQDBPhcahMih8EZLfBWs4QCo7v0nQM=432</guid>
+    </item>
+    <item>
+      <title>borgrodrick · Kill the Newsletter!</title>
+      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=7fd1bd3c-c4fd-11f0-b360-d13dcc116ec3%26pt=campaign%26pv=4%26spa=1763553680%26t=1763554835%26s=72e2310be7cb546064e2f9f366aab1dd36dff1ae50100b583def55518702df19/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/2QMVL5fJLibNMV2Wq9AWvmJwRPcc7YYzWrLubQIYE6Y=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=7fd1bd3c-c4fd-11f0-b360-d13dcc116ec3%26pt=campaign%26pv=4%26spa=1763553680%26t=1763554835%26s=72e2310be7cb546064e2f9f366aab1dd36dff1ae50100b583def55518702df19/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/2QMVL5fJLibNMV2Wq9AWvmJwRPcc7YYzWrLubQIYE6Y=432</guid>
+    </item>
+    <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/QksKBpPjWgw2mKIxmIF92iSslhIXV6iPs0EcjrMQzDQ=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/QksKBpPjWgw2mKIxmIF92iSslhIXV6iPs0EcjrMQzDQ=432</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/UJ3jJmGbp-Fs8RLf_DRw9ubA1dt3S1CTTdd2KDIr5g8=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/UJ3jJmGbp-Fs8RLf_DRw9ubA1dt3S1CTTdd2KDIr5g8=432</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/4Nmm7yA5asjuOsm-cx0RnZKojoTfDo7-bTLPSl5yrD8=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/4Nmm7yA5asjuOsm-cx0RnZKojoTfDo7-bTLPSl5yrD8=432</guid>
+    </item>
+    <item>
+      <title>TLDR Web Dev | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/PFpNUXhyCQ0gvJMUkgm9x-meny_7jNDp_iEUoywtpbg=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/PFpNUXhyCQ0gvJMUkgm9x-meny_7jNDp_iEUoywtpbg=432</guid>
+    </item>
+    <item>
+      <title>Toasts | Primer</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fprimer.style%2Faccessibility%2Ftoasts%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/D1CTJlbhnMLNlFNBt3SJgK839y0D-JV7lIr4jX8Jh8U=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fprimer.style%2Faccessibility%2Ftoasts%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/D1CTJlbhnMLNlFNBt3SJgK839y0D-JV7lIr4jX8Jh8U=432</guid>
+    </item>
+    <item>
+      <title>GitHub - twerkmeister/tokenflood: Tokenflood is a load testing framework for simulating arbitary loads on instruction-tuned LLMs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Ftwerkmeister%2Ftokenflood%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/l2Pbi5IXPwDC7sLcxoWJobO46LwVCmLSnnfX9ah_bxU=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Ftwerkmeister%2Ftokenflood%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/l2Pbi5IXPwDC7sLcxoWJobO46LwVCmLSnnfX9ah_bxU=432</guid>
+    </item>
+    <item>
+      <title>Trying out Gemini 3 Pro with audio transcription and a new pelican benchmark</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsimonwillison.net%2F2025%2FNov%2F18%2Fgemini-3%2F%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/430YSPqnr_8sjMq5Kbzj_ULKu5D0tN6AP6k42oznStQ=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsimonwillison.net%2F2025%2FNov%2F18%2Fgemini-3%2F%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/430YSPqnr_8sjMq5Kbzj_ULKu5D0tN6AP6k42oznStQ=432</guid>
+    </item>
+    <item>
+      <title>DOOMed to Fail: A Horror Story With Rebecca Heineman (Burger Becky) - CoRecursive Podcast</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcorecursive.com%2Fdoomed-to-fail-with-burger-becky%2F%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/H_Zm4N2ZfrUCcewF5shAa-Pm0vjPHDOsO98MNhbji2c=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcorecursive.com%2Fdoomed-to-fail-with-burger-becky%2F%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/H_Zm4N2ZfrUCcewF5shAa-Pm0vjPHDOsO98MNhbji2c=432</guid>
+    </item>
+    <item>
+      <title>How quake.exe got its TCP/IP stack</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffabiensanglard.net%2Fquake_chunnel%2Findex.html%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/zbECjg3G_mIWN1ExI_gWvCfZFFvGVE2r53tJ9o8sO-E=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffabiensanglard.net%2Fquake_chunnel%2Findex.html%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/zbECjg3G_mIWN1ExI_gWvCfZFFvGVE2r53tJ9o8sO-E=432</guid>
+    </item>
+    <item>
+      <title>AI is writing your code, but who’s reviewing it? - TechTalks</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbdtechtalks.com%2F2025%2F11%2F17%2Fai-is-writing-your-code-but-whos-reviewing-it%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/yuykN7hB50hbr5NvAuOUQRDtrxJABboTrnWvl0hzLXA=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbdtechtalks.com%2F2025%2F11%2F17%2Fai-is-writing-your-code-but-whos-reviewing-it%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/yuykN7hB50hbr5NvAuOUQRDtrxJABboTrnWvl0hzLXA=432</guid>
+    </item>
+    <item>
+      <title>GitHub - coder/guts: Guts is a code generator that converts Golang types to Typescript. Useful for keeping types in sync between the front and backend.</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fcoder%2Fguts%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/tPZMaalPbxlBunY2pSo7LIU152pKJQZQXtIrN1vrq7Q=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fcoder%2Fguts%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/tPZMaalPbxlBunY2pSo7LIU152pKJQZQXtIrN1vrq7Q=432</guid>
+    </item>
+    <item>
+      <title>Google Antigravity</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fantigravity.google%2F%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/fzg2kEAxvo4kC25cjV1aIYqTrEhMR13hmnINbMJhFCY=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fantigravity.google%2F%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/fzg2kEAxvo4kC25cjV1aIYqTrEhMR13hmnINbMJhFCY=432</guid>
+    </item>
+    <item>
+      <title>Gemini 3: Introducing the latest Gemini AI model from Google</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.google%2Fproducts%2Fgemini%2Fgemini-3%2F%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/XM_-VjmorirOqXtFl1O4SBxw8g-EXipLrJI2ppo_bEY=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.google%2Fproducts%2Fgemini%2Fgemini-3%2F%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/XM_-VjmorirOqXtFl1O4SBxw8g-EXipLrJI2ppo_bEY=432</guid>
+    </item>
+    <item>
+      <title>Introducing Client Trust: Clerk’s free credential stuffing killer</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.clerk.com%2FuNZ2hzG/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/Sbt4mBKSehH3dqKTImhjunJksjLZzNbdnj4o0EEDRIw=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.clerk.com%2FuNZ2hzG/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/Sbt4mBKSehH3dqKTImhjunJksjLZzNbdnj4o0EEDRIw=432</guid>
+    </item>
+    <item>
+      <title>Introducing Client Trust: Clerk’s free credential stuffing killer</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.clerk.com%2FuNZ2hzG%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/xCydp3Lub_Y0kn3FPvWL-F90B2x1zMMyTbav5rV39DE=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgo.clerk.com%2FuNZ2hzG%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/xCydp3Lub_Y0kn3FPvWL-F90B2x1zMMyTbav5rV39DE=432</guid>
+    </item>
+    <item>
+      <title>Do Not Put Your Site Behind Cloudflare if You Don't Need To - Rik's Weblog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhuijzer.xyz%2Fposts%2F123%2Fdo-not-put-your-site-behind-cloudflare-if-you-dont%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/NxB-UZxHBPLy3lBRj34pu8XdSt5SmTQF0bWyvPS2WcE=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhuijzer.xyz%2Fposts%2F123%2Fdo-not-put-your-site-behind-cloudflare-if-you-dont%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/NxB-UZxHBPLy3lBRj34pu8XdSt5SmTQF0bWyvPS2WcE=432</guid>
+    </item>
+    <item>
+      <title>Programming principles for self taught front-end developers - Piccalilli</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fpiccalil.li%2Fblog%2Fprogramming-principles-for-self-taught-front-end-developers%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/vxdKZ3RbF91E-3gMNXgs9-RGT-vBMRL8NM7fwnlJiQk=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fpiccalil.li%2Fblog%2Fprogramming-principles-for-self-taught-front-end-developers%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/vxdKZ3RbF91E-3gMNXgs9-RGT-vBMRL8NM7fwnlJiQk=432</guid>
+    </item>
+    <item>
+      <title>High-Performance Syntax Highlighting with CSS Highlights API</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fpavi2410.com%2Fblog%2Fhigh-performance-syntax-highlighting-with-css-highlights-api%2F%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/nxNdkpYjXGpRe4eDaPaLRgWKF3cywDzi6uumFD3caGg=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fpavi2410.com%2Fblog%2Fhigh-performance-syntax-highlighting-with-css-highlights-api%2F%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/nxNdkpYjXGpRe4eDaPaLRgWKF3cywDzi6uumFD3caGg=432</guid>
+    </item>
+    <item>
+      <title>Experiment: making TypeScript immutable-by-default</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fevanhahn.com%2Ftypescript-immutability-experiment%2F%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/efHmrX0VJ_JyFyiYyvnuZmLAee4u_6HFXl3X8hw3K00=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fevanhahn.com%2Ftypescript-immutability-experiment%2F%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/efHmrX0VJ_JyFyiYyvnuZmLAee4u_6HFXl3X8hw3K00=432</guid>
+    </item>
+    <item>
+      <title>Cloudflare outage on November 18, 2025</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.cloudflare.com%2F18-november-2025-outage%2F%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/tr-mNkD7AVfGkUTBg3Igdwzkft-otkLZ76XKiTOC0VA=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.cloudflare.com%2F18-november-2025-outage%2F%3Futm_source=tldrwebdev/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/tr-mNkD7AVfGkUTBg3Igdwzkft-otkLZ76XKiTOC0VA=432</guid>
+    </item>
+    <item>
+      <title>Upsun</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fauth.upsun.com%2Fregister%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=prod-clone-in-45s/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/LQMkcy8VSaqlnTOh433_OYQ9I8piXRKy-Gd-_Bo1se4=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fauth.upsun.com%2Fregister%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=prod-clone-in-45s/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/LQMkcy8VSaqlnTOh433_OYQ9I8piXRKy-Gd-_Bo1se4=432</guid>
+    </item>
+    <item>
+      <title>- YouTube</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.youtube.com%2Fwatch%3Fv=nCmv9D44Ne8/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/TCGHlVY-3GRuR4HTNIz2OAYWBdpukTY-44vb82RnQgs=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.youtube.com%2Fwatch%3Fv=nCmv9D44Ne8/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/TCGHlVY-3GRuR4HTNIz2OAYWBdpukTY-44vb82RnQgs=432</guid>
+    </item>
+    <item>
+      <title>Production clone in 45s with full data and services | Upsun</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fupsun.com%2Fblog%2Fproduction-clone-with-data-files-services-everything%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=prod-clone-in-45s/3/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/0MOEFAxBFT1ADT3JgHT2Wiq8wMCCqMVLj_IsMKRBDhw=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fupsun.com%2Fblog%2Fproduction-clone-with-data-files-services-everything%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=prod-clone-in-45s/3/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/0MOEFAxBFT1ADT3JgHT2Wiq8wMCCqMVLj_IsMKRBDhw=432</guid>
+    </item>
+    <item>
+      <title>Production clone in 45s with full data and services | Upsun</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fupsun.com%2Fblog%2Fproduction-clone-with-data-files-services-everything%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=prod-clone-in-45s/2/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/48JrItlsA2zZ5t4kZWUrydxeCDUst_3uAYgbWTz4Arg=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fupsun.com%2Fblog%2Fproduction-clone-with-data-files-services-everything%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=prod-clone-in-45s/2/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/48JrItlsA2zZ5t4kZWUrydxeCDUst_3uAYgbWTz4Arg=432</guid>
+    </item>
+    <item>
+      <title>Production clone in 45s with full data and services | Upsun</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fupsun.com%2Fblog%2Fproduction-clone-with-data-files-services-everything%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=prod-clone-in-45s/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/CupvhotMxj6LRb9blwpL4yYrxMsGW054hByLpCmLnpw=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fupsun.com%2Fblog%2Fproduction-clone-with-data-files-services-everything%2F%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=prod-clone-in-45s/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/CupvhotMxj6LRb9blwpL4yYrxMsGW054hByLpCmLnpw=432</guid>
+    </item>
+    <item>
+      <title>TLDR Dev</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=7fd1bd3c-c4fd-11f0-b360-d13dcc116ec3%26pt=campaign%26t=1763554835%26s=fbedae9a4baa25abf314400ac2141648209c2108541415278dcd56e482272b6c/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/j5KEBF_6QMLhKU93dA8WvN8nRb01SmGB2paOTbNpTrY=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=7fd1bd3c-c4fd-11f0-b360-d13dcc116ec3%26pt=campaign%26t=1763554835%26s=fbedae9a4baa25abf314400ac2141648209c2108541415278dcd56e482272b6c/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/j5KEBF_6QMLhKU93dA8WvN8nRb01SmGB2paOTbNpTrY=432</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/XscCq6Yaj8GHz1X8n2t-zeuHE_xFxVLQ1Vz9NQeS2tc=432</link>
+      <description>Link found in newsletter: 'Gemini 3 🚀, Cloudflare outage explained 📉, Google Antigravity 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019a9c0f3b30-c703795a-e208-41ad-b82f-2d2f8e591488-000000/XscCq6Yaj8GHz1X8n2t-zeuHE_xFxVLQ1Vz9NQeS2tc=432</guid>
     </item>
   </channel>
 </rss>
