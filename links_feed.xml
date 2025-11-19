@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 19 Nov 2025 01:03:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 06:20:36 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=9b8cf018-c06c-11f0-9ee2-f1855f5a7561%26pt=campaign%26pv=4%26spa=1763035287%26t=1763036214%26s=17063dfae13a73414bbcf8be84e20ea70205c8dc260348dae1faa9e10b72c9f6/1/0100019a7d25b4e1-b74f9a66-522b-4add-bc37-202428986fff-000000/ye7nJ1zJqi9a3FBOLkIoDNfr2IeObVMgujvzbUCFf-g=431</link>
@@ -217,6 +217,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.businessinsider.com%2Fbanking-jobs-affected-by-ai-front-middle-back-office-2025-11%3Futm_source=tldrfintech/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/hwR6DV1ufSAQQuNqREWBtgb7jtGMFqCuq5uKS8Yhveg=431</link>
       <description>Link found in newsletter: 'Bitcoin lightning for remittances 💰, Settlement over interchange fees 🤝 x402 Payments Protocol 💲'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.businessinsider.com%2Fbanking-jobs-affected-by-ai-front-middle-back-office-2025-11%3Futm_source=tldrfintech/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/hwR6DV1ufSAQQuNqREWBtgb7jtGMFqCuq5uKS8Yhveg=431</guid>
+    </item>
+    <item>
+      <title>SoFi Bank first in US to use Bitcoin Lightning for remittances</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblockchaintechnology-news.com%2Fnews%2Fsofi-becomes-first-us-bank-to-use-bitcoin-lightning-for-remittances%2F%3Futm_source=tldrfintech/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/GzPx9uyfDFmbPuKWlg8oRlKEqRs1FpgcM4apJy0rL-4=431</link>
+      <description>Link found in newsletter: 'Bitcoin lightning for remittances 💰, Settlement over interchange fees 🤝 x402 Payments Protocol 💲'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblockchaintechnology-news.com%2Fnews%2Fsofi-becomes-first-us-bank-to-use-bitcoin-lightning-for-remittances%2F%3Futm_source=tldrfintech/1/0100019a7d8c04e9-957fc452-7232-477a-841e-ba98575d7032-000000/GzPx9uyfDFmbPuKWlg8oRlKEqRs1FpgcM4apJy0rL-4=431</guid>
     </item>
     <item>
       <title>Improve Customer Centricity and Unlock Lifecycle Visibility with PSA Solutions - A Forrester thought leadership paper</title>
@@ -1235,6 +1241,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/j35I4HliuhkIgbanQji9HT_baQAXz4tshyyLwrAH62Y=431</link>
       <description>Link found in newsletter: 'JPM Coin 🪙, PayPal UK rewards 🎁, Intuit's AI agents 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/j35I4HliuhkIgbanQji9HT_baQAXz4tshyyLwrAH62Y=431</guid>
+    </item>
+    <item>
+      <title>Matt Cheung - Ceviche | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/1g30nAoA095nzob9TU-IgefZb8hC-y7R9m70Wjt_yEY=431</link>
+      <description>Link found in newsletter: 'JPM Coin 🪙, PayPal UK rewards 🎁, Intuit's AI agents 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/1g30nAoA095nzob9TU-IgefZb8hC-y7R9m70Wjt_yEY=431</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
