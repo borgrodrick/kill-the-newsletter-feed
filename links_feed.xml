@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Nov 2025 18:20:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Nov 2025 01:03:18 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=8e0ed72c-c37c-11f0-b76d-89d261ee23b3%26pt=campaign%26pv=4%26spa=1763380866%26t=1763382039%26s=a7f895d6824e6dcfc6205820ef903cd224330e665a6723ab7fce0dc693d97ddb/1/0100019a91c295c9-16292dba-a93b-455f-8cc9-a63046fceeba-000000/u5f-SS1Vu_8GLzVSNx5P0HBGmA6dH1uswhM_GiuDqN4=431</link>
@@ -218,12 +218,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/Aj_hceqbxRNzM8vrjBYym_svrnj4PjoPg-aDQcHewaM=431</guid>
     </item>
     <item>
-      <title>FDIC Considers Guidance Over Tokenized Deposit Insurance - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FuoX9TX/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/22D92ZTznsMtpbBX5FdhGyF45z5UR3RcQPSML6o6mdQ=431</link>
-      <description>Link found in newsletter: 'JPM Coin 🪙, PayPal UK rewards 🎁, Intuit's AI agents 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FuoX9TX/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/22D92ZTznsMtpbBX5FdhGyF45z5UR3RcQPSML6o6mdQ=431</guid>
-    </item>
-    <item>
       <title>Thread by @pitdesi on Thread Reader App – Thread Reader App</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F1981381724702724256.html%3Futm_source=tldrfintech/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/fL4xski9LbWQ97UHBPAwnbX90Tmpl7Xw0kzhh9BVhFg=431</link>
       <description>Link found in newsletter: 'JPM Coin 🪙, PayPal UK rewards 🎁, Intuit's AI agents 🤖'</description>
@@ -284,7 +278,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107936%2Fpaypal-relaunches-in-the-uk-with-debit-and-credit-cards-plus-rewards%3Futm_source=tldrfintech/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/l0jQPtZcPl2P6m9FuhbTNjVSqYYMBdz7B5LkjTNBI5s=431</guid>
     </item>
     <item>
-      <title>Custom Agent Builder</title>
+      <title>Get a Free Custom Voice Agent | Enterprise-Grade AI for Calls</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbland.ai%2Fcustomagent%3Futm_source=TLDRfintech%26utm_medium=newsletter%26utm_campaign=nov17%26utm_id=TLDRfintechnov17/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/3dg4rAJWLdZOM3WevQo2fCpDbAyoULfKx1lapCUpqI4=431</link>
       <description>Link found in newsletter: 'JPM Coin 🪙, PayPal UK rewards 🎁, Intuit's AI agents 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbland.ai%2Fcustomagent%3Futm_source=TLDRfintech%26utm_medium=newsletter%26utm_campaign=nov17%26utm_id=TLDRfintechnov17/1/0100019a922ec163-0e1e378e-aef1-442c-b596-5f8d0aa682f9-000000/3dg4rAJWLdZOM3WevQo2fCpDbAyoULfKx1lapCUpqI4=431</guid>
@@ -378,6 +372,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fytianzhu.github.io%2FGenerative-Adversarial-Distillation%2F%3Futm_source=tldrai/1/0100019a92342054-f720cdde-19ce-4bab-85c3-d7b8af5f9cf1-000000/ENY053Z4dhDBrjhrhUCfFhck64bkE1JLl-peNoTi9u8=431</link>
       <description>Link found in newsletter: 'Gemini 3 this week 🤖, GPT-5.1 AMA 💬, Kosmos AI Scientist 🧑‍🔬'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fytianzhu.github.io%2FGenerative-Adversarial-Distillation%2F%3Futm_source=tldrai/1/0100019a92342054-f720cdde-19ce-4bab-85c3-d7b8af5f9cf1-000000/ENY053Z4dhDBrjhrhUCfFhck64bkE1JLl-peNoTi9u8=431</guid>
+    </item>
+    <item>
+      <title>GitHub - ByteDance-Seed/Depth-Anything-3: Depth Anything 3</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FByteDance-Seed%2Fdepth-anything-3%3Futm_source=tldrai/1/0100019a92342054-f720cdde-19ce-4bab-85c3-d7b8af5f9cf1-000000/NwVWAvInuenO34eRoyqD843xvAkaXT6aQR4hMI9hQ2w=431</link>
+      <description>Link found in newsletter: 'Gemini 3 this week 🤖, GPT-5.1 AMA 💬, Kosmos AI Scientist 🧑‍🔬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FByteDance-Seed%2Fdepth-anything-3%3Futm_source=tldrai/1/0100019a92342054-f720cdde-19ce-4bab-85c3-d7b8af5f9cf1-000000/NwVWAvInuenO34eRoyqD843xvAkaXT6aQR4hMI9hQ2w=431</guid>
     </item>
     <item>
       <title>Context Management in Amp - Amp</title>
@@ -704,6 +704,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/-Z5E6a6jFjuRkOyR2WdF_tkt1tqG-VDmC6vtUaIW0Uo=431</guid>
     </item>
     <item>
+      <title>GitHub - felipenlunkes/run-ancient-unix: Easily run old versions of UNIX for PDP-11 on modern hardware</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Ffelipenlunkes%2Frun-ancient-unix%3Futm_source=tldrwebdev/1/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/zO01MfJX3_oag9bQObCWmon9h4sUik2h06-8vJn9GOw=431</link>
+      <description>Link found in newsletter: 'Claude Code in a loop 🔂, dodging the AWS outage ⏭️, escaping Linux networking 📶'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Ffelipenlunkes%2Frun-ancient-unix%3Futm_source=tldrwebdev/1/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/zO01MfJX3_oag9bQObCWmon9h4sUik2h06-8vJn9GOw=431</guid>
+    </item>
+    <item>
       <title>Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fmicrosoft%2Fmicrosoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack%2F%3Futm_source=tldrwebdev/1/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/uW0MxRR7Yk1z3Deu9zfHmeL-kB-pcbCdLS9zqFwXL9o=431</link>
       <description>Link found in newsletter: 'Claude Code in a loop 🔂, dodging the AWS outage ⏭️, escaping Linux networking 📶'</description>
@@ -738,6 +744,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fprincejs.vercel.app%2F%3Futm_source=tldrwebdev/1/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/PyYJiofNbQKbKD3m9QIFiEHiJo1yn6mUqO5-hqy1uRY=431</link>
       <description>Link found in newsletter: 'Claude Code in a loop 🔂, dodging the AWS outage ⏭️, escaping Linux networking 📶'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fprincejs.vercel.app%2F%3Futm_source=tldrwebdev/1/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/PyYJiofNbQKbKD3m9QIFiEHiJo1yn6mUqO5-hqy1uRY=431</guid>
+    </item>
+    <item>
+      <title>GitHub - kaushiksrini/parqeye: Peek inside Parquet files right from your terminal</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fkaushiksrini%2Fparqeye%3Futm_source=tldrwebdev/1/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/cAU-gWfGNgmUj5jbLv6WQRJ23BOP6C3FbzQOg4a99D8=431</link>
+      <description>Link found in newsletter: 'Claude Code in a loop 🔂, dodging the AWS outage ⏭️, escaping Linux networking 📶'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fkaushiksrini%2Fparqeye%3Futm_source=tldrwebdev/1/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/cAU-gWfGNgmUj5jbLv6WQRJ23BOP6C3FbzQOg4a99D8=431</guid>
     </item>
     <item>
       <title>GitHub - AnandChowdhary/continuous-claude: 🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging</title>
@@ -786,6 +798,30 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fauthress.io%2Fknowledge-base%2Farticles%2F2025%2F11%2F01%2Fhow-we-prevent-aws-downtime-impacts%3Futm_source=tldrwebdev/1/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/ddE9w9mhreDn_IR-X7gpyuxSG0B1rWhFXZGNk1cmOPM=431</link>
       <description>Link found in newsletter: 'Claude Code in a loop 🔂, dodging the AWS outage ⏭️, escaping Linux networking 📶'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fauthress.io%2Fknowledge-base%2Farticles%2F2025%2F11%2F01%2Fhow-we-prevent-aws-downtime-impacts%3Futm_source=tldrwebdev/1/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/ddE9w9mhreDn_IR-X7gpyuxSG0B1rWhFXZGNk1cmOPM=431</guid>
+    </item>
+    <item>
+      <title>Domain Reseller Program</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.name.com%2Fnameapi%3Futm_source=tldr-webdev%26utm_medium=newsletter-p2%26utm_campaign=name_reseller/4/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/6_6ZvJMT7MqBnRWhbSOd_e49Qgd8G2qvTuyX3UPVAEE=431</link>
+      <description>Link found in newsletter: 'Claude Code in a loop 🔂, dodging the AWS outage ⏭️, escaping Linux networking 📶'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.name.com%2Fnameapi%3Futm_source=tldr-webdev%26utm_medium=newsletter-p2%26utm_campaign=name_reseller/4/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/6_6ZvJMT7MqBnRWhbSOd_e49Qgd8G2qvTuyX3UPVAEE=431</guid>
+    </item>
+    <item>
+      <title>Domain Reseller Program</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.name.com%2Fnameapi%3Futm_source=tldr-webdev%26utm_medium=newsletter-p2%26utm_campaign=name_reseller/3/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/o7LG676TBpzw-u8aBOXPR4iv3_5HW4ji3E9Ja9d6Zp0=431</link>
+      <description>Link found in newsletter: 'Claude Code in a loop 🔂, dodging the AWS outage ⏭️, escaping Linux networking 📶'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.name.com%2Fnameapi%3Futm_source=tldr-webdev%26utm_medium=newsletter-p2%26utm_campaign=name_reseller/3/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/o7LG676TBpzw-u8aBOXPR4iv3_5HW4ji3E9Ja9d6Zp0=431</guid>
+    </item>
+    <item>
+      <title>Domain Reseller Program</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.name.com%2Fnameapi%3Futm_source=tldr-webdev%26utm_medium=newsletter-p2%26utm_campaign=name_reseller/2/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/3AJ_dPpWmp2nTUTnlqdYpX6rH1G6sInzybLTr51ICGs=431</link>
+      <description>Link found in newsletter: 'Claude Code in a loop 🔂, dodging the AWS outage ⏭️, escaping Linux networking 📶'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.name.com%2Fnameapi%3Futm_source=tldr-webdev%26utm_medium=newsletter-p2%26utm_campaign=name_reseller/2/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/3AJ_dPpWmp2nTUTnlqdYpX6rH1G6sInzybLTr51ICGs=431</guid>
+    </item>
+    <item>
+      <title>Domain Reseller Program</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.name.com%2Fnameapi%3Futm_source=tldr-webdev%26utm_medium=newsletter-p2%26utm_campaign=name_reseller/1/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/OTZtI7tkzRwCViUwGWQN7B-ju_sqrPIx14AGZ1Ed3jE=431</link>
+      <description>Link found in newsletter: 'Claude Code in a loop 🔂, dodging the AWS outage ⏭️, escaping Linux networking 📶'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.name.com%2Fnameapi%3Futm_source=tldr-webdev%26utm_medium=newsletter-p2%26utm_campaign=name_reseller/1/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/OTZtI7tkzRwCViUwGWQN7B-ju_sqrPIx14AGZ1Ed3jE=431</guid>
     </item>
     <item>
       <title>TLDR Dev</title>
@@ -1562,12 +1598,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.a16z.news%2Fp%2Fbitter-economics%3Futm_source=tldrnewsletter/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/kOEURFK6KO4egJurKTdCE1mjDmHbmaHys7LmsLiEh1E=432</guid>
     </item>
     <item>
-      <title>Netflix’s Warner Bros. Bid Would Include Releasing Movies In Theaters - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FRnFb9X/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/HvDzPzyfA4eXCdom2aveyLkLot4oOXrC4or1OxOL6e0=432</link>
-      <description>Link found in newsletter: 'Nvidia crushes earnings 📈, Apple's WiFi chip 🌐, GPT-5.1-Codex-Max 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FRnFb9X/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/HvDzPzyfA4eXCdom2aveyLkLot4oOXrC4or1OxOL6e0=432</guid>
-    </item>
-    <item>
       <title>GitHub - toddmaustin/mojo-v: Mojo-V: A RISC-V instruction set extension for privacy-oriented programming. Mojo-V allows programmers to write software that computes on data that no software or person can see, except the data owner. Mojo-V implements this novel form of secret computation using simple extensions to a RISC-V CPU.</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Ftoddmaustin%2Fmojo-v%3Futm_source=tldrnewsletter/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/yb0RBD_4feM1dXwhzDepUcG72nvIzcjydYYfswK5mhY=432</link>
       <description>Link found in newsletter: 'Nvidia crushes earnings 📈, Apple's WiFi chip 🌐, GPT-5.1-Codex-Max 👨‍💻'</description>
@@ -1928,7 +1958,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F107998%2Fmastercard-brings-agent-pay-to-the-uae%3Futm_source=tldrfintech/1/0100019aa199fdde-992e0fbb-2de6-40b8-8630-e08c3bd027a3-000000/bA2U0ioq-4jjWxCJi_ifqJ4W_AQPvTtmZ2ZQ9uKZcZs=432</guid>
     </item>
     <item>
-      <title>Custom Agent Builder</title>
+      <title>Get a Free Custom Voice Agent | Enterprise-Grade AI for Calls</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbland.ai%2Fcustomagent%3Futm_source=TLDRfintech%26utm_medium=newsletter%26utm_campaign=nov20%26utm_id=TLDRfintechnov20/1/0100019aa199fdde-992e0fbb-2de6-40b8-8630-e08c3bd027a3-000000/a9pMbnczYmW7bNKTvNdnA72K7kN896_HSnV1m08etZo=432</link>
       <description>Link found in newsletter: 'Ramp hits $32B 💰, Intuit's $100M+ deal with OpenAI 🤝, Klarna's first billion dollar quarter 🚀'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbland.ai%2Fcustomagent%3Futm_source=TLDRfintech%26utm_medium=newsletter%26utm_campaign=nov20%26utm_id=TLDRfintechnov20/1/0100019aa199fdde-992e0fbb-2de6-40b8-8630-e08c3bd027a3-000000/a9pMbnczYmW7bNKTvNdnA72K7kN896_HSnV1m08etZo=432</guid>
