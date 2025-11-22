@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Nov 2025 12:23:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 18:17:57 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=6bbe1ba2-c3b7-11f0-906e-c9f6964114b2%26pt=campaign%26pv=4%26spa=1763388089%26t=1763389480%26s=c137f2ad2eaba8ee5f72511656ee79955e0ed398978d5d2b6ae0049f7e56f6ea/1/0100019a92342054-f720cdde-19ce-4bab-85c3-d7b8af5f9cf1-000000/K13vj8IxI4UmZ9ru4yx8KsHpN83USI3hzlCGpC4SmcY=431</link>
@@ -1934,12 +1934,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1W1XARzS8KTI6YWhYNPlryWE7j2mY8ntSRLz1O8NC53E%2Fedit%3Ftab=t.0%26utm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/AoHCTm9VnHQA6q6pp-6vfSkmAio7jYyibbyyhwfrhSI=432</guid>
     </item>
     <item>
-      <title>Tesla deploys its first Superchargers owned by 3rd-party in the US | Electrek</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2025%2F11%2F20%2Ftesla-deploys-first-superchargers-owned-by-3rd-party-us%2F%3Futm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/uLzPmhcmltZRUxi0G7VISSJVZez64necxhumQxuIsAU=432</link>
-      <description>Link found in newsletter: 'Android + AirDrop 📱, Nano Banana Pro 🍌, writing better agents.md 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2025%2F11%2F20%2Ftesla-deploys-first-superchargers-owned-by-3rd-party-us%2F%3Futm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/uLzPmhcmltZRUxi0G7VISSJVZez64necxhumQxuIsAU=432</guid>
-    </item>
-    <item>
       <title>ChatGPT launches group chats globally | TechCrunch</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F11%2F20%2Fchatgpt-launches-group-chats-globally%2F%3Futm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/bnhDeqe6zUZFfpPrEII7dvYuDcSv4CoBOKML2TK2vaU=432</link>
       <description>Link found in newsletter: 'Android + AirDrop 📱, Nano Banana Pro 🍌, writing better agents.md 👨‍💻'</description>
@@ -2022,6 +2016,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F11%2F20%2Fgoogle-nano-banana-pro-gemini-3.html%3Futm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/HzG7W2L_aPNYltlzZ0YBl1gUeUecuplwDgqm_cwAnms=432</link>
       <description>Link found in newsletter: 'Android + AirDrop 📱, Nano Banana Pro 🍌, writing better agents.md 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F11%2F20%2Fgoogle-nano-banana-pro-gemini-3.html%3Futm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/HzG7W2L_aPNYltlzZ0YBl1gUeUecuplwDgqm_cwAnms=432</guid>
+    </item>
+    <item>
+      <title>Android Quick Share now works with AirDrop on iPhone, starting on Pixel 10</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5google.com%2F2025%2F11%2F20%2Fandroid-quick-share-airdrop-pixel-10%2F%3Futm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/ud89w1UrTv0ZHqjErXJzrsrtUiTEgDYeya-YehYudbo=432</link>
+      <description>Link found in newsletter: 'Android + AirDrop 📱, Nano Banana Pro 🍌, writing better agents.md 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5google.com%2F2025%2F11%2F20%2Fandroid-quick-share-airdrop-pixel-10%2F%3Futm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/ud89w1UrTv0ZHqjErXJzrsrtUiTEgDYeya-YehYudbo=432</guid>
     </item>
     <item>
       <title>Plans &amp; Pricing | Google Developer Program  |  Google for Developers</title>
@@ -2342,7 +2342,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftomtunguz.com%2Fgemini-3-proves-pretraining-scaling-laws-intact%2F%3Futm_source=tldrai/1/0100019aa6cc0773-967db563-56ef-43b1-ab66-95326552e008-000000/2byzowErWHxnJ8Ri7kWnmIf3nGDLFcLs-XhvmIN-nXQ=432</guid>
     </item>
     <item>
-      <title>Gemini 3 Pro Image – Nano Banana Pro - 
+      <title>Gemini 3 Pro Image (Nano Banana Pro) - 
         Google DeepMind</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdeepmind.google%2Fmodels%2Fgemini-image%2Fpro%2F%3Futm_source=tldrai/1/0100019aa6cc0773-967db563-56ef-43b1-ab66-95326552e008-000000/KqN0AumgmulkSuACIcoJfQcz2DD0_YMgVxuRP5MYzJE=432</link>
       <description>Link found in newsletter: 'OpenAI can’t beat Google 🤖, Gemini 3 Pro Image 🖼️, scaling laws intact 📈'</description>
