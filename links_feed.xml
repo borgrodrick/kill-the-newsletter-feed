@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 22 Nov 2025 18:17:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Nov 2025 01:12:51 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=6bbe1ba2-c3b7-11f0-906e-c9f6964114b2%26pt=campaign%26pv=4%26spa=1763388089%26t=1763389480%26s=c137f2ad2eaba8ee5f72511656ee79955e0ed398978d5d2b6ae0049f7e56f6ea/1/0100019a92342054-f720cdde-19ce-4bab-85c3-d7b8af5f9cf1-000000/K13vj8IxI4UmZ9ru4yx8KsHpN83USI3hzlCGpC4SmcY=431</link>
@@ -1292,12 +1292,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.a16z.news%2Fp%2Fbitter-economics%3Futm_source=tldrnewsletter/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/kOEURFK6KO4egJurKTdCE1mjDmHbmaHys7LmsLiEh1E=432</guid>
     </item>
     <item>
-      <title>Netflix’s Warner Bros. Bid Would Include Releasing Movies In Theaters - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FRnFb9X/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/HvDzPzyfA4eXCdom2aveyLkLot4oOXrC4or1OxOL6e0=432</link>
-      <description>Link found in newsletter: 'Nvidia crushes earnings 📈, Apple's WiFi chip 🌐, GPT-5.1-Codex-Max 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FRnFb9X/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/HvDzPzyfA4eXCdom2aveyLkLot4oOXrC4or1OxOL6e0=432</guid>
-    </item>
-    <item>
       <title>GitHub - toddmaustin/mojo-v: Mojo-V: A RISC-V instruction set extension for privacy-oriented programming. Mojo-V allows programmers to write software that computes on data that no software or person can see, except the data owner. Mojo-V implements this novel form of secret computation using simple extensions to a RISC-V CPU.</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Ftoddmaustin%2Fmojo-v%3Futm_source=tldrnewsletter/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/yb0RBD_4feM1dXwhzDepUcG72nvIzcjydYYfswK5mhY=432</link>
       <description>Link found in newsletter: 'Nvidia crushes earnings 📈, Apple's WiFi chip 🌐, GPT-5.1-Codex-Max 👨‍💻'</description>
@@ -2016,12 +2010,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F11%2F20%2Fgoogle-nano-banana-pro-gemini-3.html%3Futm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/HzG7W2L_aPNYltlzZ0YBl1gUeUecuplwDgqm_cwAnms=432</link>
       <description>Link found in newsletter: 'Android + AirDrop 📱, Nano Banana Pro 🍌, writing better agents.md 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F11%2F20%2Fgoogle-nano-banana-pro-gemini-3.html%3Futm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/HzG7W2L_aPNYltlzZ0YBl1gUeUecuplwDgqm_cwAnms=432</guid>
-    </item>
-    <item>
-      <title>Android Quick Share now works with AirDrop on iPhone, starting on Pixel 10</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5google.com%2F2025%2F11%2F20%2Fandroid-quick-share-airdrop-pixel-10%2F%3Futm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/ud89w1UrTv0ZHqjErXJzrsrtUiTEgDYeya-YehYudbo=432</link>
-      <description>Link found in newsletter: 'Android + AirDrop 📱, Nano Banana Pro 🍌, writing better agents.md 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5google.com%2F2025%2F11%2F20%2Fandroid-quick-share-airdrop-pixel-10%2F%3Futm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/ud89w1UrTv0ZHqjErXJzrsrtUiTEgDYeya-YehYudbo=432</guid>
     </item>
     <item>
       <title>Plans &amp; Pricing | Google Developer Program  |  Google for Developers</title>
