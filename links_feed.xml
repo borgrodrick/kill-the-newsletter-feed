@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 23 Nov 2025 18:18:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Nov 2025 01:08:31 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=6bbe1ba2-c3b7-11f0-906e-c9f6964114b2%26pt=campaign%26pv=4%26spa=1763388089%26t=1763389480%26s=c137f2ad2eaba8ee5f72511656ee79955e0ed398978d5d2b6ae0049f7e56f6ea/1/0100019a92342054-f720cdde-19ce-4bab-85c3-d7b8af5f9cf1-000000/K13vj8IxI4UmZ9ru4yx8KsHpN83USI3hzlCGpC4SmcY=431</link>
@@ -230,12 +230,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=quicklinks11182025/1/0100019a96bb6641-d97961bc-7864-40d1-b539-f5a3339d8206-000000/CgIR9Lb9xemfbj--2HnQLjjWn23mhhHhjugxrQIrkok=431</guid>
     </item>
     <item>
-      <title>Baby Shark’s Pinkfong Set for Seoul Debut After Popular IPO - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FArRNkf/1/0100019a96bb6641-d97961bc-7864-40d1-b539-f5a3339d8206-000000/e0_qklK4O2sbNITfuoYEPrsy53dC6-lCQo91QxiE6d0=431</link>
-      <description>Link found in newsletter: 'Bezos' AI startup 🤖, Blue Origin plans 🚀, interplanetary internet 🪐'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FArRNkf/1/0100019a96bb6641-d97961bc-7864-40d1-b539-f5a3339d8206-000000/e0_qklK4O2sbNITfuoYEPrsy53dC6-lCQo91QxiE6d0=431</guid>
-    </item>
-    <item>
       <title>All Your Coworkers Are Probabilistic Too | Scatterarrow</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fscatterarrow.com%2Fcontent%2Fen%2Fall-your-coworkers-are-probabilistic.html%3Futm_source=tldrnewsletter/1/0100019a96bb6641-d97961bc-7864-40d1-b539-f5a3339d8206-000000/eR7USWGSzr16spiKciD6cTWySqSrYRnIZqHd7HeVaeQ=431</link>
       <description>Link found in newsletter: 'Bezos' AI startup 🤖, Blue Origin plans 🚀, interplanetary internet 🪐'</description>
@@ -402,12 +396,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Ffelipenlunkes%2Frun-ancient-unix%3Futm_source=tldrwebdev/1/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/zO01MfJX3_oag9bQObCWmon9h4sUik2h06-8vJn9GOw=431</link>
       <description>Link found in newsletter: 'Claude Code in a loop 🔂, dodging the AWS outage ⏭️, escaping Linux networking 📶'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Ffelipenlunkes%2Frun-ancient-unix%3Futm_source=tldrwebdev/1/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/zO01MfJX3_oag9bQObCWmon9h4sUik2h06-8vJn9GOw=431</guid>
-    </item>
-    <item>
-      <title>Microsoft: Azure hit by 15 Tbps DDoS attack using 500,000 IP addresses</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fmicrosoft%2Fmicrosoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack%2F%3Futm_source=tldrwebdev/1/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/uW0MxRR7Yk1z3Deu9zfHmeL-kB-pcbCdLS9zqFwXL9o=431</link>
-      <description>Link found in newsletter: 'Claude Code in a loop 🔂, dodging the AWS outage ⏭️, escaping Linux networking 📶'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fmicrosoft%2Fmicrosoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack%2F%3Futm_source=tldrwebdev/1/0100019a97cda1f0-cf99ef95-af84-4b93-8e71-f923b47acec9-000000/uW0MxRR7Yk1z3Deu9zfHmeL-kB-pcbCdLS9zqFwXL9o=431</guid>
     </item>
     <item>
       <title>Project Gemini</title>
@@ -1320,12 +1308,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.name.com%2Fnameapi%3Futm_source=tldr%26utm_medium=quick-links%26utm_campaign=name_reseller/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/dL1zdTlxCnq6DYaWVrRYWjsRvngvIOSywe3cwPuSeSY=432</link>
       <description>Link found in newsletter: 'Nvidia crushes earnings 📈, Apple's WiFi chip 🌐, GPT-5.1-Codex-Max 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.name.com%2Fnameapi%3Futm_source=tldr%26utm_medium=quick-links%26utm_campaign=name_reseller/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/dL1zdTlxCnq6DYaWVrRYWjsRvngvIOSywe3cwPuSeSY=432</guid>
-    </item>
-    <item>
-      <title>AI Cited in More Job Cut News, Adding to Labor Market Pain - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FFJRZSM/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/R0PgEGdKBulbm1bCP3F9S9_j67YraaP5NILGKYD3Mso=432</link>
-      <description>Link found in newsletter: 'Nvidia crushes earnings 📈, Apple's WiFi chip 🌐, GPT-5.1-Codex-Max 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FFJRZSM/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/R0PgEGdKBulbm1bCP3F9S9_j67YraaP5NILGKYD3Mso=432</guid>
     </item>
     <item>
       <title>GitHub - facebook/pyrefly: A fast type checker and language server for Python</title>
