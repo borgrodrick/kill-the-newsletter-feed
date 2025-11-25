@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 24 Nov 2025 18:21:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Nov 2025 01:03:48 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=ed06a6e6-c51c-11f0-bee0-b960bb3f78c1%26pt=campaign%26pv=4%26spa=1763550092%26t=1763551553%26s=3ed6512978e1cb664c55beeeae2c0a5f5b139529ebdf729e790b7921fd82a9d0/1/0100019a9bdd282b-2abb6726-974a-477e-a24f-b8547d3a11e0-000000/cbbksWZezkv4zOKg4OvGPgD-c6UURKSg5NKrM36h0Ec=432</link>
@@ -614,6 +614,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.name.com%2Fnameapi%3Futm_source=tldr%26utm_medium=quick-links%26utm_campaign=name_reseller/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/dL1zdTlxCnq6DYaWVrRYWjsRvngvIOSywe3cwPuSeSY=432</guid>
     </item>
     <item>
+      <title>The FTC’s Meta Antitrust Implosion - WSJ</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FcC6W30/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/cep02Fodx4Ha_RuOQ0wZYx8jDs-GInNqxTv0aT2Xa8w=432</link>
+      <description>Link found in newsletter: 'Nvidia crushes earnings 📈, Apple's WiFi chip 🌐, GPT-5.1-Codex-Max 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FcC6W30/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/cep02Fodx4Ha_RuOQ0wZYx8jDs-GInNqxTv0aT2Xa8w=432</guid>
+    </item>
+    <item>
       <title>GitHub - facebook/pyrefly: A fast type checker and language server for Python</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Ffacebook%2Fpyrefly%3Futm_source=tldrnewsletter/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/sOgQwDgFSwHW9tRb9tBy6-C7YdcHOjEAZVv0eAkggyI=432</link>
       <description>Link found in newsletter: 'Nvidia crushes earnings 📈, Apple's WiFi chip 🌐, GPT-5.1-Codex-Max 👨‍💻'</description>
@@ -648,6 +654,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fgadgets%2F2025%2F11%2Ftesting-shows-apple-n1-wi-fi-chip-improves-on-older-broadcom-chips-in-every-way%2F%3Futm_source=tldrnewsletter/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/uNYdIwjv7a1HxVJfxHw-nSKtlcx6zPG0tK4PoNOR8Cw=432</link>
       <description>Link found in newsletter: 'Nvidia crushes earnings 📈, Apple's WiFi chip 🌐, GPT-5.1-Codex-Max 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fgadgets%2F2025%2F11%2Ftesting-shows-apple-n1-wi-fi-chip-improves-on-older-broadcom-chips-in-every-way%2F%3Futm_source=tldrnewsletter/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/uNYdIwjv7a1HxVJfxHw-nSKtlcx6zPG0tK4PoNOR8Cw=432</guid>
+    </item>
+    <item>
+      <title>Nvidia Profits Soar, Soothing Investor Jitters Over AI Boom - WSJ</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F8ixUMk/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/0tTpS1mdd_RjcYFQr-eEW5akrPD6DVyzjXwB89iYl-c=432</link>
+      <description>Link found in newsletter: 'Nvidia crushes earnings 📈, Apple's WiFi chip 🌐, GPT-5.1-Codex-Max 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F8ixUMk/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/0tTpS1mdd_RjcYFQr-eEW5akrPD6DVyzjXwB89iYl-c=432</guid>
     </item>
     <item>
       <title>The State of Trust Report</title>
@@ -962,6 +974,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fnewsarticle%2F46929%2Fklarna-to-deliver-first-billion-dollar-quarter%3Futm_source=tldrfintech/1/0100019aa199fdde-992e0fbb-2de6-40b8-8630-e08c3bd027a3-000000/EaGPWkaAXNKiJl9_VrXhcVuzkk39prtwpbjtd-ue8Gc=432</guid>
     </item>
     <item>
+      <title>Exclusive | OpenAI, Intuit Strike Strategic Partnership - WSJ</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FIXSJiC/1/0100019aa199fdde-992e0fbb-2de6-40b8-8630-e08c3bd027a3-000000/t-uGVl52jLHu4xwVBFq0KI1Jar7dHA96VgEjg3OiVKc=432</link>
+      <description>Link found in newsletter: 'Ramp hits $32B 💰, Intuit's $100M+ deal with OpenAI 🤝, Klarna's first billion dollar quarter 🚀'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FIXSJiC/1/0100019aa199fdde-992e0fbb-2de6-40b8-8630-e08c3bd027a3-000000/t-uGVl52jLHu4xwVBFq0KI1Jar7dHA96VgEjg3OiVKc=432</guid>
+    </item>
+    <item>
       <title>Ramp hits $32B valuation, just 3 months after hitting $22.5B  | TechCrunch</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2025%2F11%2F17%2Framp-hits-32b-valuation-just-three-months-after-hitting-22-5b%2F%3Futm_source=tldrfintech/1/0100019aa199fdde-992e0fbb-2de6-40b8-8630-e08c3bd027a3-000000/4UdS36tDywZgc8gsR3AKUVcycaujUR-OlBdXlNqmFII=432</link>
       <description>Link found in newsletter: 'Ramp hits $32B 💰, Intuit's $100M+ deal with OpenAI 🤝, Klarna's first billion dollar quarter 🚀'</description>
@@ -1130,6 +1148,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.shloked.com%2Fwriting%2Fgemini-memory%3Futm_source=tldrai/1/0100019aa1a5fbe7-9bd7a1d7-fd9d-4401-b715-936ae878074a-000000/N42RIQedMUU5MWHTmHPryXT9WDjwm0rsZ2gSxWjoGsw=432</guid>
     </item>
     <item>
+      <title>Exclusive | Elon Musk’s xAI Is in Advanced Talks to Raise $15 Billion, Lifting Valuation - WSJ</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fu6U0LA/1/0100019aa1a5fbe7-9bd7a1d7-fd9d-4401-b715-936ae878074a-000000/1VTgs1btPjdcLdfVqc2rQkKri2w24H3jeuo9h_wf1II=432</link>
+      <description>Link found in newsletter: 'GPT-5.1-Codex-Max 💻, Grok 4.1 Agent Tools API 👨‍💻, Segment Anything 3 3️⃣'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fu6U0LA/1/0100019aa1a5fbe7-9bd7a1d7-fd9d-4401-b715-936ae878074a-000000/1VTgs1btPjdcLdfVqc2rQkKri2w24H3jeuo9h_wf1II=432</guid>
+    </item>
+    <item>
       <title>AI Code Review Tool - Analyze PRs Before Shipping | Sentry</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsentry.io%2Fproduct%2Fai-code-review%2F%3Futm_source=tldr%26utm_medium=paid-community%26utm_campaign=aicodereview-fy26q4-aicodereviewlaunch%26utm_content=newsletter-product-lp-learnmore/5/0100019aa1a5fbe7-9bd7a1d7-fd9d-4401-b715-936ae878074a-000000/Xj4Wl4o-1mx-dSdFCLYEMSet3dLXqFvOLQcUc5Jr78w=432</link>
       <description>Link found in newsletter: 'GPT-5.1-Codex-Max 💻, Grok 4.1 Agent Tools API 👨‍💻, Segment Anything 3 3️⃣'</description>
@@ -1224,6 +1248,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frein.pk%2Fover-regulation-is-doubling-the-cost%3Futm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/JfHUp01GUOmw_y2r2P56NvsfeLdDTkgQQWeG4nD2_aQ=432</link>
       <description>Link found in newsletter: 'Android + AirDrop 📱, Nano Banana Pro 🍌, writing better agents.md 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frein.pk%2Fover-regulation-is-doubling-the-cost%3Futm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/JfHUp01GUOmw_y2r2P56NvsfeLdDTkgQQWeG4nD2_aQ=432</guid>
+    </item>
+    <item>
+      <title>AMD’s Lisa Su is Staring Down Nvidia and Talk of an AI Bubble - WSJ</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FHEiH5Z/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/cqCoc1vGI9Lso3kJe5fAngzroTkVUczySHDaKeue81c=432</link>
+      <description>Link found in newsletter: 'Android + AirDrop 📱, Nano Banana Pro 🍌, writing better agents.md 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FHEiH5Z/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/cqCoc1vGI9Lso3kJe5fAngzroTkVUczySHDaKeue81c=432</guid>
     </item>
     <item>
       <title>TLDR | Sponsorship Opportunities</title>
@@ -1729,6 +1759,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsjg.io%2Fwriting%2Fwork-woodlands-and-geocaches%2F%3Futm_source=tldrnewsletter/1/0100019ab59ceecf-b762715e-52f0-4b3d-a323-c0d9e84d091d-000000/Z2Lgyj2yXfdiNzZoD96S_4pofpZ10dtTYQXKXDlk1Pc=432</link>
       <description>Link found in newsletter: 'Inside iOS 27 📱, Google scales compute 📈, running a fixit 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsjg.io%2Fwriting%2Fwork-woodlands-and-geocaches%2F%3Futm_source=tldrnewsletter/1/0100019ab59ceecf-b762715e-52f0-4b3d-a323-c0d9e84d091d-000000/Z2Lgyj2yXfdiNzZoD96S_4pofpZ10dtTYQXKXDlk1Pc=432</guid>
+    </item>
+    <item>
+      <title>Companies Predict 2026 Will Be the Worst College Grad Job Market in Five Years - WSJ</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FMkIEmo/1/0100019ab59ceecf-b762715e-52f0-4b3d-a323-c0d9e84d091d-000000/Rpi_BQsIQ9NF6NaCC0X9F37X1F1XenQ1iiqQM5Xhs1Y=432</link>
+      <description>Link found in newsletter: 'Inside iOS 27 📱, Google scales compute 📈, running a fixit 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FMkIEmo/1/0100019ab59ceecf-b762715e-52f0-4b3d-a323-c0d9e84d091d-000000/Rpi_BQsIQ9NF6NaCC0X9F37X1F1XenQ1iiqQM5Xhs1Y=432</guid>
     </item>
     <item>
       <title>GitHub - cased/kit: The toolkit for AI devtools context engineering. Build with codebase mapping, symbol extraction, and many kinds of code search.</title>
