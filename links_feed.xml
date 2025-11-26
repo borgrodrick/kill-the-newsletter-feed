@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Nov 2025 01:04:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 06:22:07 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=53af27b2-c5ed-11f0-b0fd-01e6aa2e3e54%26pt=campaign%26pv=4%26spa=1763636485%26t=1763637963%26s=6e9401f4e1f177dd7558de7040ea07a5219e0f1df057ef1107c4f457db82f68d/1/0100019aa103abe8-f893cc9e-081a-4654-82f1-5168efdae71d-000000/7sQoggQ0AXt_4XzIRZfLMx0W78XCsv6ObB9MkCv2KXM=432</link>
@@ -482,6 +482,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.marqeta.com%2Fcmp%2Fno-compromise%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=fy25q3_no_compromise%26utm_content=tldr_fintech/1/0100019aa199fdde-992e0fbb-2de6-40b8-8630-e08c3bd027a3-000000/-1YSMacJX2okMCZFttH6cz_W2PPtT21HdErIpbDyK-4=432</guid>
     </item>
     <item>
+      <title>TLDR Fintech</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=d65d9444-c603-11f0-ac0b-97c12c25ff9c%26pt=campaign%26t=1763647815%26s=81b3184807d4287166e013ccefdbc164fab65d3dd74fbe303e81f9688b1ca5f8/1/0100019aa199fdde-992e0fbb-2de6-40b8-8630-e08c3bd027a3-000000/VwYfU37-Tzywk6OmAhEtqFSpqCTq5pZBWJko-LZOPFs=432</link>
+      <description>Link found in newsletter: 'Ramp hits $32B 💰, Intuit's $100M+ deal with OpenAI 🤝, Klarna's first billion dollar quarter 🚀'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=d65d9444-c603-11f0-ac0b-97c12c25ff9c%26pt=campaign%26t=1763647815%26s=81b3184807d4287166e013ccefdbc164fab65d3dd74fbe303e81f9688b1ca5f8/1/0100019aa199fdde-992e0fbb-2de6-40b8-8630-e08c3bd027a3-000000/VwYfU37-Tzywk6OmAhEtqFSpqCTq5pZBWJko-LZOPFs=432</guid>
+    </item>
+    <item>
       <title>TLDR | Sponsorship Opportunities</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019aa199fdde-992e0fbb-2de6-40b8-8630-e08c3bd027a3-000000/326fznZLoOMc5Ul3M6V4beK77ffB3M0A3akD3OzszF0=432</link>
       <description>Link found in newsletter: 'Ramp hits $32B 💰, Intuit's $100M+ deal with OpenAI 🤝, Klarna's first billion dollar quarter 🚀'</description>
@@ -756,12 +762,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fyou.com%2Flanding%2Fthe-evolution-of-agent-management%3Futm_campaign=26337115-TLDR%2520tech%2520Q4%26utm_source=external-newsletter%26utm_medium=email%26utm_term=tldrtech_secondary_1121%26utm_content=tldrtech_secondary_1121/3/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/m4-002Zh2ntsDpPEjVlXpgBDX3hsV7YxmHQxciSm3xE=432</link>
       <description>Link found in newsletter: 'Android + AirDrop 📱, Nano Banana Pro 🍌, writing better agents.md 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fyou.com%2Flanding%2Fthe-evolution-of-agent-management%3Futm_campaign=26337115-TLDR%2520tech%2520Q4%26utm_source=external-newsletter%26utm_medium=email%26utm_term=tldrtech_secondary_1121%26utm_content=tldrtech_secondary_1121/3/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/m4-002Zh2ntsDpPEjVlXpgBDX3hsV7YxmHQxciSm3xE=432</guid>
-    </item>
-    <item>
-      <title>The Evolution of Agent Management</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fyou.com%2Flanding%2Fthe-evolution-of-agent-management%3Futm_campaign=26337115-TLDR%2520tech%2520Q4%26utm_source=external-newsletter%26utm_medium=email%26utm_term=tldrtech_secondary_1121%26utm_content=tldrtech_secondary_1121/2/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/wV1wvGvMH0GX2jqFLFTNfsmW5newtgrCYYosaOJi9uw=432</link>
-      <description>Link found in newsletter: 'Android + AirDrop 📱, Nano Banana Pro 🍌, writing better agents.md 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fyou.com%2Flanding%2Fthe-evolution-of-agent-management%3Futm_campaign=26337115-TLDR%2520tech%2520Q4%26utm_source=external-newsletter%26utm_medium=email%26utm_term=tldrtech_secondary_1121%26utm_content=tldrtech_secondary_1121/2/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/wV1wvGvMH0GX2jqFLFTNfsmW5newtgrCYYosaOJi9uw=432</guid>
     </item>
     <item>
       <title>The Evolution of Agent Management</title>
