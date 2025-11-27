@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 27 Nov 2025 01:03:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 06:22:31 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=383fb894-c605-11f0-a623-97c12c25ff9c%26pt=campaign%26pv=4%26spa=1763647299%26t=1763648601%26s=e1bf3ce1b1ed565382acd8ca847ec611e725b923d46a07cc3adb28ac4e97826e/1/0100019aa1a5fbe7-9bd7a1d7-fd9d-4401-b715-936ae878074a-000000/gxZrAcnxeKqAq4sh7xS6i-VH8SMMBQ96Y4fShjrh7Vs=432</link>
@@ -210,12 +210,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1W1XARzS8KTI6YWhYNPlryWE7j2mY8ntSRLz1O8NC53E%2Fedit%3Ftab=t.0%26utm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/AoHCTm9VnHQA6q6pp-6vfSkmAio7jYyibbyyhwfrhSI=432</link>
       <description>Link found in newsletter: 'Android + AirDrop 📱, Nano Banana Pro 🍌, writing better agents.md 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1W1XARzS8KTI6YWhYNPlryWE7j2mY8ntSRLz1O8NC53E%2Fedit%3Ftab=t.0%26utm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/AoHCTm9VnHQA6q6pp-6vfSkmAio7jYyibbyyhwfrhSI=432</guid>
-    </item>
-    <item>
-      <title>Tesla deploys its first Superchargers owned by 3rd-party in the US | Electrek</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2025%2F11%2F20%2Ftesla-deploys-first-superchargers-owned-by-3rd-party-us%2F%3Futm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/uLzPmhcmltZRUxi0G7VISSJVZez64necxhumQxuIsAU=432</link>
-      <description>Link found in newsletter: 'Android + AirDrop 📱, Nano Banana Pro 🍌, writing better agents.md 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2025%2F11%2F20%2Ftesla-deploys-first-superchargers-owned-by-3rd-party-us%2F%3Futm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/uLzPmhcmltZRUxi0G7VISSJVZez64necxhumQxuIsAU=432</guid>
     </item>
     <item>
       <title>ChatGPT launches group chats globally | TechCrunch</title>
@@ -783,6 +777,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F11%2F21%2Fgoogle-must-double-ai-serving-capacity-every-6-months-to-meet-demand.html%3Futm_source=tldrnewsletter/1/0100019ab59ceecf-b762715e-52f0-4b3d-a323-c0d9e84d091d-000000/sM3oJxBKxmAECeg5IZLgitZCOoYpn4wCoDkou-Hd5EA=432</guid>
     </item>
     <item>
+      <title>Apple iOS 27: Snow Leopard-Like Quality Focus, AI Features; Tim Cook Retirement - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FHyPNSt/1/0100019ab59ceecf-b762715e-52f0-4b3d-a323-c0d9e84d091d-000000/PfC0H4vUh7_zXQeojCUA0K16xDnNc6Zi_KkLFO9JAIk=432</link>
+      <description>Link found in newsletter: 'Inside iOS 27 📱, Google scales compute 📈, running a fixit 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FHyPNSt/1/0100019ab59ceecf-b762715e-52f0-4b3d-a323-c0d9e84d091d-000000/PfC0H4vUh7_zXQeojCUA0K16xDnNc6Zi_KkLFO9JAIk=432</guid>
+    </item>
+    <item>
       <title>QA Wolf | 80% automated test coverage in 4 months</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20251124-None_Experiment-FALSE%26utm_term=cta-ScheduleADemoToLearnMore%26utm_content=GoodbyeLowTestCoverage_ScheduleADemoToLearnMore_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20251124_v1_/1/0100019ab59ceecf-b762715e-52f0-4b3d-a323-c0d9e84d091d-000000/-2Jz4-ODWHNHeJ7FY_srIOWQNCVSDsQbNjrWX_6eUzo=432</link>
       <description>Link found in newsletter: 'Inside iOS 27 📱, Google scales compute 📈, running a fixit 👨‍💻'</description>
@@ -1051,6 +1051,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FRAaoxN/1/0100019ab6325d68-41878f17-694f-43ca-ac02-da8fd3dae0d8-000000/hQ1hSFxZEQMechhmYl0LlrMbOfVk-Emdn0hD1lFkb4c=432</link>
       <description>Link found in newsletter: 'Kalshi doubles valuation 🚀, Capital One joins FedNow 🤝, Cash App for preteens 🧒'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FRAaoxN/1/0100019ab6325d68-41878f17-694f-43ca-ac02-da8fd3dae0d8-000000/hQ1hSFxZEQMechhmYl0LlrMbOfVk-Emdn0hD1lFkb4c=432</guid>
+    </item>
+    <item>
+      <title>Kalshi and Polymarket Battle Gambling Companies in Prediction Market Frenzy - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F4Gdn3O/1/0100019ab6325d68-41878f17-694f-43ca-ac02-da8fd3dae0d8-000000/Vweze3GXN80bvBdH6OuNu_h7k5tpVhB5k-Kob_b7hAE=432</link>
+      <description>Link found in newsletter: 'Kalshi doubles valuation 🚀, Capital One joins FedNow 🤝, Cash App for preteens 🧒'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F4Gdn3O/1/0100019ab6325d68-41878f17-694f-43ca-ac02-da8fd3dae0d8-000000/Vweze3GXN80bvBdH6OuNu_h7k5tpVhB5k-Kob_b7hAE=432</guid>
     </item>
     <item>
       <title>Source: Kalshi's valuation jumps to $11B after raising massive $1B round | TechCrunch</title>
@@ -1825,6 +1831,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.teslarati.com%2Felon-musk-boring-company-prufrock-most-disruptive-feature%2F%3Futm_source=tldrnewsletter/1/0100019abfe9c56e-02cc65e8-b891-459c-a9a9-0c509f361c06-000000/P-605ajTkbciakeLGb1W5xRKuh1mV06LjHDjY8C_tX4=433</link>
       <description>Link found in newsletter: 'Elon's reusable tunnelers 🚇, Alibaba's AI app 📱, Gemini 3 API features 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.teslarati.com%2Felon-musk-boring-company-prufrock-most-disruptive-feature%2F%3Futm_source=tldrnewsletter/1/0100019abfe9c56e-02cc65e8-b891-459c-a9a9-0c509f361c06-000000/P-605ajTkbciakeLGb1W5xRKuh1mV06LjHDjY8C_tX4=433</guid>
+    </item>
+    <item>
+      <title>Alibaba’s (BABA) Main AI App Qwen Draws 10 Million Downloads in Strong Debut - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F2cZlR2/1/0100019abfe9c56e-02cc65e8-b891-459c-a9a9-0c509f361c06-000000/lOulUpRKKuF4GyJ7Hskz8Hp94DJjTCDJMEmraoZJyYI=433</link>
+      <description>Link found in newsletter: 'Elon's reusable tunnelers 🚇, Alibaba's AI app 📱, Gemini 3 API features 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F2cZlR2/1/0100019abfe9c56e-02cc65e8-b891-459c-a9a9-0c509f361c06-000000/lOulUpRKKuF4GyJ7Hskz8Hp94DJjTCDJMEmraoZJyYI=433</guid>
     </item>
     <item>
       <title>ThreatSpike Black - ThreatSpike</title>
