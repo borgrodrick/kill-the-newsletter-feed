@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Nov 2025 18:17:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 01:03:19 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=383fb894-c605-11f0-a623-97c12c25ff9c%26pt=campaign%26pv=4%26spa=1763647299%26t=1763648601%26s=e1bf3ce1b1ed565382acd8ca847ec611e725b923d46a07cc3adb28ac4e97826e/1/0100019aa1a5fbe7-9bd7a1d7-fd9d-4401-b715-936ae878074a-000000/gxZrAcnxeKqAq4sh7xS6i-VH8SMMBQ96Y4fShjrh7Vs=432</link>
@@ -210,6 +210,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1W1XARzS8KTI6YWhYNPlryWE7j2mY8ntSRLz1O8NC53E%2Fedit%3Ftab=t.0%26utm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/AoHCTm9VnHQA6q6pp-6vfSkmAio7jYyibbyyhwfrhSI=432</link>
       <description>Link found in newsletter: 'Android + AirDrop 📱, Nano Banana Pro 🍌, writing better agents.md 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1W1XARzS8KTI6YWhYNPlryWE7j2mY8ntSRLz1O8NC53E%2Fedit%3Ftab=t.0%26utm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/AoHCTm9VnHQA6q6pp-6vfSkmAio7jYyibbyyhwfrhSI=432</guid>
+    </item>
+    <item>
+      <title>Tesla deploys its first Superchargers owned by 3rd-party in the US | Electrek</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2025%2F11%2F20%2Ftesla-deploys-first-superchargers-owned-by-3rd-party-us%2F%3Futm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/uLzPmhcmltZRUxi0G7VISSJVZez64necxhumQxuIsAU=432</link>
+      <description>Link found in newsletter: 'Android + AirDrop 📱, Nano Banana Pro 🍌, writing better agents.md 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2025%2F11%2F20%2Ftesla-deploys-first-superchargers-owned-by-3rd-party-us%2F%3Futm_source=tldrnewsletter/1/0100019aa62990ec-3121c288-7d6e-4e0b-8502-d95bad2bd1fb-000000/uLzPmhcmltZRUxi0G7VISSJVZez64necxhumQxuIsAU=432</guid>
     </item>
     <item>
       <title>ChatGPT launches group chats globally | TechCrunch</title>
