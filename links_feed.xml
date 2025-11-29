@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 28 Nov 2025 18:19:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 01:02:42 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=fb0d6466-c920-11f0-a02f-05ae12fe7a4f%26pt=campaign%26pv=4%26spa=1763992929%26t=1763993345%26s=47db3203efc7e00d8cdc82cdea5ed2ca97aee66b221cc85bd080ba426c911fec/1/0100019ab6325d68-41878f17-694f-43ca-ac02-da8fd3dae0d8-000000/pZq6tcpaRs8UpGnA4O3G3kiOECXztQLm_GvGoMXi2eI=432</link>
@@ -470,7 +470,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019abaf88f3d-deb71b2e-349e-4d90-b0c9-0c6bd79a7b32-000000/MrU-Dez2_Fu6dIvy43hYWuS7vF-vEkOSp-BtU8kzuwE=432</guid>
     </item>
     <item>
-      <title>Jobs at Top AI Companies | Stapply</title>
+      <title>Stapply Job Map - Explore AI Jobs Worldwide</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FmiTHpd/1/0100019abaf88f3d-deb71b2e-349e-4d90-b0c9-0c6bd79a7b32-000000/f77DhsWhJ3Fw6tO6Xq8ER4Fzy4STEc4bHoxVCP1_Hc8=432</link>
       <description>Link found in newsletter: 'Building the V0 app 📱, Claude advanced tool use 🛠, Claude Opus 4.5 🚀'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FmiTHpd/1/0100019abaf88f3d-deb71b2e-349e-4d90-b0c9-0c6bd79a7b32-000000/f77DhsWhJ3Fw6tO6Xq8ER4Fzy4STEc4bHoxVCP1_Hc8=432</guid>
@@ -1428,12 +1428,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fathas.dev%2F%3Futm_source=tldrwebdev/1/0100019ac53f4073-d6cdb31c-5f2a-42c2-94d3-c513dbfc3b99-000000/aR4C7XOloWnV1vVZ0q0BhFQa-me219Qz5jW99YPT4no=433</link>
       <description>Link found in newsletter: 'Vibe coding an OS 👨‍💻, safe NPM 🔐, running iOS on old devices 📱'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fathas.dev%2F%3Futm_source=tldrwebdev/1/0100019ac53f4073-d6cdb31c-5f2a-42c2-94d3-c513dbfc3b99-000000/aR4C7XOloWnV1vVZ0q0BhFQa-me219Qz5jW99YPT4no=433</guid>
-    </item>
-    <item>
-      <title>One Canvas to Rule Them All: How INK Games’ New Site Handles Complex 3D | Codrops</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftympanus.net%2Fcodrops%2F2025%2F11%2F21%2Fone-canvas-to-rule-them-all-how-ink-games-new-site-handles-complex-3d%2F%3Futm_source=tldrwebdev/1/0100019ac53f4073-d6cdb31c-5f2a-42c2-94d3-c513dbfc3b99-000000/qtIhoX-fmaZqMUuf7FiuyfmVEqWTCWwsyO9SGGPVFjU=433</link>
-      <description>Link found in newsletter: 'Vibe coding an OS 👨‍💻, safe NPM 🔐, running iOS on old devices 📱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftympanus.net%2Fcodrops%2F2025%2F11%2F21%2Fone-canvas-to-rule-them-all-how-ink-games-new-site-handles-complex-3d%2F%3Futm_source=tldrwebdev/1/0100019ac53f4073-d6cdb31c-5f2a-42c2-94d3-c513dbfc3b99-000000/qtIhoX-fmaZqMUuf7FiuyfmVEqWTCWwsyO9SGGPVFjU=433</guid>
     </item>
     <item>
       <title>What Now? Handling Errors in Large Systems - Marc's Blog</title>
