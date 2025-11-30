@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 30 Nov 2025 01:12:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Nov 2025 06:20:29 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=fb0d6466-c920-11f0-a02f-05ae12fe7a4f%26pt=campaign%26pv=4%26spa=1763992929%26t=1763993345%26s=47db3203efc7e00d8cdc82cdea5ed2ca97aee66b221cc85bd080ba426c911fec/1/0100019ab6325d68-41878f17-694f-43ca-ac02-da8fd3dae0d8-000000/pZq6tcpaRs8UpGnA4O3G3kiOECXztQLm_GvGoMXi2eI=432</link>
@@ -873,6 +873,12 @@
     </item>
     <item>
       <title>ThreatSpike Black - ThreatSpike</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.threatspike.com%2Fthreatspike-black%2F%3Futm_campaign=247385308-25.11%2520Email%253A%2520TLDR%2520Q4%2520Newsletter%26utm_source=email%26utm_medium=Newsletter%26utm_content=TLDR/6/0100019abfe9c56e-02cc65e8-b891-459c-a9a9-0c509f361c06-000000/7B61ZccpomkB5L_RomcEW-QlSlc1bGxqu212fyWP2zA=433</link>
+      <description>Link found in newsletter: 'Elon's reusable tunnelers 🚇, Alibaba's AI app 📱, Gemini 3 API features 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.threatspike.com%2Fthreatspike-black%2F%3Futm_campaign=247385308-25.11%2520Email%253A%2520TLDR%2520Q4%2520Newsletter%26utm_source=email%26utm_medium=Newsletter%26utm_content=TLDR/6/0100019abfe9c56e-02cc65e8-b891-459c-a9a9-0c509f361c06-000000/7B61ZccpomkB5L_RomcEW-QlSlc1bGxqu212fyWP2zA=433</guid>
+    </item>
+    <item>
+      <title>ThreatSpike Black - ThreatSpike</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.threatspike.com%2Fthreatspike-black%2F%3Futm_campaign=247385308-25.11%2520Email%253A%2520TLDR%2520Q4%2520Newsletter%26utm_source=email%26utm_medium=Newsletter%26utm_content=TLDR/5/0100019abfe9c56e-02cc65e8-b891-459c-a9a9-0c509f361c06-000000/HzTAL9OoKtBRNygmBV5qZXALE9B0tPDvYcAQZ-4Iwhs=433</link>
       <description>Link found in newsletter: 'Elon's reusable tunnelers 🚇, Alibaba's AI app 📱, Gemini 3 API features 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.threatspike.com%2Fthreatspike-black%2F%3Futm_campaign=247385308-25.11%2520Email%253A%2520TLDR%2520Q4%2520Newsletter%26utm_source=email%26utm_medium=Newsletter%26utm_content=TLDR/5/0100019abfe9c56e-02cc65e8-b891-459c-a9a9-0c509f361c06-000000/HzTAL9OoKtBRNygmBV5qZXALE9B0tPDvYcAQZ-4Iwhs=433</guid>
@@ -894,6 +900,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.threatspike.com%2Fthreatspike-black%2F%3Futm_campaign=247385308-25.11%2520Email%253A%2520TLDR%2520Q4%2520Newsletter%26utm_source=email%26utm_medium=Newsletter%26utm_content=TLDR/2/0100019abfe9c56e-02cc65e8-b891-459c-a9a9-0c509f361c06-000000/j51gOXsuuCI5V5ZuUdCYX_W5PDOV2McxT8a60CREzfU=433</link>
       <description>Link found in newsletter: 'Elon's reusable tunnelers 🚇, Alibaba's AI app 📱, Gemini 3 API features 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.threatspike.com%2Fthreatspike-black%2F%3Futm_campaign=247385308-25.11%2520Email%253A%2520TLDR%2520Q4%2520Newsletter%26utm_source=email%26utm_medium=Newsletter%26utm_content=TLDR/2/0100019abfe9c56e-02cc65e8-b891-459c-a9a9-0c509f361c06-000000/j51gOXsuuCI5V5ZuUdCYX_W5PDOV2McxT8a60CREzfU=433</guid>
+    </item>
+    <item>
+      <title>ThreatSpike Black - ThreatSpike</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.threatspike.com%2Fthreatspike-black%2F%3Futm_campaign=247385308-25.11%2520Email%253A%2520TLDR%2520Q4%2520Newsletter%26utm_source=email%26utm_medium=Newsletter%26utm_content=TLDR/1/0100019abfe9c56e-02cc65e8-b891-459c-a9a9-0c509f361c06-000000/KDX6yw4tYBkLKKnwhyT4WGI7F2TYXmI1vLKdKCNypJ0=433</link>
+      <description>Link found in newsletter: 'Elon's reusable tunnelers 🚇, Alibaba's AI app 📱, Gemini 3 API features 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.threatspike.com%2Fthreatspike-black%2F%3Futm_campaign=247385308-25.11%2520Email%253A%2520TLDR%2520Q4%2520Newsletter%26utm_source=email%26utm_medium=Newsletter%26utm_content=TLDR/1/0100019abfe9c56e-02cc65e8-b891-459c-a9a9-0c509f361c06-000000/KDX6yw4tYBkLKKnwhyT4WGI7F2TYXmI1vLKdKCNypJ0=433</guid>
     </item>
     <item>
       <title>TLDR</title>
@@ -1002,6 +1014,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fauth.upsun.com%2Fregister%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=prod-clone-in-45s/1/0100019ac01c22e3-7e699c93-ec69-4d13-b2bf-9ee0c7e8de81-000000/xbZAeBU_PPaQrtwSV-jSponJZT0FzjyOMgKnNp5y9Co=433</link>
       <description>Link found in newsletter: 'Software’s repeated failures 😬, holiday gift ideas 🎁, animation perf tier list 🚀'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fauth.upsun.com%2Fregister%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=prod-clone-in-45s/1/0100019ac01c22e3-7e699c93-ec69-4d13-b2bf-9ee0c7e8de81-000000/xbZAeBU_PPaQrtwSV-jSponJZT0FzjyOMgKnNp5y9Co=433</guid>
+    </item>
+    <item>
+      <title>- YouTube</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.youtube.com%2Fwatch%3Fv=OaFfgxVuoFc/1/0100019ac01c22e3-7e699c93-ec69-4d13-b2bf-9ee0c7e8de81-000000/d1od1-UqO-RXAZ6nwp5RNEnhZSvk60MM9oUMCLbgAbw=433</link>
+      <description>Link found in newsletter: 'Software’s repeated failures 😬, holiday gift ideas 🎁, animation perf tier list 🚀'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.youtube.com%2Fwatch%3Fv=OaFfgxVuoFc/1/0100019ac01c22e3-7e699c93-ec69-4d13-b2bf-9ee0c7e8de81-000000/d1od1-UqO-RXAZ6nwp5RNEnhZSvk60MM9oUMCLbgAbw=433</guid>
     </item>
     <item>
       <title>Production clone in 45s with full data and services | Upsun</title>
@@ -1640,7 +1658,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019ac5b381d7-d5e90a2c-c41e-4d2d-882c-ef1fc4329457-000000/Tthp4LIkAycgcv9vV8FGufQfb8MEW6cZo_6ETv2MwgY=433</guid>
     </item>
     <item>
-      <title>First make it fast, then make it smart | ʕ☞ᴥ ☜ʔ Kix Panganiban's blog</title>
+      <title>First make it fast, then make it smart | ʕ☞ᴥ ☜ʔ Kix's blog</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fkix.dev%2Ffirst-make-it-fast-then-make-it-smart%2F%3Futm_source=tldrai/1/0100019ac5b381d7-d5e90a2c-c41e-4d2d-882c-ef1fc4329457-000000/wNRYh5fia5Re_0bIgCiGX_jHky-J_K_tK_gesCpSciI=433</link>
       <description>Link found in newsletter: 'Perplexity memory 🧠, better agent harnesses 🤖, AI infra in new era ⚡'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fkix.dev%2Ffirst-make-it-fast-then-make-it-smart%2F%3Futm_source=tldrai/1/0100019ac5b381d7-d5e90a2c-c41e-4d2d-882c-ef1fc4329457-000000/wNRYh5fia5Re_0bIgCiGX_jHky-J_K_tK_gesCpSciI=433</guid>
