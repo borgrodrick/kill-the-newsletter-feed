@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 01 Dec 2025 18:22:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Dec 2025 01:05:44 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=b93c900e-c9e1-11f0-9b09-956f8e275897%26pt=campaign%26pv=4%26spa=1764079339%26t=1764080476%26s=31e73b2951efd26f7af6cde8d5d714d7e4d00641c823e477beae62b66b37eb00/1/0100019abb63e14d-fac54473-d507-4c16-870b-732100758f8a-000000/gTATmqZyu5mF5wJp7Aal7JoRAX3NHrLQhqyD7RQA96o=432</link>
@@ -330,6 +330,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=aaeeed22-ca8a-11f0-a71e-4dd8dbe1bc9b%26pt=campaign%26pv=4%26spa=1764158511%26t=1764159660%26s=a8a49cda4858293aaf5214d873ca3b3a87c783948be6c234379024eafd4f5854/1/0100019ac01c22e3-7e699c93-ec69-4d13-b2bf-9ee0c7e8de81-000000/MLz3c3TJrx4Aes8SdW0eOKNEroPnfXXGDJKtElX1Hu0=433</link>
       <description>Link found in newsletter: 'Software’s repeated failures 😬, holiday gift ideas 🎁, animation perf tier list 🚀'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=aaeeed22-ca8a-11f0-a71e-4dd8dbe1bc9b%26pt=campaign%26pv=4%26spa=1764158511%26t=1764159660%26s=a8a49cda4858293aaf5214d873ca3b3a87c783948be6c234379024eafd4f5854/1/0100019ac01c22e3-7e699c93-ec69-4d13-b2bf-9ee0c7e8de81-000000/MLz3c3TJrx4Aes8SdW0eOKNEroPnfXXGDJKtElX1Hu0=433</guid>
+    </item>
+    <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019ac01c22e3-7e699c93-ec69-4d13-b2bf-9ee0c7e8de81-000000/cNt0LfNaP8A5HfE7eS9DAe88u5p8nRrkS-CVZDxMdlE=433</link>
+      <description>Link found in newsletter: 'Software’s repeated failures 😬, holiday gift ideas 🎁, animation perf tier list 🚀'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019ac01c22e3-7e699c93-ec69-4d13-b2bf-9ee0c7e8de81-000000/cNt0LfNaP8A5HfE7eS9DAe88u5p8nRrkS-CVZDxMdlE=433</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
@@ -800,12 +806,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=ef819580-cb83-11f0-bcf4-f9fd223fe7fa%26pt=campaign%26pv=4%26spa=1764244902%26t=1764245848%26s=fc2090c43727a6b88eee399e681ea7b8c3f04f8f92e368e49e34cec798932769/1/0100019ac53f4073-d6cdb31c-5f2a-42c2-94d3-c513dbfc3b99-000000/E_kw3oj7NxN-ghsYwCsewywlFpwmhXu_arkHiDLq0DI=433</guid>
     </item>
     <item>
-      <title>Jenny X. - Meta | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019ac53f4073-d6cdb31c-5f2a-42c2-94d3-c513dbfc3b99-000000/E9hHkScMhRTqs-N52VxuHBDC1BDA9ezuJj-B9WyDGSM=433</link>
-      <description>Link found in newsletter: 'Vibe coding an OS 👨‍💻, safe NPM 🔐, running iOS on old devices 📱'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019ac53f4073-d6cdb31c-5f2a-42c2-94d3-c513dbfc3b99-000000/E9hHkScMhRTqs-N52VxuHBDC1BDA9ezuJj-B9WyDGSM=433</guid>
-    </item>
-    <item>
       <title>TLDR Jobs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019ac53f4073-d6cdb31c-5f2a-42c2-94d3-c513dbfc3b99-000000/fKoUH0mM6lnkbYGUCzPsCias03cjQvVIowYWFRhB-rc=433</link>
       <description>Link found in newsletter: 'Vibe coding an OS 👨‍💻, safe NPM 🔐, running iOS on old devices 📱'</description>
@@ -926,12 +926,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019ac5aa16e6-3dbebad3-8ec8-4a99-b35b-4d046375b017-000000/_moBuH-9MTdhj1-zhrID9o31p-ZoyUum2q74ppQGOJ4=433</guid>
     </item>
     <item>
-      <title>Matt Cheung - Ceviche | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019ac5aa16e6-3dbebad3-8ec8-4a99-b35b-4d046375b017-000000/_BbkWZQ2Qh2zjfpeffGoaD2nSbURcbNvIpg2dj_OG6A=433</link>
-      <description>Link found in newsletter: 'Revolut $75B valuation 🚀, Klarna's stablecoin 🪙, PayPal + Perplexity 💸'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019ac5aa16e6-3dbebad3-8ec8-4a99-b35b-4d046375b017-000000/_BbkWZQ2Qh2zjfpeffGoaD2nSbURcbNvIpg2dj_OG6A=433</guid>
-    </item>
-    <item>
       <title>TLDR Jobs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019ac5aa16e6-3dbebad3-8ec8-4a99-b35b-4d046375b017-000000/SJkwpYHX5_y9r_c4__M_rbcqY__KGSDz7OWNOEvRO0w=433</link>
       <description>Link found in newsletter: 'Revolut $75B valuation 🚀, Klarna's stablecoin 🪙, PayPal + Perplexity 💸'</description>
@@ -966,12 +960,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fblogposting%2F30170%2Fdeep-dive-adyens-approach-to-agentic-commerce%3Futm_source=tldrfintech/1/0100019ac5aa16e6-3dbebad3-8ec8-4a99-b35b-4d046375b017-000000/iCAC625PZ6yox8JoiosomdhvVUnZPuvKO4puxnvmqwE=433</link>
       <description>Link found in newsletter: 'Revolut $75B valuation 🚀, Klarna's stablecoin 🪙, PayPal + Perplexity 💸'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fblogposting%2F30170%2Fdeep-dive-adyens-approach-to-agentic-commerce%3Futm_source=tldrfintech/1/0100019ac5aa16e6-3dbebad3-8ec8-4a99-b35b-4d046375b017-000000/iCAC625PZ6yox8JoiosomdhvVUnZPuvKO4puxnvmqwE=433</guid>
-    </item>
-    <item>
-      <title>Asset managers to pursue more fintech tie-ups, says PwC</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FvZtPuT/1/0100019ac5aa16e6-3dbebad3-8ec8-4a99-b35b-4d046375b017-000000/qxbCuCMcWgd5C3eXCME9U_Iagv-A9gjJahMOIL_1BXg=433</link>
-      <description>Link found in newsletter: 'Revolut $75B valuation 🚀, Klarna's stablecoin 🪙, PayPal + Perplexity 💸'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FvZtPuT/1/0100019ac5aa16e6-3dbebad3-8ec8-4a99-b35b-4d046375b017-000000/qxbCuCMcWgd5C3eXCME9U_Iagv-A9gjJahMOIL_1BXg=433</guid>
     </item>
     <item>
       <title>AI is Rewiring the Economy from cheap goods to cheap services</title>
@@ -1020,6 +1008,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=1fde1000-cb89-11f0-aa40-bbdb97602671%26pt=campaign%26pv=4%26spa=1764252063%26t=1764253467%26s=78f24303827614ad802f4d6e4d9f11797ca22c29ec687c42a10589f87c94769e/1/0100019ac5b381d7-d5e90a2c-c41e-4d2d-882c-ef1fc4329457-000000/tV21mXY3RR66rYM-0cNaSeBvdIfBmUDPThD_TtYHMPI=433</link>
       <description>Link found in newsletter: 'Perplexity memory 🧠, better agent harnesses 🤖, AI infra in new era ⚡'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=1fde1000-cb89-11f0-aa40-bbdb97602671%26pt=campaign%26pv=4%26spa=1764252063%26t=1764253467%26s=78f24303827614ad802f4d6e4d9f11797ca22c29ec687c42a10589f87c94769e/1/0100019ac5b381d7-d5e90a2c-c41e-4d2d-882c-ef1fc4329457-000000/tV21mXY3RR66rYM-0cNaSeBvdIfBmUDPThD_TtYHMPI=433</guid>
+    </item>
+    <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019ac5b381d7-d5e90a2c-c41e-4d2d-882c-ef1fc4329457-000000/--GvWFBFJF1psgUJ1XoVW_GOkDCAUnTfTeVdS1wEn9U=433</link>
+      <description>Link found in newsletter: 'Perplexity memory 🧠, better agent harnesses 🤖, AI infra in new era ⚡'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019ac5b381d7-d5e90a2c-c41e-4d2d-882c-ef1fc4329457-000000/--GvWFBFJF1psgUJ1XoVW_GOkDCAUnTfTeVdS1wEn9U=433</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
@@ -1881,12 +1875,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=b04b747a-ce77-11f0-b5e1-1719d955881b%26pt=campaign%26pv=4%26spa=1764597790%26t=1764598209%26s=93898b06c4b613baef03c7e058647bed8a103077f9b1a5c2710e6898c73a6c8a/1/0100019ada3fdc35-2b4e820c-e9de-4734-911c-152e695d2c40-000000/wHh1NWozd846qSQ1goiy4nFwygwXA1XTIb8XVtztuMI=433</link>
       <description>Link found in newsletter: 'Prediction markets frenzy 📈, US stablecoin issuance 🪙, Klarna + Lufthansa ✈️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=b04b747a-ce77-11f0-b5e1-1719d955881b%26pt=campaign%26pv=4%26spa=1764597790%26t=1764598209%26s=93898b06c4b613baef03c7e058647bed8a103077f9b1a5c2710e6898c73a6c8a/1/0100019ada3fdc35-2b4e820c-e9de-4734-911c-152e695d2c40-000000/wHh1NWozd846qSQ1goiy4nFwygwXA1XTIb8XVtztuMI=433</guid>
-    </item>
-    <item>
-      <title>Gabriel Sundaram - attain | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019ada3fdc35-2b4e820c-e9de-4734-911c-152e695d2c40-000000/fo00I3JG1Zue12l0xoN3shyu0-FmmKtstHLsa3HnBkM=433</link>
-      <description>Link found in newsletter: 'Prediction markets frenzy 📈, US stablecoin issuance 🪙, Klarna + Lufthansa ✈️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019ada3fdc35-2b4e820c-e9de-4734-911c-152e695d2c40-000000/fo00I3JG1Zue12l0xoN3shyu0-FmmKtstHLsa3HnBkM=433</guid>
     </item>
     <item>
       <title>Matt Cheung - Ceviche | LinkedIn</title>
