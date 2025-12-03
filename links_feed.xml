@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 01:06:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Dec 2025 06:22:35 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=50263746-cb7b-11f0-8a09-49ae09c7662e%26pt=campaign%26pv=4%26spa=1764241273%26t=1764242768%26s=f5ea0ca4e4d5ae5d47cdaa0d5051912c844807c6e18611f08f0ee5eb5bc297a3/1/0100019ac51041c6-90472fed-2c1c-4700-90da-6bf073913024-000000/cpjtmjlrHPj6nc3qgXN_W1qRwYQBcpblrrnmJuUmwkM=433</link>
@@ -300,6 +300,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F108091%2Fbuy-now-pay-later-becoming-economic-necessity-for-merchant-pos-systems%3Futm_source=tldrfintech/1/0100019ac5aa16e6-3dbebad3-8ec8-4a99-b35b-4d046375b017-000000/lX3uCxPSo-Kev--qJmCJA1bLrp7wyOQnhZvmojKvcZU=433</link>
       <description>Link found in newsletter: 'Revolut $75B valuation 🚀, Klarna's stablecoin 🪙, PayPal + Perplexity 💸'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finextra.com%2Fpressarticle%2F108091%2Fbuy-now-pay-later-becoming-economic-necessity-for-merchant-pos-systems%3Futm_source=tldrfintech/1/0100019ac5aa16e6-3dbebad3-8ec8-4a99-b35b-4d046375b017-000000/lX3uCxPSo-Kev--qJmCJA1bLrp7wyOQnhZvmojKvcZU=433</guid>
+    </item>
+    <item>
+      <title>Mollie prepares European businesses for agentic commerce</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffintech.global%2F2025%2F11%2F24%2Fmollie-prepares-european-businesses-for-agentic-commerce%2F%3Futm_source=tldrfintech/1/0100019ac5aa16e6-3dbebad3-8ec8-4a99-b35b-4d046375b017-000000/lUqTYh1OOAbEyaY6b963cJXk_W76csBhNvzxc4s30pg=433</link>
+      <description>Link found in newsletter: 'Revolut $75B valuation 🚀, Klarna's stablecoin 🪙, PayPal + Perplexity 💸'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffintech.global%2F2025%2F11%2F24%2Fmollie-prepares-european-businesses-for-agentic-commerce%2F%3Futm_source=tldrfintech/1/0100019ac5aa16e6-3dbebad3-8ec8-4a99-b35b-4d046375b017-000000/lUqTYh1OOAbEyaY6b963cJXk_W76csBhNvzxc4s30pg=433</guid>
     </item>
     <item>
       <title>Deep Dive: Adyen’s Approach to Agentic Commerce: By Sam Boboev</title>
