@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 03 Dec 2025 18:22:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Dec 2025 01:05:52 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=1fde1000-cb89-11f0-aa40-bbdb97602671%26pt=campaign%26pv=4%26spa=1764252063%26t=1764253467%26s=78f24303827614ad802f4d6e4d9f11797ca22c29ec687c42a10589f87c94769e/1/0100019ac5b381d7-d5e90a2c-c41e-4d2d-882c-ef1fc4329457-000000/tV21mXY3RR66rYM-0cNaSeBvdIfBmUDPThD_TtYHMPI=433</link>
@@ -1019,6 +1019,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019ada5153f0-bd0e8858-92be-4af0-995c-b85e331166cd-000000/yxpBoixNrZVo9TdyNm12LXsYnsmmRhgCoy7FTrfHg5E=433</guid>
     </item>
     <item>
+      <title>- YouTube</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.youtube.com%2Fwatch%3Fv=iFqDyWFuw1c%26utm_source=tldrai/1/0100019ada5153f0-bd0e8858-92be-4af0-995c-b85e331166cd-000000/rYMHnOm8sHabIYLiNHw0MCAe5MXsi9b9RAu3YNwkiSw=433</link>
+      <description>Link found in newsletter: 'OpenAI ads 📰, how prompt caching works 💻, context plumbing 📄'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.youtube.com%2Fwatch%3Fv=iFqDyWFuw1c%26utm_source=tldrai/1/0100019ada5153f0-bd0e8858-92be-4af0-995c-b85e331166cd-000000/rYMHnOm8sHabIYLiNHw0MCAe5MXsi9b9RAu3YNwkiSw=433</guid>
+    </item>
+    <item>
       <title>The Thinking Game Film</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthinkinggamefilm.com%2F%3Futm_source=tldrai/1/0100019ada5153f0-bd0e8858-92be-4af0-995c-b85e331166cd-000000/qnvitNxgQ2xQqfw8nCSWN6RlNN9ZsGVPov3hKl0JHyI=433</link>
       <description>Link found in newsletter: 'OpenAI ads 📰, how prompt caching works 💻, context plumbing 📄'</description>
@@ -1845,6 +1851,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fauth.upsun.com%2Fregister%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=prod-clone-in-45s/1/0100019ae4325fe7-624c4603-b00d-4667-8fea-688605b09edf-000000/wGulzHRAjNzne-c0VV7rJuv6D-Wbx9c4TCII5X0dexM=434</link>
       <description>Link found in newsletter: 'Anthropic acquires Bun 💰, the junior hiring crisis 📉, type safe Go error checking 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fauth.upsun.com%2Fregister%3Futm_source=tldrwebdev%26utm_medium=newsletter%26utm_campaign=prod-clone-in-45s/1/0100019ae4325fe7-624c4603-b00d-4667-8fea-688605b09edf-000000/wGulzHRAjNzne-c0VV7rJuv6D-Wbx9c4TCII5X0dexM=434</guid>
+    </item>
+    <item>
+      <title>- YouTube</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.youtube.com%2Fwatch%3Fv=OaFfgxVuoFc/1/0100019ae4325fe7-624c4603-b00d-4667-8fea-688605b09edf-000000/mYJuJZrYsGcfVaXb0g9_SaB8LMvlfHv_aPacaBpjOtg=434</link>
+      <description>Link found in newsletter: 'Anthropic acquires Bun 💰, the junior hiring crisis 📉, type safe Go error checking 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.youtube.com%2Fwatch%3Fv=OaFfgxVuoFc/1/0100019ae4325fe7-624c4603-b00d-4667-8fea-688605b09edf-000000/mYJuJZrYsGcfVaXb0g9_SaB8LMvlfHv_aPacaBpjOtg=434</guid>
     </item>
     <item>
       <title>Production clone in 45s with full data and services | Upsun</title>
