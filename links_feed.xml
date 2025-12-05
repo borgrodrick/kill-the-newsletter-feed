@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 04 Dec 2025 18:22:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 01:06:28 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=b64c6598-ce93-11f0-83d2-9937072d83a5%26pt=campaign%26pv=4%26spa=1764590531%26t=1764592374%26s=859ba7689e5797c98d64a2d6169c2fa6ff49ec84410d99a87c708ab081ceb1cd/1/0100019ad9e6d217-3781ae0d-bdab-4a5f-9453-a3ef43ec9585-000000/GdjcnYg-JuaDcJtox8FdsE71PRTciWyV3Rz9dLK7vhI=433</link>
@@ -607,6 +607,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=a281c37a-cf4a-11f0-9e8a-e70d5dfa173c%26pt=campaign%26pv=4%26spa=1764676905%26t=1764677782%26s=40aef7588d218dce5dcb4b099852f86034c5be728c6c4eda7e0e26a1514bb092/1/0100019adefe0a39-6d01bafb-af15-4adb-90af-ff14451263a3-000000/q6oa6wsdoROBZWAU5IGeOPCiG5ptEquWH5TAmFtRU_Q=434</link>
       <description>Link found in newsletter: 'Writing good docs for agents 🤖, Siri SVP retires ✖️, why use React 🤔'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=a281c37a-cf4a-11f0-9e8a-e70d5dfa173c%26pt=campaign%26pv=4%26spa=1764676905%26t=1764677782%26s=40aef7588d218dce5dcb4b099852f86034c5be728c6c4eda7e0e26a1514bb092/1/0100019adefe0a39-6d01bafb-af15-4adb-90af-ff14451263a3-000000/q6oa6wsdoROBZWAU5IGeOPCiG5ptEquWH5TAmFtRU_Q=434</guid>
+    </item>
+    <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019adefe0a39-6d01bafb-af15-4adb-90af-ff14451263a3-000000/xPkKRVZPWBKMgyZoA1OXJYN0x3Zbffa8-eAlsPms1GQ=434</link>
+      <description>Link found in newsletter: 'Writing good docs for agents 🤖, Siri SVP retires ✖️, why use React 🤔'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019adefe0a39-6d01bafb-af15-4adb-90af-ff14451263a3-000000/xPkKRVZPWBKMgyZoA1OXJYN0x3Zbffa8-eAlsPms1GQ=434</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
@@ -1563,6 +1569,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=97c8d218-d0f6-11f0-9f1a-67515765076a%26pt=campaign%26pv=4%26spa=1764849698%26t=1764850584%26s=f7aa59618aeffcc18cf4d7ef5820857a82cad92d8a6c8efed1433af5fca57f92/1/0100019ae94acd0f-a42cbd93-f5ab-4694-840b-d58599ae70c1-000000/lTs14VED2NvQR4YCz6YhaY9xX6WvMsoI8hBlJKmqivA=434</guid>
     </item>
     <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019ae94acd0f-a42cbd93-f5ab-4694-840b-d58599ae70c1-000000/Cn4ugkqP2C-MSg5XVdDHg1DyNIGp-8BSmxWCz5V6-gA=434</link>
+      <description>Link found in newsletter: 'Modernizing Reddit infra 💬, critical React bug 🚨, the ACME protocol 🔐'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019ae94acd0f-a42cbd93-f5ab-4694-840b-d58599ae70c1-000000/Cn4ugkqP2C-MSg5XVdDHg1DyNIGp-8BSmxWCz5V6-gA=434</guid>
+    </item>
+    <item>
       <title>TLDR Jobs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019ae94acd0f-a42cbd93-f5ab-4694-840b-d58599ae70c1-000000/pKmjnUncVfnFhZynfeg3pOczuTNUPJghgQxWY3sLPk8=434</link>
       <description>Link found in newsletter: 'Modernizing Reddit infra 💬, critical React bug 🚨, the ACME protocol 🔐'</description>
@@ -1797,12 +1809,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=f80b3c1c-d0f9-11f0-a5c7-29b22f767f9c%26pt=campaign%26pv=4%26spa=1764856982%26t=1764858356%26s=d9766a836e55a8dab0393ee522c8036c43bda28e284ec6aee9107ee3d230c842/1/0100019ae9c164bd-4642cdf2-ed01-4f31-bac2-2c8dc6b1bfbb-000000/-FMgF33_vA0UzaLg3NZm9rNMdb0IDn3aoxR6aEsTWxA=434</guid>
     </item>
     <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019ae9c164bd-4642cdf2-ed01-4f31-bac2-2c8dc6b1bfbb-000000/7MWmyZKy8OwVsf0siJG1DmuAuY4JjHyFwlGRDGoiT9Y=434</link>
-      <description>Link found in newsletter: 'Nvidia’s leap 📈, understanding TPUs 💻, Google Workspace Studio ✏️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019ae9c164bd-4642cdf2-ed01-4f31-bac2-2c8dc6b1bfbb-000000/7MWmyZKy8OwVsf0siJG1DmuAuY4JjHyFwlGRDGoiT9Y=434</guid>
-    </item>
-    <item>
       <title>TLDR Jobs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019ae9c164bd-4642cdf2-ed01-4f31-bac2-2c8dc6b1bfbb-000000/isGRl9ETEtdIzVZ_Bt2ippck1KNOKkuG9ldL1nLjQB4=434</link>
       <description>Link found in newsletter: 'Nvidia’s leap 📈, understanding TPUs 💻, Google Workspace Studio ✏️'</description>
@@ -1851,7 +1857,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.twelvelabs.io%2Fbuild-with-twelvelabs%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=video_understanding_20251204/1/0100019ae9c164bd-4642cdf2-ed01-4f31-bac2-2c8dc6b1bfbb-000000/REc1u_wP6SID1iKvD7Sx-k4LnJjDQfp9oBajK_6theA=434</guid>
     </item>
     <item>
-      <title>First Hire | Sound for Movement | Sound for Movement</title>
+      <title>One Year with ChatGPT Pro as a First Hire | Sound for Movement</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.soundformovement.com%2Fchatgpt-pro-as-first-hire%3Futm_source=tldrai/1/0100019ae9c164bd-4642cdf2-ed01-4f31-bac2-2c8dc6b1bfbb-000000/ceAqcz8yE4mclgO1h8scisEjfQj3gM9TfmoLB7KmbNc=434</link>
       <description>Link found in newsletter: 'Nvidia’s leap 📈, understanding TPUs 💻, Google Workspace Studio ✏️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.soundformovement.com%2Fchatgpt-pro-as-first-hire%3Futm_source=tldrai/1/0100019ae9c164bd-4642cdf2-ed01-4f31-bac2-2c8dc6b1bfbb-000000/ceAqcz8yE4mclgO1h8scisEjfQj3gM9TfmoLB7KmbNc=434</guid>
