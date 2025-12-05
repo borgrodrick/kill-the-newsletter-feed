@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 05 Dec 2025 01:06:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 06:22:24 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=b64c6598-ce93-11f0-83d2-9937072d83a5%26pt=campaign%26pv=4%26spa=1764590531%26t=1764592374%26s=859ba7689e5797c98d64a2d6169c2fa6ff49ec84410d99a87c708ab081ceb1cd/1/0100019ad9e6d217-3781ae0d-bdab-4a5f-9453-a3ef43ec9585-000000/GdjcnYg-JuaDcJtox8FdsE71PRTciWyV3Rz9dLK7vhI=433</link>
@@ -1437,7 +1437,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.teslarati.com%2Ftesla-optimus-shows-off-its-newest-capability-progress-accelerates%2F%3Futm_source=tldrnewsletter/1/0100019ae91caabb-e8a929c4-cb76-465f-a07f-7c34fbed5656-000000/enV7Lpu3Bwdeh5meylmewc4FU7gT0Q7j9gncTBqQ1z4=434</guid>
     </item>
     <item>
-      <title>Rob Zolkos - Ruby on Rails Software Developer</title>
+      <title>The Making of Fizzy, Told by Git</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.zolkos.com%2F2025%2F12%2F02%2Fthe-making-of-fizzy-told-by-git%23the-war-on-anemic-code%3Futm_source=tldrnewsletter/1/0100019ae91caabb-e8a929c4-cb76-465f-a07f-7c34fbed5656-000000/HlHYO1X_btWaE7yi_kffqGve_PsIPuiIsm_zcMqe0i8=434</link>
       <description>Link found in newsletter: 'Sam Altman's SpaceX rival 🚀, Spotify Wrapped 🎵, critical RSC vulnerability 💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.zolkos.com%2F2025%2F12%2F02%2Fthe-making-of-fizzy-told-by-git%23the-war-on-anemic-code%3Futm_source=tldrnewsletter/1/0100019ae91caabb-e8a929c4-cb76-465f-a07f-7c34fbed5656-000000/HlHYO1X_btWaE7yi_kffqGve_PsIPuiIsm_zcMqe0i8=434</guid>
@@ -1807,6 +1807,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=f80b3c1c-d0f9-11f0-a5c7-29b22f767f9c%26pt=campaign%26pv=4%26spa=1764856982%26t=1764858356%26s=d9766a836e55a8dab0393ee522c8036c43bda28e284ec6aee9107ee3d230c842/1/0100019ae9c164bd-4642cdf2-ed01-4f31-bac2-2c8dc6b1bfbb-000000/-FMgF33_vA0UzaLg3NZm9rNMdb0IDn3aoxR6aEsTWxA=434</link>
       <description>Link found in newsletter: 'Nvidia’s leap 📈, understanding TPUs 💻, Google Workspace Studio ✏️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=f80b3c1c-d0f9-11f0-a5c7-29b22f767f9c%26pt=campaign%26pv=4%26spa=1764856982%26t=1764858356%26s=d9766a836e55a8dab0393ee522c8036c43bda28e284ec6aee9107ee3d230c842/1/0100019ae9c164bd-4642cdf2-ed01-4f31-bac2-2c8dc6b1bfbb-000000/-FMgF33_vA0UzaLg3NZm9rNMdb0IDn3aoxR6aEsTWxA=434</guid>
+    </item>
+    <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019ae9c164bd-4642cdf2-ed01-4f31-bac2-2c8dc6b1bfbb-000000/7MWmyZKy8OwVsf0siJG1DmuAuY4JjHyFwlGRDGoiT9Y=434</link>
+      <description>Link found in newsletter: 'Nvidia’s leap 📈, understanding TPUs 💻, Google Workspace Studio ✏️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019ae9c164bd-4642cdf2-ed01-4f31-bac2-2c8dc6b1bfbb-000000/7MWmyZKy8OwVsf0siJG1DmuAuY4JjHyFwlGRDGoiT9Y=434</guid>
     </item>
     <item>
       <title>TLDR Jobs</title>
