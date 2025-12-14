@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 14 Dec 2025 12:26:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 18:19:19 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=f205aa3a-d4d4-11f0-a526-49dac5d1995d%26pt=campaign%26pv=4%26spa=1765278120%26t=1765279558%26s=3fca98bf6a5b16d89f62662f37a3d81545de58a85ada2972be8d09c839647425/1/0100019b02dc6c9d-d1fd4c23-a740-4057-9807-57c6eb7cf809-000000/osVdm7nTtjNGRYkET1BOZw4Fg1LdWGF2lWWgbXUBhxo=434</link>
@@ -48,6 +48,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019b02dc6c9d-d1fd4c23-a740-4057-9807-57c6eb7cf809-000000/3NiyagUonQHUiWU76c1LiwVp97Gu08E-RfSeEPfuwPY=434</link>
       <description>Link found in newsletter: 'Inside OpenAI's code red 🤖, Google's AI glasses 👓, cost of software declines 📉'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019b02dc6c9d-d1fd4c23-a740-4057-9807-57c6eb7cf809-000000/3NiyagUonQHUiWU76c1LiwVp97Gu08E-RfSeEPfuwPY=434</guid>
+    </item>
+    <item>
+      <title>What Is Agentic Browsing and Why Are AI Browsers Not Replacing Chrome Yet? - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FcyHJiW/1/0100019b02dc6c9d-d1fd4c23-a740-4057-9807-57c6eb7cf809-000000/R8ge3fwtaHrVDbpFXtREjfXrDwCiXPI0A1D4hUaLIRU=434</link>
+      <description>Link found in newsletter: 'Inside OpenAI's code red 🤖, Google's AI glasses 👓, cost of software declines 📉'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FcyHJiW/1/0100019b02dc6c9d-d1fd4c23-a740-4057-9807-57c6eb7cf809-000000/R8ge3fwtaHrVDbpFXtREjfXrDwCiXPI0A1D4hUaLIRU=434</guid>
     </item>
     <item>
       <title>Software Engineering at Google</title>
@@ -378,12 +384,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=562b0b84-d4f5-11f0-8022-ab2bde77217c%26pt=campaign%26pv=4%26spa=1765288888%26t=1765291275%26s=7e88d542487edd74dab26af3a80b4a84ec2a9690585f05c6717c59b91aaa7c35/1/0100019b038f35f7-6c095005-8e97-42a3-99d9-9c7c6cded82c-000000/Sk8h7VxpzgewnXnYMVZDC_S8Ki9Seh91B323P3iKSB4=434</link>
       <description>Link found in newsletter: 'State of enterprise AI 💼, Claude Code in Slack 💻, alignment is capability ⚖️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=562b0b84-d4f5-11f0-8022-ab2bde77217c%26pt=campaign%26pv=4%26spa=1765288888%26t=1765291275%26s=7e88d542487edd74dab26af3a80b4a84ec2a9690585f05c6717c59b91aaa7c35/1/0100019b038f35f7-6c095005-8e97-42a3-99d9-9c7c6cded82c-000000/Sk8h7VxpzgewnXnYMVZDC_S8Ki9Seh91B323P3iKSB4=434</guid>
-    </item>
-    <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019b038f35f7-6c095005-8e97-42a3-99d9-9c7c6cded82c-000000/Ep1YAADRcUthoQAkZ-pyT85JZnFcWrXxkPaGobYNcjc=434</link>
-      <description>Link found in newsletter: 'State of enterprise AI 💼, Claude Code in Slack 💻, alignment is capability ⚖️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019b038f35f7-6c095005-8e97-42a3-99d9-9c7c6cded82c-000000/Ep1YAADRcUthoQAkZ-pyT85JZnFcWrXxkPaGobYNcjc=434</guid>
     </item>
     <item>
       <title>#bestinbusiness | TLDR</title>
@@ -756,12 +756,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=0a03e080-d59c-11f0-9cbc-df0b82e4bccc%26pt=campaign%26pv=4%26spa=1765368093%26t=1765369202%26s=1544c5d055dec24714ec22b911e507cf752a4479803019f83979eaa6412892e0/1/0100019b0834468d-7f1b948a-db04-4e81-8877-1969d53edadd-000000/o_mfDqUG1iEKIBXXp4c-5mz_li4jSHp5xet_YLA6-zk=435</link>
       <description>Link found in newsletter: 'Own a graph 📈, Mistral Vibe CLI 💻, vibe-oriented languages 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=0a03e080-d59c-11f0-9cbc-df0b82e4bccc%26pt=campaign%26pv=4%26spa=1765368093%26t=1765369202%26s=1544c5d055dec24714ec22b911e507cf752a4479803019f83979eaa6412892e0/1/0100019b0834468d-7f1b948a-db04-4e81-8877-1969d53edadd-000000/o_mfDqUG1iEKIBXXp4c-5mz_li4jSHp5xet_YLA6-zk=435</guid>
-    </item>
-    <item>
-      <title>Jenny X. - Meta | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019b0834468d-7f1b948a-db04-4e81-8877-1969d53edadd-000000/A2-MVmkgm5BqSNZvtMCKgenTSajL8kLIZvmJEW2O0so=435</link>
-      <description>Link found in newsletter: 'Own a graph 📈, Mistral Vibe CLI 💻, vibe-oriented languages 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019b0834468d-7f1b948a-db04-4e81-8877-1969d53edadd-000000/A2-MVmkgm5BqSNZvtMCKgenTSajL8kLIZvmJEW2O0so=435</guid>
     </item>
     <item>
       <title>#bestinbusiness | TLDR</title>
@@ -1786,6 +1780,18 @@ I first joined Ramp as the 20th employee in March 2020 where I was an early desi
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbetakit.com%2Fshopify-merchants-can-now-sell-products-through-ai-chatbots%2F%3Futm_source=tldrai/1/0100019b0de3a2b7-188cc694-0d29-470b-a6d6-ca1ea8cb2f14-000000/lykcEsHxd0fvjuAL7pgBSsWn76lgzVANhNtOwvKVBFo=435</guid>
     </item>
     <item>
+      <title>Google DeepMind Will Open AI Lab in UK to Discover New Materials - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FhNXrne/1/0100019b0de3a2b7-188cc694-0d29-470b-a6d6-ca1ea8cb2f14-000000/r8CoqKMrBGEomFRBtBVHGvck0oTcJAwov-IhOSqPTVc=435</link>
+      <description>Link found in newsletter: 'DeepMind’s automated lab 🧪, reverse engineering ChatGPT 🤖, Cursor Debug Mode 🐞'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FhNXrne/1/0100019b0de3a2b7-188cc694-0d29-470b-a6d6-ca1ea8cb2f14-000000/r8CoqKMrBGEomFRBtBVHGvck0oTcJAwov-IhOSqPTVc=435</guid>
+    </item>
+    <item>
+      <title>Inside Meta’s Pivot From Open Source to Money-Making AI Model - Bloomberg</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FE9Wh8e/1/0100019b0de3a2b7-188cc694-0d29-470b-a6d6-ca1ea8cb2f14-000000/u96O-fldZlWVxDDiWWbv5Pkm_nME1qqjDlQ3XuWeYyA=435</link>
+      <description>Link found in newsletter: 'DeepMind’s automated lab 🧪, reverse engineering ChatGPT 🤖, Cursor Debug Mode 🐞'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FE9Wh8e/1/0100019b0de3a2b7-188cc694-0d29-470b-a6d6-ca1ea8cb2f14-000000/u96O-fldZlWVxDDiWWbv5Pkm_nME1qqjDlQ3XuWeYyA=435</guid>
+    </item>
+    <item>
       <title>Orkes Whitepaper | From Netflix Conductor to Enterprise Scale</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Forkes.io%2Fwhitepapers%2Forkes-whitepaper-from-netflix-conductor-to-enterprise-scale%2F%3Futm_campaign=TLDR-flagship-Dec%26utm_source=Newsletter%26utm_medium=referral/5/0100019b0de3a2b7-188cc694-0d29-470b-a6d6-ca1ea8cb2f14-000000/OtKzFO5Edf088Lb05cA-uOPk2wn-5GGHe52aoqSGT3o=435</link>
       <description>Link found in newsletter: 'DeepMind’s automated lab 🧪, reverse engineering ChatGPT 🤖, Cursor Debug Mode 🐞'</description>
@@ -2186,12 +2192,6 @@ I first joined Ramp as the 20th employee in March 2020 where I was an early desi
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=670536ae-d74e-11f0-8934-aba62206822c%26pt=campaign%26pv=4%26spa=1765548129%26t=1765549247%26s=cc46e204b9039b04867a00b9fbf152427c1a786a1772bd611c96e5dc63a2c64a/1/0100019b12ef8bff-da07cd7e-f797-4fb1-bf42-92761c088782-000000/Mgw4AkIn9O1Obv7Kd54B4IdilfQ7KfzHykx8t9pvvSQ=435</link>
       <description>Link found in newsletter: 'Disney + OpenAI 🤝, GPT-5.2 🤖, Gemini Deep Research API 💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=670536ae-d74e-11f0-8934-aba62206822c%26pt=campaign%26pv=4%26spa=1765548129%26t=1765549247%26s=cc46e204b9039b04867a00b9fbf152427c1a786a1772bd611c96e5dc63a2c64a/1/0100019b12ef8bff-da07cd7e-f797-4fb1-bf42-92761c088782-000000/Mgw4AkIn9O1Obv7Kd54B4IdilfQ7KfzHykx8t9pvvSQ=435</guid>
-    </item>
-    <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019b12ef8bff-da07cd7e-f797-4fb1-bf42-92761c088782-000000/x3fjrAkoEggLhDEcuoz_RteRued-xdaOSjcUsyfGbw0=435</link>
-      <description>Link found in newsletter: 'Disney + OpenAI 🤝, GPT-5.2 🤖, Gemini Deep Research API 💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019b12ef8bff-da07cd7e-f797-4fb1-bf42-92761c088782-000000/x3fjrAkoEggLhDEcuoz_RteRued-xdaOSjcUsyfGbw0=435</guid>
     </item>
     <item>
       <title>#bestinbusiness | TLDR</title>
