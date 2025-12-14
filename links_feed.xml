@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 13 Dec 2025 18:18:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 01:13:09 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=f205aa3a-d4d4-11f0-a526-49dac5d1995d%26pt=campaign%26pv=4%26spa=1765278120%26t=1765279558%26s=3fca98bf6a5b16d89f62662f37a3d81545de58a85ada2972be8d09c839647425/1/0100019b02dc6c9d-d1fd4c23-a740-4057-9807-57c6eb7cf809-000000/osVdm7nTtjNGRYkET1BOZw4Fg1LdWGF2lWWgbXUBhxo=434</link>
@@ -50,12 +50,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019b02dc6c9d-d1fd4c23-a740-4057-9807-57c6eb7cf809-000000/3NiyagUonQHUiWU76c1LiwVp97Gu08E-RfSeEPfuwPY=434</guid>
     </item>
     <item>
-      <title>What Is Agentic Browsing and Why Are AI Browsers Not Replacing Chrome Yet? - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FcyHJiW/1/0100019b02dc6c9d-d1fd4c23-a740-4057-9807-57c6eb7cf809-000000/R8ge3fwtaHrVDbpFXtREjfXrDwCiXPI0A1D4hUaLIRU=434</link>
-      <description>Link found in newsletter: 'Inside OpenAI's code red 🤖, Google's AI glasses 👓, cost of software declines 📉'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FcyHJiW/1/0100019b02dc6c9d-d1fd4c23-a740-4057-9807-57c6eb7cf809-000000/R8ge3fwtaHrVDbpFXtREjfXrDwCiXPI0A1D4hUaLIRU=434</guid>
-    </item>
-    <item>
       <title>Software Engineering at Google</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fabseil.io%2Fresources%2Fswe-book%2Fhtml%2Fch15.html%3Futm_source=tldrnewsletter/1/0100019b02dc6c9d-d1fd4c23-a740-4057-9807-57c6eb7cf809-000000/29fC98e_w48AmAlOMWywnhPXpJnx4VzqwkwIdKuss78=434</link>
       <description>Link found in newsletter: 'Inside OpenAI's code red 🤖, Google's AI glasses 👓, cost of software declines 📉'</description>
@@ -96,12 +90,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F12%2F08%2Fparamount-skydance-hostile-bid-wbd-netflix.html%3Futm_source=tldrnewsletter/1/0100019b02dc6c9d-d1fd4c23-a740-4057-9807-57c6eb7cf809-000000/MJztv8Wm-uLWAKqZmLmDBkw87fIqnrCMWNL0GwPUBc4=434</link>
       <description>Link found in newsletter: 'Inside OpenAI's code red 🤖, Google's AI glasses 👓, cost of software declines 📉'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F12%2F08%2Fparamount-skydance-hostile-bid-wbd-netflix.html%3Futm_source=tldrnewsletter/1/0100019b02dc6c9d-d1fd4c23-a740-4057-9807-57c6eb7cf809-000000/MJztv8Wm-uLWAKqZmLmDBkw87fIqnrCMWNL0GwPUBc4=434</guid>
-    </item>
-    <item>
-      <title>Apple Chip Chief Tells Staff He’s Not Leaving ‘Anytime Soon’ - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F8Vd8zZ/1/0100019b02dc6c9d-d1fd4c23-a740-4057-9807-57c6eb7cf809-000000/lTAWqzkXc8nEhv1qZr3yB3v3NGa1SeQ2dkbaEeBtxaw=434</link>
-      <description>Link found in newsletter: 'Inside OpenAI's code red 🤖, Google's AI glasses 👓, cost of software declines 📉'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F8Vd8zZ/1/0100019b02dc6c9d-d1fd4c23-a740-4057-9807-57c6eb7cf809-000000/lTAWqzkXc8nEhv1qZr3yB3v3NGa1SeQ2dkbaEeBtxaw=434</guid>
     </item>
     <item>
       <title>llm weights vs the papercuts of corporate</title>
@@ -500,6 +488,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Finfo.notion.so%2Fresources%2F100-notion-ai-agent-use-cases%3Futm_source=newsletter%26utm_medium=TLDR%26utm_content=100-AI-agent-prompts%26utm_campaign=2025Q3-TLDRAI-100AgentPrompts/1/0100019b038f35f7-6c095005-8e97-42a3-99d9-9c7c6cded82c-000000/txA_eRWeRz5xLI9WB5hlPKNaZRbwOdjd7N0ojjIZHlI=434</guid>
     </item>
     <item>
+      <title>Power Up FSDP2 as a Flexible Training Backend for Miles | LMSYS Org</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flmsys.org%2Fblog%2F2025-12-03-miles-fsdp%2F%3Futm_source=tldrai/1/0100019b038f35f7-6c095005-8e97-42a3-99d9-9c7c6cded82c-000000/Na2Oje1kxefEI6hEVs99NcFhBFmK_735Yj58BsmhG4E=434</link>
+      <description>Link found in newsletter: 'State of enterprise AI 💼, Claude Code in Slack 💻, alignment is capability ⚖️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flmsys.org%2Fblog%2F2025-12-03-miles-fsdp%2F%3Futm_source=tldrai/1/0100019b038f35f7-6c095005-8e97-42a3-99d9-9c7c6cded82c-000000/Na2Oje1kxefEI6hEVs99NcFhBFmK_735Yj58BsmhG4E=434</guid>
+    </item>
+    <item>
       <title>Deep Dive into NVIDIA's Virtuous Cycle - Philippe Oger</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fphilippeoger.com%2Fpages%2Fdeep-dive-into-nvidias-virtuous-cycle%3Futm_source=tldrai/1/0100019b038f35f7-6c095005-8e97-42a3-99d9-9c7c6cded82c-000000/uufkdSAihIQLhNsYcUdsZWcRYecISc1nMyeqZvbKIfs=434</link>
       <description>Link found in newsletter: 'State of enterprise AI 💼, Claude Code in Slack 💻, alignment is capability ⚖️'</description>
@@ -696,12 +690,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F12%2F09%2Fmeta-avocado-ai-strategy-issues.html%3Futm_source=tldrnewsletter/1/0100019b08029df4-905ed75a-b39c-44d0-b57d-213c61639c53-000000/TQs3yS2J3Oh02TrgpmzsMh5sCzJ4I21lUy2JSS2eIsc=435</link>
       <description>Link found in newsletter: 'SpaceX $1.5T target 💰, Meta AI internal confusion 🤖, the 0.1x engineer 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F12%2F09%2Fmeta-avocado-ai-strategy-issues.html%3Futm_source=tldrnewsletter/1/0100019b08029df4-905ed75a-b39c-44d0-b57d-213c61639c53-000000/TQs3yS2J3Oh02TrgpmzsMh5sCzJ4I21lUy2JSS2eIsc=435</guid>
-    </item>
-    <item>
-      <title>SpaceX Said to Pursue 2026 IPO Raising Far Above $30 Billion - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FZcGVCg/1/0100019b08029df4-905ed75a-b39c-44d0-b57d-213c61639c53-000000/XehISWRX6uQ5ZISTcDH_ExXZM7w4hbTuS6Hg5zmXqI4=435</link>
-      <description>Link found in newsletter: 'SpaceX $1.5T target 💰, Meta AI internal confusion 🤖, the 0.1x engineer 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FZcGVCg/1/0100019b08029df4-905ed75a-b39c-44d0-b57d-213c61639c53-000000/XehISWRX6uQ5ZISTcDH_ExXZM7w4hbTuS6Hg5zmXqI4=435</guid>
     </item>
     <item>
       <title>Radar — WorkOS</title>
@@ -1558,7 +1546,7 @@
     <item>
       <title>After 5.5 years and selling my startup to Ramp, I wrapped up my time last month.
 
-I first joined Ramp as the 20th employee in March 2020 where I was an early designer and product lead. I left 2.5… | TK Kong | 145 comments</title>
+I first joined Ramp as the 20th employee in March 2020 where I was an early designer and product lead. I left 2.5… | TK Kong | 152 comments</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fposts%2Ftkkong_after-55-years-and-selling-my-startup-to-activity-7404554370396233728-tctB%3Futm_source=share%26utm_medium=member_desktop%26rcm=ACoAAA32rJkBCFg6qK7f7aa8EYzYJ9ha6bbpnfk/1/0100019b0dbf5c98-14ae6b2c-13d2-456b-a5d7-138c47f397c7-000000/UaoOEeJAhe96C1bPzkxY9U37f5RKopfVgnaPRmZJfpU=435</link>
       <description>Link found in newsletter: 'Airwallex raises $330M 🚀, Tiger Global launches new fund 💰, Agentic Commerce Is Here 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fposts%2Ftkkong_after-55-years-and-selling-my-startup-to-activity-7404554370396233728-tctB%3Futm_source=share%26utm_medium=member_desktop%26rcm=ACoAAA32rJkBCFg6qK7f7aa8EYzYJ9ha6bbpnfk/1/0100019b0dbf5c98-14ae6b2c-13d2-456b-a5d7-138c47f397c7-000000/UaoOEeJAhe96C1bPzkxY9U37f5RKopfVgnaPRmZJfpU=435</guid>
@@ -1616,12 +1604,6 @@ I first joined Ramp as the 20th employee in March 2020 where I was an early desi
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F12%2F08%2Ftiger-global-new-fund-ai-valuations.html%3Futm_source=tldrfintech/1/0100019b0dbf5c98-14ae6b2c-13d2-456b-a5d7-138c47f397c7-000000/U8YjB9KssBEp_06L0ErDGc1NVGFd3SY1_sVsZJR8Rmc=435</link>
       <description>Link found in newsletter: 'Airwallex raises $330M 🚀, Tiger Global launches new fund 💰, Agentic Commerce Is Here 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F12%2F08%2Ftiger-global-new-fund-ai-valuations.html%3Futm_source=tldrfintech/1/0100019b0dbf5c98-14ae6b2c-13d2-456b-a5d7-138c47f397c7-000000/U8YjB9KssBEp_06L0ErDGc1NVGFd3SY1_sVsZJR8Rmc=435</guid>
-    </item>
-    <item>
-      <title>Payments Startup Airwallex Raises Money at $8 Billion Valuation - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FY9HsaC/1/0100019b0dbf5c98-14ae6b2c-13d2-456b-a5d7-138c47f397c7-000000/q0a53qjcuUqhZfTHYwPfNpp_1fd0IAnfx_7NEDsZhwM=435</link>
-      <description>Link found in newsletter: 'Airwallex raises $330M 🚀, Tiger Global launches new fund 💰, Agentic Commerce Is Here 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FY9HsaC/1/0100019b0dbf5c98-14ae6b2c-13d2-456b-a5d7-138c47f397c7-000000/q0a53qjcuUqhZfTHYwPfNpp_1fd0IAnfx_7NEDsZhwM=435</guid>
     </item>
     <item>
       <title>TLDR Fintech</title>
@@ -1786,18 +1768,6 @@ I first joined Ramp as the 20th employee in March 2020 where I was an early desi
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbetakit.com%2Fshopify-merchants-can-now-sell-products-through-ai-chatbots%2F%3Futm_source=tldrai/1/0100019b0de3a2b7-188cc694-0d29-470b-a6d6-ca1ea8cb2f14-000000/lykcEsHxd0fvjuAL7pgBSsWn76lgzVANhNtOwvKVBFo=435</guid>
     </item>
     <item>
-      <title>Google DeepMind Will Open AI Lab in UK to Discover New Materials - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FhNXrne/1/0100019b0de3a2b7-188cc694-0d29-470b-a6d6-ca1ea8cb2f14-000000/r8CoqKMrBGEomFRBtBVHGvck0oTcJAwov-IhOSqPTVc=435</link>
-      <description>Link found in newsletter: 'DeepMind’s automated lab 🧪, reverse engineering ChatGPT 🤖, Cursor Debug Mode 🐞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FhNXrne/1/0100019b0de3a2b7-188cc694-0d29-470b-a6d6-ca1ea8cb2f14-000000/r8CoqKMrBGEomFRBtBVHGvck0oTcJAwov-IhOSqPTVc=435</guid>
-    </item>
-    <item>
-      <title>Inside Meta’s Pivot From Open Source to Money-Making AI Model - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FE9Wh8e/1/0100019b0de3a2b7-188cc694-0d29-470b-a6d6-ca1ea8cb2f14-000000/u96O-fldZlWVxDDiWWbv5Pkm_nME1qqjDlQ3XuWeYyA=435</link>
-      <description>Link found in newsletter: 'DeepMind’s automated lab 🧪, reverse engineering ChatGPT 🤖, Cursor Debug Mode 🐞'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FE9Wh8e/1/0100019b0de3a2b7-188cc694-0d29-470b-a6d6-ca1ea8cb2f14-000000/u96O-fldZlWVxDDiWWbv5Pkm_nME1qqjDlQ3XuWeYyA=435</guid>
-    </item>
-    <item>
       <title>Orkes Whitepaper | From Netflix Conductor to Enterprise Scale</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Forkes.io%2Fwhitepapers%2Forkes-whitepaper-from-netflix-conductor-to-enterprise-scale%2F%3Futm_campaign=TLDR-flagship-Dec%26utm_source=Newsletter%26utm_medium=referral/5/0100019b0de3a2b7-188cc694-0d29-470b-a6d6-ca1ea8cb2f14-000000/OtKzFO5Edf088Lb05cA-uOPk2wn-5GGHe52aoqSGT3o=435</link>
       <description>Link found in newsletter: 'DeepMind’s automated lab 🧪, reverse engineering ChatGPT 🤖, Cursor Debug Mode 🐞'</description>
@@ -1918,12 +1888,6 @@ I first joined Ramp as the 20th employee in March 2020 where I was an early desi
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanielmiessler.com%2Fblog%2Fanthropics-vision-advantage%3Futm_source=tldrnewsletter/1/0100019b124f1607-7093f5ad-8aa4-4019-a243-3864d9741497-000000/1QqMgfULdiP_Kns0xm1Swvh55g8q1P-EZMRDUFE5NVM=435</guid>
     </item>
     <item>
-      <title>Coinbase Ready to Launch Prediction Markets, Tokenized Stocks - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FcB5IXt/1/0100019b124f1607-7093f5ad-8aa4-4019-a243-3864d9741497-000000/-Ca1C7kYM5ELA8gjG-7_YG8E2QLNqe6OJSVUlvkAv-8=435</link>
-      <description>Link found in newsletter: 'GPT-5.2 🤖, Rivian autonomy 🛻, compound engineering 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FcB5IXt/1/0100019b124f1607-7093f5ad-8aa4-4019-a243-3864d9741497-000000/-Ca1C7kYM5ELA8gjG-7_YG8E2QLNqe6OJSVUlvkAv-8=435</guid>
-    </item>
-    <item>
       <title>blog/2025/12/an-svg-is-all-you-need.mld</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjon.recoil.org%2Fblog%2F2025%2F12%2Fan-svg-is-all-you-need.html%3Futm_source=tldrnewsletter/1/0100019b124f1607-7093f5ad-8aa4-4019-a243-3864d9741497-000000/w6KWx1eQaQ_zOjdSbwylub8NmrTn0Qm8SY5YHmNXQt0=435</link>
       <description>Link found in newsletter: 'GPT-5.2 🤖, Rivian autonomy 🛻, compound engineering 👨‍💻'</description>
@@ -1964,6 +1928,12 @@ I first joined Ramp as the 20th employee in March 2020 where I was an early desi
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F12%2F11%2Frivian-autonomy-ai-day.html%3Futm_source=tldrnewsletter/1/0100019b124f1607-7093f5ad-8aa4-4019-a243-3864d9741497-000000/Xs6NtLhn3kUMw4OXlWZ09Dx1XA7MdJwdIHnNyhpHw-Q=435</link>
       <description>Link found in newsletter: 'GPT-5.2 🤖, Rivian autonomy 🛻, compound engineering 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cnbc.com%2F2025%2F12%2F11%2Frivian-autonomy-ai-day.html%3Futm_source=tldrnewsletter/1/0100019b124f1607-7093f5ad-8aa4-4019-a243-3864d9741497-000000/Xs6NtLhn3kUMw4OXlWZ09Dx1XA7MdJwdIHnNyhpHw-Q=435</guid>
+    </item>
+    <item>
+      <title>Google announces experimental ‘Disco’ browser with ‘GenTabs’</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5google.com%2F2025%2F12%2F11%2Fgoogle-disco-gentab-browser%2F%3Futm_source=tldrnewsletter/1/0100019b124f1607-7093f5ad-8aa4-4019-a243-3864d9741497-000000/hX4E5_u0mTUUSzJ0SfrmAu4Keg74BNTKU3rsmChM-tI=435</link>
+      <description>Link found in newsletter: 'GPT-5.2 🤖, Rivian autonomy 🛻, compound engineering 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5google.com%2F2025%2F12%2F11%2Fgoogle-disco-gentab-browser%2F%3Futm_source=tldrnewsletter/1/0100019b124f1607-7093f5ad-8aa4-4019-a243-3864d9741497-000000/hX4E5_u0mTUUSzJ0SfrmAu4Keg74BNTKU3rsmChM-tI=435</guid>
     </item>
     <item>
       <title>OpenAI releases GPT-5.2 after “code red” Google threat alert - Ars Technica</title>
@@ -2312,6 +2282,12 @@ I first joined Ramp as the 20th employee in March 2020 where I was an early desi
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.argmin.net%2Fp%2Fprompts-for-open-problems%3Futm_source=tldrai/1/0100019b12ef8bff-da07cd7e-f797-4fb1-bf42-92761c088782-000000/WeeF68nQHl24-O2Uwqgc7BC-Fq1UfAYwy-KmmdHJJT0=435</link>
       <description>Link found in newsletter: 'Disney + OpenAI 🤝, GPT-5.2 🤖, Gemini Deep Research API 💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.argmin.net%2Fp%2Fprompts-for-open-problems%3Futm_source=tldrai/1/0100019b12ef8bff-da07cd7e-f797-4fb1-bf42-92761c088782-000000/WeeF68nQHl24-O2Uwqgc7BC-Fq1UfAYwy-KmmdHJJT0=435</guid>
+    </item>
+    <item>
+      <title>Let Tensors Fly — Accelerating Large Model Weight Loading with R-Fork | LMSYS Org</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flmsys.org%2Fblog%2F2025-12-10-rfork%2F%3Futm_source=tldrai/1/0100019b12ef8bff-da07cd7e-f797-4fb1-bf42-92761c088782-000000/7mYNQ5s2guQtn0elJBa9EyVyVrZdC_MBRr2-K4abdQc=435</link>
+      <description>Link found in newsletter: 'Disney + OpenAI 🤝, GPT-5.2 🤖, Gemini Deep Research API 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flmsys.org%2Fblog%2F2025-12-10-rfork%2F%3Futm_source=tldrai/1/0100019b12ef8bff-da07cd7e-f797-4fb1-bf42-92761c088782-000000/7mYNQ5s2guQtn0elJBa9EyVyVrZdC_MBRr2-K4abdQc=435</guid>
     </item>
     <item>
       <title>Disney investing $1 billion in OpenAI, will allow characters on Sora</title>
