@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 20 Dec 2025 01:03:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 06:21:31 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=e26cff2c-d9bd-11f0-ac56-7b773539b21c%26pt=campaign%26pv=4%26spa=1765807370%26t=1765808689%26s=1a4421c7190894204e7cba952a46473263c1850adc6c1c3109471e3a589d19b2/1/0100019b226651fb-9851e469-3d49-4cab-a9c9-15b4ded40e79-000000/qp78lGcd-qWIxK5yioe5ANR1SQGJkgOlaCGGoZi1_1Y=435</link>
@@ -356,12 +356,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=3c6f5a7c-da60-11f0-9afc-4d72c96e8660%26pt=campaign%26pv=4%26spa=1765886473%26t=1765887315%26s=4a4455054a44379ab6185ddb74234b10afbfa31736426c068a5c6c71b4a8e9be/1/0100019b27160e2d-f5dd5a40-00e5-45f4-bd89-1531529d0f19-000000/DKW2ckMeTIU3T5mpcusBwRoJa2miM0SAieBCQMw_cUQ=435</guid>
     </item>
     <item>
-      <title>Jenny X. - Meta | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019b27160e2d-f5dd5a40-00e5-45f4-bd89-1531529d0f19-000000/U0qgI0Ah-iQB9Um8cag1tALrTfM0M_fiPWtEY-cbqUM=435</link>
-      <description>Link found in newsletter: 'AI eats SaaS 🤖, Claude Code memory 🧠, database for SSDs 💾'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019b27160e2d-f5dd5a40-00e5-45f4-bd89-1531529d0f19-000000/U0qgI0Ah-iQB9Um8cag1tALrTfM0M_fiPWtEY-cbqUM=435</guid>
-    </item>
-    <item>
       <title>#bestinbusiness | TLDR</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019b27160e2d-f5dd5a40-00e5-45f4-bd89-1531529d0f19-000000/jGhjFiECKwZZrOvkYoaiLJHmixN2fLhE1m5aVaSdVis=435</link>
       <description>Link found in newsletter: 'AI eats SaaS 🤖, Claude Code memory 🧠, database for SSDs 💾'</description>
@@ -386,7 +380,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019b27160e2d-f5dd5a40-00e5-45f4-bd89-1531529d0f19-000000/rQD1k3lG_rns2fFOo18hfMWwipWLkW7lmgnqoag2lQA=435</guid>
     </item>
     <item>
-      <title>TLDR Web Dev | Referral Hub</title>
+      <title>TLDR Dev | Referral Hub</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019b27160e2d-f5dd5a40-00e5-45f4-bd89-1531529d0f19-000000/lXzkLhXZWRm-Daj6KV7JKy9jaipna1QXFq7J_hQvZSI=435</link>
       <description>Link found in newsletter: 'AI eats SaaS 🤖, Claude Code memory 🧠, database for SSDs 💾'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019b27160e2d-f5dd5a40-00e5-45f4-bd89-1531529d0f19-000000/lXzkLhXZWRm-Daj6KV7JKy9jaipna1QXFq7J_hQvZSI=435</guid>
@@ -864,6 +858,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=e502f78a-db22-11f0-a173-fb67e9d6b26d%26pt=campaign%26pv=4%26spa=1765972901%26t=1765973973%26s=8a1631919ed1110c542213358b7fe9d7e0669a50303e7c4671ba41844e243db9/1/0100019b2c405c18-d5d19017-c962-47ec-907a-eaa4360c7238-000000/O-SSb3gzOloiZrfzKNse-423Kc0FhRmWFOaaez0v_Ng=436</link>
       <description>Link found in newsletter: 'GitHub Actions charges 💲, building LinkedIn AI agent 🤖, understanding React CVE 🔒'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=e502f78a-db22-11f0-a173-fb67e9d6b26d%26pt=campaign%26pv=4%26spa=1765972901%26t=1765973973%26s=8a1631919ed1110c542213358b7fe9d7e0669a50303e7c4671ba41844e243db9/1/0100019b2c405c18-d5d19017-c962-47ec-907a-eaa4360c7238-000000/O-SSb3gzOloiZrfzKNse-423Kc0FhRmWFOaaez0v_Ng=436</guid>
+    </item>
+    <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019b2c405c18-d5d19017-c962-47ec-907a-eaa4360c7238-000000/xSFkAcpxdDc-0yr7QuAjT0NRpmXVERjgAjQFytifkuc=436</link>
+      <description>Link found in newsletter: 'GitHub Actions charges 💲, building LinkedIn AI agent 🤖, understanding React CVE 🔒'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019b2c405c18-d5d19017-c962-47ec-907a-eaa4360c7238-000000/xSFkAcpxdDc-0yr7QuAjT0NRpmXVERjgAjQFytifkuc=436</guid>
     </item>
     <item>
       <title>#bestinbusiness | TLDR</title>
@@ -1412,12 +1412,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=4393b126-dc00-11f0-9e8a-13b511bfaab9%26pt=campaign%26pv=4%26spa=1766059304%26t=1766060164%26s=616bbbd898cbe9123cde0efeac06c81455da8b165651b6614ad02ab83dfd1ea1/1/0100019b3163851d-652a1911-1058-4345-99a7-2ca6255e35bb-000000/wdhmGE_CAaR1ie_EmXr6Kg-A-nMo-7iHsfTvaYOwmUs=436</guid>
     </item>
     <item>
-      <title>Jenny X. - Meta | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019b3163851d-652a1911-1058-4345-99a7-2ca6255e35bb-000000/hu8goaW3-IuZAfcI7e2rtmZKnxR9Z3X-WcxUSsFjfVY=436</link>
-      <description>Link found in newsletter: 'AI vs junior devs 👨‍💻, Ruby 4.0 ♦️, how SQLite is tested 🪨'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019b3163851d-652a1911-1058-4345-99a7-2ca6255e35bb-000000/hu8goaW3-IuZAfcI7e2rtmZKnxR9Z3X-WcxUSsFjfVY=436</guid>
-    </item>
-    <item>
       <title>#bestinbusiness | TLDR</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019b3163851d-652a1911-1058-4345-99a7-2ca6255e35bb-000000/s3yq6VT8wiz8w--v7IFHRtCSfk3AmUUgFn8p9Lh8Xzo=436</link>
       <description>Link found in newsletter: 'AI vs junior devs 👨‍💻, Ruby 4.0 ♦️, how SQLite is tested 🪨'</description>
@@ -1574,10 +1568,10 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=033631a8-dc05-11f0-bd39-f512f8d79e86%26pt=campaign%26pv=4%26spa=1766066459%26t=1766066830%26s=b0d6d15ad56b6ff277d9a960dcf8744da7af75918bf4caf80615a149723b50aa/1/0100019b31c93cf5-1e47ec79-5cc2-40ef-bd79-67f6ceaba63c-000000/yyksMkvJEzaF6rbWkGnLmgD0j2MLBSAWMk2E7p2BYCE=436</guid>
     </item>
     <item>
-      <title>Gabriel Sundaram - attain | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019b31c93cf5-1e47ec79-5cc2-40ef-bd79-67f6ceaba63c-000000/jlWR0VImsdcy2pWgwpkmEuLwbYfhy9AQMzFYGrRRR6c=436</link>
+      <title>Matt Cheung - Ceviche | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019b31c93cf5-1e47ec79-5cc2-40ef-bd79-67f6ceaba63c-000000/3UI261YgpJeGL0YBys0sxNVUOzFkhC9zXU-KBcxh5Y8=436</link>
       <description>Link found in newsletter: 'Visa USDC Settlement 🪙, PayPal applies to launch industrial bank 🏦, Klarna agentic tools 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019b31c93cf5-1e47ec79-5cc2-40ef-bd79-67f6ceaba63c-000000/jlWR0VImsdcy2pWgwpkmEuLwbYfhy9AQMzFYGrRRR6c=436</guid>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019b31c93cf5-1e47ec79-5cc2-40ef-bd79-67f6ceaba63c-000000/3UI261YgpJeGL0YBys0sxNVUOzFkhC9zXU-KBcxh5Y8=436</guid>
     </item>
     <item>
       <title>#bestinbusiness | TLDR</title>
@@ -1980,6 +1974,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=64bb75b8-dcc4-11f0-94da-654616935820%26pt=campaign%26pv=4%26spa=1766145681%26t=1766147068%26s=20f62a6c366663a856903f5b714619f21cda5bd905b03de36fc2592952db4dbc/1/0100019b369191ab-961cbc50-7b04-40a8-8bf1-fb294add3e0a-000000/95aPTRVP_LT4cj0GR2AkXYYSSi-G0EA-IbZ0-Bi37y8=436</link>
       <description>Link found in newsletter: 'Pwning Mintlify 👨‍💻, EC2 Instance Attestation 💻, GPT-5.2-Codex 🚀'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=64bb75b8-dcc4-11f0-94da-654616935820%26pt=campaign%26pv=4%26spa=1766145681%26t=1766147068%26s=20f62a6c366663a856903f5b714619f21cda5bd905b03de36fc2592952db4dbc/1/0100019b369191ab-961cbc50-7b04-40a8-8bf1-fb294add3e0a-000000/95aPTRVP_LT4cj0GR2AkXYYSSi-G0EA-IbZ0-Bi37y8=436</guid>
+    </item>
+    <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019b369191ab-961cbc50-7b04-40a8-8bf1-fb294add3e0a-000000/yKafM0erzGH166EWkB6VZ4wfbSUJ1rvXg_vdwJHpt9o=436</link>
+      <description>Link found in newsletter: 'Pwning Mintlify 👨‍💻, EC2 Instance Attestation 💻, GPT-5.2-Codex 🚀'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019b369191ab-961cbc50-7b04-40a8-8bf1-fb294add3e0a-000000/yKafM0erzGH166EWkB6VZ4wfbSUJ1rvXg_vdwJHpt9o=436</guid>
     </item>
     <item>
       <title>#bestinbusiness | TLDR</title>
