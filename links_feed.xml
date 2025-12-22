@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 22 Dec 2025 01:11:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 06:25:03 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=e26cff2c-d9bd-11f0-ac56-7b773539b21c%26pt=campaign%26pv=4%26spa=1765807370%26t=1765808689%26s=1a4421c7190894204e7cba952a46473263c1850adc6c1c3109471e3a589d19b2/1/0100019b226651fb-9851e469-3d49-4cab-a9c9-15b4ded40e79-000000/qp78lGcd-qWIxK5yioe5ANR1SQGJkgOlaCGGoZi1_1Y=435</link>
@@ -944,12 +944,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fskyramp.dev%2F%3Futm_campaign=Beta1225%26utm_source=tldrdev%26utm_medium=newsletter/1/0100019b2c405c18-d5d19017-c962-47ec-907a-eaa4360c7238-000000/MZSKiTiYGQToiz-YWspj3KYLbzThXRT0icbcS8huRpA=436</guid>
     </item>
     <item>
-      <title>Skyramp</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.skyramp.dev%2F%3Futm_campaign=Beta1225%26utm_source=tldrdev%26utm_medium=newsletter/1/0100019b2c405c18-d5d19017-c962-47ec-907a-eaa4360c7238-000000/4L6X-kPJ-k89SuZhjmh-HAYrpzEnFwfmKUvb1npiBe8=436</link>
-      <description>Link found in newsletter: 'GitHub Actions charges 💲, building LinkedIn AI agent 🤖, understanding React CVE 🔒'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.skyramp.dev%2F%3Futm_campaign=Beta1225%26utm_source=tldrdev%26utm_medium=newsletter/1/0100019b2c405c18-d5d19017-c962-47ec-907a-eaa4360c7238-000000/4L6X-kPJ-k89SuZhjmh-HAYrpzEnFwfmKUvb1npiBe8=436</guid>
-    </item>
-    <item>
       <title>How LinkedIn Built an AI-Powered Hiring Assistant</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.bytebytego.com%2Fp%2Fhow-linkedin-built-an-ai-powered%3Futm_source=tldrdev/1/0100019b2c405c18-d5d19017-c962-47ec-907a-eaa4360c7238-000000/EkSlfXAr3OTWetplJtGJGlnAtjCNQOWY19o32GUX4fk=436</link>
       <description>Link found in newsletter: 'GitHub Actions charges 💲, building LinkedIn AI agent 🤖, understanding React CVE 🔒'</description>
@@ -1658,6 +1652,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fresolve.ai%2Fcustomers%2Fcoinbase%3Futm_source=tldr-fintech%26utm_medium=3p-newsletter-dec-18%26utm_id=finserv/1/0100019b31c93cf5-1e47ec79-5cc2-40ef-bd79-67f6ceaba63c-000000/SB9111BGfAJa0maNvl9NfBuYSns__eDkrI8bpKkitbs=436</guid>
     </item>
     <item>
+      <title>AI for Financial Systems</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fresolve.ai%2Findustries%2Ffinancial-services%3Futm_source=tldr-fintech%26utm_medium=3p-newsletter-dec-18%26utm_id=finserv/1/0100019b31c93cf5-1e47ec79-5cc2-40ef-bd79-67f6ceaba63c-000000/-0-CnLgwohoyEUU4B0Dqs4IWmh3GspC9TdjehQHl-04=436</link>
+      <description>Link found in newsletter: 'Visa USDC Settlement 🪙, PayPal applies to launch industrial bank 🏦, Klarna agentic tools 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fresolve.ai%2Findustries%2Ffinancial-services%3Futm_source=tldr-fintech%26utm_medium=3p-newsletter-dec-18%26utm_id=finserv/1/0100019b31c93cf5-1e47ec79-5cc2-40ef-bd79-67f6ceaba63c-000000/-0-CnLgwohoyEUU4B0Dqs4IWmh3GspC9TdjehQHl-04=436</guid>
+    </item>
+    <item>
       <title>Checkout.com research signals first AI Christmas, with consumers set to embrace agentic commerce in 2026</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.checkout.com%2Fnewsroom%2Fcheckout-com-research-signals-first-ai-christmas-with-consumers-set-to-embrace-agentic-commerce-in-2026%3Futm_source=tldrfintech/1/0100019b31c93cf5-1e47ec79-5cc2-40ef-bd79-67f6ceaba63c-000000/j-lgvKdDCVP9DpRhodIQ-n0bIuSnKNk3MLpDPY7olc8=436</link>
       <description>Link found in newsletter: 'Visa USDC Settlement 🪙, PayPal applies to launch industrial bank 🏦, Klarna agentic tools 🤖'</description>
@@ -1692,12 +1692,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=a4b4593e-dc09-11f0-a688-2b96412fe757%26pt=campaign%26pv=4%26spa=1766066546%26t=1766069316%26s=bbe9ee9aebf563f7d73dd662b3ba6221372ef6bb474239f984ebb7421bda7174/1/0100019b31ef2cb4-a918ac36-75a1-43f5-b6f0-c1e01091b9b9-000000/nh80X73YepumCXChjgR1wt-CRmqkAH3rRXDDo3y5I3Y=436</link>
       <description>Link found in newsletter: 'Gemini 3 Flash 🔦, TPU PyTorch support 👨‍💻, Grok Voice Agent API 💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=a4b4593e-dc09-11f0-a688-2b96412fe757%26pt=campaign%26pv=4%26spa=1766066546%26t=1766069316%26s=bbe9ee9aebf563f7d73dd662b3ba6221372ef6bb474239f984ebb7421bda7174/1/0100019b31ef2cb4-a918ac36-75a1-43f5-b6f0-c1e01091b9b9-000000/nh80X73YepumCXChjgR1wt-CRmqkAH3rRXDDo3y5I3Y=436</guid>
-    </item>
-    <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019b31ef2cb4-a918ac36-75a1-43f5-b6f0-c1e01091b9b9-000000/Uwid6waD6yzHLBJ0xpY6EomuKzG8c54Ot9NSOFbj1Zc=436</link>
-      <description>Link found in newsletter: 'Gemini 3 Flash 🔦, TPU PyTorch support 👨‍💻, Grok Voice Agent API 💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019b31ef2cb4-a918ac36-75a1-43f5-b6f0-c1e01091b9b9-000000/Uwid6waD6yzHLBJ0xpY6EomuKzG8c54Ot9NSOFbj1Zc=436</guid>
     </item>
     <item>
       <title>#bestinbusiness | TLDR</title>
