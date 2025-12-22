@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 21 Dec 2025 18:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 01:11:00 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=e26cff2c-d9bd-11f0-ac56-7b773539b21c%26pt=campaign%26pv=4%26spa=1765807370%26t=1765808689%26s=1a4421c7190894204e7cba952a46473263c1850adc6c1c3109471e3a589d19b2/1/0100019b226651fb-9851e469-3d49-4cab-a9c9-15b4ded40e79-000000/qp78lGcd-qWIxK5yioe5ANR1SQGJkgOlaCGGoZi1_1Y=435</link>
@@ -264,12 +264,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwriting.nikunjk.com%2Fp%2Fliars-valuation%3Futm_source=tldrnewsletter/1/0100019b26e8908b-b36d894f-5627-43d0-bb8d-3ac684d48b1a-000000/WQWyc3QrZF7X0D7QKm6CxDjlHnjAh5zP5se33mnJENU=435</link>
       <description>Link found in newsletter: 'Apple lineup leaks 📱, PayPal bank 🏦, Cloudflare year in review 🌐'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwriting.nikunjk.com%2Fp%2Fliars-valuation%3Futm_source=tldrnewsletter/1/0100019b26e8908b-b36d894f-5627-43d0-bb8d-3ac684d48b1a-000000/WQWyc3QrZF7X0D7QKm6CxDjlHnjAh5zP5se33mnJENU=435</guid>
-    </item>
-    <item>
-      <title>Netflix CEOs Defend $82.7 Billion Warner Bros. Deal After Paramount Bid - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FUxdVzq/1/0100019b26e8908b-b36d894f-5627-43d0-bb8d-3ac684d48b1a-000000/x7twTZBTI_WWzc7pgi6YOC1HLhtMJva9invH6c74xV4=435</link>
-      <description>Link found in newsletter: 'Apple lineup leaks 📱, PayPal bank 🏦, Cloudflare year in review 🌐'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FUxdVzq/1/0100019b26e8908b-b36d894f-5627-43d0-bb8d-3ac684d48b1a-000000/x7twTZBTI_WWzc7pgi6YOC1HLhtMJva9invH6c74xV4=435</guid>
     </item>
     <item>
       <title>Firecrawl - The Web Data API for AI</title>
@@ -834,18 +828,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F2000977815672643908.html%3Futm_source=tldrnewsletter/1/0100019b2c0ec8ed-4566b1f8-d6e2-482e-bdfe-132802189e4c-000000/iGWlyC3kh6uj7C_O-GWJm1NWKQoPaAT_q2ru5XG2AX4=436</link>
       <description>Link found in newsletter: 'ChatGPT Image upgrade 🖼️, WB rejects Paramount 🎬, faciliting AI dev adoption 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F2000977815672643908.html%3Futm_source=tldrnewsletter/1/0100019b2c0ec8ed-4566b1f8-d6e2-482e-bdfe-132802189e4c-000000/iGWlyC3kh6uj7C_O-GWJm1NWKQoPaAT_q2ru5XG2AX4=436</guid>
-    </item>
-    <item>
-      <title>Warner Bros. Plans to Reject Paramount Bid on Funding, Terms - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNjpNE1/1/0100019b2c0ec8ed-4566b1f8-d6e2-482e-bdfe-132802189e4c-000000/2SMzvglPNigHxxvEnMl0hE0zK0OITJGIav0EKnuamIk=436</link>
-      <description>Link found in newsletter: 'ChatGPT Image upgrade 🖼️, WB rejects Paramount 🎬, faciliting AI dev adoption 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNjpNE1/1/0100019b2c0ec8ed-4566b1f8-d6e2-482e-bdfe-132802189e4c-000000/2SMzvglPNigHxxvEnMl0hE0zK0OITJGIav0EKnuamIk=436</guid>
-    </item>
-    <item>
-      <title>OpenAI’s ChatGPT Updated to Make Images Better and Faster - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FIpZlKS/1/0100019b2c0ec8ed-4566b1f8-d6e2-482e-bdfe-132802189e4c-000000/tG7Jiwb_1DrOLYPvsIrzIlwK2swiHHBZhvGysEIJNLc=436</link>
-      <description>Link found in newsletter: 'ChatGPT Image upgrade 🖼️, WB rejects Paramount 🎬, faciliting AI dev adoption 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FIpZlKS/1/0100019b2c0ec8ed-4566b1f8-d6e2-482e-bdfe-132802189e4c-000000/tG7Jiwb_1DrOLYPvsIrzIlwK2swiHHBZhvGysEIJNLc=436</guid>
     </item>
     <item>
       <title>With Marqeta, you won't have to compromise</title>
@@ -1674,12 +1656,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fresolve.ai%2Fcustomers%2Fcoinbase%3Futm_source=tldr-fintech%26utm_medium=3p-newsletter-dec-18%26utm_id=finserv/1/0100019b31c93cf5-1e47ec79-5cc2-40ef-bd79-67f6ceaba63c-000000/SB9111BGfAJa0maNvl9NfBuYSns__eDkrI8bpKkitbs=436</link>
       <description>Link found in newsletter: 'Visa USDC Settlement 🪙, PayPal applies to launch industrial bank 🏦, Klarna agentic tools 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fresolve.ai%2Fcustomers%2Fcoinbase%3Futm_source=tldr-fintech%26utm_medium=3p-newsletter-dec-18%26utm_id=finserv/1/0100019b31c93cf5-1e47ec79-5cc2-40ef-bd79-67f6ceaba63c-000000/SB9111BGfAJa0maNvl9NfBuYSns__eDkrI8bpKkitbs=436</guid>
-    </item>
-    <item>
-      <title>AI for Financial Systems</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fresolve.ai%2Findustries%2Ffinancial-services%3Futm_source=tldr-fintech%26utm_medium=3p-newsletter-dec-18%26utm_id=finserv/1/0100019b31c93cf5-1e47ec79-5cc2-40ef-bd79-67f6ceaba63c-000000/-0-CnLgwohoyEUU4B0Dqs4IWmh3GspC9TdjehQHl-04=436</link>
-      <description>Link found in newsletter: 'Visa USDC Settlement 🪙, PayPal applies to launch industrial bank 🏦, Klarna agentic tools 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fresolve.ai%2Findustries%2Ffinancial-services%3Futm_source=tldr-fintech%26utm_medium=3p-newsletter-dec-18%26utm_id=finserv/1/0100019b31c93cf5-1e47ec79-5cc2-40ef-bd79-67f6ceaba63c-000000/-0-CnLgwohoyEUU4B0Dqs4IWmh3GspC9TdjehQHl-04=436</guid>
     </item>
     <item>
       <title>Checkout.com research signals first AI Christmas, with consumers set to embrace agentic commerce in 2026</title>
