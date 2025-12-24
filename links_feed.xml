@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 23 Dec 2025 18:21:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 01:07:20 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=4393b126-dc00-11f0-9e8a-13b511bfaab9%26pt=campaign%26pv=4%26spa=1766059304%26t=1766060164%26s=616bbbd898cbe9123cde0efeac06c81455da8b165651b6614ad02ab83dfd1ea1/1/0100019b3163851d-652a1911-1058-4345-99a7-2ca6255e35bb-000000/wdhmGE_CAaR1ie_EmXr6Kg-A-nMo-7iHsfTvaYOwmUs=436</link>
@@ -90,6 +90,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.greptile.com%2Fstate-of-ai-coding-2025%3Futm_source=tldrdev/1/0100019b3163851d-652a1911-1058-4345-99a7-2ca6255e35bb-000000/dOCzb989oQyu-EynRpeYV6ZYHTOuBB_jTt8wIDwc1fw=436</link>
       <description>Link found in newsletter: 'AI vs junior devs 👨‍💻, Ruby 4.0 ♦️, how SQLite is tested 🪨'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.greptile.com%2Fstate-of-ai-coding-2025%3Futm_source=tldrdev/1/0100019b3163851d-652a1911-1058-4345-99a7-2ca6255e35bb-000000/dOCzb989oQyu-EynRpeYV6ZYHTOuBB_jTt8wIDwc1fw=436</guid>
+    </item>
+    <item>
+      <title>GitHub - cloudflare/telescope: Cross-browser web performance testing agent</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fcloudflare%2Ftelescope%3Futm_source=tldrdev/1/0100019b3163851d-652a1911-1058-4345-99a7-2ca6255e35bb-000000/x39m_KgYTQ_V_ccWQiXo1yUJOHTR5zdFcredFMPwPes=436</link>
+      <description>Link found in newsletter: 'AI vs junior devs 👨‍💻, Ruby 4.0 ♦️, how SQLite is tested 🪨'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fcloudflare%2Ftelescope%3Futm_source=tldrdev/1/0100019b3163851d-652a1911-1058-4345-99a7-2ca6255e35bb-000000/x39m_KgYTQ_V_ccWQiXo1yUJOHTR5zdFcredFMPwPes=436</guid>
     </item>
     <item>
       <title>Build with Gemini 3 Flash: frontier intelligence that scales with you</title>
@@ -336,6 +342,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2025%2F12%2F17%2Fjassy_taps_peter_desantis_to_run_agi%2F%3Futm_source=tldrai/1/0100019b31ef2cb4-a918ac36-75a1-43f5-b6f0-c1e01091b9b9-000000/y1SSaM0kqttiknV0fRaT2-XbZYXpvcvcBTBeZAO0Y5Y=436</link>
       <description>Link found in newsletter: 'Gemini 3 Flash 🔦, TPU PyTorch support 👨‍💻, Grok Voice Agent API 💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2025%2F12%2F17%2Fjassy_taps_peter_desantis_to_run_agi%2F%3Futm_source=tldrai/1/0100019b31ef2cb4-a918ac36-75a1-43f5-b6f0-c1e01091b9b9-000000/y1SSaM0kqttiknV0fRaT2-XbZYXpvcvcBTBeZAO0Y5Y=436</guid>
+    </item>
+    <item>
+      <title>GitHub - resemble-ai/chatterbox: SoTA open-source TTS</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fresemble-ai%2Fchatterbox%3Futm_source=tldrai/1/0100019b31ef2cb4-a918ac36-75a1-43f5-b6f0-c1e01091b9b9-000000/I6jUIcz4OwgkKNxHKiQYQGj-3BWdOU4DeOuC5UOdsMo=436</link>
+      <description>Link found in newsletter: 'Gemini 3 Flash 🔦, TPU PyTorch support 👨‍💻, Grok Voice Agent API 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fresemble-ai%2Fchatterbox%3Futm_source=tldrai/1/0100019b31ef2cb4-a918ac36-75a1-43f5-b6f0-c1e01091b9b9-000000/I6jUIcz4OwgkKNxHKiQYQGj-3BWdOU4DeOuC5UOdsMo=436</guid>
     </item>
     <item>
       <title>Build mini apps with Opal in the Gemini web app</title>
@@ -1352,7 +1364,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cloudnativedeepdive.com%2Fmultiplexing-mcp-servers-for-agentic-specialization%2F%3Futm_source=tldrai/1/0100019b46731fe8-9d2ab6c3-4160-4a7b-8592-492d1437afd8-000000/3l59oNYBMnQ2J1J6ipxmv7S3CF1gAb9Ng_8QSHadjU8=436</guid>
     </item>
     <item>
-      <title>GitHub - ekzhang/jax-js: JAX in JavaScript – an ML library for the web, running on WebGPU &amp; Wasm</title>
+      <title>GitHub - ekzhang/jax-js: JAX in JavaScript – ML library for the web, running on WebGPU &amp; Wasm</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fekzhang%2Fjax-js%3Futm_source=tldrai/1/0100019b46731fe8-9d2ab6c3-4160-4a7b-8592-492d1437afd8-000000/CuvOKH4PpvvitqhPv2sbn7h0Cr76aoQl0T5e6_tMiSI=436</link>
       <description>Link found in newsletter: 'ChatGPT tone control 🤖, gaming the Metr plot 📈, Anthropic Bloom 🌸'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fekzhang%2Fjax-js%3Futm_source=tldrai/1/0100019b46731fe8-9d2ab6c3-4160-4a7b-8592-492d1437afd8-000000/CuvOKH4PpvvitqhPv2sbn7h0Cr76aoQl0T5e6_tMiSI=436</guid>
