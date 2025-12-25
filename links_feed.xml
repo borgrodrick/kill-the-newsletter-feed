@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Dec 2025 06:22:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 12:28:41 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=05f21274-dcb7-11f0-9a56-31a2faa719b4%26pt=campaign%26pv=4%26spa=1766142076%26t=1766145531%26s=716c35097ef4051d7e52880899827e9715f704066a9e84e132ba456f61ec4979/1/0100019b367a1f4d-7dd405bb-e8e2-4ccf-aca8-ab52b24bb878-000000/hB1w8Wj5tQNBug3obiY7_4nPLYToMGeXZcN8AfZ1zk4=436</link>
@@ -1964,12 +1964,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019b5045e055-4035b9c0-e44d-42d7-a343-5e4ea3a368c6-000000/q4IAcPdFuFsLc72BP57bWE4T9y3_bc_dxfpbtfCnKHw=437</guid>
     </item>
     <item>
-      <title>borgrodrick · Kill the Newsletter!</title>
-      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
-      <description>Link found in newsletter: 'NotebookLM Data Tables 📊, OpenAI WAU reporting 📈, speculative decoding models 🤖'</description>
-      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
-    </item>
-    <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=9a19328a-e0bc-11f0-821d-1b12893492df%26pt=campaign%26pv=4%26spa=1766584893%26t=1766586012%26s=a734cb97ae25083838ff9e471a00c77ae09b2210c42b74052b02ce2387293044/1/0100019b50bb526b-c6a7a233-3525-49dd-8dee-555eabe953f2-000000/bP1c72LyMR4O0mUL2A8h3Sk9r6QHMiQxk2ZDmtpxlnw=437</link>
       <description>Link found in newsletter: 'NotebookLM Data Tables 📊, OpenAI WAU reporting 📈, speculative decoding models 🤖'</description>
@@ -2094,6 +2088,168 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019b50bb526b-c6a7a233-3525-49dd-8dee-555eabe953f2-000000/sM6jFLy166-OvaO9I_dfzDoDKVs4TId-ipAp6TgB4Pc=437</link>
       <description>Link found in newsletter: 'NotebookLM Data Tables 📊, OpenAI WAU reporting 📈, speculative decoding models 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019b50bb526b-c6a7a233-3525-49dd-8dee-555eabe953f2-000000/sM6jFLy166-OvaO9I_dfzDoDKVs4TId-ipAp6TgB4Pc=437</guid>
+    </item>
+    <item>
+      <title>borgrodrick · Kill the Newsletter!</title>
+      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=8a5d5bb6-e169-11f0-91d8-43886de10111%26pt=campaign%26pv=4%26spa=1766660471%26t=1766661901%26s=087003f204a75124b54bec5f595ce6b80f77931c185de36ff05f4e954c1b3b02/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/M6Rx_o0a7B7UFOSTPUpQeYHeKybjM-9r_1wFKQOyZ4g=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=8a5d5bb6-e169-11f0-91d8-43886de10111%26pt=campaign%26pv=4%26spa=1766660471%26t=1766661901%26s=087003f204a75124b54bec5f595ce6b80f77931c185de36ff05f4e954c1b3b02/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/M6Rx_o0a7B7UFOSTPUpQeYHeKybjM-9r_1wFKQOyZ4g=437</guid>
+    </item>
+    <item>
+      <title>#bestinbusiness | TLDR</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/3S5lSeo2oi31kMywid0VtIcyMKPkCzgWSBnxSuOBSlc=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/3S5lSeo2oi31kMywid0VtIcyMKPkCzgWSBnxSuOBSlc=437</guid>
+    </item>
+    <item>
+      <title>Create Your Own Role @ TLDR</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/-19gvtdFSnB1DDyYT4CEfm05uNon6U1gQRgJbJxAII4=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/-19gvtdFSnB1DDyYT4CEfm05uNon6U1gQRgJbJxAII4=437</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/9VXjM7OVSyqc4VM4lLkxaVVpplnc1_uXyMPtGW5GBFs=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/9VXjM7OVSyqc4VM4lLkxaVVpplnc1_uXyMPtGW5GBFs=437</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/u7Kn1nexHUUlOC2Iyz3lX-3w8VXywxvGa-U0PbLv7bg=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/u7Kn1nexHUUlOC2Iyz3lX-3w8VXywxvGa-U0PbLv7bg=437</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/ffYJCeapGLtOrtx3dY-TMi7iMDeOzoloVQJ-p1dxLxE=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/ffYJCeapGLtOrtx3dY-TMi7iMDeOzoloVQJ-p1dxLxE=437</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/mtol8TTquTvYTlc5ICxfCkCxvPLXRRnGMucUTG66Z70=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/mtol8TTquTvYTlc5ICxfCkCxvPLXRRnGMucUTG66Z70=437</guid>
+    </item>
+    <item>
+      <title>Saturation: Waymo edition – Surfing Complexity</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsurfingcomplexity.blog%2F2025%2F12%2F23%2Fsaturation-waymo-edition%2F%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/aAIwHd_wqOLy5kMM6tuhIDvNXZLh-rYIqR1RoydSwHY=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsurfingcomplexity.blog%2F2025%2F12%2F23%2Fsaturation-waymo-edition%2F%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/aAIwHd_wqOLy5kMM6tuhIDvNXZLh-rYIqR1RoydSwHY=437</guid>
+    </item>
+    <item>
+      <title>model.yaml • Open Description Standard for AI Models</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmodelyaml.org%2F%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/IEKvB-35W8E6-NnUvOkv-GgSykYuXq9jJvSoyvA0ELw=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmodelyaml.org%2F%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/IEKvB-35W8E6-NnUvOkv-GgSykYuXq9jJvSoyvA0ELw=437</guid>
+    </item>
+    <item>
+      <title>My 2026 Open Social Web Predictions - Tim Chambers</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.timothychambers.net%2F2025%2F12%2F23%2Fmy-open-social-web-predictions.html%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/DtAbRVUIaQ94cmBuorhMh9sAyEURYU58JOzUBjNma18=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.timothychambers.net%2F2025%2F12%2F23%2Fmy-open-social-web-predictions.html%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/DtAbRVUIaQ94cmBuorhMh9sAyEURYU58JOzUBjNma18=437</guid>
+    </item>
+    <item>
+      <title>AST SpaceMobile Launches Its Most Powerful Direct-to-Cell Satellite Yet | PCMag</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fsgol6r/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/M364_8XJ0OxKH7c8WNIFf7lSvXncffQf6N0Ac5M3U64=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2Fsgol6r/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/M364_8XJ0OxKH7c8WNIFf7lSvXncffQf6N0Ac5M3U64=437</guid>
+    </item>
+    <item>
+      <title>Nobody knows how large software products work</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.seangoedecke.com%2Fnobody-knows-how-software-products-work%2F%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/K5JLCTXrrAwVEIidXzl-RDfwlx3yAz25FVf7u4HArwc=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.seangoedecke.com%2Fnobody-knows-how-software-products-work%2F%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/K5JLCTXrrAwVEIidXzl-RDfwlx3yAz25FVf7u4HArwc=437</guid>
+    </item>
+    <item>
+      <title>Avoid Mini-frameworks - laike9m's blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flaike9m.com%2Fblog%2Favoid-mini-frameworks,171%2F%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/OLNhQVDNDKAAM1aVaC1KRCbbhYq-SJFDljPuhVdPcuU=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flaike9m.com%2Fblog%2Favoid-mini-frameworks,171%2F%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/OLNhQVDNDKAAM1aVaC1KRCbbhYq-SJFDljPuhVdPcuU=437</guid>
+    </item>
+    <item>
+      <title>Report: OpenAI has started mocking up what ads in ChatGPT could look like - Sherwood News</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsherwood.news%2Ftech%2Freport-openai-has-started-mocking-up-what-ads-in-chatgpt-could-look-like%2F%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/J1QDiF00bW3ZB8tRY9lBbKYl369zstM7VgB6wqbf4yA=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsherwood.news%2Ftech%2Freport-openai-has-started-mocking-up-what-ads-in-chatgpt-could-look-like%2F%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/J1QDiF00bW3ZB8tRY9lBbKYl369zstM7VgB6wqbf4yA=437</guid>
+    </item>
+    <item>
+      <title>Package managers keep using git as a database, it never works out | Andrew Nesbitt</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnesbitt.io%2F2025%2F12%2F24%2Fpackage-managers-keep-using-git-as-a-database.html%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/j7InutL9wxXI_drpRMYJa746KdBNx4ueRqcc8USE7Jw=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnesbitt.io%2F2025%2F12%2F24%2Fpackage-managers-keep-using-git-as-a-database.html%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/j7InutL9wxXI_drpRMYJa746KdBNx4ueRqcc8USE7Jw=437</guid>
+    </item>
+    <item>
+      <title>GitHub - VibiumDev/vibium: Browser automation for AI agents and humans</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FVibiumDev%2Fvibium%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/H4cNxrm9HEMLAbvKC6Qk91-Ls75vTyWAT9h2GaVQZD8=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FVibiumDev%2Fvibium%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/H4cNxrm9HEMLAbvKC6Qk91-Ls75vTyWAT9h2GaVQZD8=437</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=secondary12122025/2/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/-46oNz6SHWE7zQhs1ju3uvdQmXJeg84n2xkMK1nBxwA=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=secondary12122025/2/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/-46oNz6SHWE7zQhs1ju3uvdQmXJeg84n2xkMK1nBxwA=437</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=secondary12122025/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/zaru24m_l3pHO3YXy5d4SqxYfGzDuKD636rBwiYC-Bw=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=secondary12122025/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/zaru24m_l3pHO3YXy5d4SqxYfGzDuKD636rBwiYC-Bw=437</guid>
+    </item>
+    <item>
+      <title>The Virtual Cell Will Be More Like Gwas Than Alphafold | Andrew Carroll</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fandrewcarroll.github.io%2F2025%2F12%2F23%2Fthe-virtual-cell-will-be-more-like-GWAS-than-AlphaFold.html%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/yC801Y3C-PZTB8_xlkNv5__vv9wb8eOaBWfWK8hPZ48=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fandrewcarroll.github.io%2F2025%2F12%2F23%2Fthe-virtual-cell-will-be-more-like-GWAS-than-AlphaFold.html%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/yC801Y3C-PZTB8_xlkNv5__vv9wb8eOaBWfWK8hPZ48=437</guid>
+    </item>
+    <item>
+      <title>Starlink passes 9 million active customers just weeks after hitting 8 million</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.teslarati.com%2Fstarlink-passes-9-million-active-customers-just-weeks-after-hitting-8-million%2F%23google_vignette%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/Z1FQP1zYNGZjGEoN_Luho3YEIDDZbEwD2jsNy0HHJTk=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.teslarati.com%2Fstarlink-passes-9-million-active-customers-just-weeks-after-hitting-8-million%2F%23google_vignette%3Futm_source=tldrnewsletter/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/Z1FQP1zYNGZjGEoN_Luho3YEIDDZbEwD2jsNy0HHJTk=437</guid>
+    </item>
+    <item>
+      <title>Delve | Book a Demo</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdelve.co%2Fbook-demo%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=tldr-primary-dec25-25/3/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/MFSVsAolTtfCvZjqIj2N5mrGOdW-vCa8ltyXXzY2Ktw=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdelve.co%2Fbook-demo%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=tldr-primary-dec25-25/3/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/MFSVsAolTtfCvZjqIj2N5mrGOdW-vCa8ltyXXzY2Ktw=437</guid>
+    </item>
+    <item>
+      <title>Delve | Book a Demo</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdelve.co%2Fbook-demo%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=tldr-primary-dec25-25/2/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/rQaxjA39Ank0ugIMUZjTxBskQW0_JdBuJNbyCUpvW_M=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdelve.co%2Fbook-demo%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=tldr-primary-dec25-25/2/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/rQaxjA39Ank0ugIMUZjTxBskQW0_JdBuJNbyCUpvW_M=437</guid>
+    </item>
+    <item>
+      <title>Delve | Book a Demo</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdelve.co%2Fbook-demo%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=tldr-primary-dec25-25/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/_p5YQdWTGyyhKQ4VLSE_LeJralY7AhrB3sGs3HHcMaU=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdelve.co%2Fbook-demo%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=tldr-primary-dec25-25/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/_p5YQdWTGyyhKQ4VLSE_LeJralY7AhrB3sGs3HHcMaU=437</guid>
+    </item>
+    <item>
+      <title>TLDR</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=8a5d5bb6-e169-11f0-91d8-43886de10111%26pt=campaign%26t=1766661901%26s=9ef11f22b185ae4c08baf651e6c295282685411ae906f1cd0744957b66c3fbb1/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/m5MabwhxQMguudAKlicUwb3ZteYI25b0fimXmnMmEHQ=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=8a5d5bb6-e169-11f0-91d8-43886de10111%26pt=campaign%26t=1766661901%26s=9ef11f22b185ae4c08baf651e6c295282685411ae906f1cd0744957b66c3fbb1/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/m5MabwhxQMguudAKlicUwb3ZteYI25b0fimXmnMmEHQ=437</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/wAfwMfk5IavI4j7pRzaHiaBtSixPtZaU9gy_kR13QSA=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/wAfwMfk5IavI4j7pRzaHiaBtSixPtZaU9gy_kR13QSA=437</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/-BPDyHHfAFSe6-jWKE-SoKy05s04kOnToC8Jn_pNfAY=437</link>
+      <description>Link found in newsletter: 'Nvidia's $20B acquihire 💰, Starlink accelerates 🛰️, virtual cells 👾'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019b55414e1c-23de59fb-b96b-4f47-8751-8ca310ce4bdd-000000/-BPDyHHfAFSe6-jWKE-SoKy05s04kOnToC8Jn_pNfAY=437</guid>
     </item>
   </channel>
 </rss>
