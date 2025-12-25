@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 25 Dec 2025 01:08:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Dec 2025 06:22:57 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=05f21274-dcb7-11f0-9a56-31a2faa719b4%26pt=campaign%26pv=4%26spa=1766142076%26t=1766145531%26s=716c35097ef4051d7e52880899827e9715f704066a9e84e132ba456f61ec4979/1/0100019b367a1f4d-7dd405bb-e8e2-4ccf-aca8-ab52b24bb878-000000/hB1w8Wj5tQNBug3obiY7_4nPLYToMGeXZcN8AfZ1zk4=436</link>
@@ -1376,7 +1376,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmoq.dev%2Fblog%2Fyou-dont-need-it%2F%3Futm_source=tldrdev/1/0100019b4b23088e-643b6ad9-270e-40b9-847e-bcc461038bcb-000000/yQHFvTXexHRuABBVn0CfEK9gcUmzWmHHVLY6OqYq4gY=437</guid>
     </item>
     <item>
-      <title>diziet | Debian’s git transition</title>
+      <title>Captcha Check</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdiziet.dreamwidth.org%2F20436.html%3Futm_source=tldrdev/1/0100019b4b23088e-643b6ad9-270e-40b9-847e-bcc461038bcb-000000/J5H3_8tdlsSeYl0OnbUPmkjdAd9RCZydiCr0BBgDKjI=437</link>
       <description>Link found in newsletter: '15s code test 👨‍💻, LLMs for large codebases 📈, Why logging sucks 📝'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdiziet.dreamwidth.org%2F20436.html%3Futm_source=tldrdev/1/0100019b4b23088e-643b6ad9-270e-40b9-847e-bcc461038bcb-000000/J5H3_8tdlsSeYl0OnbUPmkjdAd9RCZydiCr0BBgDKjI=437</guid>
