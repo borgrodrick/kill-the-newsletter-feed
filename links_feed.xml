@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sun, 28 Dec 2025 18:20:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 01:14:09 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=64bb75b8-dcc4-11f0-94da-654616935820%26pt=campaign%26pv=4%26spa=1766145681%26t=1766147068%26s=20f62a6c366663a856903f5b714619f21cda5bd905b03de36fc2592952db4dbc/1/0100019b369191ab-961cbc50-7b04-40a8-8bf1-fb294add3e0a-000000/95aPTRVP_LT4cj0GR2AkXYYSSi-G0EA-IbZ0-Bi37y8=436</link>
@@ -1256,7 +1256,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmoq.dev%2Fblog%2Fyou-dont-need-it%2F%3Futm_source=tldrdev/1/0100019b4b23088e-643b6ad9-270e-40b9-847e-bcc461038bcb-000000/yQHFvTXexHRuABBVn0CfEK9gcUmzWmHHVLY6OqYq4gY=437</guid>
     </item>
     <item>
-      <title>Captcha Check</title>
+      <title>diziet | Debian’s git transition</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdiziet.dreamwidth.org%2F20436.html%3Futm_source=tldrdev/1/0100019b4b23088e-643b6ad9-270e-40b9-847e-bcc461038bcb-000000/J5H3_8tdlsSeYl0OnbUPmkjdAd9RCZydiCr0BBgDKjI=437</link>
       <description>Link found in newsletter: '15s code test 👨‍💻, LLMs for large codebases 📈, Why logging sucks 📝'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdiziet.dreamwidth.org%2F20436.html%3Futm_source=tldrdev/1/0100019b4b23088e-643b6ad9-270e-40b9-847e-bcc461038bcb-000000/J5H3_8tdlsSeYl0OnbUPmkjdAd9RCZydiCr0BBgDKjI=437</guid>
@@ -2244,6 +2244,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fartificial-intelligence%2Fchatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool%2F%3Futm_source=tldrnewsletter/1/0100019b5a6878cd-87ec6166-583a-4a0a-9373-591f5de06b9c-000000/zSnvds6l5gtf_s8N8GDInWJOGqp03sbLAj9SU_Z2sro=437</link>
       <description>Link found in newsletter: 'Gmail address changes 📧, ChatGPT formatting blocks 🤖, Ruby 4 ♦️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fartificial-intelligence%2Fchatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool%2F%3Futm_source=tldrnewsletter/1/0100019b5a6878cd-87ec6166-583a-4a0a-9373-591f5de06b9c-000000/zSnvds6l5gtf_s8N8GDInWJOGqp03sbLAj9SU_Z2sro=437</guid>
+    </item>
+    <item>
+      <title>Google 'rolling out' option to change Gmail addresses</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5google.com%2F2025%2F12%2F24%2Fgoogle-change-gmail-addresses%2F%3Futm_source=tldrnewsletter/1/0100019b5a6878cd-87ec6166-583a-4a0a-9373-591f5de06b9c-000000/fRSNoMbprGMfPtFo92n6tI-qTQ-xJvkbp_y7kgyqiso=437</link>
+      <description>Link found in newsletter: 'Gmail address changes 📧, ChatGPT formatting blocks 🤖, Ruby 4 ♦️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5google.com%2F2025%2F12%2F24%2Fgoogle-change-gmail-addresses%2F%3Futm_source=tldrnewsletter/1/0100019b5a6878cd-87ec6166-583a-4a0a-9373-591f5de06b9c-000000/fRSNoMbprGMfPtFo92n6tI-qTQ-xJvkbp_y7kgyqiso=437</guid>
     </item>
     <item>
       <title>Delve | Book a Demo</title>
