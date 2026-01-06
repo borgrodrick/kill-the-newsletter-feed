@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 05 Jan 2026 18:23:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 01:09:44 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=e3e9d6a2-e22a-11f0-afef-355d711e4cd9%26pt=campaign%26pv=4%26spa=1766746888%26t=1766748354%26s=9222a862b9a7197ccbd2718b69642b875b12d57ff1112373ecd264ab6355a6cf/1/0100019b5a6878cd-87ec6166-583a-4a0a-9373-591f5de06b9c-000000/P3THQ6MBm8NrB-j_tkAQxesBDhnRyGyylWK1LDOPLCM=437</link>
@@ -120,6 +120,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fartificial-intelligence%2Fchatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool%2F%3Futm_source=tldrnewsletter/1/0100019b5a6878cd-87ec6166-583a-4a0a-9373-591f5de06b9c-000000/zSnvds6l5gtf_s8N8GDInWJOGqp03sbLAj9SU_Z2sro=437</link>
       <description>Link found in newsletter: 'Gmail address changes 📧, ChatGPT formatting blocks 🤖, Ruby 4 ♦️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fartificial-intelligence%2Fchatgpts-new-formatting-blocks-make-its-ui-look-more-like-a-task-tool%2F%3Futm_source=tldrnewsletter/1/0100019b5a6878cd-87ec6166-583a-4a0a-9373-591f5de06b9c-000000/zSnvds6l5gtf_s8N8GDInWJOGqp03sbLAj9SU_Z2sro=437</guid>
+    </item>
+    <item>
+      <title>Google 'rolling out' option to change Gmail addresses</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5google.com%2F2025%2F12%2F24%2Fgoogle-change-gmail-addresses%2F%3Futm_source=tldrnewsletter/1/0100019b5a6878cd-87ec6166-583a-4a0a-9373-591f5de06b9c-000000/fRSNoMbprGMfPtFo92n6tI-qTQ-xJvkbp_y7kgyqiso=437</link>
+      <description>Link found in newsletter: 'Gmail address changes 📧, ChatGPT formatting blocks 🤖, Ruby 4 ♦️'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5google.com%2F2025%2F12%2F24%2Fgoogle-change-gmail-addresses%2F%3Futm_source=tldrnewsletter/1/0100019b5a6878cd-87ec6166-583a-4a0a-9373-591f5de06b9c-000000/fRSNoMbprGMfPtFo92n6tI-qTQ-xJvkbp_y7kgyqiso=437</guid>
     </item>
     <item>
       <title>Delve | Book a Demo</title>
@@ -1076,12 +1082,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.theregister.com%2F2025%2F12%2F31%2Fipv6_at_30%2F%3Futm_source=tldrnewsletter/1/0100019b7e74fd00-06b403db-1ddc-4ccf-be5b-e0741e09e135-000000/OJtCF1hoRwovmxjKvNsjSxA4xeYprcd6DRq-QE-OiRo=436</guid>
     </item>
     <item>
-      <title>2025 letter | Dan Wang</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanwang.co%2F2025-letter%2F%3Futm_source=tldrnewsletter/1/0100019b7e74fd00-06b403db-1ddc-4ccf-be5b-e0741e09e135-000000/HB_QVfn_CRRGGUw38fVOhn1-FJ2xjm1ORWQhKnkVHnw=436</link>
-      <description>Link found in newsletter: 'OpenAI's audio bet 📢, robotaxi wars 🚕, building users 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanwang.co%2F2025-letter%2F%3Futm_source=tldrnewsletter/1/0100019b7e74fd00-06b403db-1ddc-4ccf-be5b-e0741e09e135-000000/HB_QVfn_CRRGGUw38fVOhn1-FJ2xjm1ORWQhKnkVHnw=436</guid>
-    </item>
-    <item>
       <title>Build Software. Build Users</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdima.day%2Fblog%2Fbuild-software-build-users%2F%3Futm_source=tldrnewsletter/1/0100019b7e74fd00-06b403db-1ddc-4ccf-be5b-e0741e09e135-000000/9X_o5ywOUff_shlCdeGHeTv8Zo1K-K0SXY80mgpQFhE=436</link>
       <description>Link found in newsletter: 'OpenAI's audio bet 📢, robotaxi wars 🚕, building users 👨‍💻'</description>
@@ -1761,12 +1761,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fposts%2Fsytaylor_america-stopped-making-banks-for-15-years-activity-7413226760596516864-9fvP%2F%3Futm_source=tldrfintech/1/0100019b8e7dfc77-6af01a01-37c3-43d2-8e06-43d1a4d6f37d-000000/8E-8CiJm8jiRINqarsEK7vNxa-E8QCEEuU5HgsKb6ao=438</guid>
     </item>
     <item>
-      <title>Sovereign Funds Push Into Tech as Assets Swell - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F9c8FTt/1/0100019b8e7dfc77-6af01a01-37c3-43d2-8e06-43d1a4d6f37d-000000/FVEAN5_u5Q7xWUGuTPUGJDZem312ULHoBC1i8fvd1rE=438</link>
-      <description>Link found in newsletter: 'Polymarket and Kalshi hit it big 🚀,  Predictions for 2026 🔮, Mercury applies for OCC bank charter 🏦'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2F9c8FTt/1/0100019b8e7dfc77-6af01a01-37c3-43d2-8e06-43d1a4d6f37d-000000/FVEAN5_u5Q7xWUGuTPUGJDZem312ULHoBC1i8fvd1rE=438</guid>
-    </item>
-    <item>
       <title>AI Will Demolish 200,000 Jobs According to Expert</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffinance.yahoo.com%2Fnews%2Fai-demolish-200-000-jobs-141534116.html%3Futm_source=tldrfintech/1/0100019b8e7dfc77-6af01a01-37c3-43d2-8e06-43d1a4d6f37d-000000/EdiuK6l5N1rCgz2TwA8bdEYTZdBGDF3ktmLsqwa9POM=438</link>
       <description>Link found in newsletter: 'Polymarket and Kalshi hit it big 🚀,  Predictions for 2026 🔮, Mercury applies for OCC bank charter 🏦'</description>
@@ -1795,24 +1789,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.fintechbrainfood.com%2Fp%2Feveryone-wants-to-be-a-bank%3Futm_source=tldrfintech/1/0100019b8e7dfc77-6af01a01-37c3-43d2-8e06-43d1a4d6f37d-000000/GKqX8uN1FiV527fa037ASUP_X_E-it8rPRN_UavhXCA=438</link>
       <description>Link found in newsletter: 'Polymarket and Kalshi hit it big 🚀,  Predictions for 2026 🔮, Mercury applies for OCC bank charter 🏦'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.fintechbrainfood.com%2Fp%2Feveryone-wants-to-be-a-bank%3Futm_source=tldrfintech/1/0100019b8e7dfc77-6af01a01-37c3-43d2-8e06-43d1a4d6f37d-000000/GKqX8uN1FiV527fa037ASUP_X_E-it8rPRN_UavhXCA=438</guid>
-    </item>
-    <item>
-      <title>Cathie Wood’s ARK Fintech ETF Defies 2025 Slump, Gaining 30% on AI Bet - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FlPueOT/1/0100019b8e7dfc77-6af01a01-37c3-43d2-8e06-43d1a4d6f37d-000000/oCg_LXYzgW6lYnv9wnrQN4J2TQT4UqU-0MoZ2QBTc18=438</link>
-      <description>Link found in newsletter: 'Polymarket and Kalshi hit it big 🚀,  Predictions for 2026 🔮, Mercury applies for OCC bank charter 🏦'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FlPueOT/1/0100019b8e7dfc77-6af01a01-37c3-43d2-8e06-43d1a4d6f37d-000000/oCg_LXYzgW6lYnv9wnrQN4J2TQT4UqU-0MoZ2QBTc18=438</guid>
-    </item>
-    <item>
-      <title>Fintech Firms Target US Bank Charters, Stablecoin Growth in 2026 Push - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FyvcAs9/1/0100019b8e7dfc77-6af01a01-37c3-43d2-8e06-43d1a4d6f37d-000000/j6v9B3HOrEUpb0V5-XZC70Ly2WA5UWKrPA1NmTABmr0=438</link>
-      <description>Link found in newsletter: 'Polymarket and Kalshi hit it big 🚀,  Predictions for 2026 🔮, Mercury applies for OCC bank charter 🏦'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FyvcAs9/1/0100019b8e7dfc77-6af01a01-37c3-43d2-8e06-43d1a4d6f37d-000000/j6v9B3HOrEUpb0V5-XZC70Ly2WA5UWKrPA1NmTABmr0=438</guid>
-    </item>
-    <item>
-      <title>Polymarket and Kalshi Hit It Big on 2025 Fintech Funding Surge - Bloomberg</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FXC5xwS/1/0100019b8e7dfc77-6af01a01-37c3-43d2-8e06-43d1a4d6f37d-000000/Vbwf0KZv11F60y11ozf1MJi5Rt5YJY6Aod2cYDgcMNE=438</link>
-      <description>Link found in newsletter: 'Polymarket and Kalshi hit it big 🚀,  Predictions for 2026 🔮, Mercury applies for OCC bank charter 🏦'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FXC5xwS/1/0100019b8e7dfc77-6af01a01-37c3-43d2-8e06-43d1a4d6f37d-000000/Vbwf0KZv11F60y11ozf1MJi5Rt5YJY6Aod2cYDgcMNE=438</guid>
     </item>
     <item>
       <title>TLDR Fintech</title>
