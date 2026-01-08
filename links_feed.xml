@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 08 Jan 2026 01:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jan 2026 06:24:20 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=d8e8644c-e6e6-11f0-a411-798efd6498ae%26pt=campaign%26pv=4%26spa=1767276136%26t=1767276535%26s=799af33ff95e3722c1298e4230f6dc579e83c5edf0e95c650d39aa99c8c1b1f2/1/0100019b79e3de9c-2122bd32-be25-447e-bbf1-7f220eaf384a-000000/DAeqg6K0jsCP3CILlyRligGirVphvF7le2uAYCOi3QM=438</link>
@@ -264,6 +264,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fherbsutter.com%2F2025%2F12%2F30%2Fsoftware-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai%2F%3Futm_source=tldrnewsletter/1/0100019b7e74fd00-06b403db-1ddc-4ccf-be5b-e0741e09e135-000000/prHvyRFYNaxzfydqc7A-Tog_cIPLU4iHR3fkVKt_H3g=436</link>
       <description>Link found in newsletter: 'OpenAI's audio bet 📢, robotaxi wars 🚕, building users 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fherbsutter.com%2F2025%2F12%2F30%2Fsoftware-taketh-away-faster-than-hardware-giveth-why-c-programmers-keep-growing-fast-despite-competition-safety-and-ai%2F%3Futm_source=tldrnewsletter/1/0100019b7e74fd00-06b403db-1ddc-4ccf-be5b-e0741e09e135-000000/prHvyRFYNaxzfydqc7A-Tog_cIPLU4iHR3fkVKt_H3g=436</guid>
+    </item>
+    <item>
+      <title>Technology is culture – Daniel Lemire's blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flemire.me%2Fblog%2F2026%2F01%2F01%2Ftechnology-is-culture%2F%3Futm_source=tldrnewsletter/1/0100019b7e74fd00-06b403db-1ddc-4ccf-be5b-e0741e09e135-000000/JDXGf0ESEC0eD-eNa3jxaHpslt_UtMtYtvQZZvJNJE4=436</link>
+      <description>Link found in newsletter: 'OpenAI's audio bet 📢, robotaxi wars 🚕, building users 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flemire.me%2Fblog%2F2026%2F01%2F01%2Ftechnology-is-culture%2F%3Futm_source=tldrnewsletter/1/0100019b7e74fd00-06b403db-1ddc-4ccf-be5b-e0741e09e135-000000/JDXGf0ESEC0eD-eNa3jxaHpslt_UtMtYtvQZZvJNJE4=436</guid>
     </item>
     <item>
       <title>IPv6 just turned 30 and still hasn’t taken over the world • The Register</title>
@@ -1213,6 +1219,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fgadgets%2F2026%2F01%2Famazon-alexa-released-to-the-general-public-via-an-early-access-website%2F%3Futm_source=tldrnewsletter/1/0100019b930e2b27-488fe24e-baa4-4b6c-8a2f-301b579f5c04-000000/e8lggVLQmX6fSXeAWtkeIB3IHzUNp6SnDJQKYmPRcWE=438</link>
       <description>Link found in newsletter: 'Nvidia's new chip ⚡, Boston Dynamics production robot 🤖, agent harnesses 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fgadgets%2F2026%2F01%2Famazon-alexa-released-to-the-general-public-via-an-early-access-website%2F%3Futm_source=tldrnewsletter/1/0100019b930e2b27-488fe24e-baa4-4b6c-8a2f-301b579f5c04-000000/e8lggVLQmX6fSXeAWtkeIB3IHzUNp6SnDJQKYmPRcWE=438</guid>
+    </item>
+    <item>
+      <title>My 2026 AI Bets (A Time Capsule) | zach wills</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fzachwills.net%2Fmy-2026-ai-bets-a-time-capsule%2F%3Futm_source=tldrnewsletter/1/0100019b930e2b27-488fe24e-baa4-4b6c-8a2f-301b579f5c04-000000/MA5L-Nfz06Fs07RNAcw_BFxBTTV5raZyR-CFXv72pVA=438</link>
+      <description>Link found in newsletter: 'Nvidia's new chip ⚡, Boston Dynamics production robot 🤖, agent harnesses 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fzachwills.net%2Fmy-2026-ai-bets-a-time-capsule%2F%3Futm_source=tldrnewsletter/1/0100019b930e2b27-488fe24e-baa4-4b6c-8a2f-301b579f5c04-000000/MA5L-Nfz06Fs07RNAcw_BFxBTTV5raZyR-CFXv72pVA=438</guid>
     </item>
     <item>
       <title>The importance of Agent Harness in 2026</title>
