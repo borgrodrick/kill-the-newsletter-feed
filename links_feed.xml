@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 09 Jan 2026 18:22:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jan 2026 01:08:14 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=cbe6e4f0-ea36-11f0-9810-410fd734bbc8%26pt=campaign%26pv=4%26spa=1767621718%26t=1767622179%26s=7e6dd8f861a710f6a7c197e485ef8b8b2c86ac1298bd321984f6fe268d56fdfd/1/0100019b8e7dfc77-6af01a01-37c3-43d2-8e06-43d1a4d6f37d-000000/Oj1E3pJ-pIPzFsFHCEnCYhYgldIcd5RTbEv85cxFF58=438</link>
@@ -932,12 +932,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=a9808f9a-ebc8-11f0-9ded-eb5a6de58910%26pt=campaign%26pv=4%26spa=1767794536%26t=1767797064%26s=e40651ec1efbbd88f94662c2ee9dc96852e5f56db53d6fbb61fd81e2dfe88fa1/1/0100019b98ea8316-d4d5dd3a-76d6-4c6a-83ab-1ce59d477ce4-000000/6WMW3gbAVbBfHaReD_V1_MjHvYjGPFHQWS-ge-Mc_lQ=439</guid>
     </item>
     <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019b98ea8316-d4d5dd3a-76d6-4c6a-83ab-1ce59d477ce4-000000/NZcKEg742Qtj9zsMvAUr75FQU6gJIIqqKGsbrQttsNI=439</link>
-      <description>Link found in newsletter: 'xAI raises $20B 💰, dynamic context discovery 💻, AI needs game designers 🎮'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019b98ea8316-d4d5dd3a-76d6-4c6a-83ab-1ce59d477ce4-000000/NZcKEg742Qtj9zsMvAUr75FQU6gJIIqqKGsbrQttsNI=439</guid>
-    </item>
-    <item>
       <title>#bestinbusiness | TLDR</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019b98ea8316-d4d5dd3a-76d6-4c6a-83ab-1ce59d477ce4-000000/bwWC-x_paUAmOxgRrnaGEKu2p3ABT_nyG1QSkGGQg1Y=439</link>
       <description>Link found in newsletter: 'xAI raises $20B 💰, dynamic context discovery 💻, AI needs game designers 🎮'</description>
@@ -1280,7 +1274,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fkubernetes-sigs%2Fheadlamp%3Futm_source=tldrdev/1/0100019b9d89d39d-980b828a-1392-4559-bc6c-60e72c25edb7-000000/mGCVFnQoX94vnUgUqNARY2XOlFy_Aghx4auFdV41nes=439</guid>
     </item>
     <item>
-      <title>An Experienced C Programmer Tries AI Agents ・ Daniel Hooper</title>
+      <title>Testing Opus 4.5 For C Programming ・ Daniel Hooper</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanielchasehooper.com%2Fposts%2Fcode-agents%2F%3Futm_source=tldrdev/1/0100019b9d89d39d-980b828a-1392-4559-bc6c-60e72c25edb7-000000/MaLwy0XgFHKadqbpChJX6I0tJoSs2Nk-356NHx9qe4I=439</link>
       <description>Link found in newsletter: 'AI grief 😭, the new day-to-day of devs 📆, hidden kernel bugs 🫣'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanielchasehooper.com%2Fposts%2Fcode-agents%2F%3Futm_source=tldrdev/1/0100019b9d89d39d-980b828a-1392-4559-bc6c-60e72c25edb7-000000/MaLwy0XgFHKadqbpChJX6I0tJoSs2Nk-356NHx9qe4I=439</guid>
@@ -1758,6 +1752,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.phoronix.com%2Fnews%2FTorvalds-Linux-Kernel-AI-Slop%3Futm_source=tldrdev/1/0100019ba2bf86d4-79c05c0c-cd45-4218-afec-72fa6851bbc7-000000/qUX18p4ikz11exjvfLvuStGqBxDjgzJ3qfes-WMc1Sk=439</link>
       <description>Link found in newsletter: 'Building Claude Code in 200 lines 🤖, iMessage agents 💬, tech blogging guide 📝'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.phoronix.com%2Fnews%2FTorvalds-Linux-Kernel-AI-Slop%3Futm_source=tldrdev/1/0100019ba2bf86d4-79c05c0c-cd45-4218-afec-72fa6851bbc7-000000/qUX18p4ikz11exjvfLvuStGqBxDjgzJ3qfes-WMc1Sk=439</guid>
+    </item>
+    <item>
+      <title>go.sum Is Not a Lockfile</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwords.filippo.io%2Fgosum%2F%3Futm_source=tldrdev/1/0100019ba2bf86d4-79c05c0c-cd45-4218-afec-72fa6851bbc7-000000/GPMBvPwMQu3GsEv3Ud-bSshqdyYLhT6TLSyYJHTyrxQ=439</link>
+      <description>Link found in newsletter: 'Building Claude Code in 200 lines 🤖, iMessage agents 💬, tech blogging guide 📝'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwords.filippo.io%2Fgosum%2F%3Futm_source=tldrdev/1/0100019ba2bf86d4-79c05c0c-cd45-4218-afec-72fa6851bbc7-000000/GPMBvPwMQu3GsEv3Ud-bSshqdyYLhT6TLSyYJHTyrxQ=439</guid>
     </item>
     <item>
       <title>Hexplain | Write. Discuss. Get Hired By Your Work</title>
