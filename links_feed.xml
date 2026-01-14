@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 13 Jan 2026 18:23:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 01:13:17 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=bb8387ca-ec80-11f0-b1fc-51ecc30e6722%26pt=campaign%26pv=4%26spa=1767870078%26t=1767871633%26s=8a09316a8d774b7d23694703e864e871c5c687d2b39c0a5215d59f7417e87a6e/1/0100019b9d5c56e0-3d87fa9f-39db-4c1b-8422-604aa184b0c9-000000/M0Po3l-4Rj7kMPwMuf2TBzS2U4F_7reVkuFv6DskmlA=439</link>
@@ -138,6 +138,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=a5e68056-ec81-11f0-85f8-6583734e3527%26pt=campaign%26pv=4%26spa=1767873701%26t=1767874614%26s=ba9a23d407a88317d9ff17c918d2641fd22b0e6f19dd4caa2f447940bd6f342c/1/0100019b9d89d39d-980b828a-1392-4559-bc6c-60e72c25edb7-000000/_ePoBd86iNXmlt-2CUNNW1fyWDyaFyS8UAVZZ73Q3m8=439</link>
       <description>Link found in newsletter: 'AI grief 😭, the new day-to-day of devs 📆, hidden kernel bugs 🫣'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=a5e68056-ec81-11f0-85f8-6583734e3527%26pt=campaign%26pv=4%26spa=1767873701%26t=1767874614%26s=ba9a23d407a88317d9ff17c918d2641fd22b0e6f19dd4caa2f447940bd6f342c/1/0100019b9d89d39d-980b828a-1392-4559-bc6c-60e72c25edb7-000000/_ePoBd86iNXmlt-2CUNNW1fyWDyaFyS8UAVZZ73Q3m8=439</guid>
+    </item>
+    <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019b9d89d39d-980b828a-1392-4559-bc6c-60e72c25edb7-000000/MG4B2huh2JI8T6yD5uTFWyerb1ky6ITTfhZlhIDwyco=439</link>
+      <description>Link found in newsletter: 'AI grief 😭, the new day-to-day of devs 📆, hidden kernel bugs 🫣'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019b9d89d39d-980b828a-1392-4559-bc6c-60e72c25edb7-000000/MG4B2huh2JI8T6yD5uTFWyerb1ky6ITTfhZlhIDwyco=439</guid>
     </item>
     <item>
       <title>#bestinbusiness | TLDR</title>
@@ -302,6 +308,18 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=36a6ad8a-ec93-11f0-8c8d-e5496283739f%26pt=campaign%26pv=4%26spa=1767880869%26t=1767882522%26s=b67380e0854edf38ac726ed75d9d1b750a7534a245048944f2b6eefb8264792c/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/eQz2xHOGTRsApjzAvR-6q187NI23eteH02GzDvBJUd0=439</guid>
     </item>
     <item>
+      <title>Gabriel Sundaram - attain | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/f5XGX4lAumIvSzfRLUcUEvjemrbMxdryu_e1HObhqJg=439</link>
+      <description>Link found in newsletter: 'Airwallex doubles down on Europe 🌏, JPMorgan takes over Apple Card 💳, How AI agents are rewiring fin serv 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/f5XGX4lAumIvSzfRLUcUEvjemrbMxdryu_e1HObhqJg=439</guid>
+    </item>
+    <item>
+      <title>Matt Cheung - Ceviche | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/Pg1ai4uB-MjIuskp56WFL2G8OlUYJ8D5laLuQEwMjnM=439</link>
+      <description>Link found in newsletter: 'Airwallex doubles down on Europe 🌏, JPMorgan takes over Apple Card 💳, How AI agents are rewiring fin serv 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/Pg1ai4uB-MjIuskp56WFL2G8OlUYJ8D5laLuQEwMjnM=439</guid>
+    </item>
+    <item>
       <title>#bestinbusiness | TLDR</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/mgRAaQTxRcGpo66nbyDoN2HgMExUicCFLlcboEQC2Ek=439</link>
       <description>Link found in newsletter: 'Airwallex doubles down on Europe 🌏, JPMorgan takes over Apple Card 💳, How AI agents are rewiring fin serv 🤖'</description>
@@ -330,12 +348,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bankingdive.com%2Fnews%2Fbrazil-picpay-us-ipo-sec%2F809036%2F%3Futm_source=tldrfintech/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/wQLHYL85C9zYMtsMfL2R3q_D6ULuPr4pvz_gnpuE9Qc=439</link>
       <description>Link found in newsletter: 'Airwallex doubles down on Europe 🌏, JPMorgan takes over Apple Card 💳, How AI agents are rewiring fin serv 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bankingdive.com%2Fnews%2Fbrazil-picpay-us-ipo-sec%2F809036%2F%3Futm_source=tldrfintech/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/wQLHYL85C9zYMtsMfL2R3q_D6ULuPr4pvz_gnpuE9Qc=439</guid>
-    </item>
-    <item>
-      <title>Bank of America’s AI-driven forecasting tool saved clients 250K hours in 2025 - FinAi News</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffinainews.com%2Fbanking%2Fbank-of-americas-ai-driven-forecasting-tool-saved-clients-250k-hours-in-2025%2F%3Futm_source=tldrfintech/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/2Dcp0a1JYRVAHRP2lKFSe3Jz00b5W-bhT3650F9DT7Y=439</link>
-      <description>Link found in newsletter: 'Airwallex doubles down on Europe 🌏, JPMorgan takes over Apple Card 💳, How AI agents are rewiring fin serv 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffinainews.com%2Fbanking%2Fbank-of-americas-ai-driven-forecasting-tool-saved-clients-250k-hours-in-2025%2F%3Futm_source=tldrfintech/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/2Dcp0a1JYRVAHRP2lKFSe3Jz00b5W-bhT3650F9DT7Y=439</guid>
     </item>
     <item>
       <title>Klarna faces investor lawsuit | Payments Dive</title>
@@ -644,6 +656,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=61aa0852-ed41-11f0-8fbe-a7780d5b8aaa%26pt=campaign%26pv=4%26spa=1767960074%26t=1767962019%26s=137aa9dc64b742cd4ded6ab92b9e03321c2767d07d811a86e6f1b13afe0907bf/1/0100019ba2bf86d4-79c05c0c-cd45-4218-afec-72fa6851bbc7-000000/A_nZ5RqvwSm1BAlC8Q_D2n23QkDmtCjvfx9iaDaY5DI=439</guid>
     </item>
     <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019ba2bf86d4-79c05c0c-cd45-4218-afec-72fa6851bbc7-000000/tpIAJvCw4vY9NUXG4haDvtV6ZLpk89nTPsXPxvW-XFE=439</link>
+      <description>Link found in newsletter: 'Building Claude Code in 200 lines 🤖, iMessage agents 💬, tech blogging guide 📝'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019ba2bf86d4-79c05c0c-cd45-4218-afec-72fa6851bbc7-000000/tpIAJvCw4vY9NUXG4haDvtV6ZLpk89nTPsXPxvW-XFE=439</guid>
+    </item>
+    <item>
       <title>#bestinbusiness | TLDR</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019ba2bf86d4-79c05c0c-cd45-4218-afec-72fa6851bbc7-000000/MpKlVa3ldEe7xssVE4rRzcY3f35kpGB-Ctgll_hAYr8=439</link>
       <description>Link found in newsletter: 'Building Claude Code in 200 lines 🤖, iMessage agents 💬, tech blogging guide 📝'</description>
@@ -734,12 +752,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.tomwphillips.co.uk%2F2026%2F01%2Fstaging-is-a-wasteful-lie-the-case-for-the-mono-environment%2F%3Futm_source=tldrdev/1/0100019ba2bf86d4-79c05c0c-cd45-4218-afec-72fa6851bbc7-000000/jxbnyOmcEFCN9tCbOvymDwDO8Bham9CVhgXXWhqDpCs=439</guid>
     </item>
     <item>
-      <title>Signals vs Query-Based Compilers</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmarvinh.dev%2Fblog%2Fsignals-vs-query-based-compilers%2F%3Futm_source=tldrdev/1/0100019ba2bf86d4-79c05c0c-cd45-4218-afec-72fa6851bbc7-000000/5nV_fhXYUYGROHEhtS0ukczQSMXfa40fQKvcHU1NxAI=439</link>
-      <description>Link found in newsletter: 'Building Claude Code in 200 lines 🤖, iMessage agents 💬, tech blogging guide 📝'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmarvinh.dev%2Fblog%2Fsignals-vs-query-based-compilers%2F%3Futm_source=tldrdev/1/0100019ba2bf86d4-79c05c0c-cd45-4218-afec-72fa6851bbc7-000000/5nV_fhXYUYGROHEhtS0ukczQSMXfa40fQKvcHU1NxAI=439</guid>
-    </item>
-    <item>
       <title>The Emperor Has No Clothes: How to Code Claude Code in 200 Lines of Code - Mihail Eric</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.mihaileric.com%2FThe-Emperor-Has-No-Clothes%2F%3Futm_source=tldrdev/1/0100019ba2bf86d4-79c05c0c-cd45-4218-afec-72fa6851bbc7-000000/Cler0B3k0fXUuJrcmM5PV14MJTzqc3OUlUyR8j1zxu0=439</link>
       <description>Link found in newsletter: 'Building Claude Code in 200 lines 🤖, iMessage agents 💬, tech blogging guide 📝'</description>
@@ -786,6 +798,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=45166fe2-ed5e-11f0-b15a-afc9b65908b7%26pt=campaign%26pv=4%26spa=1767967291%26t=1767968481%26s=3b7282801f2fbb7f6f227fc78f62b8052c1d8d1f4de7f3e84d0eef5cb1711c0d/1/0100019ba3221fc6-f9257a0c-10ed-46ce-9707-22bf09a28466-000000/-OP8kc0KffsiKJqsiIAECSrortSltdm48Gbl6mHkSvo=439</link>
       <description>Link found in newsletter: 'Gmail x Gemini 📧, building Claude agents 👨‍💻, context personalization 📚'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=45166fe2-ed5e-11f0-b15a-afc9b65908b7%26pt=campaign%26pv=4%26spa=1767967291%26t=1767968481%26s=3b7282801f2fbb7f6f227fc78f62b8052c1d8d1f4de7f3e84d0eef5cb1711c0d/1/0100019ba3221fc6-f9257a0c-10ed-46ce-9707-22bf09a28466-000000/-OP8kc0KffsiKJqsiIAECSrortSltdm48Gbl6mHkSvo=439</guid>
+    </item>
+    <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019ba3221fc6-f9257a0c-10ed-46ce-9707-22bf09a28466-000000/MHbSvpf651QZDoGIVUrtntvxbfC0PaHTHz5PigFs4HY=439</link>
+      <description>Link found in newsletter: 'Gmail x Gemini 📧, building Claude agents 👨‍💻, context personalization 📚'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019ba3221fc6-f9257a0c-10ed-46ce-9707-22bf09a28466-000000/MHbSvpf651QZDoGIVUrtntvxbfC0PaHTHz5PigFs4HY=439</guid>
     </item>
     <item>
       <title>#bestinbusiness | TLDR</title>
@@ -1100,6 +1118,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=d6418d84-ef99-11f0-82d5-25f2b5267f47%26pt=campaign%26pv=4%26spa=1768219286%26t=1768220437%26s=1feabc48e376b4a183fb500d61cd0fb08762b2ca4d7506e96726e7ed63154773/1/0100019bb226ac6e-d146f033-9f58-4568-b3d3-c8426b3f9c82-000000/ZW4Kf4dJo9IsUbhx8U2WV5n4XiJ6yWXfhup2v4ZZK1A=439</guid>
     </item>
     <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019bb226ac6e-d146f033-9f58-4568-b3d3-c8426b3f9c82-000000/dSTvI08gn6DgRp52OfKbwRPsgZfNBgwOAMEPaaAT66c=439</link>
+      <description>Link found in newsletter: 'How Markdown took over 🏅, AI is a stress test 💼, anti-AI hype career consequences 😬'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019bb226ac6e-d146f033-9f58-4568-b3d3-c8426b3f9c82-000000/dSTvI08gn6DgRp52OfKbwRPsgZfNBgwOAMEPaaAT66c=439</guid>
+    </item>
+    <item>
       <title>#bestinbusiness | TLDR</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bb226ac6e-d146f033-9f58-4568-b3d3-c8426b3f9c82-000000/YcFlc0KW9nfUcbVaSA1YO6BxYuHTrAE5CHStrMPEr68=439</link>
       <description>Link found in newsletter: 'How Markdown took over 🏅, AI is a stress test 💼, anti-AI hype career consequences 😬'</description>
@@ -1224,6 +1248,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=30c77cee-efb5-11f0-9578-870dc8dd9c2c%26pt=campaign%26pv=4%26spa=1768226483%26t=1768227879%26s=b9c7e569802bcdb1cd07adcd3d00e3f45e97ae1a38ebc1455db7356b2fb64e8a/1/0100019bb2983aca-f997a145-bb37-4ee0-a0fb-97919754f8e5-000000/qBbpA2kFsCTQim4bdf3JEGXZDfIT3B5qxi8iJ_YT9oY=439</link>
       <description>Link found in newsletter: 'Meta’s nuclear deals ⚡, Anthropic’s crackdown 🛑, Google UCP Launch 🚀'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=30c77cee-efb5-11f0-9578-870dc8dd9c2c%26pt=campaign%26pv=4%26spa=1768226483%26t=1768227879%26s=b9c7e569802bcdb1cd07adcd3d00e3f45e97ae1a38ebc1455db7356b2fb64e8a/1/0100019bb2983aca-f997a145-bb37-4ee0-a0fb-97919754f8e5-000000/qBbpA2kFsCTQim4bdf3JEGXZDfIT3B5qxi8iJ_YT9oY=439</guid>
+    </item>
+    <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019bb2983aca-f997a145-bb37-4ee0-a0fb-97919754f8e5-000000/sxYlFlwp_W3-ij4Cm0FZQqr5rj_wzTQE8VuTuAD5xkY=439</link>
+      <description>Link found in newsletter: 'Meta’s nuclear deals ⚡, Anthropic’s crackdown 🛑, Google UCP Launch 🚀'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019bb2983aca-f997a145-bb37-4ee0-a0fb-97919754f8e5-000000/sxYlFlwp_W3-ij4Cm0FZQqr5rj_wzTQE8VuTuAD5xkY=439</guid>
     </item>
     <item>
       <title>#bestinbusiness | TLDR</title>
@@ -1869,6 +1899,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=17747a48-f079-11f0-842c-d1fd1d0ca78d%26pt=campaign%26pv=4%26spa=1768312889%26t=1768314077%26s=44226213921ba30da6deb68847cf960b40e68fb19898a72524c5a11410206615/1/0100019bb7bb827d-ec5b8783-ab6c-4e78-84ae-7e0bd237435d-000000/d9nG7ty2X85EZXjYb7zzLPFaWV9gpIwXAplP7NoBOcE=440</link>
       <description>Link found in newsletter: 'Siri Gemini 📱, Claude Cowork 💼, mcp-cli 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=17747a48-f079-11f0-842c-d1fd1d0ca78d%26pt=campaign%26pv=4%26spa=1768312889%26t=1768314077%26s=44226213921ba30da6deb68847cf960b40e68fb19898a72524c5a11410206615/1/0100019bb7bb827d-ec5b8783-ab6c-4e78-84ae-7e0bd237435d-000000/d9nG7ty2X85EZXjYb7zzLPFaWV9gpIwXAplP7NoBOcE=440</guid>
+    </item>
+    <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019bb7bb827d-ec5b8783-ab6c-4e78-84ae-7e0bd237435d-000000/KC1XbR-sGTRSCgyDsiVIM0LhBmHioIuOdy2WrsJAFoc=440</link>
+      <description>Link found in newsletter: 'Siri Gemini 📱, Claude Cowork 💼, mcp-cli 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019bb7bb827d-ec5b8783-ab6c-4e78-84ae-7e0bd237435d-000000/KC1XbR-sGTRSCgyDsiVIM0LhBmHioIuOdy2WrsJAFoc=440</guid>
     </item>
     <item>
       <title>#bestinbusiness | TLDR</title>
