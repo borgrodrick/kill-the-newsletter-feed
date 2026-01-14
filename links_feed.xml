@@ -6,96 +6,18 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 12:31:30 +0000</lastBuildDate>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=36a6ad8a-ec93-11f0-8c8d-e5496283739f%26pt=campaign%26pv=4%26spa=1767880869%26t=1767882522%26s=b67380e0854edf38ac726ed75d9d1b750a7534a245048944f2b6eefb8264792c/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/eQz2xHOGTRsApjzAvR-6q187NI23eteH02GzDvBJUd0=439</link>
-      <description>Link found in newsletter: 'Airwallex doubles down on Europe 🌏, JPMorgan takes over Apple Card 💳, How AI agents are rewiring fin serv 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=36a6ad8a-ec93-11f0-8c8d-e5496283739f%26pt=campaign%26pv=4%26spa=1767880869%26t=1767882522%26s=b67380e0854edf38ac726ed75d9d1b750a7534a245048944f2b6eefb8264792c/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/eQz2xHOGTRsApjzAvR-6q187NI23eteH02GzDvBJUd0=439</guid>
-    </item>
-    <item>
-      <title>Gabriel Sundaram - attain | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/f5XGX4lAumIvSzfRLUcUEvjemrbMxdryu_e1HObhqJg=439</link>
-      <description>Link found in newsletter: 'Airwallex doubles down on Europe 🌏, JPMorgan takes over Apple Card 💳, How AI agents are rewiring fin serv 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fgabrielsundaram%2F/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/f5XGX4lAumIvSzfRLUcUEvjemrbMxdryu_e1HObhqJg=439</guid>
-    </item>
-    <item>
-      <title>Matt Cheung - Ceviche | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/Pg1ai4uB-MjIuskp56WFL2G8OlUYJ8D5laLuQEwMjnM=439</link>
-      <description>Link found in newsletter: 'Airwallex doubles down on Europe 🌏, JPMorgan takes over Apple Card 💳, How AI agents are rewiring fin serv 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fcheungmatt%2F/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/Pg1ai4uB-MjIuskp56WFL2G8OlUYJ8D5laLuQEwMjnM=439</guid>
-    </item>
-    <item>
-      <title>#bestinbusiness | TLDR</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/mgRAaQTxRcGpo66nbyDoN2HgMExUicCFLlcboEQC2Ek=439</link>
-      <description>Link found in newsletter: 'Airwallex doubles down on Europe 🌏, JPMorgan takes over Apple Card 💳, How AI agents are rewiring fin serv 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/mgRAaQTxRcGpo66nbyDoN2HgMExUicCFLlcboEQC2Ek=439</guid>
-    </item>
-    <item>
-      <title>Create Your Own Role @ TLDR</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/YXIVekvPAJ9MKL1zO8VOk1wVvW6BftH0D-yBzsvVpIA=439</link>
-      <description>Link found in newsletter: 'Airwallex doubles down on Europe 🌏, JPMorgan takes over Apple Card 💳, How AI agents are rewiring fin serv 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/YXIVekvPAJ9MKL1zO8VOk1wVvW6BftH0D-yBzsvVpIA=439</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/00HUoPxd-lvmGvM5iOR2_ITvyPuKx3xJyswlXIpy8YI=439</link>
-      <description>Link found in newsletter: 'Airwallex doubles down on Europe 🌏, JPMorgan takes over Apple Card 💳, How AI agents are rewiring fin serv 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/00HUoPxd-lvmGvM5iOR2_ITvyPuKx3xJyswlXIpy8YI=439</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/mocaXkfzdPl4WJQJAzj4aPL5zQ0QheDikMR57-ohOwo=439</link>
-      <description>Link found in newsletter: 'Airwallex doubles down on Europe 🌏, JPMorgan takes over Apple Card 💳, How AI agents are rewiring fin serv 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/mocaXkfzdPl4WJQJAzj4aPL5zQ0QheDikMR57-ohOwo=439</guid>
-    </item>
-    <item>
-      <title>Brazil’s PicPay files for US IPO | Banking Dive</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bankingdive.com%2Fnews%2Fbrazil-picpay-us-ipo-sec%2F809036%2F%3Futm_source=tldrfintech/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/wQLHYL85C9zYMtsMfL2R3q_D6ULuPr4pvz_gnpuE9Qc=439</link>
-      <description>Link found in newsletter: 'Airwallex doubles down on Europe 🌏, JPMorgan takes over Apple Card 💳, How AI agents are rewiring fin serv 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.bankingdive.com%2Fnews%2Fbrazil-picpay-us-ipo-sec%2F809036%2F%3Futm_source=tldrfintech/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/wQLHYL85C9zYMtsMfL2R3q_D6ULuPr4pvz_gnpuE9Qc=439</guid>
-    </item>
-    <item>
-      <title>Klarna faces investor lawsuit | Payments Dive</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Fklarna-faces-investor-lawsuit%2F808753%2F%3Futm_source=tldrfintech/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/Pz1iYuirKR3proh2tf6L7u9mKyByfJ8Y5cvrficgctk=439</link>
-      <description>Link found in newsletter: 'Airwallex doubles down on Europe 🌏, JPMorgan takes over Apple Card 💳, How AI agents are rewiring fin serv 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.paymentsdive.com%2Fnews%2Fklarna-faces-investor-lawsuit%2F808753%2F%3Futm_source=tldrfintech/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/Pz1iYuirKR3proh2tf6L7u9mKyByfJ8Y5cvrficgctk=439</guid>
-    </item>
-    <item>
-      <title>Everything is Fintech: 2026 Predictions</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.veed.io%2Fview%2F189f08b0-028b-4699-b9d4-56d197f04901%3Futm_source=tldrfintech/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/rjEBlXgHuM-Qa66IjbtDajVzkO4X2YK660AQF9zUJ5U=439</link>
-      <description>Link found in newsletter: 'Airwallex doubles down on Europe 🌏, JPMorgan takes over Apple Card 💳, How AI agents are rewiring fin serv 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.veed.io%2Fview%2F189f08b0-028b-4699-b9d4-56d197f04901%3Futm_source=tldrfintech/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/rjEBlXgHuM-Qa66IjbtDajVzkO4X2YK660AQF9zUJ5U=439</guid>
-    </item>
-    <item>
-      <title>M&amp;A professionals predict a continued market upswing in 2026 | CFO.com</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cfo.com%2Fnews%2Fma-professionals-predict-a-continued-market-upswing-in-2026-kpmg%2F808549%2F%3Futm_source=tldrfintech/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/UOadYKVmqbb41qMPR3TaSaA160YaCATXrgJzZhb1cF8=439</link>
-      <description>Link found in newsletter: 'Airwallex doubles down on Europe 🌏, JPMorgan takes over Apple Card 💳, How AI agents are rewiring fin serv 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.cfo.com%2Fnews%2Fma-professionals-predict-a-continued-market-upswing-in-2026-kpmg%2F808549%2F%3Futm_source=tldrfintech/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/UOadYKVmqbb41qMPR3TaSaA160YaCATXrgJzZhb1cF8=439</guid>
-    </item>
-    <item>
-      <title>JPMorganChase takes over Apple Card from Goldman Sachs | PaymentsSource | American Banker</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.americanbanker.com%2Fpayments%2Fnews%2Fjpmorganchase-takes-over-apple-card-from-goldman-sachs%3Futm_source=tldrfintech/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/Ctx_FCBEYX9aP5T-qtvss-edGNxmQ9PciOgTaVEzhWA=439</link>
-      <description>Link found in newsletter: 'Airwallex doubles down on Europe 🌏, JPMorgan takes over Apple Card 💳, How AI agents are rewiring fin serv 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.americanbanker.com%2Fpayments%2Fnews%2Fjpmorganchase-takes-over-apple-card-from-goldman-sachs%3Futm_source=tldrfintech/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/Ctx_FCBEYX9aP5T-qtvss-edGNxmQ9PciOgTaVEzhWA=439</guid>
-    </item>
-    <item>
-      <title>TLDR Fintech</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=36a6ad8a-ec93-11f0-8c8d-e5496283739f%26pt=campaign%26t=1767882522%26s=15cdd57143b61827be33734f356c02503031df921c5fbf51e4f5f483670f758e/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/nYkukZZNcMKIh4M_Fdj3K5dhQ1zIYRZppSyYgYlw_hg=439</link>
-      <description>Link found in newsletter: 'Airwallex doubles down on Europe 🌏, JPMorgan takes over Apple Card 💳, How AI agents are rewiring fin serv 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=36a6ad8a-ec93-11f0-8c8d-e5496283739f%26pt=campaign%26t=1767882522%26s=15cdd57143b61827be33734f356c02503031df921c5fbf51e4f5f483670f758e/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/nYkukZZNcMKIh4M_Fdj3K5dhQ1zIYRZppSyYgYlw_hg=439</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/seoGlGz1Vx4HOnYQBdKuiJTtzX8WQ-Nfk-5onCid9R4=439</link>
-      <description>Link found in newsletter: 'Airwallex doubles down on Europe 🌏, JPMorgan takes over Apple Card 💳, How AI agents are rewiring fin serv 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019b9e027e27-1904107c-54e4-4313-a81b-2e0d666df117-000000/seoGlGz1Vx4HOnYQBdKuiJTtzX8WQ-Nfk-5onCid9R4=439</guid>
-    </item>
+    <lastBuildDate>Wed, 14 Jan 2026 18:24:02 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=0c41b6ec-ec94-11f0-af9e-d9d0d2a32782%26pt=campaign%26pv=4%26spa=1767880858%26t=1767883895%26s=f3228127e062dc22e26c8fd3eab100095ad60834b47572341a58f3aa2decb4e6/1/0100019b9e177274-ad49d96b-3729-4310-8c77-790cd632e198-000000/XTjjEcpQWLK55DIXPLCjQkm6ZwqUMHsBJI7pfW20WNs=439</link>
       <description>Link found in newsletter: 'Anthropic $350B valuation 💰, OpenAI’s $50B equity pool 💵, ChatGPT Health 🏥'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=0c41b6ec-ec94-11f0-af9e-d9d0d2a32782%26pt=campaign%26pv=4%26spa=1767880858%26t=1767883895%26s=f3228127e062dc22e26c8fd3eab100095ad60834b47572341a58f3aa2decb4e6/1/0100019b9e177274-ad49d96b-3729-4310-8c77-790cd632e198-000000/XTjjEcpQWLK55DIXPLCjQkm6ZwqUMHsBJI7pfW20WNs=439</guid>
+    </item>
+    <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019b9e177274-ad49d96b-3729-4310-8c77-790cd632e198-000000/gZyYc0D8ns-uw0AU9XoQtwny81DCJKDD5nIKEr9lrIw=439</link>
+      <description>Link found in newsletter: 'Anthropic $350B valuation 💰, OpenAI’s $50B equity pool 💵, ChatGPT Health 🏥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019b9e177274-ad49d96b-3729-4310-8c77-790cd632e198-000000/gZyYc0D8ns-uw0AU9XoQtwny81DCJKDD5nIKEr9lrIw=439</guid>
     </item>
     <item>
       <title>#bestinbusiness | TLDR</title>
@@ -956,6 +878,12 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=30c77cee-efb5-11f0-9578-870dc8dd9c2c%26pt=campaign%26pv=4%26spa=1768226483%26t=1768227879%26s=b9c7e569802bcdb1cd07adcd3d00e3f45e97ae1a38ebc1455db7356b2fb64e8a/1/0100019bb2983aca-f997a145-bb37-4ee0-a0fb-97919754f8e5-000000/qBbpA2kFsCTQim4bdf3JEGXZDfIT3B5qxi8iJ_YT9oY=439</guid>
     </item>
     <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019bb2983aca-f997a145-bb37-4ee0-a0fb-97919754f8e5-000000/sxYlFlwp_W3-ij4Cm0FZQqr5rj_wzTQE8VuTuAD5xkY=439</link>
+      <description>Link found in newsletter: 'Meta’s nuclear deals ⚡, Anthropic’s crackdown 🛑, Google UCP Launch 🚀'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019bb2983aca-f997a145-bb37-4ee0-a0fb-97919754f8e5-000000/sxYlFlwp_W3-ij4Cm0FZQqr5rj_wzTQE8VuTuAD5xkY=439</guid>
+    </item>
+    <item>
       <title>#bestinbusiness | TLDR</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bb2983aca-f997a145-bb37-4ee0-a0fb-97919754f8e5-000000/Y6-RhGzGiTSat0HLi03M893SUsyEFKgelmKuJtV9MHs=439</link>
       <description>Link found in newsletter: 'Meta’s nuclear deals ⚡, Anthropic’s crackdown 🛑, Google UCP Launch 🚀'</description>
@@ -1749,12 +1677,6 @@ This effort will be led by Santosh Janardhan and Daniel Gross.</title>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.threads.com%2F@zuck%2Fpost%2FDTa3-B1EbTp%3Futm_source=tldrai/1/0100019bb7bb827d-ec5b8783-ab6c-4e78-84ae-7e0bd237435d-000000/mXYPw76wyK1gEZu4IKc6NOztW-EisvpVTiLTS6mWyRo=440</guid>
     </item>
     <item>
-      <title>Apple’s new Google Gemini deal sounds bigger, better than expected - 9to5Mac</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2026%2F01%2F12%2Fapples-new-google-gemini-deal-sounds-bigger-better-than-expected%2F%3Futm_source=tldrai/1/0100019bb7bb827d-ec5b8783-ab6c-4e78-84ae-7e0bd237435d-000000/5GYvjzjkYODRFT6S6SqD_c6z923vygizwmMRa7E07q4=440</link>
-      <description>Link found in newsletter: 'Siri Gemini 📱, Claude Cowork 💼, mcp-cli 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2026%2F01%2F12%2Fapples-new-google-gemini-deal-sounds-bigger-better-than-expected%2F%3Futm_source=tldrai/1/0100019bb7bb827d-ec5b8783-ab6c-4e78-84ae-7e0bd237435d-000000/5GYvjzjkYODRFT6S6SqD_c6z923vygizwmMRa7E07q4=440</guid>
-    </item>
-    <item>
       <title>Seer: AI debugging agent that works for you. | Sentry</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsentry.io%2Fproduct%2Fseer%2F%3Futm_source=tldr%26utm_medium=paid-community%26utm_campaign=seer-fy26q4-seerlaunch%26utm_content=newsletter-product-lp-learnmore/5/0100019bb7bb827d-ec5b8783-ab6c-4e78-84ae-7e0bd237435d-000000/nytdPotODAzih3sB6GaWt5NUHk-yeATtz-UXOi6TdSc=440</link>
       <description>Link found in newsletter: 'Siri Gemini 📱, Claude Cowork 💼, mcp-cli 👨‍💻'</description>
@@ -1819,6 +1741,12 @@ This effort will be led by Santosh Janardhan and Daniel Gross.</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/nSwFcU7j0x2M2ntrZuylCc2Tz79UQObmksMppRcbDik=440</link>
       <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/nSwFcU7j0x2M2ntrZuylCc2Tz79UQObmksMppRcbDik=440</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/s5bOkDMdRc34ebQoWhQbXZtVKVC5br0tnPS2r8Bf10o=440</link>
+      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/s5bOkDMdRc34ebQoWhQbXZtVKVC5br0tnPS2r8Bf10o=440</guid>
     </item>
     <item>
       <title>TLDR Newsletter | Referral Hub</title>
@@ -1945,12 +1873,6 @@ This effort will be led by Santosh Janardhan and Daniel Gross.</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/xGFXjL2AUQN9Q86uGWDwFlrWMaBvsksy_dHBsZyD_T0=440</link>
       <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/xGFXjL2AUQN9Q86uGWDwFlrWMaBvsksy_dHBsZyD_T0=440</guid>
-    </item>
-    <item>
-      <title>borgrodrick · Kill the Newsletter!</title>
-      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
     </item>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
@@ -2095,6 +2017,186 @@ This effort will be led by Santosh Janardhan and Daniel Gross.</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/MKD-adv8f8i1kiYXm2-kTH3gcu6VoLydvVkLhzIhmFI=440</link>
       <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/MKD-adv8f8i1kiYXm2-kTH3gcu6VoLydvVkLhzIhmFI=440</guid>
+    </item>
+    <item>
+      <title>borgrodrick · Kill the Newsletter!</title>
+      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=de9ed14c-f144-11f0-bb9e-7bbe899830b0%26pt=campaign%26pv=4%26spa=1768399350%26t=1768400513%26s=5e206f0b1391699c94f8289e26b301efdf4a91a6f21b665a3c28b6694a022216/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/ZSOFCUgpN9VHyUBD-4isv0yeU9Dyd6X6J2l-MDmhp_8=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=de9ed14c-f144-11f0-bb9e-7bbe899830b0%26pt=campaign%26pv=4%26spa=1768399350%26t=1768400513%26s=5e206f0b1391699c94f8289e26b301efdf4a91a6f21b665a3c28b6694a022216/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/ZSOFCUgpN9VHyUBD-4isv0yeU9Dyd6X6J2l-MDmhp_8=440</guid>
+    </item>
+    <item>
+      <title>Ali Aminian - Adobe | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/m91uIQ3jJWtkkXj1EP6XlAZP1Lc3u-Wh2edIXCCT69Q=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/m91uIQ3jJWtkkXj1EP6XlAZP1Lc3u-Wh2edIXCCT69Q=440</guid>
+    </item>
+    <item>
+      <title>#bestinbusiness | TLDR</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/otZUkHNKx-WZArn-x0DNuTj5KqFuLs8eJN1mJnt1JdI=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/otZUkHNKx-WZArn-x0DNuTj5KqFuLs8eJN1mJnt1JdI=440</guid>
+    </item>
+    <item>
+      <title>Create Your Own Role @ TLDR</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/hSp7ZnBm5keZ2Hu_RcO_gfHkhDmixXus1uwsBQgpS0c=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/hSp7ZnBm5keZ2Hu_RcO_gfHkhDmixXus1uwsBQgpS0c=440</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/q3HFbmDt0fOqRGGSysnNrQYR3zV2ce6baT3kWrTCj28=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/q3HFbmDt0fOqRGGSysnNrQYR3zV2ce6baT3kWrTCj28=440</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/6skSSsnIba3qYG7axrsT_8eP861gP6JRrsK-cXNhyns=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/6skSSsnIba3qYG7axrsT_8eP861gP6JRrsK-cXNhyns=440</guid>
+    </item>
+    <item>
+      <title>TLDR AI | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/CR6FsIes9Xa7z1mM6jUVm0eBDLAwyiotdqQGGG6mt34=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/CR6FsIes9Xa7z1mM6jUVm0eBDLAwyiotdqQGGG6mt34=440</guid>
+    </item>
+    <item>
+      <title>CLAUDE_AGENT_SDK_SPEC.md · GitHub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgist.github.com%2FPOWERFULMOVES%2F58bcadab9483bf5e633e865f131e6c25%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/nClhiGBbRkZd_XliedPwVQoC-e7ULOLadnOqr--mAQU=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgist.github.com%2FPOWERFULMOVES%2F58bcadab9483bf5e633e865f131e6c25%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/nClhiGBbRkZd_XliedPwVQoC-e7ULOLadnOqr--mAQU=440</guid>
+    </item>
+    <item>
+      <title>Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fresearch.google%2Fblog%2Fnext-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr%2F%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/wph179uhKWMRhMvis836BbgcSM8lLJGGltqNdNFI-LM=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fresearch.google%2Fblog%2Fnext-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr%2F%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/wph179uhKWMRhMvis836BbgcSM8lLJGGltqNdNFI-LM=440</guid>
+    </item>
+    <item>
+      <title>"Hello, Computer."</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fspyglass.org%2Fvocal-computing-ai%2F%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/hsWPBrlOBjwdYPTmK-OJiJXJgtqb7RLqEtGPNpJ9FHY=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fspyglass.org%2Fvocal-computing-ai%2F%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/hsWPBrlOBjwdYPTmK-OJiJXJgtqb7RLqEtGPNpJ9FHY=440</guid>
+    </item>
+    <item>
+      <title>GitHub - THUDM/CaRR: This repository contains the code and data for the paper "Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards".</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FTHUDM%2FCaRR%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/jxqRcRJilm_bE0DHF2FFbE51w5LT-zl-W0fV0_icdnE=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FTHUDM%2FCaRR%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/jxqRcRJilm_bE0DHF2FFbE51w5LT-zl-W0fV0_icdnE=440</guid>
+    </item>
+    <item>
+      <title>GLM-Image: Auto-regressive for Dense-knowledge and High-fidelity Image Generation</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fz.ai%2Fblog%2Fglm-image%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/qoTvTGKuSpnS3yCbXM3jY6bX0DBHMD8H7n6r_IchIJY=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fz.ai%2Fblog%2Fglm-image%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/qoTvTGKuSpnS3yCbXM3jY6bX0DBHMD8H7n6r_IchIJY=440</guid>
+    </item>
+    <item>
+      <title>Engram: How DeepSeek Added a Second Brain to Their LLM | rewire.it | rewire.it Blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frewire.it%2Fblog%2Fengram-how-deepseek-added-second-brain-to-llm%2Findex.html%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/Bcqw02_4NPkjhagZCcQC6TPJqawyHKw7brxtEN2pH_E=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frewire.it%2Fblog%2Fengram-how-deepseek-added-second-brain-to-llm%2Findex.html%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/Bcqw02_4NPkjhagZCcQC6TPJqawyHKw7brxtEN2pH_E=440</guid>
+    </item>
+    <item>
+      <title>AI Code Review That Knows How You Work</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgetunblocked.com%2Fcode-review%2F%3Futm_source=tldrai%26utm_medium=email%26utm_campaign=codereview_260114secondary/3/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/uWVR-wXV0LiXrlzkk7EFvJVTsmnnj4I7SSLFhOXCRek=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgetunblocked.com%2Fcode-review%2F%3Futm_source=tldrai%26utm_medium=email%26utm_campaign=codereview_260114secondary/3/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/uWVR-wXV0LiXrlzkk7EFvJVTsmnnj4I7SSLFhOXCRek=440</guid>
+    </item>
+    <item>
+      <title>AI Code Review That Knows How You Work</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgetunblocked.com%2Fcode-review%2F%3Futm_source=tldrai%26utm_medium=email%26utm_campaign=codereview_260114secondary/2/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/whDlh70PkdN0evu_eIaYRyM4LcK5kR-LBaO5SISiZEs=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgetunblocked.com%2Fcode-review%2F%3Futm_source=tldrai%26utm_medium=email%26utm_campaign=codereview_260114secondary/2/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/whDlh70PkdN0evu_eIaYRyM4LcK5kR-LBaO5SISiZEs=440</guid>
+    </item>
+    <item>
+      <title>AI Code Review That Knows How You Work</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgetunblocked.com%2Fcode-review%2F%3Futm_source=tldrai%26utm_medium=email%26utm_campaign=codereview_260114secondary/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/IklFbITo2lAj-Qjj-CguCOn3ugO69nuw44g1zWG8ql8=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgetunblocked.com%2Fcode-review%2F%3Futm_source=tldrai%26utm_medium=email%26utm_campaign=codereview_260114secondary/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/IklFbITo2lAj-Qjj-CguCOn3ugO69nuw44g1zWG8ql8=440</guid>
+    </item>
+    <item>
+      <title>Introducing the AI Chip Sales Data Explorer | Epoch AI</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fepoch.ai%2Fblog%2Fintroducing-the-ai-chip-sales-data-explorer%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/z4Q1UIyLrHC-slbN_fF0IQDebr2ZUhninpaUWRQTCJg=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fepoch.ai%2Fblog%2Fintroducing-the-ai-chip-sales-data-explorer%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/z4Q1UIyLrHC-slbN_fF0IQDebr2ZUhninpaUWRQTCJg=440</guid>
+    </item>
+    <item>
+      <title>Vibe Coding Without System Design is a Trap</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.focusedchaos.co%2Fp%2Fvibe-coding-without-system-design-is-a-trap%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/BZt5IZXQfPijxsHJNUFxoWmNffHtGP5EK0yFjMAM6EQ=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.focusedchaos.co%2Fp%2Fvibe-coding-without-system-design-is-a-trap%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/BZt5IZXQfPijxsHJNUFxoWmNffHtGP5EK0yFjMAM6EQ=440</guid>
+    </item>
+    <item>
+      <title>The All-Star Chinese AI Conversation of 2026</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.chinatalk.media%2Fp%2Fthe-all-star-chinese-ai-conversation%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/CjsIKXuhyNqmZS81pf6fnGlCZ_zauMhCEHEd6Q3-jLA=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.chinatalk.media%2Fp%2Fthe-all-star-chinese-ai-conversation%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/CjsIKXuhyNqmZS81pf6fnGlCZ_zauMhCEHEd6Q3-jLA=440</guid>
+    </item>
+    <item>
+      <title>Google tests Gemini Auto Browse tool for Chrome users</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fgoogle-tests-gemini-auto-browse-tool-for-chrome-users%2F%23google_vignette%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/rxf_zZj-B24KlD5oQ-NUzilcKNBBiMlwWAsdcrbMe-Y=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fgoogle-tests-gemini-auto-browse-tool-for-chrome-users%2F%23google_vignette%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/rxf_zZj-B24KlD5oQ-NUzilcKNBBiMlwWAsdcrbMe-Y=440</guid>
+    </item>
+    <item>
+      <title>Google upgrades Veo 3.1 with Ingredients and 4K upscaling</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fgoogle-veo-3-1-update-brings-4k-upscaling-vertical-videos-and-better-ingridients%2F%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/UR2u2VoOtXyqcwiPSS-qbCqyCQipSOOZvt8ycTtkP_k=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fgoogle-veo-3-1-update-brings-4k-upscaling-vertical-videos-and-better-ingridients%2F%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/UR2u2VoOtXyqcwiPSS-qbCqyCQipSOOZvt8ycTtkP_k=440</guid>
+    </item>
+    <item>
+      <title>Introducing Labs \ Anthropic</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fintroducing-anthropic-labs%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/GQJHg7aBG1_zNJ5J2f-JcKrtnrQEfZvYwUKUpHX8bio=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fintroducing-anthropic-labs%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/GQJHg7aBG1_zNJ5J2f-JcKrtnrQEfZvYwUKUpHX8bio=440</guid>
+    </item>
+    <item>
+      <title>LTX-2: Production-Grade AI Video Generation Model | LTX Model</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/5/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/HWoOYhVYjJ5xMJtVKBMTlL-Q4DHQljTU5blJsPaq2ZE=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/5/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/HWoOYhVYjJ5xMJtVKBMTlL-Q4DHQljTU5blJsPaq2ZE=440</guid>
+    </item>
+    <item>
+      <title>LTX-2: Production-Grade AI Video Generation Model | LTX Model</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/4/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/2Ee2DM-RkZTgeNslnHORpsXUXUXNjLhorYr4K89Pwfs=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/4/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/2Ee2DM-RkZTgeNslnHORpsXUXUXNjLhorYr4K89Pwfs=440</guid>
+    </item>
+    <item>
+      <title>LTX-2: Production-Grade AI Video Generation Model | LTX Model</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/3/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/SNj70VMT7wAdSDZrjsaGyvtCuaOTSl0MWvfDqqpPX60=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/3/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/SNj70VMT7wAdSDZrjsaGyvtCuaOTSl0MWvfDqqpPX60=440</guid>
+    </item>
+    <item>
+      <title>LTX-2: Production-Grade AI Video Generation Model | LTX Model</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/2/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/7qIlm1QWtR3haGSfggcN6lKHH2LP2epcmOmW_Wz020E=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/2/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/7qIlm1QWtR3haGSfggcN6lKHH2LP2epcmOmW_Wz020E=440</guid>
+    </item>
+    <item>
+      <title>LTX-2: Production-Grade AI Video Generation Model | LTX Model</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/GQW4v6L_gEAy-uR1-A5qP1xYLsXaruzoKEAPcyt8PsM=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/GQW4v6L_gEAy-uR1-A5qP1xYLsXaruzoKEAPcyt8PsM=440</guid>
+    </item>
+    <item>
+      <title>TLDR AI</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=de9ed14c-f144-11f0-bb9e-7bbe899830b0%26pt=campaign%26t=1768400513%26s=9cc572be2d2b950bc32c4016d855dbd78940a3c8d34299f534066bdd840cf010/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/Qq-ZU8PiRrexq_BvKH7Ni-GGReWA5un9V0h_EVhVQVI=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=de9ed14c-f144-11f0-bb9e-7bbe899830b0%26pt=campaign%26t=1768400513%26s=9cc572be2d2b950bc32c4016d855dbd78940a3c8d34299f534066bdd840cf010/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/Qq-ZU8PiRrexq_BvKH7Ni-GGReWA5un9V0h_EVhVQVI=440</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/Pr80Y6cIeu6Imxeij4Lo-yGYnbqi3xYZUt63tbyOT1Y=440</link>
+      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/Pr80Y6cIeu6Imxeij4Lo-yGYnbqi3xYZUt63tbyOT1Y=440</guid>
     </item>
   </channel>
 </rss>
