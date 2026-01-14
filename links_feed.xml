@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 14 Jan 2026 01:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 06:24:20 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=bb8387ca-ec80-11f0-b1fc-51ecc30e6722%26pt=campaign%26pv=4%26spa=1767870078%26t=1767871633%26s=8a09316a8d774b7d23694703e864e871c5c687d2b39c0a5215d59f7417e87a6e/1/0100019b9d5c56e0-3d87fa9f-39db-4c1b-8422-604aa184b0c9-000000/M0Po3l-4Rj7kMPwMuf2TBzS2U4F_7reVkuFv6DskmlA=439</link>
@@ -218,12 +218,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fkubernetes-sigs%2Fheadlamp%3Futm_source=tldrdev/1/0100019b9d89d39d-980b828a-1392-4559-bc6c-60e72c25edb7-000000/mGCVFnQoX94vnUgUqNARY2XOlFy_Aghx4auFdV41nes=439</guid>
     </item>
     <item>
-      <title>Testing Opus 4.5 For C Programming ・ Daniel Hooper</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanielchasehooper.com%2Fposts%2Fcode-agents%2F%3Futm_source=tldrdev/1/0100019b9d89d39d-980b828a-1392-4559-bc6c-60e72c25edb7-000000/MaLwy0XgFHKadqbpChJX6I0tJoSs2Nk-356NHx9qe4I=439</link>
-      <description>Link found in newsletter: 'AI grief 😭, the new day-to-day of devs 📆, hidden kernel bugs 🫣'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fdanielchasehooper.com%2Fposts%2Fcode-agents%2F%3Futm_source=tldrdev/1/0100019b9d89d39d-980b828a-1392-4559-bc6c-60e72c25edb7-000000/MaLwy0XgFHKadqbpChJX6I0tJoSs2Nk-356NHx9qe4I=439</guid>
-    </item>
-    <item>
       <title>LMArena is a cancer on AI</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsurgehq.ai%2Fblog%2Flmarena-is-a-plague-on-ai%3Futm_source=tldrdev/1/0100019b9d89d39d-980b828a-1392-4559-bc6c-60e72c25edb7-000000/HOMh7bb2lSuCUyQcTbXJ0HPEAuqS1wFWh8ArYtX-0RQ=439</link>
       <description>Link found in newsletter: 'AI grief 😭, the new day-to-day of devs 📆, hidden kernel bugs 🫣'</description>
@@ -390,12 +384,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=0c41b6ec-ec94-11f0-af9e-d9d0d2a32782%26pt=campaign%26pv=4%26spa=1767880858%26t=1767883895%26s=f3228127e062dc22e26c8fd3eab100095ad60834b47572341a58f3aa2decb4e6/1/0100019b9e177274-ad49d96b-3729-4310-8c77-790cd632e198-000000/XTjjEcpQWLK55DIXPLCjQkm6ZwqUMHsBJI7pfW20WNs=439</link>
       <description>Link found in newsletter: 'Anthropic $350B valuation 💰, OpenAI’s $50B equity pool 💵, ChatGPT Health 🏥'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=0c41b6ec-ec94-11f0-af9e-d9d0d2a32782%26pt=campaign%26pv=4%26spa=1767880858%26t=1767883895%26s=f3228127e062dc22e26c8fd3eab100095ad60834b47572341a58f3aa2decb4e6/1/0100019b9e177274-ad49d96b-3729-4310-8c77-790cd632e198-000000/XTjjEcpQWLK55DIXPLCjQkm6ZwqUMHsBJI7pfW20WNs=439</guid>
-    </item>
-    <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019b9e177274-ad49d96b-3729-4310-8c77-790cd632e198-000000/gZyYc0D8ns-uw0AU9XoQtwny81DCJKDD5nIKEr9lrIw=439</link>
-      <description>Link found in newsletter: 'Anthropic $350B valuation 💰, OpenAI’s $50B equity pool 💵, ChatGPT Health 🏥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019b9e177274-ad49d96b-3729-4310-8c77-790cd632e198-000000/gZyYc0D8ns-uw0AU9XoQtwny81DCJKDD5nIKEr9lrIw=439</guid>
     </item>
     <item>
       <title>#bestinbusiness | TLDR</title>
@@ -888,12 +876,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcookbook.openai.com%2Fexamples%2Fagents_sdk%2Fcontext_personalization%3Futm_source=tldrai/1/0100019ba3221fc6-f9257a0c-10ed-46ce-9707-22bf09a28466-000000/r-YadALc2tEc_eGFddY3DcNdjVaBI_wHxYrD15zgEbM=439</link>
       <description>Link found in newsletter: 'Gmail x Gemini 📧, building Claude agents 👨‍💻, context personalization 📚'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fcookbook.openai.com%2Fexamples%2Fagents_sdk%2Fcontext_personalization%3Futm_source=tldrai/1/0100019ba3221fc6-f9257a0c-10ed-46ce-9707-22bf09a28466-000000/r-YadALc2tEc_eGFddY3DcNdjVaBI_wHxYrD15zgEbM=439</guid>
-    </item>
-    <item>
-      <title>Lord of War, meet Lord of Tokens: Torture-testing image models on design-agency grade work | KAY SINGH</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsinghkays.com%2Fblog%2Flord-war-test-image-models%2F%3Futm_source=tldrai/1/0100019ba3221fc6-f9257a0c-10ed-46ce-9707-22bf09a28466-000000/PBvmI3wbdtDMZjEb06sJCkr2qtrLAEqVL3g_vgVhRAk=439</link>
-      <description>Link found in newsletter: 'Gmail x Gemini 📧, building Claude agents 👨‍💻, context personalization 📚'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsinghkays.com%2Fblog%2Flord-war-test-image-models%2F%3Futm_source=tldrai/1/0100019ba3221fc6-f9257a0c-10ed-46ce-9707-22bf09a28466-000000/PBvmI3wbdtDMZjEb06sJCkr2qtrLAEqVL3g_vgVhRAk=439</guid>
     </item>
     <item>
       <title>OpenAI to acquire the team behind executive coaching AI tool Convogo | TechCrunch</title>
@@ -1899,12 +1881,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=17747a48-f079-11f0-842c-d1fd1d0ca78d%26pt=campaign%26pv=4%26spa=1768312889%26t=1768314077%26s=44226213921ba30da6deb68847cf960b40e68fb19898a72524c5a11410206615/1/0100019bb7bb827d-ec5b8783-ab6c-4e78-84ae-7e0bd237435d-000000/d9nG7ty2X85EZXjYb7zzLPFaWV9gpIwXAplP7NoBOcE=440</link>
       <description>Link found in newsletter: 'Siri Gemini 📱, Claude Cowork 💼, mcp-cli 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=17747a48-f079-11f0-842c-d1fd1d0ca78d%26pt=campaign%26pv=4%26spa=1768312889%26t=1768314077%26s=44226213921ba30da6deb68847cf960b40e68fb19898a72524c5a11410206615/1/0100019bb7bb827d-ec5b8783-ab6c-4e78-84ae-7e0bd237435d-000000/d9nG7ty2X85EZXjYb7zzLPFaWV9gpIwXAplP7NoBOcE=440</guid>
-    </item>
-    <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019bb7bb827d-ec5b8783-ab6c-4e78-84ae-7e0bd237435d-000000/KC1XbR-sGTRSCgyDsiVIM0LhBmHioIuOdy2WrsJAFoc=440</link>
-      <description>Link found in newsletter: 'Siri Gemini 📱, Claude Cowork 💼, mcp-cli 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019bb7bb827d-ec5b8783-ab6c-4e78-84ae-7e0bd237435d-000000/KC1XbR-sGTRSCgyDsiVIM0LhBmHioIuOdy2WrsJAFoc=440</guid>
     </item>
     <item>
       <title>#bestinbusiness | TLDR</title>
