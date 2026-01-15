@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 15 Jan 2026 01:09:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 06:23:51 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=0c41b6ec-ec94-11f0-af9e-d9d0d2a32782%26pt=campaign%26pv=4%26spa=1767880858%26t=1767883895%26s=f3228127e062dc22e26c8fd3eab100095ad60834b47572341a58f3aa2decb4e6/1/0100019b9e177274-ad49d96b-3729-4310-8c77-790cd632e198-000000/XTjjEcpQWLK55DIXPLCjQkm6ZwqUMHsBJI7pfW20WNs=439</link>
@@ -660,12 +660,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fantirez.com%2Fnews%2F158%3Futm_source=tldrnewsletter/1/0100019bb1f5f486-f41fbf67-2f2e-4e16-b41e-7985871bc66c-000000/1RkJvqw1OhfGY5QQieKDPlxAt2t_Ps8JMUTaiZWIE-k=439</link>
       <description>Link found in newsletter: 'Google AI shopping 🛒, inside a16z 💰, anti-AI hype 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fantirez.com%2Fnews%2F158%3Futm_source=tldrnewsletter/1/0100019bb1f5f486-f41fbf67-2f2e-4e16-b41e-7985871bc66c-000000/1RkJvqw1OhfGY5QQieKDPlxAt2t_Ps8JMUTaiZWIE-k=439</guid>
-    </item>
-    <item>
-      <title>Agent-native Architectures: How to Build Apps After Code Ends</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fevery.to%2Fguides%2Fagent-native%3Fsource=post_button%26utm_source=tldrnewsletter/1/0100019bb1f5f486-f41fbf67-2f2e-4e16-b41e-7985871bc66c-000000/3K_9RK2q3U8880dj-cb23dvY7Uq6jWb1NNoUuFR3Dkg=439</link>
-      <description>Link found in newsletter: 'Google AI shopping 🛒, inside a16z 💰, anti-AI hype 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fevery.to%2Fguides%2Fagent-native%3Fsource=post_button%26utm_source=tldrnewsletter/1/0100019bb1f5f486-f41fbf67-2f2e-4e16-b41e-7985871bc66c-000000/3K_9RK2q3U8880dj-cb23dvY7Uq6jWb1NNoUuFR3Dkg=439</guid>
     </item>
     <item>
       <title>API Keys Public Beta</title>
@@ -1677,12 +1671,6 @@ This effort will be led by Santosh Janardhan and Daniel Gross.</title>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.threads.com%2F@zuck%2Fpost%2FDTa3-B1EbTp%3Futm_source=tldrai/1/0100019bb7bb827d-ec5b8783-ab6c-4e78-84ae-7e0bd237435d-000000/mXYPw76wyK1gEZu4IKc6NOztW-EisvpVTiLTS6mWyRo=440</guid>
     </item>
     <item>
-      <title>Apple’s new Google Gemini deal sounds bigger, better than expected - 9to5Mac</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2026%2F01%2F12%2Fapples-new-google-gemini-deal-sounds-bigger-better-than-expected%2F%3Futm_source=tldrai/1/0100019bb7bb827d-ec5b8783-ab6c-4e78-84ae-7e0bd237435d-000000/5GYvjzjkYODRFT6S6SqD_c6z923vygizwmMRa7E07q4=440</link>
-      <description>Link found in newsletter: 'Siri Gemini 📱, Claude Cowork 💼, mcp-cli 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2026%2F01%2F12%2Fapples-new-google-gemini-deal-sounds-bigger-better-than-expected%2F%3Futm_source=tldrai/1/0100019bb7bb827d-ec5b8783-ab6c-4e78-84ae-7e0bd237435d-000000/5GYvjzjkYODRFT6S6SqD_c6z923vygizwmMRa7E07q4=440</guid>
-    </item>
-    <item>
       <title>Seer: AI debugging agent that works for you. | Sentry</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fsentry.io%2Fproduct%2Fseer%2F%3Futm_source=tldr%26utm_medium=paid-community%26utm_campaign=seer-fy26q4-seerlaunch%26utm_content=newsletter-product-lp-learnmore/5/0100019bb7bb827d-ec5b8783-ab6c-4e78-84ae-7e0bd237435d-000000/nytdPotODAzih3sB6GaWt5NUHk-yeATtz-UXOi6TdSc=440</link>
       <description>Link found in newsletter: 'Siri Gemini 📱, Claude Cowork 💼, mcp-cli 👨‍💻'</description>
@@ -1855,12 +1843,6 @@ This effort will be led by Santosh Janardhan and Daniel Gross.</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FRyyC33/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/OEtNFr5b5Y1SmGfDjLHV88maHYId1AHd951CKQWeghs=440</link>
       <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FRyyC33/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/OEtNFr5b5Y1SmGfDjLHV88maHYId1AHd951CKQWeghs=440</guid>
-    </item>
-    <item>
-      <title>Apple to fine-tune Gemini independently, no Google branding on Siri, more - 9to5Mac</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2026%2F01%2F13%2Freport-apple-to-fine-tune-gemini-independently%2F%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/1L_rlqoac10vIRtOI27vatHQjwCYqqcCTCHG_WuSFNE=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2026%2F01%2F13%2Freport-apple-to-fine-tune-gemini-independently%2F%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/1L_rlqoac10vIRtOI27vatHQjwCYqqcCTCHG_WuSFNE=440</guid>
     </item>
     <item>
       <title>TLDR</title>
