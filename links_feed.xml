@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 17 Jan 2026 06:21:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 12:26:45 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=a9f58246-0e2a-11ef-8572-09f6f474b7ba%26lc=4319060e-3b9e-11f0-933f-314c23222c1f%26p=d5b4d984-efb2-11f0-ae8c-d1370cd77184%26pt=campaign%26pv=4%26spa=1768226554%26t=1768227014%26s=f537d55ce35b49dc0f29c3dc63eacba269f6454db0b7635c8a2b4c1570b9a26b/1/0100019bb28b0943-19963ae3-d669-4789-893e-3cb45f56a3af-000000/XCN5jD6WGCg5Sk8ncm3LB1UEn5mlEtQaJH1CraxEjpo=439</link>
@@ -1632,12 +1632,6 @@ This effort will be led by Santosh Janardhan and Daniel Gross.</title>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019bc20c7418-971f4be1-215b-4882-80ed-53513179673d-000000/tkgwX3OM774tHR1Yb2orO_4mz0mA9xFwoSYZQV2cM3E=440</guid>
     </item>
     <item>
-      <title>#bestinbusiness | TLDR</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bc20c7418-971f4be1-215b-4882-80ed-53513179673d-000000/ha-UAkpEZNzqy6rg-1qH_deszC8puwPapaAzbr-Ns0c=440</link>
-      <description>Link found in newsletter: 'Gemini Personal Intelligence 🤖, OpenAI + Cerebras $10B 💻, Character.ai inference speed ⏩'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bc20c7418-971f4be1-215b-4882-80ed-53513179673d-000000/ha-UAkpEZNzqy6rg-1qH_deszC8puwPapaAzbr-Ns0c=440</guid>
-    </item>
-    <item>
       <title>Create Your Own Role @ TLDR</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019bc20c7418-971f4be1-215b-4882-80ed-53513179673d-000000/Fo8PvUoY7J9l2U1Pz3m-RCU47iKJtVIyxUHHds0CpDM=440</link>
       <description>Link found in newsletter: 'Gemini Personal Intelligence 🤖, OpenAI + Cerebras $10B 💻, Character.ai inference speed ⏩'</description>
@@ -1890,6 +1884,12 @@ This effort will be led by Santosh Janardhan and Daniel Gross.</title>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fspace%2F2026%2F01%2Fnasas-first-ever-medical-evacuation-from-space-ends-with-on-target-splashdown%2F%3Futm_source=tldrnewsletter/1/0100019bc68e78cf-e6db4709-1248-498e-878d-01ebc3ad4df3-000000/7X0RFSXWVZ2mUMTgKxFShkfWzzcfLT_rFOEnShgLUVQ=440</guid>
     </item>
     <item>
+      <title>Tesla releases rare look at its lithium refinery, confirms production start | Electrek</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2026%2F01%2F15%2Ftesla-rare-look-lithium-refinery-confirms-production-start%2F%3Futm_source=tldrnewsletter/1/0100019bc68e78cf-e6db4709-1248-498e-878d-01ebc3ad4df3-000000/PyQXLusWcbl6_MUoRCWjZp4EgIPSZz2SnFCh5KSP7lE=440</link>
+      <description>Link found in newsletter: 'OpenAI Open Responses 👨‍💻, Sam Altman's brain interface 🧠, software's YouTube moment 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2026%2F01%2F15%2Ftesla-rare-look-lithium-refinery-confirms-production-start%2F%3Futm_source=tldrnewsletter/1/0100019bc68e78cf-e6db4709-1248-498e-878d-01ebc3ad4df3-000000/PyQXLusWcbl6_MUoRCWjZp4EgIPSZz2SnFCh5KSP7lE=440</guid>
+    </item>
+    <item>
       <title>Apple is Fighting for TSMC Capacity as Nvidia Takes Center Stage</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.culpium.com%2Fp%2Fexclusiveapple-is-fighting-for-tsmc%3Futm_source=tldrnewsletter/1/0100019bc68e78cf-e6db4709-1248-498e-878d-01ebc3ad4df3-000000/0wW-M7QaiJp6fO-eb20jzH7P-SBsRJToJqMj9lkklRw=440</link>
       <description>Link found in newsletter: 'OpenAI Open Responses 👨‍💻, Sam Altman's brain interface 🧠, software's YouTube moment 💻'</description>
@@ -2004,7 +2004,7 @@ This effort will be led by Santosh Janardhan and Daniel Gross.</title>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fbolt-foundry%2Fgambit%3Futm_source=tldrdev/1/0100019bc6c2989b-0029bcc5-5c41-45a8-8056-b9c5b574667b-000000/opXHrP2dTotJ_SEoR0_girEwt0wcdDRQkPdJZukSX5g=440</guid>
     </item>
     <item>
-      <title>GitHub - puckeditor/puck: The visual editor for React</title>
+      <title>GitHub - puckeditor/puck: The visual editor for React with AI superpowers</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fpuckeditor%2Fpuck%3Futm_source=tldrdev/1/0100019bc6c2989b-0029bcc5-5c41-45a8-8056-b9c5b574667b-000000/opmOwtxOCVGamXrYbcgFTG3Kej1mznuBjfkb2-yNos0=440</link>
       <description>Link found in newsletter: 'When to stop work 🛑, fixing web dependencies 🛠, be a staff engineer 💼'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fpuckeditor%2Fpuck%3Futm_source=tldrdev/1/0100019bc6c2989b-0029bcc5-5c41-45a8-8056-b9c5b574667b-000000/opmOwtxOCVGamXrYbcgFTG3Kej1mznuBjfkb2-yNos0=440</guid>
