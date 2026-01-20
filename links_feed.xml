@@ -6,475 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jan 2026 06:26:21 +0000</lastBuildDate>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=cd9a328a-f129-11f0-a29f-47c8232e190d%26pt=campaign%26pv=4%26spa=1768388479%26t=1768389937%26s=c9db00d13e32fe1480371e9c5b57d2edffdc94d0137453a11d4d441f2c6bec1c/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/ybMjH48KOmCIUPbaVjQtYFucdKqY1G-BffyF_9-WIp8=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=cd9a328a-f129-11f0-a29f-47c8232e190d%26pt=campaign%26pv=4%26spa=1768388479%26t=1768389937%26s=c9db00d13e32fe1480371e9c5b57d2edffdc94d0137453a11d4d441f2c6bec1c/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/ybMjH48KOmCIUPbaVjQtYFucdKqY1G-BffyF_9-WIp8=440</guid>
-    </item>
-    <item>
-      <title>#bestinbusiness | TLDR</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/W7E16JpqVX3qQX8x7v9l3pyi9Ov2iExPm58NClYwkvY=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/W7E16JpqVX3qQX8x7v9l3pyi9Ov2iExPm58NClYwkvY=440</guid>
-    </item>
-    <item>
-      <title>Create Your Own Role @ TLDR</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/bqruHvX5pD4sh2voDQy0LiUAFxqOXiE11R0wXDeQAIo=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/bqruHvX5pD4sh2voDQy0LiUAFxqOXiE11R0wXDeQAIo=440</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/nSwFcU7j0x2M2ntrZuylCc2Tz79UQObmksMppRcbDik=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/nSwFcU7j0x2M2ntrZuylCc2Tz79UQObmksMppRcbDik=440</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/s5bOkDMdRc34ebQoWhQbXZtVKVC5br0tnPS2r8Bf10o=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/s5bOkDMdRc34ebQoWhQbXZtVKVC5br0tnPS2r8Bf10o=440</guid>
-    </item>
-    <item>
-      <title>TLDR Newsletter | Referral Hub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/w4jNT-XtsHS2BiWPPetOavF7UmwmDZvNG2jAIzvKW4I=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/w4jNT-XtsHS2BiWPPetOavF7UmwmDZvNG2jAIzvKW4I=440</guid>
-    </item>
-    <item>
-      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/NusJnArinaLOTpdkDnaP5eC3foHu7F2SuROSf5ts2OM=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/NusJnArinaLOTpdkDnaP5eC3foHu7F2SuROSf5ts2OM=440</guid>
-    </item>
-    <item>
-      <title>Are we headed towards a stable dystopia? - Inverted Passion</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Finvertedpassion.com%2Fare-we-headed-towards-a-stable-dystopia%2F%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/qqVbWFqHJw9dOEPllgjmOyw68IAdFVofMOgN5ZaQOzo=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Finvertedpassion.com%2Fare-we-headed-towards-a-stable-dystopia%2F%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/qqVbWFqHJw9dOEPllgjmOyw68IAdFVofMOgN5ZaQOzo=440</guid>
-    </item>
-    <item>
-      <title>Never-before-seen Linux malware is “far more advanced than typical” - Ars Technica</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fsecurity%2F2026%2F01%2Fnever-before-seen-linux-malware-is-far-more-advanced-than-typical%2F%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/Ux29E1RypaH0hLeYsCZbpQniVXQeqO_F553lgVLeyXk=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fsecurity%2F2026%2F01%2Fnever-before-seen-linux-malware-is-far-more-advanced-than-typical%2F%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/Ux29E1RypaH0hLeYsCZbpQniVXQeqO_F553lgVLeyXk=440</guid>
-    </item>
-    <item>
-      <title>Kuo: Apple's AI Deal With Google Is Temporary and Buys It Time - MacRumors</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.macrumors.com%2F2026%2F01%2F13%2Fapple-google-ai-deal-is-temporary%2F%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/DYjsPBjvSz6CWkc0jjuGGmlmO6Zm8GMq7HmcArQ8TQo=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.macrumors.com%2F2026%2F01%2F13%2Fapple-google-ai-deal-is-temporary%2F%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/DYjsPBjvSz6CWkc0jjuGGmlmO6Zm8GMq7HmcArQ8TQo=440</guid>
-    </item>
-    <item>
-      <title>No management needed: anti-patterns in early-stage engineering teams | Antoine Boulanger</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ablg.io%2Fblog%2Fno-management-needed%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/1z2ioYxLBWzz_l-OtIytuPMEriJp4gMMX1UluTtQhCo=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ablg.io%2Fblog%2Fno-management-needed%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/1z2ioYxLBWzz_l-OtIytuPMEriJp4gMMX1UluTtQhCo=440</guid>
-    </item>
-    <item>
-      <title>GitHub - chopratejas/headroom: The Context Optimization Layer for LLM Applications</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fchopratejas%2Fheadroom%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/B8bQi7aWapxBRRFWqOwJ1yfI0I56wxiPYY7XOcDMmkE=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fchopratejas%2Fheadroom%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/B8bQi7aWapxBRRFWqOwJ1yfI0I56wxiPYY7XOcDMmkE=440</guid>
-    </item>
-    <item>
-      <title>Signal creator Moxie Marlinspike wants to do for AI what he did for messaging - Ars Technica</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fsecurity%2F2026%2F01%2Fsignal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging%2F%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/7vXYGNh4KWMzG84oDsnv-bRYL_Pxmsvy1owGFiF-mYA=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fsecurity%2F2026%2F01%2Fsignal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging%2F%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/7vXYGNh4KWMzG84oDsnv-bRYL_Pxmsvy1owGFiF-mYA=440</guid>
-    </item>
-    <item>
-      <title>"Hello, Computer."</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fspyglass.org%2Fvocal-computing-ai%2F%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/mfyMfFydDlCi18c-dmnrwZ46334JsFxfbib5VWpxYF0=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fspyglass.org%2Fvocal-computing-ai%2F%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/mfyMfFydDlCi18c-dmnrwZ46334JsFxfbib5VWpxYF0=440</guid>
-    </item>
-    <item>
-      <title>Personal Taste Is the Moat | A Geek’s Page</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwangcong.org%2F2026-01-13-personal-taste-is-the-moat.html%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/4uDA0HLfv8yGrPh72_8394To2863QWFY7sx6_lmbD7c=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwangcong.org%2F2026-01-13-personal-taste-is-the-moat.html%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/4uDA0HLfv8yGrPh72_8394To2863QWFY7sx6_lmbD7c=440</guid>
-    </item>
-    <item>
-      <title>JPEG-XL Image Support Returns To Latest Chrome / Chromium Code - Phoronix</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.phoronix.com%2Fnews%2FJPEG-XL-Returns-Chrome-Chromium%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/K9Z1qF7ssuuErdWPWoXWYgje2dZQhoeHIW8hQkXNElM=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.phoronix.com%2Fnews%2FJPEG-XL-Returns-Chrome-Chromium%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/K9Z1qF7ssuuErdWPWoXWYgje2dZQhoeHIW8hQkXNElM=440</guid>
-    </item>
-    <item>
-      <title>AddyOsmani.com - How to write a good spec for AI agents</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faddyosmani.com%2Fblog%2Fgood-spec%2F%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/DDSzj9UtHd6dDWX99tGso8j0iFxvYVh1n_JCZEqVzvk=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Faddyosmani.com%2Fblog%2Fgood-spec%2F%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/DDSzj9UtHd6dDWX99tGso8j0iFxvYVh1n_JCZEqVzvk=440</guid>
-    </item>
-    <item>
-      <title>How Ramp built an AI operating system for scalable work</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.notion.com%2Fblog%2Fhow-ramp-built-an-ai-operating-system%3Futm_source=tldr%26utm_medium=newsletter/3/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/giwrFhJ6GYS-FKSoRYJHYafl0zzDTSpDY-rbJhH2xtQ=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.notion.com%2Fblog%2Fhow-ramp-built-an-ai-operating-system%3Futm_source=tldr%26utm_medium=newsletter/3/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/giwrFhJ6GYS-FKSoRYJHYafl0zzDTSpDY-rbJhH2xtQ=440</guid>
-    </item>
-    <item>
-      <title>How Ramp built an AI operating system for scalable work</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.notion.com%2Fblog%2Fhow-ramp-built-an-ai-operating-system%3Futm_source=tldr%26utm_medium=newsletter/2/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/GDp32jnZWTyyUENivh6RFUB1BZGnRhWd6ENuBAri3PU=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.notion.com%2Fblog%2Fhow-ramp-built-an-ai-operating-system%3Futm_source=tldr%26utm_medium=newsletter/2/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/GDp32jnZWTyyUENivh6RFUB1BZGnRhWd6ENuBAri3PU=440</guid>
-    </item>
-    <item>
-      <title>How Ramp built an AI operating system for scalable work</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.notion.com%2Fblog%2Fhow-ramp-built-an-ai-operating-system%3Futm_source=tldr%26utm_medium=newsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/bDz5F2aOKe4fohytsnK6077pQ9nS6Nb2bFtKhHUSWf0=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.notion.com%2Fblog%2Fhow-ramp-built-an-ai-operating-system%3Futm_source=tldr%26utm_medium=newsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/bDz5F2aOKe4fohytsnK6077pQ9nS6Nb2bFtKhHUSWf0=440</guid>
-    </item>
-    <item>
-      <title>Jony Ive and Sam Altman’s First AI Gadget May Try to Kill AirPods</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgizmodo.com%2Fjony-ive-and-sam-altmans-first-ai-gadget-may-try-to-kill-airpods-2000709609%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/cj5CIZ6MC1qU-_qlUcKyAhPjjILkOw8nGhUf30IbRMA=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgizmodo.com%2Fjony-ive-and-sam-altmans-first-ai-gadget-may-try-to-kill-airpods-2000709609%3Futm_source=tldrnewsletter/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/cj5CIZ6MC1qU-_qlUcKyAhPjjILkOw8nGhUf30IbRMA=440</guid>
-    </item>
-    <item>
-      <title>As SpaceX Works Toward 50K Starlink Satellites, China Eyes Deploying 200K | PCMag</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FRyyC33/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/OEtNFr5b5Y1SmGfDjLHV88maHYId1AHd951CKQWeghs=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FRyyC33/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/OEtNFr5b5Y1SmGfDjLHV88maHYId1AHd951CKQWeghs=440</guid>
-    </item>
-    <item>
-      <title>TLDR</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=cd9a328a-f129-11f0-a29f-47c8232e190d%26pt=campaign%26t=1768389937%26s=b032b3753d5c6dea946bb4415c873e9c8df00c2e0ccbd7d48b5b732a4b8619c4/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/udihF2U5qwQUG5ZRDGqpGK2JBei7Y-uKqLT3S7tYjlA=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=cd9a328a-f129-11f0-a29f-47c8232e190d%26pt=campaign%26t=1768389937%26s=b032b3753d5c6dea946bb4415c873e9c8df00c2e0ccbd7d48b5b732a4b8619c4/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/udihF2U5qwQUG5ZRDGqpGK2JBei7Y-uKqLT3S7tYjlA=440</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/CrahU7I4nuqyClgeIcrz-ia7ZXyl8D9OPr6z4NV9tlM=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/CrahU7I4nuqyClgeIcrz-ia7ZXyl8D9OPr6z4NV9tlM=440</guid>
-    </item>
-    <item>
-      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/xGFXjL2AUQN9Q86uGWDwFlrWMaBvsksy_dHBsZyD_T0=440</link>
-      <description>Link found in newsletter: 'OpenAI hardware leaks 🎧, Apple Gemini deal details 🤝, AI agent specs 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019bbc410a7e-46afa213-b893-4fc9-810c-264f5141860d-000000/xGFXjL2AUQN9Q86uGWDwFlrWMaBvsksy_dHBsZyD_T0=440</guid>
-    </item>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=cad30df2-f128-11f0-adf6-fb1c33ea430f%26pt=campaign%26pv=4%26spa=1768392097%26t=1768393215%26s=3357582e5fa21b0e40f88bf04d2864755405ddf491d410dc5adad3b561f03545/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/i5zf_MTVHuXJxnvuToYJ9kLVw2Fiq_7Y3drxwn9a5qo=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=cad30df2-f128-11f0-adf6-fb1c33ea430f%26pt=campaign%26pv=4%26spa=1768392097%26t=1768393215%26s=3357582e5fa21b0e40f88bf04d2864755405ddf491d410dc5adad3b561f03545/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/i5zf_MTVHuXJxnvuToYJ9kLVw2Fiq_7Y3drxwn9a5qo=440</guid>
-    </item>
-    <item>
-      <title>Jenny X. - Meta | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/ubVcYnSBekiUrV6XFV5qmoK6vqHSn0Dk02j5-mz7Zi8=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/ubVcYnSBekiUrV6XFV5qmoK6vqHSn0Dk02j5-mz7Zi8=440</guid>
-    </item>
-    <item>
-      <title>#bestinbusiness | TLDR</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/O9rtKswC1ojsbFjASSN0M0y1Ohr93X1Khy2kcsUbtvM=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/O9rtKswC1ojsbFjASSN0M0y1Ohr93X1Khy2kcsUbtvM=440</guid>
-    </item>
-    <item>
-      <title>Create Your Own Role @ TLDR</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/RHgjxm_XctKEfLwJ4E1N-hC9snZ7rHzhIuu582RsE4s=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/RHgjxm_XctKEfLwJ4E1N-hC9snZ7rHzhIuu582RsE4s=440</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/TtnaU8jfQ_CaPGKlVBJRQCVr71MS-KGpmKDMGxmOGsU=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/TtnaU8jfQ_CaPGKlVBJRQCVr71MS-KGpmKDMGxmOGsU=440</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/4rjPSEu8c4GKq5ZrmIkge4YmSNS3YyzwfUfezH-t860=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/4rjPSEu8c4GKq5ZrmIkge4YmSNS3YyzwfUfezH-t860=440</guid>
-    </item>
-    <item>
-      <title>TLDR Dev | Referral Hub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/aLwsd3yDl_R0erldyvnk22ck_m8zTlnqGa1Y9XI_UIw=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/aLwsd3yDl_R0erldyvnk22ck_m8zTlnqGa1Y9XI_UIw=440</guid>
-    </item>
-    <item>
-      <title>Work Expands. Time Vanishes. Here's Why.</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fread.perspectiveship.com%2Fp%2Fplanning-laws%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/WtYOhID8GfXicXNtq6nyr33BN1htNfiTGoE92TXTGEQ=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fread.perspectiveship.com%2Fp%2Fplanning-laws%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/WtYOhID8GfXicXNtq6nyr33BN1htNfiTGoE92TXTGEQ=440</guid>
-    </item>
-    <item>
-      <title>Using Proxies to Hide Secrets from Claude Code - Formal</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.joinformal.com%2Fblog%2Fusing-proxies-to-hide-secrets-from-claude-code%2F%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/VuA_XgzCIjPJUGSjRmFy-9qnXo_C4XdHve4FfrLtmzU=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.joinformal.com%2Fblog%2Fusing-proxies-to-hide-secrets-from-claude-code%2F%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/VuA_XgzCIjPJUGSjRmFy-9qnXo_C4XdHve4FfrLtmzU=440</guid>
-    </item>
-    <item>
-      <title>Making AI great at frontend  - by Ali Abouelatta</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fread.first1000.co%2Fp%2Fmaking-ai-great-at-frontend%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/PQoqhMHgJjCAzf8LV992v5xxXptZyOIh1eA8iNE_4KU=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fread.first1000.co%2Fp%2Fmaking-ai-great-at-frontend%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/PQoqhMHgJjCAzf8LV992v5xxXptZyOIh1eA8iNE_4KU=440</guid>
-    </item>
-    <item>
-      <title>Nogic - Visual Studio Marketplace</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName=Nogic.nogic%26utm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/tOGd_Xk3J3CDmhRDhZzusthzGP0j4ZDocBJH2Tl8eqA=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName=Nogic.nogic%26utm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/tOGd_Xk3J3CDmhRDhZzusthzGP0j4ZDocBJH2Tl8eqA=440</guid>
-    </item>
-    <item>
-      <title>mirrord | The fastest way to deliver code | MetalBear 🐻</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmetalbear.com%2Fmirrord%2F%3Futm_source=tldrdev%26utm_medium=tldrnewsletter%26utm_campaign=ql20260114%26utm_content=std/2/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/Juku23jkFFjjEkZ6vrMk_vMNnuPd-gZpPTthic_WlSY=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmetalbear.com%2Fmirrord%2F%3Futm_source=tldrdev%26utm_medium=tldrnewsletter%26utm_campaign=ql20260114%26utm_content=std/2/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/Juku23jkFFjjEkZ6vrMk_vMNnuPd-gZpPTthic_WlSY=440</guid>
-    </item>
-    <item>
-      <title>mirrord | The fastest way to deliver code | MetalBear 🐻</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmetalbear.com%2Fmirrord%2F%3Futm_source=tldrdev%26utm_medium=tldrnewsletter%26utm_campaign=ql20260114%26utm_content=std/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/y3PzX4HvMhPp_Xxr283lR_GMIHkuOh9nBr8ZKbc0Jhw=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fmetalbear.com%2Fmirrord%2F%3Futm_source=tldrdev%26utm_medium=tldrnewsletter%26utm_campaign=ql20260114%26utm_content=std/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/y3PzX4HvMhPp_Xxr283lR_GMIHkuOh9nBr8ZKbc0Jhw=440</guid>
-    </item>
-    <item>
-      <title>Every GitHub Object Has Two IDs | Greptile Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.greptile.com%2Fblog%2Fgithub-ids%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/IWNaBSAB0KsH5ZmCU2I2oPNgIVFwc_cS_mfD0509EYE=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.greptile.com%2Fblog%2Fgithub-ids%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/IWNaBSAB0KsH5ZmCU2I2oPNgIVFwc_cS_mfD0509EYE=440</guid>
-    </item>
-    <item>
-      <title>OpenCode vs Claude Code</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.builder.io%2Fblog%2Fopencode-vs-claude-code%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/ijmJdt99_qCke4p4KohliTmBgvv-ZHYJLwDah0pnIiw=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.builder.io%2Fblog%2Fopencode-vs-claude-code%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/ijmJdt99_qCke4p4KohliTmBgvv-ZHYJLwDah0pnIiw=440</guid>
-    </item>
-    <item>
-      <title>GitHub - swark-io/swark: Create architecture diagrams from code automatically using large language models (LLMs).</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fswark-io%2Fswark%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/BwqrjbfqWlm29V1z8QzdP3le7xRyMfEtEKMx0EEFPss=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fswark-io%2Fswark%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/BwqrjbfqWlm29V1z8QzdP3le7xRyMfEtEKMx0EEFPss=440</guid>
-    </item>
-    <item>
-      <title>GitHub - databricks/dicer: Dicer auto-sharder: Infrastructure for building sharded services</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fdatabricks%2Fdicer%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/bx-L6Ow1cbL9FPz9fV4tgs6ptCk-O0LCfCqMVDLBAaw=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fdatabricks%2Fdicer%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/bx-L6Ow1cbL9FPz9fV4tgs6ptCk-O0LCfCqMVDLBAaw=440</guid>
-    </item>
-    <item>
-      <title>How the hell are you supposed to have a career in tech in 2026? - Anil Dash</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fanildash.com%2F2026%2F01%2F05%2Fa-tech-career-in-2026%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/1mmYSrM4YzK2JPuIXKOLW8Eydjv1sKZpzNmACfJZYxM=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fanildash.com%2F2026%2F01%2F05%2Fa-tech-career-in-2026%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/1mmYSrM4YzK2JPuIXKOLW8Eydjv1sKZpzNmACfJZYxM=440</guid>
-    </item>
-    <item>
-      <title>No management needed: anti-patterns in early-stage engineering teams | Antoine Boulanger</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ablg.io%2Fblog%2Fno-management-needed%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/1w4EpUIwo96q7yIXbBoUDCE8eLS99k2zBEPCHfjwYIQ=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.ablg.io%2Fblog%2Fno-management-needed%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/1w4EpUIwo96q7yIXbBoUDCE8eLS99k2zBEPCHfjwYIQ=440</guid>
-    </item>
-    <item>
-      <title>React has finally solved its biggest problem: The joys of useEffectEvent - LogRocket Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.logrocket.com%2Freact-has-finally-solved-its-biggest-problem-useeffectevent%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/Vq9Aw4H1NH3nXTUtKiq9BAeY1i_ku_eWfGMbL-OsiI8=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.logrocket.com%2Freact-has-finally-solved-its-biggest-problem-useeffectevent%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/Vq9Aw4H1NH3nXTUtKiq9BAeY1i_ku_eWfGMbL-OsiI8=440</guid>
-    </item>
-    <item>
-      <title>How a 40-Line Fix Eliminated a 400x Performance Gap | QuestDB</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fquestdb.com%2Fblog%2Fjvm-current-thread-user-time%2F%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/EMbba-PUmniEIBIZaoFmcPTpjCtA2AH0mXU0vQxo85M=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fquestdb.com%2Fblog%2Fjvm-current-thread-user-time%2F%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/EMbba-PUmniEIBIZaoFmcPTpjCtA2AH0mXU0vQxo85M=440</guid>
-    </item>
-    <item>
-      <title>Why We Built Our Own Background Agent | Ramp Builders</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbuilders.ramp.com%2Fpost%2Fwhy-we-built-our-background-agent%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/dvBwz7ggydY_8vkufE0olzrLdPBw-1fYjISba05NX5U=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fbuilders.ramp.com%2Fpost%2Fwhy-we-built-our-background-agent%3Futm_source=tldrdev/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/dvBwz7ggydY_8vkufE0olzrLdPBw-1fYjISba05NX5U=440</guid>
-    </item>
-    <item>
-      <title>TLDR Dev</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=cad30df2-f128-11f0-adf6-fb1c33ea430f%26pt=campaign%26t=1768393215%26s=ec94736bb8f571d57b08cdbb4adee8f86d0a89f85051a2fd8999ef443dfff8cf/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/fqjplxxnV3VDHenD2m_DrsEpYMWeSlJmkgOgDcLC9qE=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=cad30df2-f128-11f0-adf6-fb1c33ea430f%26pt=campaign%26t=1768393215%26s=ec94736bb8f571d57b08cdbb4adee8f86d0a89f85051a2fd8999ef443dfff8cf/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/fqjplxxnV3VDHenD2m_DrsEpYMWeSlJmkgOgDcLC9qE=440</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/MKD-adv8f8i1kiYXm2-kTH3gcu6VoLydvVkLhzIhmFI=440</link>
-      <description>Link found in newsletter: 'Ramp’s coding agent 🤖, Databricks’ auto-sharder ✂️, OpenCode vs Claude Code ⚔️'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bbc73100f-a70661ef-ec91-47fe-b0bc-f8fb74ac9446-000000/MKD-adv8f8i1kiYXm2-kTH3gcu6VoLydvVkLhzIhmFI=440</guid>
-    </item>
-    <item>
-      <title>Unsubscribe - EmailOctopus</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=de9ed14c-f144-11f0-bb9e-7bbe899830b0%26pt=campaign%26pv=4%26spa=1768399350%26t=1768400513%26s=5e206f0b1391699c94f8289e26b301efdf4a91a6f21b665a3c28b6694a022216/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/ZSOFCUgpN9VHyUBD-4isv0yeU9Dyd6X6J2l-MDmhp_8=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=de9ed14c-f144-11f0-bb9e-7bbe899830b0%26pt=campaign%26pv=4%26spa=1768399350%26t=1768400513%26s=5e206f0b1391699c94f8289e26b301efdf4a91a6f21b665a3c28b6694a022216/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/ZSOFCUgpN9VHyUBD-4isv0yeU9Dyd6X6J2l-MDmhp_8=440</guid>
-    </item>
-    <item>
-      <title>Ali Aminian - Adobe | LinkedIn</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/m91uIQ3jJWtkkXj1EP6XlAZP1Lc3u-Wh2edIXCCT69Q=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Faliiaminian%2F/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/m91uIQ3jJWtkkXj1EP6XlAZP1Lc3u-Wh2edIXCCT69Q=440</guid>
-    </item>
-    <item>
-      <title>#bestinbusiness | TLDR</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/otZUkHNKx-WZArn-x0DNuTj5KqFuLs8eJN1mJnt1JdI=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/otZUkHNKx-WZArn-x0DNuTj5KqFuLs8eJN1mJnt1JdI=440</guid>
-    </item>
-    <item>
-      <title>Create Your Own Role @ TLDR</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/hSp7ZnBm5keZ2Hu_RcO_gfHkhDmixXus1uwsBQgpS0c=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/hSp7ZnBm5keZ2Hu_RcO_gfHkhDmixXus1uwsBQgpS0c=440</guid>
-    </item>
-    <item>
-      <title>TLDR Jobs</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/q3HFbmDt0fOqRGGSysnNrQYR3zV2ce6baT3kWrTCj28=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/q3HFbmDt0fOqRGGSysnNrQYR3zV2ce6baT3kWrTCj28=440</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/6skSSsnIba3qYG7axrsT_8eP861gP6JRrsK-cXNhyns=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/6skSSsnIba3qYG7axrsT_8eP861gP6JRrsK-cXNhyns=440</guid>
-    </item>
-    <item>
-      <title>TLDR AI | Referral Hub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/CR6FsIes9Xa7z1mM6jUVm0eBDLAwyiotdqQGGG6mt34=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_880449975841%2F2/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/CR6FsIes9Xa7z1mM6jUVm0eBDLAwyiotdqQGGG6mt34=440</guid>
-    </item>
-    <item>
-      <title>CLAUDE_AGENT_SDK_SPEC.md · GitHub</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgist.github.com%2FPOWERFULMOVES%2F58bcadab9483bf5e633e865f131e6c25%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/nClhiGBbRkZd_XliedPwVQoC-e7ULOLadnOqr--mAQU=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgist.github.com%2FPOWERFULMOVES%2F58bcadab9483bf5e633e865f131e6c25%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/nClhiGBbRkZd_XliedPwVQoC-e7ULOLadnOqr--mAQU=440</guid>
-    </item>
-    <item>
-      <title>Next generation medical image interpretation with MedGemma 1.5 and medical speech to text with MedASR</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fresearch.google%2Fblog%2Fnext-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr%2F%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/wph179uhKWMRhMvis836BbgcSM8lLJGGltqNdNFI-LM=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fresearch.google%2Fblog%2Fnext-generation-medical-image-interpretation-with-medgemma-15-and-medical-speech-to-text-with-medasr%2F%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/wph179uhKWMRhMvis836BbgcSM8lLJGGltqNdNFI-LM=440</guid>
-    </item>
-    <item>
-      <title>"Hello, Computer."</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fspyglass.org%2Fvocal-computing-ai%2F%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/hsWPBrlOBjwdYPTmK-OJiJXJgtqb7RLqEtGPNpJ9FHY=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fspyglass.org%2Fvocal-computing-ai%2F%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/hsWPBrlOBjwdYPTmK-OJiJXJgtqb7RLqEtGPNpJ9FHY=440</guid>
-    </item>
-    <item>
-      <title>GitHub - THUDM/CaRR: This repository contains the code and data for the paper "Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards".</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FTHUDM%2FCaRR%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/jxqRcRJilm_bE0DHF2FFbE51w5LT-zl-W0fV0_icdnE=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FTHUDM%2FCaRR%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/jxqRcRJilm_bE0DHF2FFbE51w5LT-zl-W0fV0_icdnE=440</guid>
-    </item>
-    <item>
-      <title>GLM-Image: Auto-regressive for Dense-knowledge and High-fidelity Image Generation</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fz.ai%2Fblog%2Fglm-image%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/qoTvTGKuSpnS3yCbXM3jY6bX0DBHMD8H7n6r_IchIJY=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fz.ai%2Fblog%2Fglm-image%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/qoTvTGKuSpnS3yCbXM3jY6bX0DBHMD8H7n6r_IchIJY=440</guid>
-    </item>
-    <item>
-      <title>Engram: How DeepSeek Added a Second Brain to Their LLM | rewire.it | rewire.it Blog</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frewire.it%2Fblog%2Fengram-how-deepseek-added-second-brain-to-llm%2Findex.html%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/Bcqw02_4NPkjhagZCcQC6TPJqawyHKw7brxtEN2pH_E=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frewire.it%2Fblog%2Fengram-how-deepseek-added-second-brain-to-llm%2Findex.html%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/Bcqw02_4NPkjhagZCcQC6TPJqawyHKw7brxtEN2pH_E=440</guid>
-    </item>
-    <item>
-      <title>AI Code Review That Knows How You Work</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgetunblocked.com%2Fcode-review%2F%3Futm_source=tldrai%26utm_medium=email%26utm_campaign=codereview_260114secondary/3/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/uWVR-wXV0LiXrlzkk7EFvJVTsmnnj4I7SSLFhOXCRek=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgetunblocked.com%2Fcode-review%2F%3Futm_source=tldrai%26utm_medium=email%26utm_campaign=codereview_260114secondary/3/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/uWVR-wXV0LiXrlzkk7EFvJVTsmnnj4I7SSLFhOXCRek=440</guid>
-    </item>
-    <item>
-      <title>AI Code Review That Knows How You Work</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgetunblocked.com%2Fcode-review%2F%3Futm_source=tldrai%26utm_medium=email%26utm_campaign=codereview_260114secondary/2/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/whDlh70PkdN0evu_eIaYRyM4LcK5kR-LBaO5SISiZEs=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgetunblocked.com%2Fcode-review%2F%3Futm_source=tldrai%26utm_medium=email%26utm_campaign=codereview_260114secondary/2/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/whDlh70PkdN0evu_eIaYRyM4LcK5kR-LBaO5SISiZEs=440</guid>
-    </item>
-    <item>
-      <title>AI Code Review That Knows How You Work</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgetunblocked.com%2Fcode-review%2F%3Futm_source=tldrai%26utm_medium=email%26utm_campaign=codereview_260114secondary/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/IklFbITo2lAj-Qjj-CguCOn3ugO69nuw44g1zWG8ql8=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgetunblocked.com%2Fcode-review%2F%3Futm_source=tldrai%26utm_medium=email%26utm_campaign=codereview_260114secondary/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/IklFbITo2lAj-Qjj-CguCOn3ugO69nuw44g1zWG8ql8=440</guid>
-    </item>
-    <item>
-      <title>Introducing the AI Chip Sales Data Explorer | Epoch AI</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fepoch.ai%2Fblog%2Fintroducing-the-ai-chip-sales-data-explorer%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/z4Q1UIyLrHC-slbN_fF0IQDebr2ZUhninpaUWRQTCJg=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fepoch.ai%2Fblog%2Fintroducing-the-ai-chip-sales-data-explorer%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/z4Q1UIyLrHC-slbN_fF0IQDebr2ZUhninpaUWRQTCJg=440</guid>
-    </item>
-    <item>
-      <title>Vibe Coding Without System Design is a Trap</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.focusedchaos.co%2Fp%2Fvibe-coding-without-system-design-is-a-trap%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/BZt5IZXQfPijxsHJNUFxoWmNffHtGP5EK0yFjMAM6EQ=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.focusedchaos.co%2Fp%2Fvibe-coding-without-system-design-is-a-trap%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/BZt5IZXQfPijxsHJNUFxoWmNffHtGP5EK0yFjMAM6EQ=440</guid>
-    </item>
-    <item>
-      <title>The All-Star Chinese AI Conversation of 2026</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.chinatalk.media%2Fp%2Fthe-all-star-chinese-ai-conversation%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/CjsIKXuhyNqmZS81pf6fnGlCZ_zauMhCEHEd6Q3-jLA=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.chinatalk.media%2Fp%2Fthe-all-star-chinese-ai-conversation%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/CjsIKXuhyNqmZS81pf6fnGlCZ_zauMhCEHEd6Q3-jLA=440</guid>
-    </item>
-    <item>
-      <title>Google tests Gemini Auto Browse tool for Chrome users</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fgoogle-tests-gemini-auto-browse-tool-for-chrome-users%2F%23google_vignette%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/rxf_zZj-B24KlD5oQ-NUzilcKNBBiMlwWAsdcrbMe-Y=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fgoogle-tests-gemini-auto-browse-tool-for-chrome-users%2F%23google_vignette%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/rxf_zZj-B24KlD5oQ-NUzilcKNBBiMlwWAsdcrbMe-Y=440</guid>
-    </item>
-    <item>
-      <title>Google upgrades Veo 3.1 with Ingredients and 4K upscaling</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fgoogle-veo-3-1-update-brings-4k-upscaling-vertical-videos-and-better-ingridients%2F%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/UR2u2VoOtXyqcwiPSS-qbCqyCQipSOOZvt8ycTtkP_k=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.testingcatalog.com%2Fgoogle-veo-3-1-update-brings-4k-upscaling-vertical-videos-and-better-ingridients%2F%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/UR2u2VoOtXyqcwiPSS-qbCqyCQipSOOZvt8ycTtkP_k=440</guid>
-    </item>
-    <item>
-      <title>Introducing Labs \ Anthropic</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fintroducing-anthropic-labs%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/GQJHg7aBG1_zNJ5J2f-JcKrtnrQEfZvYwUKUpHX8bio=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.anthropic.com%2Fnews%2Fintroducing-anthropic-labs%3Futm_source=tldrai/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/GQJHg7aBG1_zNJ5J2f-JcKrtnrQEfZvYwUKUpHX8bio=440</guid>
-    </item>
-    <item>
-      <title>LTX-2: Production-Grade AI Video Generation Model | LTX Model</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/5/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/HWoOYhVYjJ5xMJtVKBMTlL-Q4DHQljTU5blJsPaq2ZE=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/5/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/HWoOYhVYjJ5xMJtVKBMTlL-Q4DHQljTU5blJsPaq2ZE=440</guid>
-    </item>
-    <item>
-      <title>LTX-2: Production-Grade AI Video Generation Model | LTX Model</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/4/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/2Ee2DM-RkZTgeNslnHORpsXUXUXNjLhorYr4K89Pwfs=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/4/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/2Ee2DM-RkZTgeNslnHORpsXUXUXNjLhorYr4K89Pwfs=440</guid>
-    </item>
-    <item>
-      <title>LTX-2: Production-Grade AI Video Generation Model | LTX Model</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/3/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/SNj70VMT7wAdSDZrjsaGyvtCuaOTSl0MWvfDqqpPX60=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/3/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/SNj70VMT7wAdSDZrjsaGyvtCuaOTSl0MWvfDqqpPX60=440</guid>
-    </item>
-    <item>
-      <title>LTX-2: Production-Grade AI Video Generation Model | LTX Model</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/2/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/7qIlm1QWtR3haGSfggcN6lKHH2LP2epcmOmW_Wz020E=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/2/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/7qIlm1QWtR3haGSfggcN6lKHH2LP2epcmOmW_Wz020E=440</guid>
-    </item>
-    <item>
-      <title>LTX-2: Production-Grade AI Video Generation Model | LTX Model</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/GQW4v6L_gEAy-uR1-A5qP1xYLsXaruzoKEAPcyt8PsM=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fltx.io%2Fmodel%2Fltx-2%3Futm_source=Newsletter%26utm_medium=Primary%2B%26utm_campaign=ltx-2%26utm_id=tldr/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/GQW4v6L_gEAy-uR1-A5qP1xYLsXaruzoKEAPcyt8PsM=440</guid>
-    </item>
-    <item>
-      <title>TLDR AI</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=de9ed14c-f144-11f0-bb9e-7bbe899830b0%26pt=campaign%26t=1768400513%26s=9cc572be2d2b950bc32c4016d855dbd78940a3c8d34299f534066bdd840cf010/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/Qq-ZU8PiRrexq_BvKH7Ni-GGReWA5un9V0h_EVhVQVI=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=de9ed14c-f144-11f0-bb9e-7bbe899830b0%26pt=campaign%26t=1768400513%26s=9cc572be2d2b950bc32c4016d855dbd78940a3c8d34299f534066bdd840cf010/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/Qq-ZU8PiRrexq_BvKH7Ni-GGReWA5un9V0h_EVhVQVI=440</guid>
-    </item>
-    <item>
-      <title>TLDR | Sponsorship Opportunities</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/Pr80Y6cIeu6Imxeij4Lo-yGYnbqi3xYZUt63tbyOT1Y=440</link>
-      <description>Link found in newsletter: 'Anthropic Labs 🧪, DeepSeek's Engram 🤖, Veo 3.1 upgrades 🎥'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bbce26874-de6c7d46-6825-47d9-b0b2-a7502fc87d61-000000/Pr80Y6cIeu6Imxeij4Lo-yGYnbqi3xYZUt63tbyOT1Y=440</guid>
-    </item>
+    <lastBuildDate>Tue, 20 Jan 2026 12:34:13 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=709ee4e2-f1f4-11f0-bec9-bdd09979ce25%26pt=campaign%26pv=4%26spa=1768474876%26t=1768476462%26s=e7e8f274d4020e843f95221ea6a36dbb5122c29226bab271c98e3af3b910eba6/1/0100019bc1694f42-0788f745-f7e2-4bd0-a56b-7d67aa722d59-000000/AD-Sw96HUFIvyFAATRC9Brs0SABt9VSI_nVKw9jQlLs=440</link>
@@ -516,6 +48,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019bc1694f42-0788f745-f7e2-4bd0-a56b-7d67aa722d59-000000/FDoa2vPeF4MXDWY1ODU6-eyq0ilFG3v5QQckIv3durE=440</link>
       <description>Link found in newsletter: 'SpaceX Mars 2026 🚀, mega IPOs 💰, Sequoia declares AGI 🤖'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019bc1694f42-0788f745-f7e2-4bd0-a56b-7d67aa722d59-000000/FDoa2vPeF4MXDWY1ODU6-eyq0ilFG3v5QQckIv3durE=440</guid>
+    </item>
+    <item>
+      <title>Digg and Reddit creators relaunch Digg to compete with Reddit - 9to5Mac</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2026%2F01%2F14%2Fdigg-and-reddit-creators-relaunch-digg-to-compete-with-reddit%2F%3Futm_source=tldrnewsletter/1/0100019bc1694f42-0788f745-f7e2-4bd0-a56b-7d67aa722d59-000000/wRakH6ufwdnzh5uKM1p608l1pB-1LM7dxzPpLRgqEDM=440</link>
+      <description>Link found in newsletter: 'SpaceX Mars 2026 🚀, mega IPOs 💰, Sequoia declares AGI 🤖'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2026%2F01%2F14%2Fdigg-and-reddit-creators-relaunch-digg-to-compete-with-reddit%2F%3Futm_source=tldrnewsletter/1/0100019bc1694f42-0788f745-f7e2-4bd0-a56b-7d67aa722d59-000000/wRakH6ufwdnzh5uKM1p608l1pB-1LM7dxzPpLRgqEDM=440</guid>
     </item>
     <item>
       <title>LukeW | AI Enables As-Needed Software Features</title>
@@ -654,12 +192,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019bc196206f-f47c6728-8cf6-4771-8fa5-6e731a5be25f-000000/zc4zKFlaXKWsgRyVGw6FEfL1gRmosP7JvqwcfnEs2qo=440</link>
       <description>Link found in newsletter: 'AI agents that run for weeks 🗓, using Claude Code right ✅, Agent Skills 🤹'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019bc196206f-f47c6728-8cf6-4771-8fa5-6e731a5be25f-000000/zc4zKFlaXKWsgRyVGw6FEfL1gRmosP7JvqwcfnEs2qo=440</guid>
-    </item>
-    <item>
-      <title>#bestinbusiness | TLDR</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bc196206f-f47c6728-8cf6-4771-8fa5-6e731a5be25f-000000/gApE2hLGrnnYsiKHyJtoysDv7PAXyG1TbZ2mv2An9So=440</link>
-      <description>Link found in newsletter: 'AI agents that run for weeks 🗓, using Claude Code right ✅, Agent Skills 🤹'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bc196206f-f47c6728-8cf6-4771-8fa5-6e731a5be25f-000000/gApE2hLGrnnYsiKHyJtoysDv7PAXyG1TbZ2mv2An9So=440</guid>
     </item>
     <item>
       <title>Create Your Own Role @ TLDR</title>
@@ -1212,6 +744,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fspace%2F2026%2F01%2Fnasas-first-ever-medical-evacuation-from-space-ends-with-on-target-splashdown%2F%3Futm_source=tldrnewsletter/1/0100019bc68e78cf-e6db4709-1248-498e-878d-01ebc3ad4df3-000000/7X0RFSXWVZ2mUMTgKxFShkfWzzcfLT_rFOEnShgLUVQ=440</link>
       <description>Link found in newsletter: 'OpenAI Open Responses 👨‍💻, Sam Altman's brain interface 🧠, software's YouTube moment 💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fspace%2F2026%2F01%2Fnasas-first-ever-medical-evacuation-from-space-ends-with-on-target-splashdown%2F%3Futm_source=tldrnewsletter/1/0100019bc68e78cf-e6db4709-1248-498e-878d-01ebc3ad4df3-000000/7X0RFSXWVZ2mUMTgKxFShkfWzzcfLT_rFOEnShgLUVQ=440</guid>
+    </item>
+    <item>
+      <title>Tesla releases rare look at its lithium refinery, confirms production start | Electrek</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2026%2F01%2F15%2Ftesla-rare-look-lithium-refinery-confirms-production-start%2F%3Futm_source=tldrnewsletter/1/0100019bc68e78cf-e6db4709-1248-498e-878d-01ebc3ad4df3-000000/PyQXLusWcbl6_MUoRCWjZp4EgIPSZz2SnFCh5KSP7lE=440</link>
+      <description>Link found in newsletter: 'OpenAI Open Responses 👨‍💻, Sam Altman's brain interface 🧠, software's YouTube moment 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2026%2F01%2F15%2Ftesla-rare-look-lithium-refinery-confirms-production-start%2F%3Futm_source=tldrnewsletter/1/0100019bc68e78cf-e6db4709-1248-498e-878d-01ebc3ad4df3-000000/PyQXLusWcbl6_MUoRCWjZp4EgIPSZz2SnFCh5KSP7lE=440</guid>
     </item>
     <item>
       <title>Apple is Fighting for TSMC Capacity as Nvidia Takes Center Stage</title>
@@ -2048,12 +1586,6 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%3Futm_source=tldrfintech%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bd696b1cf-d3fd145d-39ac-48de-b53a-f92366548d7c-000000/mf7jRwgKyWbtvgdGuQYq4H8SXUhESx5iJp2du4IgbDI=440</guid>
     </item>
     <item>
-      <title>borgrodrick · Kill the Newsletter!</title>
-      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
-      <description>Link found in newsletter: 'OpenAI financials 💰, ChatGPT ads 📰, Cursor Bugbot 🐛'</description>
-      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
-    </item>
-    <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=eedf6b14-3de3-11ed-9a32-0241b9615763%26lc=431e858e-3b9e-11f0-aafa-6d41b7f62025%26p=932f20d4-f538-11f0-966f-23dfd7246191%26pt=campaign%26pv=4%26spa=1768831332%26t=1768832713%26s=254561770237248fc0bbf8d97ee42bd50e432749dbe614e1c7e69db3b04040d5/1/0100019bd6a542ef-47c5dae4-0388-431b-b64b-be2f34ad08d4-000000/GC16oBJayNOng2hImKUZ30pa1Vu2DNeQCufzfkEhMI0=440</link>
       <description>Link found in newsletter: 'OpenAI financials 💰, ChatGPT ads 📰, Cursor Bugbot 🐛'</description>
@@ -2208,6 +1740,390 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bd6a542ef-47c5dae4-0388-431b-b64b-be2f34ad08d4-000000/g6QNV0i5L-I69Xb0gwUxderQf5DzGN96EPtUsAnGs0o=440</link>
       <description>Link found in newsletter: 'OpenAI financials 💰, ChatGPT ads 📰, Cursor Bugbot 🐛'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrai%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bd6a542ef-47c5dae4-0388-431b-b64b-be2f34ad08d4-000000/g6QNV0i5L-I69Xb0gwUxderQf5DzGN96EPtUsAnGs0o=440</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=0c0d5b1e-f5df-11f0-8bcf-e7733f77e92a%26pt=campaign%26pv=4%26spa=1768906876%26t=1768908364%26s=571ed062346d2f7ca9820f382c9f492bc679c9eac276c0449afb388a57487c46/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/vQrEx1myS6zQRz-SMjPs-q7siOM5iStFeFrRhRXCS24=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=0c0d5b1e-f5df-11f0-8bcf-e7733f77e92a%26pt=campaign%26pv=4%26spa=1768906876%26t=1768908364%26s=571ed062346d2f7ca9820f382c9f492bc679c9eac276c0449afb388a57487c46/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/vQrEx1myS6zQRz-SMjPs-q7siOM5iStFeFrRhRXCS24=440</guid>
+    </item>
+    <item>
+      <title>#bestinbusiness | TLDR</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/7YPVijCpTPjfPUsaMdS5qQoK11mWBTqoG19f86uOkHA=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/7YPVijCpTPjfPUsaMdS5qQoK11mWBTqoG19f86uOkHA=440</guid>
+    </item>
+    <item>
+      <title>Create Your Own Role @ TLDR</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/3JHFlBdkI71zt5vaKSwbubJpsrTGfAx5QILEdCyImps=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/3JHFlBdkI71zt5vaKSwbubJpsrTGfAx5QILEdCyImps=440</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/8byaM1eJglwLntkK-NV_evD3USPxRFal-vFVTKB-J5I=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/8byaM1eJglwLntkK-NV_evD3USPxRFal-vFVTKB-J5I=440</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/du8UthpIyi_IENRiTI4iw5VzFpa4tAHqvz1F0eJU8Cg=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/du8UthpIyi_IENRiTI4iw5VzFpa4tAHqvz1F0eJU8Cg=440</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/2dTlKVFnhASoQLivyP5yVngEHe2gtrVi4mRkEU-JVdk=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_c281d176d70c%2F1/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/2dTlKVFnhASoQLivyP5yVngEHe2gtrVi4mRkEU-JVdk=440</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/Hi9515HlBOpaQbCaVxE_W9iQBWP-v4OmYki_f_P2Cac=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Frefer.tldr.tech%2F8d5a7c79%2F/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/Hi9515HlBOpaQbCaVxE_W9iQBWP-v4OmYki_f_P2Cac=440</guid>
+    </item>
+    <item>
+      <title>Thread by @ghhughes on Thread Reader App – Thread Reader App</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F2012824754319753456.html%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/3zdb_WGIXMSyfFACxyDqUBi_k8PYWS8ywhIjpVcwB8M=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthreadreaderapp.com%2Fthread%2F2012824754319753456.html%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/3zdb_WGIXMSyfFACxyDqUBi_k8PYWS8ywhIjpVcwB8M=440</guid>
+    </item>
+    <item>
+      <title>Palmer Luckey: Meta Isn't Abandoning VR, Studio Closures "A Good Thing"</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.uploadvr.com%2Fpalmer-luckey-meta-isnt-abandoning-vr-studio-closures-a-good-thing%2F%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/DITuByXLv0I-NTimLuB2dVVjCKudSV5hVZiKVWmWGyw=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.uploadvr.com%2Fpalmer-luckey-meta-isnt-abandoning-vr-studio-closures-a-good-thing%2F%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/DITuByXLv0I-NTimLuB2dVVjCKudSV5hVZiKVWmWGyw=440</guid>
+    </item>
+    <item>
+      <title>Agent Psychosis: Are We Going Insane? | Armin Ronacher's Thoughts and Writings</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flucumr.pocoo.org%2F2026%2F1%2F18%2Fagent-psychosis%2F%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/OfmL_i70I-cK5kpFm9oKe4fD1V1Zj1Ac-7wgZBe2784=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flucumr.pocoo.org%2F2026%2F1%2F18%2Fagent-psychosis%2F%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/OfmL_i70I-cK5kpFm9oKe4fD1V1Zj1Ac-7wgZBe2784=440</guid>
+    </item>
+    <item>
+      <title>Senior Software Engineer, Applied AI @ TLDR</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2F3b21aaf8-dea5-4127-be71-602d30e5001e/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/APyubmyyixmCY04yS6edXsJ4Z-8zgo6CABH08lronU0=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2F3b21aaf8-dea5-4127-be71-602d30e5001e/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/APyubmyyixmCY04yS6edXsJ4Z-8zgo6CABH08lronU0=440</guid>
+    </item>
+    <item>
+      <title>Senior Software Engineer, Applied AI @ TLDR</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2F3b21aaf8-dea5-4127-be71-602d30e5001e%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/93T7H7FTrn1ndEF9FlCQEKLD42MI6EXmz7JLpzMVJ7w=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2F3b21aaf8-dea5-4127-be71-602d30e5001e%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/93T7H7FTrn1ndEF9FlCQEKLD42MI6EXmz7JLpzMVJ7w=440</guid>
+    </item>
+    <item>
+      <title>Ask HN: COBOL devs, how are AI coding affecting your work? | Hacker News</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnews.ycombinator.com%2Fitem%3Fid=46678550%26utm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/B89tY43Ad4tpxvlndc6C2PRyZorR89p5CGw9Wp-_0dU=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnews.ycombinator.com%2Fitem%3Fid=46678550%26utm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/B89tY43Ad4tpxvlndc6C2PRyZorR89p5CGw9Wp-_0dU=440</guid>
+    </item>
+    <item>
+      <title>Model-Market Fit - Nicolas Bustamante</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.nicolasbustamante.com%2Fp%2Fmodel-market-fit%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/QzgbRYvdX46uyncuOrbXjLdklWPBM2o3Lfu2h2gypUg=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.nicolasbustamante.com%2Fp%2Fmodel-market-fit%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/QzgbRYvdX46uyncuOrbXjLdklWPBM2o3Lfu2h2gypUg=440</guid>
+    </item>
+    <item>
+      <title>The Visual Era Of Collaborative Intelligence</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthoughtleadership.forrester.com%2Fgo%2Fmiro%2Faiforcollaboration%2F%3Flang=en-us%26utm_campaign=quicklink%26utm_source=TLDR%26utm_medium=email%26utm_content=sponsorship%26src=-newsletter_glb/2/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/HgMNrF2P5HyvLVutMwBPzzIWqaUpkMxtZx_dm196IC4=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthoughtleadership.forrester.com%2Fgo%2Fmiro%2Faiforcollaboration%2F%3Flang=en-us%26utm_campaign=quicklink%26utm_source=TLDR%26utm_medium=email%26utm_content=sponsorship%26src=-newsletter_glb/2/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/HgMNrF2P5HyvLVutMwBPzzIWqaUpkMxtZx_dm196IC4=440</guid>
+    </item>
+    <item>
+      <title>The Visual Era Of Collaborative Intelligence</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthoughtleadership.forrester.com%2Fgo%2Fmiro%2Faiforcollaboration%2F%3Flang=en-us%26utm_campaign=quicklink%26utm_source=TLDR%26utm_medium=email%26utm_content=sponsorship%26src=-newsletter_glb/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/fgHWEppqtUPfN5xcsOfHojhIBp-TtyQLDT-q-rrzGc0=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fthoughtleadership.forrester.com%2Fgo%2Fmiro%2Faiforcollaboration%2F%3Flang=en-us%26utm_campaign=quicklink%26utm_source=TLDR%26utm_medium=email%26utm_content=sponsorship%26src=-newsletter_glb/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/fgHWEppqtUPfN5xcsOfHojhIBp-TtyQLDT-q-rrzGc0=440</guid>
+    </item>
+    <item>
+      <title>I was a top 0.01% Cursor user. Here's why I switched to Claude Code 2.0. | Silen</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.silennai.com%2Fclaude-code%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/yfje8K09m1yvEdPI8cA6cevoxssaK6xQrSJEeXgrCuE=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.silennai.com%2Fclaude-code%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/yfje8K09m1yvEdPI8cA6cevoxssaK6xQrSJEeXgrCuE=440</guid>
+    </item>
+    <item>
+      <title>LLMs and your career | notes.eatonphil.com</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnotes.eatonphil.com%2F2026-01-19-llms-and-your-career.html%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/G9YB45GuMQ8QRVAyWtMdUThzZRmeCGkfAOVAVxgRf3E=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnotes.eatonphil.com%2F2026-01-19-llms-and-your-career.html%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/G9YB45GuMQ8QRVAyWtMdUThzZRmeCGkfAOVAVxgRf3E=440</guid>
+    </item>
+    <item>
+      <title>Sign Up - Auth0</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fauth0.com%2Fsignup%3Fonboard_app=auth_for_aa%26ocid=701KZ000000cXXxYAM_aPA4z0000008OZeGAM%3Futm_source=tldr%26utm_campaign=amer_namer_usa_all_ciam_dev_dg_plg_auth0_native_tldr_native_aud_jan_2026_placements_utm2%26utm_medium=cpc%26utm_id=aNKWR000002mh1V4AQ/2/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/CaBmM4Npj_UzxiEr3MZJ_eAtm9MAGPKVBE-QUYvbMW0=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fauth0.com%2Fsignup%3Fonboard_app=auth_for_aa%26ocid=701KZ000000cXXxYAM_aPA4z0000008OZeGAM%3Futm_source=tldr%26utm_campaign=amer_namer_usa_all_ciam_dev_dg_plg_auth0_native_tldr_native_aud_jan_2026_placements_utm2%26utm_medium=cpc%26utm_id=aNKWR000002mh1V4AQ/2/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/CaBmM4Npj_UzxiEr3MZJ_eAtm9MAGPKVBE-QUYvbMW0=440</guid>
+    </item>
+    <item>
+      <title>Sign Up - Auth0</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fauth0.com%2Fsignup%3Fonboard_app=auth_for_aa%26ocid=701KZ000000cXXxYAM_aPA4z0000008OZeGAM%3Futm_source=tldr%26utm_campaign=amer_namer_usa_all_ciam_dev_dg_plg_auth0_native_tldr_native_aud_jan_2026_placements_utm2%26utm_medium=cpc%26utm_id=aNKWR000002mh1V4AQ/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/MOhB-MGYgxATDO2n33cyRAebiSvyrt7St2dyyeZ9md8=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fauth0.com%2Fsignup%3Fonboard_app=auth_for_aa%26ocid=701KZ000000cXXxYAM_aPA4z0000008OZeGAM%3Futm_source=tldr%26utm_campaign=amer_namer_usa_all_ciam_dev_dg_plg_auth0_native_tldr_native_aud_jan_2026_placements_utm2%26utm_medium=cpc%26utm_id=aNKWR000002mh1V4AQ/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/MOhB-MGYgxATDO2n33cyRAebiSvyrt7St2dyyeZ9md8=440</guid>
+    </item>
+    <item>
+      <title>A Matic Home Story</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farenamag.com%2Farticles%2Fa-matic-home-story%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/QccrC3uTl-hYtlpBJJm8uklwFV1gh_9fmcGeSoMy--Q=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farenamag.com%2Farticles%2Fa-matic-home-story%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/QccrC3uTl-hYtlpBJJm8uklwFV1gh_9fmcGeSoMy--Q=440</guid>
+    </item>
+    <item>
+      <title>The fastest human spaceflight mission in history crawls closer to liftoff - Ars Technica</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fspace%2F2026%2F01%2Fnasas-artemis-ii-rocket-rolls-to-launch-pad-but-key-test-looms-ahead%2F%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/0AUwQE4S2-_qhg1Gabbna3tJ0TtaHl9qMZK6qC54vkY=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fspace%2F2026%2F01%2Fnasas-artemis-ii-rocket-rolls-to-launch-pad-but-key-test-looms-ahead%2F%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/0AUwQE4S2-_qhg1Gabbna3tJ0TtaHl9qMZK6qC54vkY=440</guid>
+    </item>
+    <item>
+      <title>TikTok quietly launches a microdrama app called 'PineDrama' | TechCrunch</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2026%2F01%2F16%2Ftiktok-quietly-launches-a-micro-drama-app-called-pinedrama%2F%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/dAdlV7UTv41rnMfoy8kjnlmTvEEjeBL9jDCyVvMaG9s=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftechcrunch.com%2F2026%2F01%2F16%2Ftiktok-quietly-launches-a-micro-drama-app-called-pinedrama%2F%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/dAdlV7UTv41rnMfoy8kjnlmTvEEjeBL9jDCyVvMaG9s=440</guid>
+    </item>
+    <item>
+      <title>QA Wolf | 80% automated test coverage in 4 months</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20260120-None_Experiment-FALSE%26utm_term=CTA-GetStartedForFree%26utm_content=GoodbyeLowTestCoverage_GetStartedForFree_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20260120_v1_/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/ftC1LfV5T_zz_tGfDp-hgMkdeXeX08xqNjBspwT-PEI=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20260120-None_Experiment-FALSE%26utm_term=CTA-GetStartedForFree%26utm_content=GoodbyeLowTestCoverage_GetStartedForFree_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20260120_v1_/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/ftC1LfV5T_zz_tGfDp-hgMkdeXeX08xqNjBspwT-PEI=440</guid>
+    </item>
+    <item>
+      <title>Drata secured 86% faster QA cycles | QA Wolf</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fcustomers%2Fdrata%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20260120-None_Experiment-FALSE%26utm_term=body-DratasTeamOfEngineers%26utm_content=GoodbyeLowTestCoverage_GetStartedForFree_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20260120_v1_/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/h0mJNqpfNzUBLCg-U2af9RZRtgrzmgl-yqj_fh-LNZE=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fcustomers%2Fdrata%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20260120-None_Experiment-FALSE%26utm_term=body-DratasTeamOfEngineers%26utm_content=GoodbyeLowTestCoverage_GetStartedForFree_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20260120_v1_/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/h0mJNqpfNzUBLCg-U2af9RZRtgrzmgl-yqj_fh-LNZE=440</guid>
+    </item>
+    <item>
+      <title>How it works</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fhow-it-works%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20260120-None_Experiment-FALSE%26utm_term=body-UnlimtiedParallelTestRuns%26utm_content=GoodbyeLowTestCoverage_GetStartedForFree_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20260120_v1_/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/jFv_f4iEx68rM1CEJJNY3NGgsh9RARuPO6j4mVE8c0Q=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fhow-it-works%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20260120-None_Experiment-FALSE%26utm_term=body-UnlimtiedParallelTestRuns%26utm_content=GoodbyeLowTestCoverage_GetStartedForFree_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20260120_v1_/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/jFv_f4iEx68rM1CEJJNY3NGgsh9RARuPO6j4mVE8c0Q=440</guid>
+    </item>
+    <item>
+      <title>How it works</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fhow-it-works%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20260120-None_Experiment-FALSE%26utm_term=body-80PercentAutomatedE2ETestCoverageInWeeks%26utm_content=GoodbyeLowTestCoverage_GetStartedForFree_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20260120_v1_/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/3IbeQI0x6sqzKePTd_K6XbwBE4zwh_z-garIrLx9AYU=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%2Fhow-it-works%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20260120-None_Experiment-FALSE%26utm_term=body-80PercentAutomatedE2ETestCoverageInWeeks%26utm_content=GoodbyeLowTestCoverage_GetStartedForFree_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20260120_v1_/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/3IbeQI0x6sqzKePTd_K6XbwBE4zwh_z-garIrLx9AYU=440</guid>
+    </item>
+    <item>
+      <title>QA Wolf | 80% automated test coverage in 4 months</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20260120-None_Experiment-FALSE%26utm_term=body-QAWolf%26utm_content=GoodbyeLowTestCoverage_GetStartedForFree_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20260120_v1_/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/DYDQpTOSRvgqsg2v9ra-fRHWsteYwXrSNuYHtkHUFyk=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20260120-None_Experiment-FALSE%26utm_term=body-QAWolf%26utm_content=GoodbyeLowTestCoverage_GetStartedForFree_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20260120_v1_/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/DYDQpTOSRvgqsg2v9ra-fRHWsteYwXrSNuYHtkHUFyk=440</guid>
+    </item>
+    <item>
+      <title>QA Wolf | 80% automated test coverage in 4 months</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20260120-None_Experiment-FALSE%26utm_term=headline-GoodbyeLowTestCoverageAndSlowQACycles%26utm_content=GoodbyeLowTestCoverage_GetStartedForFree_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20260120_v1_/2/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/3hcslUtIvGBbudeoGU-g4s7rpyo1aqRWX2urVJuFaaw=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20260120-None_Experiment-FALSE%26utm_term=headline-GoodbyeLowTestCoverageAndSlowQACycles%26utm_content=GoodbyeLowTestCoverage_GetStartedForFree_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20260120_v1_/2/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/3hcslUtIvGBbudeoGU-g4s7rpyo1aqRWX2urVJuFaaw=440</guid>
+    </item>
+    <item>
+      <title>QA Wolf | 80% automated test coverage in 4 months</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20260120-None_Experiment-FALSE%26utm_term=headline-GoodbyeLowTestCoverageAndSlowQACycles%26utm_content=GoodbyeLowTestCoverage_GetStartedForFree_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20260120_v1_/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/kYAzzb1hhXykEfReTTrH6NTsrIrCwd5PMhHhUnfDNu4=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.qawolf.com%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=ACQ_All_Demo_Conversions__NewsletterAudience_-_Newsletter_GoodbyeLowTestCoverage_20260120-None_Experiment-FALSE%26utm_term=headline-GoodbyeLowTestCoverageAndSlowQACycles%26utm_content=GoodbyeLowTestCoverage_GetStartedForFree_None_Headline%253AGoodbyeLowTestCoverageAndSlowQACycles____Newsletter-PrimaryPlacement_20260120_v1_/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/kYAzzb1hhXykEfReTTrH6NTsrIrCwd5PMhHhUnfDNu4=440</guid>
+    </item>
+    <item>
+      <title>TLDR</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=0c0d5b1e-f5df-11f0-8bcf-e7733f77e92a%26pt=campaign%26t=1768908364%26s=d803f9e9f022ebc54d82576c1334b5e6eae83a9f2ae4fc90f3f034e4921ba472/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/imYa2gKmPrum79LDZouqEOAJD7Y0n9QDQt9wcijf0oI=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=0c0d5b1e-f5df-11f0-8bcf-e7733f77e92a%26pt=campaign%26t=1768908364%26s=d803f9e9f022ebc54d82576c1334b5e6eae83a9f2ae4fc90f3f034e4921ba472/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/imYa2gKmPrum79LDZouqEOAJD7Y0n9QDQt9wcijf0oI=440</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/Ud9uyup-T3ANZNzIer4UpLmOc6UfHj1SIBTleIUuV-U=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldr%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/Ud9uyup-T3ANZNzIer4UpLmOc6UfHj1SIBTleIUuV-U=440</guid>
+    </item>
+    <item>
+      <title>TLDR Newsletter - Keep up with Tech in 5 minutes</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/4XIIuAhZKFKmGv2OFUYkJOAX_U9jQyOLN3dpE16HbxU=440</link>
+      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ftldr.tech%2Fsignup%3Futm_source=tldr/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/4XIIuAhZKFKmGv2OFUYkJOAX_U9jQyOLN3dpE16HbxU=440</guid>
+    </item>
+    <item>
+      <title>borgrodrick · Kill the Newsletter!</title>
+      <link>https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://kill-the-newsletter.com/feeds/zhiudoqjez0grmoizklb</guid>
+    </item>
+    <item>
+      <title>Unsubscribe - EmailOctopus</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=31dd3d7c-f5e0-11f0-9607-1bdea5d0b6f1%26pt=campaign%26pv=4%26spa=1768910479%26t=1768911845%26s=1ab4eb7ca540f26821480d0c54f0cbecd3cbaa9e94c6412c2b4909140dd8942a/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/6gCjZRtcFMjygUahm0-pAPo6OxUbCPnQYzGC4dSjVgY=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=31dd3d7c-f5e0-11f0-9607-1bdea5d0b6f1%26pt=campaign%26pv=4%26spa=1768910479%26t=1768911845%26s=1ab4eb7ca540f26821480d0c54f0cbecd3cbaa9e94c6412c2b4909140dd8942a/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/6gCjZRtcFMjygUahm0-pAPo6OxUbCPnQYzGC4dSjVgY=440</guid>
+    </item>
+    <item>
+      <title>Jenny X. - Meta | LinkedIn</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/xuLFfI4PhpdvG4ysFr2rOsa7NmjQ9lXHUK4WN2NiZi8=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Fin%2Fxu-jenny%2F/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/xuLFfI4PhpdvG4ysFr2rOsa7NmjQ9lXHUK4WN2NiZi8=440</guid>
+    </item>
+    <item>
+      <title>#bestinbusiness | TLDR</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/_zktkGLIaxUz4Lrci_cl_xlJpHfYzo8ZcYHJXQANZcU=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.linkedin.com%2Ffeed%2Fupdate%2Furn:li:activity:7401699691039830016%2F/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/_zktkGLIaxUz4Lrci_cl_xlJpHfYzo8ZcYHJXQANZcU=440</guid>
+    </item>
+    <item>
+      <title>Create Your Own Role @ TLDR</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/BMHEcCcwU5eW07p0uX_ONBqjPG-2dJq87FQDR5ZPzSA=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2Fc227b917-a6a4-40ce-8950-d3e165357871/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/BMHEcCcwU5eW07p0uX_ONBqjPG-2dJq87FQDR5ZPzSA=440</guid>
+    </item>
+    <item>
+      <title>TLDR Jobs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/XyJJF_JMXdd9hGq89xkWsJ8tT17uIr8sR6fpFEdHGHA=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/XyJJF_JMXdd9hGq89xkWsJ8tT17uIr8sR6fpFEdHGHA=440</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/GL8LiuVpQdWNxdSGcJmEW5bWIHyFADb9EdpylECVsiM=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisecta/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/GL8LiuVpQdWNxdSGcJmEW5bWIHyFADb9EdpylECVsiM=440</guid>
+    </item>
+    <item>
+      <title>TLDR Dev | Referral Hub</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/xenDbq97sU4wenpsSCl6PHS7KiCkTp8Hf0kygXmActA=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhub.sparklp.co%2Fsub_0d03613b05c1%2F3/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/xenDbq97sU4wenpsSCl6PHS7KiCkTp8Hf0kygXmActA=440</guid>
+    </item>
+    <item>
+      <title>GitHub - jordanhubbard/nanolang: A tiny experimental language designed to be targeted by coding LLMs</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fjordanhubbard%2Fnanolang%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/ZDomVVLYmPPEoSUpNhBQbTnOaj0vnJyjHN6i_UBolNE=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Fjordanhubbard%2Fnanolang%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/ZDomVVLYmPPEoSUpNhBQbTnOaj0vnJyjHN6i_UBolNE=440</guid>
+    </item>
+    <item>
+      <title>LLMs and your career | notes.eatonphil.com</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnotes.eatonphil.com%2F2026-01-19-llms-and-your-career.html%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/N9CRVg9Xi6AM0DsKNBKtJcUNH3X-sGy-NxyEGo-SoTY=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fnotes.eatonphil.com%2F2026-01-19-llms-and-your-career.html%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/N9CRVg9Xi6AM0DsKNBKtJcUNH3X-sGy-NxyEGo-SoTY=440</guid>
+    </item>
+    <item>
+      <title>Two cheers for ugly code</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.johndcook.com%2Fblog%2F2026%2F01%2F19%2Fugly-code%2F%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/W98rBuSs2svmpAiVtxkS8oFGOrIiTVmwVbylizcN4dg=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.johndcook.com%2Fblog%2F2026%2F01%2F19%2Fugly-code%2F%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/W98rBuSs2svmpAiVtxkS8oFGOrIiTVmwVbylizcN4dg=440</guid>
+    </item>
+    <item>
+      <title>Looper: The AI Junior That Never Forgets the Backlog - Log - nibzard</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.nibzard.com%2Flooper-article%2F%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/ryX6F3jV_TGIDj3P2CySxNhNrFZCGS_dIUHeKwn4HG8=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.nibzard.com%2Flooper-article%2F%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/ryX6F3jV_TGIDj3P2CySxNhNrFZCGS_dIUHeKwn4HG8=440</guid>
+    </item>
+    <item>
+      <title>CSS Web Components for marketing sites</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhawkticehurst.com%2F2024%2F11%2Fcss-web-components-for-marketing-sites%2F%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/rbiknYV-D5bcu8JT67nq8dewy-m1pI71lUC2J8FlB6c=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhawkticehurst.com%2F2024%2F11%2Fcss-web-components-for-marketing-sites%2F%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/rbiknYV-D5bcu8JT67nq8dewy-m1pI71lUC2J8FlB6c=440</guid>
+    </item>
+    <item>
+      <title>a brief history of ralph | HumanLayer Blog</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.humanlayer.dev%2Fblog%2Fbrief-history-of-ralph%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/kLe0-be7MyhFv_XdbZGTJPyfRlNku4vC0phtqSoXfso=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.humanlayer.dev%2Fblog%2Fbrief-history-of-ralph%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/kLe0-be7MyhFv_XdbZGTJPyfRlNku4vC0phtqSoXfso=440</guid>
+    </item>
+    <item>
+      <title>GitHub - tambo-ai/tambo: Generative UI SDK for React</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Ftambo-ai%2Ftambo%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/AJjfFw1xf-7EdX-jqIl8KfTDnbiBPiYVLzctdYByv1A=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Ftambo-ai%2Ftambo%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/AJjfFw1xf-7EdX-jqIl8KfTDnbiBPiYVLzctdYByv1A=440</guid>
+    </item>
+    <item>
+      <title>GitHub - Nagi-ovo/gemini-voyager: An all-in-one enhancement suite for Google Gemini - timeline navigation, folder management, prompt library, and chat export in one powerful extension.</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FNagi-ovo%2Fgemini-voyager%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/zzpHPyHi9izIVTj3Dkd9z0Y5e8pGmSLuA9opPy5XnYc=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2FNagi-ovo%2Fgemini-voyager%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/zzpHPyHi9izIVTj3Dkd9z0Y5e8pGmSLuA9opPy5XnYc=440</guid>
+    </item>
+    <item>
+      <title>Gauntlet Application</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fqualify.gauntletai.com%2F%3Futm_source=newsletter%26utm_campaign=tldr/3/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/hrAGhJyVx2YGh-EpmjyR8u5oAyITvAS5y4ua6wXGpfA=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fqualify.gauntletai.com%2F%3Futm_source=newsletter%26utm_campaign=tldr/3/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/hrAGhJyVx2YGh-EpmjyR8u5oAyITvAS5y4ua6wXGpfA=440</guid>
+    </item>
+    <item>
+      <title>Gauntlet Application</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fqualify.gauntletai.com%2F%3Futm_source=newsletter%26utm_campaign=tldr/2/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/KC8bEBrg2uZFNVmAlf-f2FpWgPsa82TlleQUVarn37Q=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fqualify.gauntletai.com%2F%3Futm_source=newsletter%26utm_campaign=tldr/2/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/KC8bEBrg2uZFNVmAlf-f2FpWgPsa82TlleQUVarn37Q=440</guid>
+    </item>
+    <item>
+      <title>Gauntlet Application</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fqualify.gauntletai.com%2F%3Futm_source=newsletter%26utm_campaign=tldr/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/jjitIkexuMZCfkyIfHe7IWfyQjmk_1ESOwY-Fi-xliE=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fqualify.gauntletai.com%2F%3Futm_source=newsletter%26utm_campaign=tldr/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/jjitIkexuMZCfkyIfHe7IWfyQjmk_1ESOwY-Fi-xliE=440</guid>
+    </item>
+    <item>
+      <title>AI Not Ready to Replace Junior Devs Says Ruby on Rails Creator</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finalroundai.com%2Fblog%2Fai-can-not-replace-junior-programmers%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/13SziQ0el84TLDJbnpyo2lHWTvu6JklsM5rbrkNUnG8=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.finalroundai.com%2Fblog%2Fai-can-not-replace-junior-programmers%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/13SziQ0el84TLDJbnpyo2lHWTvu6JklsM5rbrkNUnG8=440</guid>
+    </item>
+    <item>
+      <title>How revenue decisions shape technical debt</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.hyperact.co.uk%2Fblog%2Fhow-revenue-decisions-shape-technical-debt%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/3QDg-Q9VYfRc80ZcgEBzh8fzODnKWe2vPRIiAPykqA0=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.hyperact.co.uk%2Fblog%2Fhow-revenue-decisions-shape-technical-debt%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/3QDg-Q9VYfRc80ZcgEBzh8fzODnKWe2vPRIiAPykqA0=440</guid>
+    </item>
+    <item>
+      <title>How we made Python's packaging library 3x faster -</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fiscinumpy.dev%2Fpost%2Fpackaging-faster%2F%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/W-ktA1iDjVArt-YXVO5ve6NBA0BclnLJvuIEDBRSexo=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fiscinumpy.dev%2Fpost%2Fpackaging-faster%2F%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/W-ktA1iDjVArt-YXVO5ve6NBA0BclnLJvuIEDBRSexo=440</guid>
+    </item>
+    <item>
+      <title>What came first: the CNAME or the A record?</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.cloudflare.com%2Fcname-a-record-order-dns-standards%2F%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/YMUYQ71Y_nygwLzotMY2wrvaSHc5DS6tDvws3zCBB00=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.cloudflare.com%2Fcname-a-record-order-dns-standards%2F%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/YMUYQ71Y_nygwLzotMY2wrvaSHc5DS6tDvws3zCBB00=440</guid>
+    </item>
+    <item>
+      <title>Filtering as domain logic</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.ploeh.dk%2F2026%2F01%2F19%2Ffiltering-as-domain-logic%2F%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/WnIJbA_CaekrpD1CD7W6bps9tqrhm6ot_HmfBDZZqhM=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fblog.ploeh.dk%2F2026%2F01%2F19%2Ffiltering-as-domain-logic%2F%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/WnIJbA_CaekrpD1CD7W6bps9tqrhm6ot_HmfBDZZqhM=440</guid>
+    </item>
+    <item>
+      <title>How CTOs and CHROs will drive the next wave of AI value | Atlassian</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FS3lsA7/5/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/agDiqYFxheAo0ViLOhIrSOzMaNZzXhXLInJSEtIsBaU=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FS3lsA7/5/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/agDiqYFxheAo0ViLOhIrSOzMaNZzXhXLInJSEtIsBaU=440</guid>
+    </item>
+    <item>
+      <title>How CTOs and CHROs will drive the next wave of AI value | Atlassian</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FS3lsA7/4/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/sT-TFCGomi4RXhOzxO8IelRbD21INlSB7O1B4QspRts=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FS3lsA7/4/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/sT-TFCGomi4RXhOzxO8IelRbD21INlSB7O1B4QspRts=440</guid>
+    </item>
+    <item>
+      <title>How CTOs and CHROs will drive the next wave of AI value | Atlassian</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FS3lsA7/3/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/3AVl7VF80qAsUH2gRv13fp5SeTQq_JKYVoThIu3IK38=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FS3lsA7/3/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/3AVl7VF80qAsUH2gRv13fp5SeTQq_JKYVoThIu3IK38=440</guid>
+    </item>
+    <item>
+      <title>How CTOs and CHROs will drive the next wave of AI value | Atlassian</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FS3lsA7/2/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/-Dex4wxNjqqExGwnx2tP2dfLP1pXDieuqgLsBHnUvcA=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FS3lsA7/2/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/-Dex4wxNjqqExGwnx2tP2dfLP1pXDieuqgLsBHnUvcA=440</guid>
+    </item>
+    <item>
+      <title>How CTOs and CHROs will drive the next wave of AI value | Atlassian</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FS3lsA7/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/gFyLMlmVNqv9arY0X_pzv4WM-1WfH-bbne9H1eBo7lQ=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FS3lsA7/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/gFyLMlmVNqv9arY0X_pzv4WM-1WfH-bbne9H1eBo7lQ=440</guid>
+    </item>
+    <item>
+      <title>TLDR Dev</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=31dd3d7c-f5e0-11f0-9607-1bdea5d0b6f1%26pt=campaign%26t=1768911845%26s=664048f150f1c0098fe22e2d43f66969a857b3161a80b02e2214173f0f591a65/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/zq1fdGsoNTnFKFsM8DCqVpYEiJvvy5nEGm-ETIL7c4U=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Fweb-version%3Fep=1%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=31dd3d7c-f5e0-11f0-9607-1bdea5d0b6f1%26pt=campaign%26t=1768911845%26s=664048f150f1c0098fe22e2d43f66969a857b3161a80b02e2214173f0f591a65/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/zq1fdGsoNTnFKFsM8DCqVpYEiJvvy5nEGm-ETIL7c4U=440</guid>
+    </item>
+    <item>
+      <title>TLDR | Sponsorship Opportunities</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/RzHCZPOHwqzDmD-phzI3W6FHEw71qMY0hfT7hyBO90g=440</link>
+      <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fadvertise.tldr.tech%2F%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=advertisetopnav/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/RzHCZPOHwqzDmD-phzI3W6FHEw71qMY0hfT7hyBO90g=440</guid>
     </item>
   </channel>
 </rss>
