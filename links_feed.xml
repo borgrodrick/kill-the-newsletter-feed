@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Jan 2026 01:12:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 06:26:25 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=e8d201ca-3e93-11ed-9a32-0241b9615763%26lc=94192a02-3b9e-11f0-896a-6d41b7f62025%26p=d2c00d74-f1f7-11f0-9ddd-55b292906031%26pt=campaign%26pv=4%26spa=1768478501%26t=1768479400%26s=a1ba5dca1b4bdaa82446d302f8a124bc90dbf52ebf53152917b8dbe38dd579d1/1/0100019bc196206f-f47c6728-8cf6-4771-8fa5-6e731a5be25f-000000/sMeHnqLEwtZlrGedFBTK-WyOE9_EDfb_ZfbB4lYA2dA=440</link>
@@ -246,12 +246,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.benzinga.com%2Fcrypto%2Fcryptocurrency%2F26%2F01%2F49764055%2Fripple-turns-down-ipo-after-500m-raise-heres-what-theyre-planning-instead%3Futm_source=tldrfintech/1/0100019bc1fd8db9-f4fee4ab-bd37-4797-9eab-13cc42916f0e-000000/uOF_Fa0XtbL_xX_fuBtgmvrq72Z_ZPKgnht8naE5lyU=440</link>
       <description>Link found in newsletter: 'Affirm updates underwriting 💸, Klarna moves into P2P 👥, Banks getting unbundled 🏦'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.benzinga.com%2Fcrypto%2Fcryptocurrency%2F26%2F01%2F49764055%2Fripple-turns-down-ipo-after-500m-raise-heres-what-theyre-planning-instead%3Futm_source=tldrfintech/1/0100019bc1fd8db9-f4fee4ab-bd37-4797-9eab-13cc42916f0e-000000/uOF_Fa0XtbL_xX_fuBtgmvrq72Z_ZPKgnht8naE5lyU=440</guid>
-    </item>
-    <item>
-      <title>Polygon Labs buys two crypto startups for $250 million as it looks to compete with Stripe | Fortune</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffortune.com%2F2026%2F01%2F13%2Fpolygon-labs-acquisition-coinme-sequence-stablecoin-strategy%2F%3Futm_source=tldrfintech/1/0100019bc1fd8db9-f4fee4ab-bd37-4797-9eab-13cc42916f0e-000000/cqN9GWmJa4DsJDaVUbnPI86udMgUKoauq7nDUVW_XtE=440</link>
-      <description>Link found in newsletter: 'Affirm updates underwriting 💸, Klarna moves into P2P 👥, Banks getting unbundled 🏦'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Ffortune.com%2F2026%2F01%2F13%2Fpolygon-labs-acquisition-coinme-sequence-stablecoin-strategy%2F%3Futm_source=tldrfintech/1/0100019bc1fd8db9-f4fee4ab-bd37-4797-9eab-13cc42916f0e-000000/cqN9GWmJa4DsJDaVUbnPI86udMgUKoauq7nDUVW_XtE=440</guid>
     </item>
     <item>
       <title>Visa, Mastercard, ACI and Wex: 2026 predictions | Payments Dive</title>
@@ -576,6 +570,12 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fspace%2F2026%2F01%2Fnasas-first-ever-medical-evacuation-from-space-ends-with-on-target-splashdown%2F%3Futm_source=tldrnewsletter/1/0100019bc68e78cf-e6db4709-1248-498e-878d-01ebc3ad4df3-000000/7X0RFSXWVZ2mUMTgKxFShkfWzzcfLT_rFOEnShgLUVQ=440</link>
       <description>Link found in newsletter: 'OpenAI Open Responses 👨‍💻, Sam Altman's brain interface 🧠, software's YouTube moment 💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Farstechnica.com%2Fspace%2F2026%2F01%2Fnasas-first-ever-medical-evacuation-from-space-ends-with-on-target-splashdown%2F%3Futm_source=tldrnewsletter/1/0100019bc68e78cf-e6db4709-1248-498e-878d-01ebc3ad4df3-000000/7X0RFSXWVZ2mUMTgKxFShkfWzzcfLT_rFOEnShgLUVQ=440</guid>
+    </item>
+    <item>
+      <title>Tesla releases rare look at its lithium refinery, confirms production start | Electrek</title>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2026%2F01%2F15%2Ftesla-rare-look-lithium-refinery-confirms-production-start%2F%3Futm_source=tldrnewsletter/1/0100019bc68e78cf-e6db4709-1248-498e-878d-01ebc3ad4df3-000000/PyQXLusWcbl6_MUoRCWjZp4EgIPSZz2SnFCh5KSP7lE=440</link>
+      <description>Link found in newsletter: 'OpenAI Open Responses 👨‍💻, Sam Altman's brain interface 🧠, software's YouTube moment 💻'</description>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Felectrek.co%2F2026%2F01%2F15%2Ftesla-rare-look-lithium-refinery-confirms-production-start%2F%3Futm_source=tldrnewsletter/1/0100019bc68e78cf-e6db4709-1248-498e-878d-01ebc3ad4df3-000000/PyQXLusWcbl6_MUoRCWjZp4EgIPSZz2SnFCh5KSP7lE=440</guid>
     </item>
     <item>
       <title>Apple is Fighting for TSMC Capacity as Nvidia Takes Center Stage</title>
@@ -1850,7 +1850,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fhawkticehurst.com%2F2024%2F11%2Fcss-web-components-for-marketing-sites%2F%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/rbiknYV-D5bcu8JT67nq8dewy-m1pI71lUC2J8FlB6c=440</guid>
     </item>
     <item>
-      <title>a brief history of ralph | HumanLayer Blog</title>
+      <title>A Brief History of Ralph | HumanLayer Blog</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.humanlayer.dev%2Fblog%2Fbrief-history-of-ralph%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/kLe0-be7MyhFv_XdbZGTJPyfRlNku4vC0phtqSoXfso=440</link>
       <description>Link found in newsletter: 'Business decisions cause tech debt 💼, ugly code is good 🤔, Gemini Voyager 🛠'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fwww.humanlayer.dev%2Fblog%2Fbrief-history-of-ralph%3Futm_source=tldrdev/1/0100019bdb5cb704-96415ea3-4a2e-4368-b837-f22d89b2d490-000000/kLe0-be7MyhFv_XdbZGTJPyfRlNku4vC0phtqSoXfso=440</guid>
