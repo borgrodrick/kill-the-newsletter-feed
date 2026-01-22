@@ -6,7 +6,7 @@
     <description>A curated feed of links extracted from my newsletters.</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Jan 2026 18:33:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 01:12:38 +0000</lastBuildDate>
     <item>
       <title>Unsubscribe - EmailOctopus</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fa.tldrnewsletter.com%2Funsubscribe%3Fep=1%26l=cfa2d55a-b7be-11e8-a3c9-06b79b628af2%26lc=3496942a-3b9e-11f0-94e0-ab607ac1bf83%26p=e946e250-f2bc-11f0-b323-756b9bfb7794%26pt=campaign%26pv=4%26spa=1768561302%26t=1768562784%26s=e4227893c33622778ec4a64726dec64107db40d6107bca0fee5f3944f39f9d73/1/0100019bc68e78cf-e6db4709-1248-498e-878d-01ebc3ad4df3-000000/qiHWS7sO3HbtErah9yfctMZLFlZT8CD7YmOu1AWAeVY=440</link>
@@ -764,7 +764,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Fdocs%2Fpipes%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=q12026%26utm_content=simplify_integrations_cta/1/0100019bd63eb51a-13ee15f1-4cd8-453e-b121-7fad2612a1d5-000000/Ds6aSUGQFC2qgbmxgPwjlQjaxZW3fdzE8ySvTmXDb0g=440</guid>
     </item>
     <item>
-      <title>WorkOS Docs</title>
+      <title>Pipes Widget – Widgets – WorkOS Docs</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Fdocs%2Fwidgets%2Fpipes%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=q12026%26utm_content=drop_in_widget/1/0100019bd63eb51a-13ee15f1-4cd8-453e-b121-7fad2612a1d5-000000/GJzZGBV9nVTFqSnF35LLVOs_BHrMZwyeiC2OJ1ZOLU4=440</link>
       <description>Link found in newsletter: 'Soft skills more important than ever 🗣, Cursor’s Bugbot gains 📈, AI agent psychosis 🧠'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fworkos.com%2Fdocs%2Fwidgets%2Fpipes%3Futm_source=tldrdev%26utm_medium=newsletter%26utm_campaign=q12026%26utm_content=drop_in_widget/1/0100019bd63eb51a-13ee15f1-4cd8-453e-b121-7fad2612a1d5-000000/GJzZGBV9nVTFqSnF35LLVOs_BHrMZwyeiC2OJ1ZOLU4=440</guid>
@@ -1158,12 +1158,6 @@
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2F3b21aaf8-dea5-4127-be71-602d30e5001e%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/93T7H7FTrn1ndEF9FlCQEKLD42MI6EXmz7JLpzMVJ7w=440</link>
       <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fjobs.ashbyhq.com%2Ftldr.tech%2F3b21aaf8-dea5-4127-be71-602d30e5001e%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/93T7H7FTrn1ndEF9FlCQEKLD42MI6EXmz7JLpzMVJ7w=440</guid>
-    </item>
-    <item>
-      <title>Apple testing new App Store design that blurs the line between ads and search results - 9to5Mac</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2026%2F01%2F16%2Fiphone-apple-app-store-search-results-ads-new-design%2F%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/y8g_YGpVCOzv2hCA2RZqqOjITLw4qRTsbB0dFPid2Ls=440</link>
-      <description>Link found in newsletter: 'TikTok microdramas 📱, NYSE blockchain exchange 📈, LLMs &amp; dev careers 👨‍💻'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2F9to5mac.com%2F2026%2F01%2F16%2Fiphone-apple-app-store-search-results-ads-new-design%2F%3Futm_source=tldrnewsletter/1/0100019bdb279a86-f80d7d32-5b7a-4d03-bd9f-c015710717fe-000000/y8g_YGpVCOzv2hCA2RZqqOjITLw4qRTsbB0dFPid2Ls=440</guid>
     </item>
     <item>
       <title>Ask HN: COBOL devs, how are AI coding affecting your work? | Hacker News</title>
@@ -1767,9 +1761,9 @@
     </item>
     <item>
       <title>Get to Know Azure | Microsoft Azure</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FePhqQc/2/0100019be04dd5c7-c6a18d89-6d27-453c-b916-155a4ec27186-000000/TqtF19aI07kYC8RvVDDUaoUCiHwJzeLNMkAqRxetFmI=441</link>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FePhqQc/1/0100019be04dd5c7-c6a18d89-6d27-453c-b916-155a4ec27186-000000/CZmHPBSfSh3qRbeGZBF_BqKvmcUifD5WC2U3o1wO5dQ=441</link>
       <description>Link found in newsletter: 'Microsoft OpenAI docs leak 📄, X open sources algo 👨‍💻, MCP vs Skills vs Agents 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FePhqQc/2/0100019be04dd5c7-c6a18d89-6d27-453c-b916-155a4ec27186-000000/TqtF19aI07kYC8RvVDDUaoUCiHwJzeLNMkAqRxetFmI=441</guid>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FePhqQc/1/0100019be04dd5c7-c6a18d89-6d27-453c-b916-155a4ec27186-000000/CZmHPBSfSh3qRbeGZBF_BqKvmcUifD5WC2U3o1wO5dQ=441</guid>
     </item>
     <item>
       <title>Get to Know Azure | Microsoft Azure</title>
@@ -1791,15 +1785,15 @@
     </item>
     <item>
       <title>Get to Know Azure | Microsoft Azure</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNEyzgk/3/0100019be04dd5c7-c6a18d89-6d27-453c-b916-155a4ec27186-000000/MkV1dlJfK8j3zv-V5TResZNsvLqLmabSc_G44Iq78JI=441</link>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNEyzgk/4/0100019be04dd5c7-c6a18d89-6d27-453c-b916-155a4ec27186-000000/PHrr7GvmoWuLaWq3uIZOsmql3LnpZx9svdp-Ptmd6_A=441</link>
       <description>Link found in newsletter: 'Microsoft OpenAI docs leak 📄, X open sources algo 👨‍💻, MCP vs Skills vs Agents 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNEyzgk/3/0100019be04dd5c7-c6a18d89-6d27-453c-b916-155a4ec27186-000000/MkV1dlJfK8j3zv-V5TResZNsvLqLmabSc_G44Iq78JI=441</guid>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNEyzgk/4/0100019be04dd5c7-c6a18d89-6d27-453c-b916-155a4ec27186-000000/PHrr7GvmoWuLaWq3uIZOsmql3LnpZx9svdp-Ptmd6_A=441</guid>
     </item>
     <item>
       <title>Get to Know Azure | Microsoft Azure</title>
-      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNEyzgk/2/0100019be04dd5c7-c6a18d89-6d27-453c-b916-155a4ec27186-000000/EpVWjBHWkuGwHZtQNq5sKNBrAQQUEHzCuM-8jR3muQ8=441</link>
+      <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNEyzgk/1/0100019be04dd5c7-c6a18d89-6d27-453c-b916-155a4ec27186-000000/c2fwir_nDL_WITDKyypp4nPwy65edJEJUfYtCRvMiug=441</link>
       <description>Link found in newsletter: 'Microsoft OpenAI docs leak 📄, X open sources algo 👨‍💻, MCP vs Skills vs Agents 🤖'</description>
-      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNEyzgk/2/0100019be04dd5c7-c6a18d89-6d27-453c-b916-155a4ec27186-000000/EpVWjBHWkuGwHZtQNq5sKNBrAQQUEHzCuM-8jR3muQ8=441</guid>
+      <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Flinks.tldrnewsletter.com%2FNEyzgk/1/0100019be04dd5c7-c6a18d89-6d27-453c-b916-155a4ec27186-000000/c2fwir_nDL_WITDKyypp4nPwy65edJEJUfYtCRvMiug=441</guid>
     </item>
     <item>
       <title>TLDR</title>
@@ -1905,7 +1899,7 @@
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fkarllorey.com%2Fposts%2Fwithout-benchmarking-llms-youre-overpaying%3Futm_source=tldrdev/1/0100019be07f61fb-0507b886-606c-41b0-ac86-267c6293b836-000000/krQqXoaOXNENBJPkZfgYPxcXdUWe2P7YiriWY6no3Zw=441</guid>
     </item>
     <item>
-      <title>GitHub - rodricios/wxpath: wxpath - declarative web crawling with XPath</title>
+      <title>GitHub - rodricios/wxpath: wxpath - declarative web crawling with XPath; a web querying language</title>
       <link>https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Frodricios%2Fwxpath%3Futm_source=tldrdev/1/0100019be07f61fb-0507b886-606c-41b0-ac86-267c6293b836-000000/n3G3NDhxQ6yetpP8lk-sJ4jQBi4das5zbGn80LaG57o=441</link>
       <description>Link found in newsletter: 'Mastra 1.0 🚀, stop overpaying for LLMs 💰, AI’s missing ingredient 🍳'</description>
       <guid isPermaLink="false">https://tracking.tldrnewsletter.com/CL0/https:%2F%2Fgithub.com%2Frodricios%2Fwxpath%3Futm_source=tldrdev/1/0100019be07f61fb-0507b886-606c-41b0-ac86-267c6293b836-000000/n3G3NDhxQ6yetpP8lk-sJ4jQBi4das5zbGn80LaG57o=441</guid>
